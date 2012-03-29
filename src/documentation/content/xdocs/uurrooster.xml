@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V1.2//EN" "/export/usr/local/forrest/main/webapp/resources/schema/dtd/document-v12.dtd">
+<document> 
+  <header> 
+    <title>Uurrooster 2010-2011, semester 1, w1 - w14</title> 
+  </header> 
+  <body> 
+      <p>
+         <link href="http://193.190.56.244/iwt/uurroosters/">Hier</link>
+         vind je de uurroosters.
+      </p>
+<!--
+         <link href="http://ontwerpen1.khlim.be/inf8/rooster/lokalen">Lokalen</link>
+  -->
+  </body>
+</document>

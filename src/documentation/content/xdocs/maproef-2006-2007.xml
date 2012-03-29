@@ -1,0 +1,2432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V1.2//EN" "/export/usr/local/forrest/main/webapp/resources/schema/dtd/document-v12.dtd">
+<document> 
+  <header> 
+    <title>Masterproef 2006-2007</title> 
+  </header> 
+  <body> 
+      <p>Laatste wijziging: $Date: 2010-06-06 19:47:00 +0200 (Sun, 06 Jun 2010) $</p>
+  
+      <section>
+        <title>Inleiding</title>      
+        <p>
+          Dit is het overzicht van de afgewerkte masterproeven 2006-2007 van MA-ELO.
+        </p>
+        
+  <!-- 
+    20/11/2006 Dit gedeelte mag nu weg
+        
+        <p>
+          Er zijn verschillende bronnen voor de eindwerken. Een aantal eindwerkvoorstellen
+          worden aan de docenten gemeld en zijn verzameld in de tabel verderop.
+          Een aantal andere eindwerkvoorstellen worden verzameld door andere organisaties
+          en bedrijven. Dit lijstje geeft een overzicht.
+        </p>
+        
+        <ul>
+          <li>
+            <p>
+             <link href="http://cera-award.livingstone.be/Project.aspx">Cera Award</link>
+            </p>
+            <p>
+              Hier kan je beschikbare projecten selecteren per regio en/of thema.
+              Je kan best elektronica, ICT, informatica als thema kiezen. Eventueel
+              kan je ook biomedische wetenschappen kiezen. Een aantal van deze
+              laatste thema's kunnen bij elektronica aanleunen.
+            </p>
+          </li>
+          <li>
+            <p>
+              IMEC (<link href="http://www.imec.be">www.imec.be</link>)
+            </p>
+            <p>
+              IMEC heeft een lijst gepubliceerd die je 
+             <link href="http://www.imec.be/wwwinter/student/en/thesis/2006/topics_is.shtml">hier</link> terugvindt.
+             Algemene informatie over deze eindwerken vind je <link href="http://www.imec.be/wwwinter/student/nl/eindwerken/eindwerkinfo.shtml">hier</link> terug.
+             Deze lijst is bedoeld voor alle ing. studenten in Vlaanderen.
+            </p>
+          </li>
+          <li>
+            <p>
+              ESAT, KULeuven (<link href="http://www.esat.kuleuven.be">www.esat.kuleuven.be</link>)
+            </p>
+            <p>
+              <link href="https://securewww.esat.kuleuven.be/thesis/onderwerp_overzicht/onderwerp_overzicht.php">Dit</link> is de pagina waar je 
+              de ESAT eindwerkvoorstellen kan opvragen.
+               Ook deze lijst is publiek toegankelijk.
+            </p>
+          </li>
+          <li>
+            <p>
+              Philips België
+            </p>
+            <p>
+              Philips België stelt voor 2006-2007 een aantal stageplaatsen voor eindwerken ter beschikking. Deze
+              stageplaatsen zijn beschreven in deze <link href="stagefolder.pdf">folder</link>.
+            </p>
+          </li>
+        </ul>
+    -->
+      </section>
+
+      <section>
+         <title>Masterproefinstructies</title>
+         
+         <p>
+           Alle richtlijnen die beschrijven hoe een masterproef loopt, zijn vastgelegd in een document.
+         </p>
+         <p>
+           Hier heb je het document in verschillende formaten:
+         </p>
+         <ul>
+           <li>
+             <link href="maproef/2006-2007/instructies-masterproef-elo-07.pdf">instructies-masterproef-elo-07.pdf</link>
+           </li>
+           <!--
+           <li>
+             <link href="maproef/2006-2007/instructies-masterproef-elo-07.odt">instructies-masterproef-elo-07.odt</link>
+           </li>
+           <li>
+             <link href="maproef/2006-2007/instructies-masterproef-elo-07.doc">instructies-masterproef-elo-07.doc</link>
+           </li>
+           -->
+         </ul>
+      </section>
+
+      <section>
+      <title>Overzicht</title>
+
+<table>
+<caption>
+Masterproef 2006-2007
+</caption>
+
+<tr>
+ <th>code</th>
+ <th>student(en)</th>
+ <th>titel</th>
+ <th>bedrijf</th>
+ <th>promotors</th>
+</tr>
+
+<!-- voorstellen eindwerken -->
+
+<!-- 
+ Voorbeeld
+<tr>
+ <td>nr</td>
+ <td>student</td>
+ <td>Titel (<link href="#verder">meer uitleg</link>)
+ </td>
+ <td>bedr</td>
+ <td>Prom</td>
+</tr>
+-->
+
+<tr>
+ <td>1</td>
+ <td>Giuseppe Albano, Kris Cuppens</td>
+ <td>Visiegebaseerde bewegingscontrole voor object tracking (<link href="#objtracking">meer uitleg</link>)
+ </td>
+ <td>IRRI/Glassist</td>
+ <td>R. Indesteege, Johan Baeten</td>
+</tr>
+
+<tr>
+ <td>2</td>
+ <td>Alexander Alderweireld, Tim Thaens</td>
+ <td>Steganografische systemen gebaseerd op levende talen, met menselijke interactie
+ </td>
+ <td>KULeuven (COSIC)</td>
+ <td>Karel Wouters, Paul Valckenaers</td>
+</tr>
+
+
+<tr>
+ <td>3</td>
+ <td>Rowan Arien, Tom Timmers</td>
+ <td>Ontwikkeling van een besturingssysteem voor de LXI-interface
+ </td>
+ <td>IPTE</td>
+ <td>Tom Geurts, Dirk Smets</td>
+</tr>
+
+<tr>
+ <td>4</td>
+ <td>Dirk Bijnens</td>
+ <td>Kerberos authenticatie bij OpenAFS(<link href="#kerberos">meer uitleg</link>, <link href="http://ontwerpen1.khlim.be/openafs/">site</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Leo Rutten</td>
+</tr>
+
+<tr>
+ <td>5</td>
+ <td>Stefan De La Haye, Steven Kauffmann</td>
+ <td>Real-time applicatie op een FPGA (<link href="#fpgart">meer uitleg</link>)
+ </td>
+ <td>FMTC</td>
+ <td>Klaas Gadeyne, Peter Slaets</td>
+</tr>
+
+<tr>
+ <td>6</td>
+ <td>Koen Geebelen, Niels Thijsen</td>
+ <td>Lichtgewicht DC voeding voor draagbare toestellen gebaseerd op nieuwe GaN transistors (<link href="#gan">meer uitleg</link>)
+ </td>
+ <td>IMEC</td>
+ <td>Jo Das, Jan Genoe, Joff Derluyn</td>
+</tr>
+
+<tr>
+ <td>7</td>
+ <td>Guy Geelen</td>
+ <td>Systeem voor optimaal stockbeheer  (<link href="#stockbeheer">meer uitleg</link>, <link href="http://ontwerpen1.khlim.be/stock/">site</link>)
+ </td>
+ <td>CERA Award</td>
+ <td>Emy Lindelauf, Leo Rutten</td>
+</tr>
+
+
+
+<tr>
+ <td>8</td>
+ <td>Jonas Geerits, Wim Schrooyen</td>
+ <td>Parlofoonsysteem met integratie van MMS  (<link href="#parlofoon">meer uitleg</link>, <link href="http://ontwerpen1.khlim.be/parlofon/">site</link>)
+ </td>
+ <td>COMmeto</td>
+ <td>Ludo Cuypers, Leo Rutten</td>
+</tr>
+
+<tr>
+ <td>9</td>
+ <td>Geert Gerits, Filip Schreurs</td>
+ <td>Netwerkdemo's ontwerpen voor Netkit (<link href="#netkit">meer uitleg</link>, <link href="http://ontwerpen1.khlim.be/netkit/">site</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Leo Rutten</td>
+</tr>
+
+<tr>
+ <td>10</td>
+ <td>Jan Piccard, Kenneth Raymaekers</td>
+ <td>Depositie en karakterisering van elektrische contacten op CVD diamant
+ </td>
+ <td>IMOMEC</td>
+ <td>Ken Haenen, Jan Genoe</td>
+</tr>
+
+<tr>
+ <td>11</td>
+ <td>Wim Piccard, Maarten Vanduren</td>
+ <td>Verdere uitwerking van optische spectroscopie (<link href="#spectroscopie">meer uitleg</link>)
+ </td>
+ <td>Dr. Vandeput</td>
+ <td>Bart Vanrumste</td>
+</tr>
+
+<!--
+<tr>
+ <td>12</td>
+ <td>Kristof Reinkens</td>
+ <td></td>
+ <td>Erasmus</td>
+ <td></td>
+</tr>
+-->
+<tr>
+ <td>13</td>
+ <td>Bart Severijns, Yannick Vanderstraeten</td>
+ <td>Gateway voor een omroeptafel (<link href="#pvs">meer uitleg</link>)
+ </td>
+ <td>PVS</td>
+ <td>Koen Swinters, Luc Coenegracht</td>
+</tr>
+
+
+<tr>
+ <td>14</td>
+ <td>Koen Swerts</td>
+ <td>Ontwerpen van een I/O module gebaseerd op een Beck-component
+ </td>
+ <td>Essec</td>
+ <td>Peter Jans, Luc Coenegracht</td>
+</tr>
+
+
+
+<tr>
+ <td>15</td>
+ <td>Davy Vancluysen</td>
+ <td>Applicatieontwerp met Lenya CMS(<link href="#lenya">meer uitleg</link>, <link href="http://ontwerpen1.khlim.be/cms/">site</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Leo Rutten</td>
+</tr>
+
+<tr>
+ <td>16</td>
+ <td>Jeffrey Vanspauwen</td>
+ <td>Ultimate radiation tolerant electronic semiconductor
+ </td>
+ <td>IMEC</td>
+ <td>Claeys Cor, Sofie Put, Jan Genoe</td>
+</tr>
+
+
+<!-- 
+   niet gekozen 
+   in commentaar 25/9/2006
+
+ 
+ 
+<tr>
+ <td></td>
+ <td></td>
+ <td>Detectiesysteem voor epileptische insulten (<link href="#epilepsie">meer uitleg</link>)
+ </td>
+ <td>Revalidatiecentrum Pulderbos</td>
+ <td>Bart Vanrumste</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Data acquisitie met een neuroprobe in de motorische cortex van ratten (<link href="#neuroprobe">meer uitleg</link>)
+ </td>
+ <td>IMEC</td>
+ <td>Bart Vanrumste</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Testbank voor defibrillatoren (<link href="#defibrillator">meer uitleg</link>)
+ </td>
+ <td>UZ Leuven</td>
+ <td>Peter Dierickx, Bart Vanrumste</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Infuuspompentester (<link href="#infuuspomp">meer uitleg</link>)
+ </td>
+ <td>UZ Leuven</td>
+ <td>Peter Dierickx, Bart Vanrumste</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Invertor voor brandstofcel (<link href="#bcinvertor">meer uitleg</link>)
+ </td>
+ <td>Vito</td>
+ <td></td>
+</tr>
+
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Depositie en karakterisering van elektrische contacten op CVD diamant (<link href="#cvd">meer uitleg</link>)
+ </td>
+ <td>UHasselt</td>
+ <td>Ken Haenen</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>MOST interface (<link href="#most">meer uitleg</link>)
+ </td>
+ <td>IPTE</td>
+ <td>Tom Geurts</td>
+</tr>
+-->
+
+
+<!-- 
+  IPTE is niet meer geinteresseerd in Flexray
+<tr>
+ <td></td>
+ <td></td>
+ <td>Flexray (<link href="#flexray">meer uitleg</link>)
+ </td>
+ <td>IPTE</td>
+ <td>Tom Geurts</td>
+</tr>
+  -->
+
+
+<!--
+  Niet gekozen
+  
+<tr>
+ <td></td>
+ <td></td>
+ <td>PXI Interface (<link href="#pxi">meer uitleg</link>)
+ </td>
+ <td>IPTE</td>
+ <td>Tom Geurts</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>MegaXFlash (<link href="#megaxflash">meer uitleg</link>)
+ </td>
+ <td>IPTE</td>
+ <td>Tom Geurts</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Functioneel testen met Spider (<link href="#spider">meer uitleg</link>)
+ </td>
+ <td>IPTE</td>
+ <td>Tom Geurts</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Integration Anritsu network emulator module in automated test environment (<link href="#option1">meer uitleg</link>)
+ </td>
+ <td>Option</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>OPTIMALIZATION OF AN AUTOMATED TEST SYSTEM FOR MECHANICAL TESTING OF PCMCIA CARDS AND FUTURE DEVICES (<link href="#option2">meer uitleg</link>)
+ </td>
+ <td>Option</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Optimization &amp; extension of the Agilent network emulator test module (<link href="#option3">meer uitleg</link>)
+ </td>
+ <td>Option</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>STEERING OF AN AUTOMATED PRODUCT SAMPLE CHECKER DEVICE (<link href="#option4">meer uitleg</link>)
+ </td>
+ <td>Option</td>
+ <td></td>
+</tr>
+
+
+
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Visualisatie van een fabrieksbesturing (<link href="#fabriekvis">meer uitleg</link>)
+ </td>
+ <td>PMA, KULeuven</td>
+ <td>Paul Valckenaers, Leo Rutten</td>
+</tr>
+
+
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Real-time visuele controle met behulp van een FPGA (<link href="#fpgavis">meer uitleg</link>)
+ </td>
+ <td>KULeuven</td>
+ <td>Peter Slaets</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>3-D object herkenning m.b.v. webcam (<link href="#webcam3d">meer uitleg</link>)
+ </td>
+ <td>KULeuven</td>
+ <td>Peter Slaets</td>
+</tr>
+-->
+
+<!-- 
+
+  Dit onderwerp is teruggetrokken.
+  Het project wordt door een medewerker uitgevoerd
+ 
+<tr>
+ <td></td>
+ <td></td>
+ <td>Implementatie van hardware voor een logging-dongle (<link href="#loggingdongle">meer uitleg</link>)
+ </td>
+ <td>KULeuven (COSIC)</td>
+ <td>Nele Mentens, Karel Wouters, Brecht Wyseur</td>
+</tr>
+ -->
+
+ 
+ <!-- 
+   Niet gekozen
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Test Pattern Verification of SoC Designs Accelerated through a Hardware Emulation Platform (<link href="#testpattern">meer uitleg</link>)
+ </td>
+ <td>Imec</td>
+ <td>Kristof Loots</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Design van een CuTCNQ 1kbit geheugen bovenop een CMOS BEOL process (<link href="#onekbit">meer uitleg</link>)
+ </td>
+ <td>IMEC</td>
+ <td>Jan Genoe</td>
+</tr>
+  -->
+  
+<!--
+  Dit onderwerp is niet meer beschikbaar
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Ontwerp van ESD-geprotecteerde LVDS IO-paden in 130nm CMOS technologie (<link href="#lvds">meer uitleg</link>)
+ </td>
+ <td>IMEC</td>
+ <td>Jan Genoe</td>
+</tr>
+  -->
+
+  <!--
+    Niet gekozen
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Optimalisatie van een controle-intefacekaart (<link href="#controleinterface">meer uitleg</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Johan Baeten</td>
+</tr>
+   -->
+
+<!-- 
+  ICT
+  -->
+
+  
+   <!--
+   Niet geslaagd, gaat bijgevolg niet door
+ Peter Schreurs, Thomas Dejan
+
+<tr>
+ <td></td>
+ <td>
+ </td>
+ <td>Embedded Webapplicatie (<link href="#ase">meer uitleg</link>)
+ </td>
+ <td>ASE R&amp;D Europe N.V.</td>
+ <td>Frank Valkenborgh</td>
+</tr>
+
+   -->
+
+<!-- einde voorstellen eindwerken -->
+
+</table>
+
+
+
+
+
+
+
+
+
+    </section>
+
+    <section>
+      <title>Masterproefbeschrijvingen</title>
+
+      <!--
+
+      <anchor id="afkorting"/>      
+      <section>
+        <title>titel, bedrijf</title>
+          <p>
+            para
+          </p>
+          <p>
+            Links:
+          </p>
+            <ul>
+              <li>
+                <link href="http://www.hibernate.org">www.hibernate.org</link>
+              </li>
+              <li>
+                <link href="http://www.aspectj.org">www.aspectj.org</link>
+              </li>
+            </ul>
+      </section>
+      -->
+      
+      
+  
+      <anchor id="spectroscopie"/>      
+      <section>
+        <title>Verdere uitwerking van optische spectroscopie, Dr. Vandeput</title>
+        
+        
+        
+
+        <p>
+Photoplethysmographie, zoals het genoemd werd, laat toe op niet-invasieve wijze oppervlakkige bloedcirculatie en zuurstofsaturatie te meten. 
+Slechts de paar laatste jaren wordt de reflectie methode gebruikt, waaraan we reeds vele jaren hebben gewerkt. 
+Bij het eindwerk 2004-2005 zijn we gekomen aan een klinisch bruikbaar toestel met visueel signaal en digitaal berekende parameters. Verdere uitwerking dringt zich op.
+        </p>
+        <ul>
+          <li>
+De zuurstofsaturatie wordt gemeten door vergelijk van de meting met rood licht tegenover de waarde bekomen met infrarood licht als referentie. Voor dit laatste wordt best IR gebruikt met 
+&gt;= 805 nm, doch voor praktische redenen plaatsten we een IR-led &gt; 940 nm. Onlangs vernamen we dat water, alom tegenwoordig in de weefsels, een sterke absorptie vertoont aan > 1000 nm, zodat die golflengten alle metingen overheersen en vervalsen.
+We moeten dus nieuwe sensors maken, een relatief eenvoudig probleem.
+          </li>
+          <li>
+We noteren ook de aanwezigheid van storingen en foutieve signalen vooral door kleine bewegingen van het meetobject.
+Reeds vroeger hadden we hiervoor analoge schakelingen en filters uitgewerkt.
+Aldus onderscheiden we tot storingsreductie:
+          <ul>
+            <li>
+niveau detectie (instelling)
+            </li>
+            <li>
+            
+signaal amplitude (overload)
+            </li>
+            <li>
+slope detectie (steilheidsdetectie)
+            </li>
+            </ul>
+Deze schakelingen dienen ingebouwd te worden. 
+          </li>
+          <li>
+Rood en IR signalen worden afgewisseld aan 400 cycli/sec.
+Dit wordt nu gestuurd door een afzonderlijke oscillator.
+Een stabieler frequentie kan afgeleid worden vanuit de oscillator van de microprocessor 
+ATMEGA 8535. 
+          </li>
+          <li>
+Nu komen we aan digitale technieken.
+De bekomen signalen van rood licht en van IR licht moeten leiden tot een uitlezing van zuurstofsaturatie.
+De theorie is lang gekend doch elke commerciële firma bewaart het geheim van zijn realisatie.
+Praktisch beogen we de procentuele deling van de logarithmen van de amplituden van de respectieve signalen. Tot ijking beschikken we over een klinisch toestel. 
+          </li>
+          <li>
+Voor dit meer complex toestel, waarvan het analoog gedeelte reeds beschikbaar en werkend is, moet wel nog een gepaste display met aansturing uitgewerkt worden.
+Vereist is een graphische en numerieke weergave.
+           </li>
+         </ul>
+         <p>
+Dr. J. Vandeput
+</p>
+<p>
+Leopoldplaats 50
+</p>
+<p>
+3500 Hasselt
+</p>
+         
+         
+        
+      </section>
+      
+<!--      
+      <anchor id="bcinvertor"/>      
+      <section>
+        <title>Invertor voor brandstofcel, Vito</title>
+        
+        
+        <p>
+De vraag wordt gesteld een brandstofcelsysteem energie te laten leveren aan het electriciteitsnet.  De  brandstofcelsystemen leveren echter een DC spanning van, doorgaans, minder dan 100 VDC die bovendien sterk afhankelijk is van de belasting.
+        
+        </p>        
+        <p>
+Er zijn meerder mogelijkheden om de vraag te beantwoorden.  Een courante techniek is het omzetten van de lage variërende DC spanning van een brandstofcelsysteem naar een hoge constante DC spanning en er vervolgens AC van te maken met een vrij eenvoudige invertor.  Dit eindwerk moet een andere methode onderzoeken. 
+        
+        </p>        
+        <p>
+De opgave bestaat erin een industriële invertor te vinden waarmee van de DC spanning een 50 Hz AC spanning wordt gemaakt die daarna wordt opgetransformeerd.  Invertoren van het type “Regen drive” die voorzien zijn om remenergie van AC motoren naar het net te leiden, kunnen in principe deze klus aan maar de instellingen en dimensionering zullen zeer specifiek zijn aan de toepassing wegens de aard van de aangeboden DC spanning.   
+        
+        </p>        
+        <p>
+Opdrachten : 
+        
+        </p>        
+        <ul>
+           <li>
+Literatuuronderzoek van invertoren van verschillende merken met selectie van één merk/type.
+           </li>
+           <li>
+Voor- en nadelen opsommen t.o.v. andere, gespecialiseerde DC/AC convertoren voor brandstofcelsystemen.
+           </li>
+           <li>
+Juiste dimensionering, opties en instellingen vinden in het kader van een nog te definiëren toepassing.
+           </li>
+           <li>
+Juiste dimensionering van beveiligingen, filters, zekeringen, contactoren en transformator.
+           </li>
+           <li>
+Een algoritme beschrijven voor bedrijfsvoering en veilige regeling. 
+           </li>
+           <li>
+Indien mogelijk, een proefopstelling bouwen.
+           </li>
+        </ul>
+      </section>
+-->
+<!--      
+      <anchor id="cvd"/>
+      <section>
+        <title>Depositie en karakterisering van elektrische contacten op CVD diamant</title>
+ 
+        <p>
+          Zoals gezien in de cursus van 2de kandidatuur, zijn elementen van kolom IV van de tabel van Mendeljev de meest voor de hand liggende halfgeleiders.
+          De eerste in de rij van de halfgeleiders is Koolstof, maar dan wel in de diamant kristalstructuur.
+          De unieke combinatie van eigenschappen van diamant, 
+          maakt het een perfecte kandidaat voor elektronische toepassingen die gebruikt kunnen worden onder extreme omstandigheden. 
+          Hierbij wordt gedacht aan hoge temperaturen, of omgevingen met veel straling of agressieve chemische stoffen. 
+          Een basisvereiste is echter een grondige kennis en karakterisering van de gebruikte elektrische contacten. 
+          De contacten moeten onder andere een lage contactweerstand vertonen, een goede adhesie met het diamantoppervlak en een thermische stabiel zijn.        
+        </p>
+        <p>
+         Tijdens dit eindwerk zal gebruik gemaakt worden van drie verschillende types CVD diamant: intrinsiek, B-gedoteerd p-type en P-gedoteerd n-type. 
+         Het doel is de bereiding van zowel Ohmse als Schottky contacten door gebruik te maken van verschillende contactmaterialen of combinaties hiervan. 
+         Voorbeelden van gebruikte materialen die gebruikt kunnen worden, zijn Ti, Al, Au, Pt, etc. 
+         Ook wordt de invloed van de terminatie van het diamantoppervlak voor contactdepositie, i.e. waterstof of zuurstof, 
+         bekeken en zullen verdere nabehandelingen van de contacten, zoals uitgloeiing bij verschillende temperaturen onder verschillende gassen, bestudeerd worden. 
+         De kandidaat zal gebruik kunnen maken van de aanwezige technieken om contacten af te zetten, zoals thermische evaporatie en sputtering. 
+         Meerdere ovens staan tot de beschikking voor uitgloeiing en een uitgebreide waaier aan elektrische karakteriseringtechnieken is beschikbaar.        
+        </p>
+        
+        
+        <p>
+          Onderzoeksgroep: Instituut voor Materiaalonderzoek (IMO), groep Wide Band Gap Materials (WBGM), <link href="http://www.imo.uhasselt.be">www.imo.uhasselt.be</link>.
+        </p>
+        
+        <p>
+          Locatie: Wetenschapspark 1, B-3590 Diepenbeek
+        </p>
+
+        <p>
+          Begeleiding: Dr. Ken Haenen, ken.haenen@uhasselt.be, en de rest van de leden van WBGM
+        </p>
+      </section>
+ -->
+ 
+ 
+      
+      
+      
+      
+      
+      
+      
+<!--      
+      <anchor id="epilepsie"/>
+      <section>
+        <title>Detectiesysteem voor epileptische insulten</title>
+        
+
+        <p>
+           Het Revalidatiecentrum voor kinderen en jongeren bestaat uit 2 afdelingen, een respiratoire (30 bedden) en een neurologische afdeling (65 bedden). 
+           De patiënten worden behandeld binnen een interdisciplinaire setting. 
+           In de neurologische afdeling verblijven kinderen en jongeren (tot 21j) die lijden aan een aandoening van het centrale of perifere zenuwstelsel, 
+           veelal patienten met epilepsie of met problemen tgv een niet-aangeboren hersenaandoening (ongeval, ziekte, bloeding). 
+           In de respiratoire afdeling worden patienten opgenomen met bronchopulmonaire dysplasie, astma, muco of andere aandoeningen van de luchtwegen. 
+           De afdeling kinderneurologie van het Pulderbos wordt vaak geconfonteerd met het probleem van detecteren van epileptische aanvallen. 
+           Daarom wil het een geïndividualiseerd systeem laten ontwikkelen dat epilepsieaanvallen detecteert.
+        </p>
+        
+        <p>
+          Om inzicht te krijgen in de problematiek van kinderen met epilepsie en een juiste behandeling te vinden is een uitgebreide, 
+          nauwkeurige aanvalsobservatie noodzakelijk. 
+          Wij zijn op zoek naar een systeem dat aanvallen detecteert bij kinderen van alle leeftijden met verschillende soorten convulsies. 
+          Video-camera bewaking is niet altijd haalbaar in thuissituaties of in verzorgingsinstellingen waar veel patienten met ernstige epilepsie worden opgenomen. 
+          Momenteel worden binnen onze residentiele setting de kinderen zo goed als mogelijk geobserveerd. 
+          ’s Nachts is er een wakende verpleeg-kundige per 18 kinderen die gebruik kan maken van een videocamera-systeem dat tegelijkertijd 4 kamers in beeld brengt. 
+          Toch worden er aanvallen gemist: tijdens verzorgingsmomenten, niet alle kamers zijn in beeld, soms kleine aanvallen niet zichtbaar op het beeldscherm.
+          Supplementair wordt er ook gebruik gemaakt van een babyfoon maar dit volstaat maar voor 1 patient tegelijk. 
+          Er zijn enkele detectiesystemen op de markt of in ontwikkeling maar deze voldoen niet voor kinderen. 
+          Een aantal zijn in het centrum in verleden uitgetest. 
+          We zijn op zoek naar een systeem dat op basis van ‘abnormale’ bewegingspatronen een onderscheid kan maken tussen normale bewegingen en epileptische. 
+          Het uiteindelijke doel is dit aan ouders aan te leren en te kunnen gebruiken in thuissituaties. 
+          Binnen een video-EEG-registratie is dit immers geen probleem maar eens in de thuissituatie stelt dit vaak de ouders voor grote problemen. 
+          Ouders maken daarom gebruik van allerlei hulpmiddelen zoals babyfoons, luisterapparatuur, video-observatie. 
+          Alles bij elkaar echter zijn de resultaten van deze observatie-systemen vrij teleurstellend.
+          </p>
+          <p>
+          Het pulderbos voorziet zelf volgende fases in de projectontwikkeling:
+          </p>
+          <ul>
+            <li>
+              observatie van de knelpunten van het huidige systeem
+            </li>
+            <li>
+              uitdokteren van een systeem dat meer mogelijkheden biedt
+            </li>
+          </ul>
+          <p>
+            Uiteindlijk zou dit moeten leiden tot:
+          </p>
+          <ul>
+            <li>
+              een meerwaarde in observatie van vooral nachtelijke aanvallen
+            </li>
+            <li>
+              het verminderen van angst om aanvallen te missen bij ouders en hulpverleners
+            </li>
+            <li>
+              ontwikkeling van een een systeem dat voor meerdere aanvalstypes van toepassing is
+            </li>
+            <li>
+              confortabele situatie voor de patiënt.
+            </li>
+          </ul>
+          <p>
+          Het uiteindelijke resultaat zal ten goede komen aan:
+          </p>
+          <ul>
+            <li>
+              patienten, ouders en hulpverleners
+            </li>
+            <li>
+              informatie over aanvalstypes, frequentie, dag/nacht verhouding en hoe aanvallen invloed hebben op gedrag en quality of live
+            </li>
+            <li>
+              correcte informatie kan leiden tot aanpassen van anti-epileptica en tot een betere aanvalscontrole.
+            </li>
+          </ul>
+          <p>
+          Het Pulderbos heeft in het verleden al inspanningen gedaan om het probleem op te lossen:
+          </p>
+          <ul>
+            <li>
+              vroegere detectiesystemen op basis van trillingen uitgestest op vraag van Victor Claes van Centrum voor Technologie voor Gehandicapte Personen van de universiteit van Antwerpen (RUCA)
+            </li>
+            <li>
+             detectiesystemen met bewegingssensor o.a. Epicare
+            </li>
+            <li>
+             babyfoon: verscheidene types
+            </li>
+            <li>
+              videoscherm van camerabewaking uitgebreid.
+            </li>
+          </ul>
+          <p>
+            Hiervoor werden volgende externe bedrijven of organisaties benaderd:
+          </p>
+          <ul>
+            <li>
+              medische frima’s: vnl in verband met EEG apparatuur
+            </li>
+            <li>
+              samenwerking met Centrum voor Technologie voor Gehandicapte Personen van de universiteit van Antwerpen (RUCA).
+            </li>
+          </ul>
+          <p>
+          De verwezenlijking van dit project is een zeer grote uitdaging en zal ook op internationaal vlak enorme implicaties kennen (cfr Internation Liga Against Epielpsy en National Sentinel Clinical Audit of Epilepsy Related Death Great Brittain.)
+          Wie durft de uitdaging aan? 
+          Is het mogelijk om een goed, op een individuele patiënt gebaseerd detectiesysteem te maken voor het detecteren van epileptische insulten?
+          </p>
+        
+
+          <p>
+            Thema: Biomedische ingenieurswetenschappen
+          </p>
+          
+          <p>
+            Regio: Antwerpen
+          </p>
+
+          <p>          
+            Contactgegevens social profit-organisatie
+          </p>
+          <p>
+            revalidatiecentrum
+          </p>
+          <p>
+Dr Berten Ceulemans
+          </p>
+          <p>
+Kinderneuroloog
+          </p>
+          <p>
+Reebergenlaan 4
+          </p>
+          <p>
+2242 Pulderbos
+          </p>
+          <p>
+03 466.06.10
+          </p>
+          <p>
+03.466.06.38
+          </p>
+          <p>
+Email: berten.ceulemans@revapulderbos.be
+          </p>
+          <p>
+          </p>
+
+          <p>
+Contactgegevens Promotor
+          </p>
+          <p>
+Bart Vanrumste
+          </p>
+          <p>
+KHLim
+          </p>
+          <p>
+
+bart.vanrumste@esat.kuleuven.be
+          </p>
+          
+
+Cera link:
+
+   http://cera-award.livingstone.be/ProjectDetail.aspx?ID=109
+        </section>
+
+-->
+        
+        
+<!--        
+      <anchor id="neuroprobe"/>
+      <section>
+        <title>Data acquisitie met een neuroprobe in de motorische cortex van ratten</title> 
+        
+        <p> 
+Voor de behandeling van neurologische aandoeningen wordt regelmatig “deep brain stimulation” toegepast.  Om de optimale positie van de elektrode te bepalen, wordt de neuronale activiteit eerst gemeten met behulp van micro-elektrodes. Aan de hand van de opgemeten signalen kan de chirurg een beeld krijgen over de locatie van de hersenstructuur met pathologische activiteit.  Deze behandeling met elektrische stimulatie kan verbeterd worden als met neuroprobes gewerkt wordt. Dit zijn chips met een matrix van stimulatie- én registratiecontacten die in de hersenen ingebracht worden. Met behulp van data-analyse kan het probleem beter gelokaliseerd worden, en kan de therapie gerichter en betrouwbaarder toegepast worden in vergelijking met de huidige elektrodes. 
+        </p>
+        <p>
+Het ”Laboratorium voor Experimentele Functionele Neurochirurgie” in U.Z. Gasthuisberg onder leiding van Prof. Bart Nuttin werkt samen met het “Interuniversitair Micro Elektronica Centrum (IMEC)” te Heverlee in een multidisciplinair team aan de ontwikkeling van een nieuwe neuroprobe.  Dit team gaat samenwerken met de groep SCD op ESAT o.l.v. Sabine Van Huffel, die veel ervaring heeft op dit gebied van biomedische signaalverwerking.
+        </p>
+        <p>
+De nieuwe neuroprobe zal worden uitgetest in de motorische cortex van ratten waarbij vóór, tijdens en na de stimulatie het motorische gedrag en de neuronale signalen opgemeten worden, en aan de hand van signaalverwerking bepaalde parameters zoals “Interspike interval”, “Burst interval” en amplitude vergeleken worden. De bedoeling is om aan de hand van deze parameters aan te tonen dat stimulatie met de neuroprobe het gedrag en de neuronale activiteit selectief kan beïnvloeden.
+        </p>
+        <p>
+De thesis wordt best uitgevoerd door twee studenten, en omvat volgende topics: 
+        </p>
+        <ul>
+          <li>Literatuurstudie
+          </li>
+          <li>Het bepalen van een ideale acquisitie- en stimulatie opstelling
+          </li>
+          <li>Het aanwezig zijn bij de operaties van ratten en het opnemen van signalen
+          </li>
+        </ul>
+
+        <p>
+De thesisstudenten zullen begeleid worden door drie promotoren en dagelijkse begeleiders uit de specialiteiten  die in dit boeiende onderwerp aan elkaar raken:
+        </p>
+        <ul>
+          <li>
+            KHK / KHLIM, 
+            <ul>
+              <li>
+                Promotor: Bart Vanrumste
+              </li>
+            </ul>
+          </li>
+          <li>
+            ESAT, SCD, biomedische signaalverwerking
+            <ul>
+              <li>
+                Promotor: Sabine Van Huffel
+              </li>
+              <li>
+                Dagelijkse begeleider: Maarten.DeVos@esat.kuleuven.be
+              </li>
+            </ul>
+          </li>
+          <li>
+             Laboratorium voor Experimentele Functionele Neurochirurgie, U.Z. Gasthuisberg
+             <ul>
+               <li>Promotor: Bart Nuttin</li>
+               <li>Dagelijkse begeleider:  Marleen.Welkenhuysen@student.kuleuven.be</li>
+             </ul>
+          </li>
+          <li>
+            IMEC, neuron-on-chip team
+            <ul>
+              <li>
+        Promotor: Gustaaf Borghs
+        Dagelijkse begeleider: Roeland.Huys@imec.be
+          </li>
+            </ul>
+          </li>
+          </ul>
+          <p>
+Studenten die niet bang zijn voor een uitdaging en interesse hebben in biomedische signaalverwerking en nieuwe technologieën krijgen in dit onderwerp de kans om in contact te komen met een recent en boeiend onderzoeksdomein!
+          </p>
+       </section>        
+        
+-->        
+        
+        
+<!--
+   9/10/2006 Dit is uiteindelijk toch niet gekozen
+   
+        
+      <anchor id="neonatologie"/>
+      <section>
+        <title>Acquisitie en analyse van longparameters bij pasgeborenen</title>
+<p>        
+Op de afdeling neonatologie van Kindergeneeskunde - Neonatologie, Universitaire Ziekenhuizen Leuven, worden neonaten (pasgeborenen en dus ook prematuren) beademd met een neonatale ventilator. Voor de dagelijkse longfunctiemetingen (i.e. evaluatie van de (be)ademing) is het van belang bepaalde grootheden te meten en deze om te zetten naar parameters en relaties zoals bv. druk-volume verbanden, weerstand en de compliantie van de longen.
+</p>
+<p>
+De opdracht bestaat er in om, in samenwerking met Technische Diensten, afdeling Medische Instrumentatie, van de Universitaire Ziekenhuizen Leuven, een programma (bij voorkeur Labview) te ontwikkelen dat toelaat bij beademde neonaten de nodige druk-volume verbanden, weerstand en compliantie van de longen on-line te berekenen, uitgaande van analoge signalen zoals druk, debiet en volume.
+</p>
+<p>
+
+De signalen zijn afkomstig van de neonatale ventilator (type Babylog 8000, Dräger) en dienen via een A/D-convertor te worden ingelezen. Een gelijkaardig programma is reeds beschikbaar op de beademingstoestellen voor volwassenen.
+</p>
+<p>
+Contactpersoon Technische Diensten, afdeling Medische Instrumentatie, UZ Leuven:
+</p>
+<p>
+dr. ir. Peter Dierickx
+</p>
+<p>
+UZ Leuven
+</p>
+<p>
+Technische Diensten - afdeling Biotechniek
+</p>
+<p>
+Herestraat 49
+</p>
+<p>
+B-3000 Leuven
+</p>
+<p>
+Tel.: 016/34.41.99
+</p>
+<p>
+Fax.: 016/34.41.01
+</p>
+<p>
+Email.:	Peter.Dierickx@uz.kuleuven.ac.be
+</p>
+<p>
+Promotor : dr. ir. Bart Vanrumste
+</p>
+       </section>
+  -->
+  
+  
+  
+  
+<!--
+
+      <anchor id="defibrillator"/>
+      <section>
+        <title>Testbank voor defibrillatoren</title>
+<p>
+Een defibrillator is een elektromedische uitrusting om de fibrillatie van de hartspier, i.e. het zeer snel en ongecontroleerd samentrekken van de hartspiervezels, op te heffen d.m.v. elektrische impulsen.
+</p>
+<p>
+Het doel van deze stage bestaat erin een test, die toelaat de goede werking van de defibrillator na te gaan, te ontwikkelen conform de normering en de wetgeving. Voor zowel de monofasische conventionele externe defibrillatie als voor de bifasische defibrillatietechnologie, dient een software te worden ontwikkeld. De bestaande testbank (hardware) dient te worden geoptimaliseerd en te worden geïntegreerd met de veiligheidstester.
+</p>
+<p>
+De taak bestaat voornamelijk in
+</p>
+<ul>
+  <li>
+acquisitie van signalen
+  </li>
+  <li>
+signaalverwerking
+  </li>
+  <li>
+ontwikkeling van algoritmen
+  </li>
+  <li>
+analyse
+  </li>
+  <li>
+interpretatie
+  </li>
+  <li>
+gegevensopslag in een databank (Maximo)
+  </li>
+  <li>
+rapportering
+  </li>
+  <li>
+integratie veiligheidstester
+  </li>
+  <li>
+…
+  </li>
+  </ul>
+
+<p>
+Voor de software wordt gebruik gemaakt van Labview (National Instruments).
+</p>
+<p>
+De student dient voornamelijk samen te werken met de afdeling Medische Instrumentatie (Technische Diensten). Contacten met medische diensten, de dienst Informatiesystemen en firma's zijn niet uitgesloten.
+</p>
+<p>
+Bedrijfsmentor
+</p>
+<p>
+dr. ir. Peter Dierickx
+</p>
+<p>
+Afdelingshoofd Medische Instrumentatie (Biotechniek)
+</p>
+<p>
+Technische Diensten
+</p>
+<p>
+UZ Leuven
+</p>
+<p>
+Herestraat 39
+</p>
+<p>
+B-3000 Leuven
+</p>
+<p>
+Tel.: 016/34.41.99
+</p>
+<p>
+Fax.: 016/34.41.01
+</p>
+<p>
+Email: Peter.Dierickx@uz.kuleuven.ac.be
+</p>
+<p>
+Promotor: dr. ir. Bart Vanrumste
+</p>
+       </section>
+
+
+
+
+       
+       
+       
+       
+       
+
+      <anchor id="infuuspomp"/>
+      <section>
+        <title>Infuuspompentester</title>
+<p>
+De opdracht bestaat erin het hard- en software-gedeelte van een tester voor infuuspompen te optimaliseren. De infuuspomptester werd ong. 10 jaar geleden gebouwd door de dienst biotechniek van het Universitair Ziekenhuis Leuven. Het hardware-gedeelte zorgt ervoor dat de ader van een patiënt nagebootst wordt door een buisje op druk te brengen, en vormt de link tussen de verschillende sensoren en de besturingscomputer. Het is vanzelfsprekend dat deze infuuspompen aan zeer strenge criteria en veiligheidsnormen moeten voldoen.
+</p>
+<p>
+
+Het doel is het hard- en software-gedeelte te evalueren en aan te passen, gebruikmakend van nieuwe technologie (Labview). Met de bedoeling de betrouwbaarheid en de bedrijfszekerheid van de tester te garanderen en indien mogelijk compacter te maken. Het aspect prijs/kwaliteit verhouding dient in overweging genomen te worden.
+</p>
+<p>
+Een tweede fase van het project is het onderzoeken hoe het systeem kan worden uitgebreid zodat er met 1 besturingscomputer meerdere pompen tegelijkertijd getest kunnen worden.
+
+</p>
+<p>
+Firma:			UZ Leuven
+</p>
+<p>
+afdeling Medische Instrumentatie, Technische Diensten
+</p>
+<p>
+			Peter Dierickx
+</p>
+<p>
+Herestraat 49
+</p>
+<p>
+B-3000 Leuven
+</p>
+<p>
+016/34.41.99
+</p>
+<p>
+Promotor: dr. ir. Bart Vanrumste
+</p>
+       </section>
+
+       
+       
+       
+       
+       
+       
+       
+       
+       
+        
+        
+        
+
+      <anchor id="most"/>
+      <section>
+        <title>MOST interface</title> 
+        <p> 
+MOST is een entertainment bus in de Automotive wereld. 
+Deze interface dient om data transfer te doen voor voornamelijk audio en video toepassingen.
+De vraag hier is: wat is en hoe werkt MOST in detail. 
+Hoe kunnen we deze interface testen? 
+Eventueel het aanmaken van een MOST interface. Op welke platformen kunnen we zulk een interface inbrengen. 
+(vb. : standalone module, PXI, Ethernet,...).
+Gedurende dit eindwerk wordt een platform uitgekozen en de interface-tester uitgewerkt.
+        </p>
+
+        <p>        
+          Bedrijf: IPTE
+        </p>
+        <p>
+Promotor bedrijf: Tom Geurts
+        </p>
+      </section>
+
+-->
+
+
+<!-- 
+ IPTE is niet meer geinteresseerd in Flexray
+ 
+      <anchor id="flexray"/>
+      <section>
+        <title>Flexray</title>
+        <p>
+Ook Flexray is een begrip dat opkomt in de Automotive wereld. 
+In de voertuigen vindt men steeds, en steeds meer een communicatie bus voor verschillende doeleinden. 
+Meestal tot dusver worden hier CAN, VAN, LIN bussen voor gebruikt. Deze hebben echter voor bepaalde toepassingen beperkingen. 
+Flexray is een nieuwer type interface waarbij op hogere snelheden gecommuniceerd wordt.
+De vraag hier is: wat is en hoe werkt Flexray in detail. Hoe kunnen we deze interface testen? Eventueel het aanmaken van een Flexray interface. Op welke platformen kunnen we zulk een interface inbrengen. (vb. : PXI, Ethernet,...)
+Gedurende dit eindwerk wordt een platform uitgekozen en de interface-tester uitgewerkt.
+        </p>
+        <p>
+Bedrijf: IPTE
+        </p>
+        <p>
+Promotor bedrijf: Tom Geurts
+        </p>
+      </section>
+ -->
+ 
+ 
+ <!--
+      <anchor id="pxi"/>
+      <section>
+        <title>PXI Interface</title>
+        <p>        
+Wij hebben regelmatig een specifieke functionaliteit nodig om bepaalde testen te doen op een produkt. Deze functionaliteit moeten we kunnen integreren in een totaal test systeem. Vandaag de dag is PXI een platform dat in de testwereld regelmatig gebruikt wordt. Graag hadden we de kennis en technologie opgebouwd om zelf zulk een interface te bouwen en de specifieke technologie op te integreren. Er zijn standaard interfaces op de markt verkrijgbaar maar zijn voor ons te gesloten of kunnen de nodige signalen van ons niet hanteren.
+Gedurende dit eindwerk wordt een eigen interface gebouwd.
+        </p>
+
+        <p>        
+Bedrijf: IPTE
+        </p>
+        <p>        
+Promotor bedrijf: Tom Geurts
+        </p>
+      </section>
+      
+      <anchor id="megaxflash"/>
+      <section>
+        <title>MegaXFlash</title>
+
+        <p>        
+Dit is een project dat we vroeger reeds hebben opgestart. Dit is echter stopgezet naar aanleiding van te hoog oplopende kosten.
+Het gaat hier over een PC104 gebaseerde module waarbij we een specifieke interface hebben gemaakt om op hoge snelheid digitale bit patronen kunnen genereren om aldus verschillende processoren, memories, controllers, en dergelijke te programeren. Hierbij is deze module uitgerust met FPGA's om aldus flexible het protocol te kunnen veranderen van het het type protocol dat we moeten gebruiken.
+Het device moet een low cost device zijn. Target 500,-EUR. Om aldus een serie product hiervan te kunnen maken. 
+        </p>
+
+        <p>        
+Bedrijf: IPTE
+        </p>
+        <p>        
+Promotor bedrijf: Tom Geurts
+        </p>
+      </section>
+
+      <anchor id="spider"/>
+      <section>
+        <title>Functioneel testen met Spider</title> 
+ 
+        <p>        
+Spider is een In Circuit test systeem voor het meten van componenten. Het is een eigen ontwikkeld product dat we met enkele andere functionaliteiten willen uitbreiden zoals functionele testen. Hierbij kunnen we gemengd gebruik maken van de hardware die reeds voorhanden is bij de Spider, of additionele instrumenten. Graag hadden we de mogelijkheid gehad om simpele functionele testen mee te kunnen doen. Ook digitale testen willen we mogelijk met de Spider aankunnen. Wat is hiervoor nodig, hoe kunnen we dit doen.
+        </p>
+        <p>        
+Bedrijf: IPTE
+        </p>
+        <p>        
+Promotor bedrijf: Tom Geurts
+         </p>
+      </section>
+      -->
+      
+      <anchor id="ledmeting"/>
+      <section>
+        <title>Meten van LED's relatief of absoluut op kleur</title>
+ 
+        <p>        
+Bij verschillende producten zitten er LED's op een PCB gemonteerd. Een voorbeeld van veelvuldig LED gebruik is een dashboard of een stop licht van een wagen. De opdracht bestaat hierin de kleur componenten en intensiteiten van de LED's te kunnen meten op een relatieve en absolute manier. Dit kan en mag met bestaande meetconcepten opgebouwd worden. Hiervoor moet wat aansturing van toestellen geschreven worden en de uitwaardering van metingen moet ook gedaan worden. Het optische systeem moet opgesteld worden en de eisen hiervan moeten uitgezocht en uitegwerkt worden. 
+        </p> 
+        <p>        
+Bedrijf: IPTE
+        </p>
+        <p>        
+Promotor bedrijf: Tom Geurts
+        </p>
+      </section>
+
+      <!--
+      <anchor id="option1"/>
+      <section>
+        <title>Integration Anritsu network emulator module in automated test environment</title>
+        <p>
+Option's activities: Option NV (www.option.com), the wireless technology company, is a leading innovator in the design, development and manufacture of 3G WCDMA (HSDPA and UMTS), EDGE, GPRS, GSM and WLAN technology products for wireless connectivity solutions. Option has built up an enviable reputation for creating exciting products that enhance the performance and functionality of wireless communications. Option's assets are the continuous focus on innovation and the possibility to customize its products to the requirements of the customer. Our customers are Network Operators worldwide (Vodafone, Proximus, China Mobile, SFR, TIM, Telenor, T-Mobile, Orange etc.). With a worldwide market share of 24% and more than 50% in Europe. Option is the biggest ODM (Original Design Manufacturer) of wireless PC data cards. Option's headquarters are in Leuven, Belgium. The company has Research &amp; Development in Leuven, a Software and Applications development centre in Adelsried (Germany), a Wireless Router development centre in Stockholm (Sweden) and an ISO 9002 production engineering and logistics facility in Cork, Ireland.
+        </p>
+        <p>
+Internship description: Automated testing of all parts of Option products (Hardware/Software/Firmware/Mechanical/...) is very important to guarantee quality towards customers. For this reason Option developed its own automated test system GOAT (General Option Automated Testing). This system can already handle quite some different types of automated testing, but to increase the confidentiality of the testing, more optimizations can be done and more tests can be made. The thesis will consist of creating a module for the automated test system that steers an Anritsu network emulator (GPRS/EDGE/UMTS/HSDPA...). The Anritsu MD8480C is a protocol simulator focused on UMTS and HSDPA networks. During design and validation phase of our products the MD8480C is used to verify hardware and software builds. To optimize the use of the test system an automated control engine has to be developed. The student will go through the major parts of a design cycle: design specification, architecture description, technology choices, implementation, integration and testing. The student will have to work quite independently, but with decent steering and follow-up from Option side.
+        </p>
+        <p>
+Skills: · Interest in system setups (HW/SW/FW/Protocol analyzers for GPRS/EDGE/UMTS/HSDPA...) · Programming language Perl (or want to learn) · Open minded, team work, creative, innovative
+        </p>
+        <p>
+Profile: · Master Industrial Engineer Electronics (preferably option "ICT")
+        </p>
+        <p>
+For more information please contact: Davy Michiels T 016 317 411 d.michiels@option.com
+        </p>
+        <p>
+Option nv, Kolonel Begaultlaan 45, 3012 Leuven, T 016 317 411, F 016 207 164, <link href="http://www.option.com">www.option.com</link>, info@option.com
+        </p>
+        </section>
+
+
+
+
+      <anchor id="option2"/>
+      <section>
+        <title>OPTIMALIZATION OF AN AUTOMATED TEST SYSTEM FOR MECHANICAL TESTING OF PCMCIA CARDS AND FUTURE DEVICES</title>
+        <p>
+Option's activities: Option NV (www.option.com), the wireless technology company, is a leading innovator in the design, development and manufacture of 3G WCDMA (HSDPA and UMTS), EDGE, GPRS, GSM and WLAN technology products for wireless connectivity solutions. 
+Option has built up an enviable reputation for creating exciting products that enhance the performance and functionality of wireless communications. 
+Option's assets are the continuous focus on innovation and the possibility to customize its products to the requirements of the customer. Our customers are Network Operators worldwide (Vodafone, Proximus, China Mobile, SFR, TIM, Telenor, T-Mobile, Orange etc.).
+With a worldwide market share of 24% and more than 50% in Europe. Option is the biggest ODM (Original Design Manufacturer) of wireless PC data cards. Option's headquarters are in Leuven, Belgium. 
+The company has Research &amp; Development in Leuven, a Software and Applications development centre in Adelsried (Germany), a Wireless Router development centre in Stockholm (Sweden) and an ISO 9002 production engineering and logistics facility in Cork, Ireland. 
+        </p>
+        <p>
+Internship description: Mechanical testing is an important aspect of the design validation and quality inspection of Option products. Option developed it's own automated test framework for both software and hardware tests. New products and technologies require some improvement and optimization of this system. The thesis is part of the reliability tests executed by the System &amp; Product Quality team, a part of the Engineering department. The main focus will be our automated free fall mechanic test system which consists of PIC controlled robotic arms and Perl oriented image recognition programs. This project has been started last year and is well-suited for some optimizations on steering and analysis side. The student will go through the complete cycle from (brief) pre-study, implementation, integration and testing. The student will have to work quite independently, but with decent steering and follow-up from Option side.
+        </p>
+        <p>
+Skills: · Electronic steering and data acquisition (potentially also high speed images) of the tests · Integration of test system within our own automated test system for other HW/SW/FW tests (Perl, PIC controller, LabView, ...) · Open minded, team work, creative, innovative
+        </p>
+        <p>
+Profile: · Master Industrial Engineer Electronics (preferably option "Design Techniques")
+        </p>
+        <p>
+For more information please contact: Davy Michiels T 016 317 411 d.michiels@option.com
+        </p>
+        <p>
+Option nv, Kolonel Begaultlaan 45, 3012 Leuven, T 016 317 411, F 016 207 164, <link href="http://www.option.com">www.option.com</link>, info@option.com
+        </p>
+       </section>
+
+
+
+
+
+
+      <anchor id="option3"/>
+      <section>
+        <title>Optimization &amp; extension of the Agilent network emulator test module</title>
+        <p>
+Option's activities: Option NV (www.option.com), the wireless technology company, is a leading innovator in the design, development and manufacture of 3G WCDMA (HSDPA and UMTS), EDGE, GPRS, GSM and WLAN technology products for wireless connectivity solutions. Option has built up an enviable reputation for creating exciting products that enhance the performance and functionality of wireless communications. Option's assets are the continuous focus on innovation and the possibility to customize its products to the requirements of the customer. Our customers are Network Operators worldwide (Vodafone, Proximus, China Mobile, SFR, TIM, Telenor, T-Mobile, Orange etc.). With a worldwide market share of 24% and more than 50% in Europe. Option is the biggest ODM (Original Design Manufacturer) of wireless PC data cards. Option's headquarters are in Leuven, Belgium. The company has Research &amp; Development in Leuven, a Software and Applications development centre in Adelsried (Germany), a Wireless Router development centre in Stockholm (Sweden) and an ISO 9002 production engineering and logistics facility in Cork, Ireland.
+        </p>
+        <p>
+Internship description: Automated testing of all parts of Option products (Hardware/Software/Firmware/Mechanical/...) is very important to guarantee quality towards customers. For this reason Option developed its own automated test system GOAT (General Option Automated Testing). This system can already handle quite some different types of automated testing, but to increase the confidentiality of the testing, more optimizations can be done and more tests can be made. The thesis will consist of optimizing and extending the Agilent network emulator (GPRS/EDGE/UMTS) module for the automatic test system. An Agilent 8960 test set is capable of doing protocol tests on technologies as GPRS, EDGE, UMTS and HSDPA. A basic integration towards the automated test system has been made using the GPIB interface. The thesis will focus on expanding the test capacity and enlarging the scope of features supported in an automated way. The student will go through the major parts of a design cycle: design specification, architecture description, implementation, integration and testing. The student will have to work quite independently, but with decent steering and follow-up from Option side.
+        </p>
+        <p>
+Option nv | Kolonel Begaultlaan 45 | 3012 Leuven | T 016 317 411 | F 016 207 164 | www.option.com | info@option.com
+        </p>
+        <p>
+Skills: · Interest in system setups (HW/SW/FW/Protocol analyzers for GPRS/EDGE/UMTS/HSDPA...) · Programming language Perl (or want to learn) · Open minded, team work, creative, innovative
+        </p>
+        <p>
+Profile: · Master Industrial Engineer Electronics (preferably option "ICT") or Bachelor Telecommunications
+        </p>
+        <p>
+For more information please contact: Davy Michiels T 016 317 411 d.michiels@option.com
+        </p>
+        <p>
+Option nv, Kolonel Begaultlaan 45, 3012 Leuven, T 016 317 411, F 016 207 164, <link href="http://www.option.com">www.option.com</link>, info@option.com
+        </p>
+       </section>
+
+
+
+
+      <anchor id="option4"/>
+      <section>
+        <title>STEERING OF AN AUTOMATED PRODUCT SAMPLE CHECKER DEVICE</title>
+        
+        <p>
+Option's activities: Option NV (www.option.com), the wireless technology company, is a leading innovator in the design, development and manufacture of 3G WCDMA (HSDPA and UMTS), EDGE, GPRS, GSM and WLAN technology products for wireless connectivity solutions. Option has built up an enviable reputation for creating exciting products that enhance the performance and functionality of wireless communications. Option's assets are the continuous focus on innovation and the possibility to customize its products to the requirements of the customer. Our customers are Network Operators worldwide (Vodafone, Proximus, China Mobile, SFR, TIM, Telenor, T-Mobile, Orange etc.). With a worldwide market share of 24% and more than 50% in Europe. Option is the biggest ODM (Original Design Manufacturer) of wireless PC data cards. Option's headquarters are in Leuven, Belgium. The company has Research &amp; Development in Leuven, a Software and Applications development centre in Adelsried (Germany), a Wireless Router development centre in Stockholm (Sweden) and an ISO 9002 production engineering and logistics facility in Cork, Ireland. Internship description: Automated testing of all parts of Option products (Hardware, Software, Firmware, Mechanical...) is very important to guarantee quality towards customers. For this reason Option developed its own automated test system GOAT (General Option Automated Testing). This system can already handle quite some different types of automated testing, but to increase the confidentiality of the testing, more optimizations can be done and more tests can be made. The internship will focus on the automation of sample testing. This testing is now performed manually, which is too labor intensive. A mechanical system is being developed in-house and will take care of insertion and removal of the product under test. The student will have to make a steering for this mechanical device, which is done via a PIC microcontroller. The system should seamless interact with our automation framework written in Perl. The student will go through the complete cycle from (brief) pre-study, design specification, architecture description, implementation, integration and testing. They will have to work quite independently, but with decent steering and followup from Option side.
+        </p>
+        <p>
+Skills: · Electronic steering and data acquisition of the tests · Set up a test system within our own automated test system for other HW tests (LabView, Perl, Rational Robot) · Open minded, team work, creative, innovative Profile: · Master Electronics (ICT or Electronics) · The internship will start in July 2007 For more information please contact: Davy Michiels T 016 317 411 d.michiels@option.com
+        </p>
+        <p>
+Option nv, Kolonel Begaultlaan 45, 3012 Leuven, T 016 317 411, F 016 207 164, <link href="http://www.option.com">www.option.com</link>, info@option.com
+        </p>
+      </section>      
+
+      
+      
+      
+      <anchor id="fabriekvis"/>
+      <section>
+        <title>Visualisatie van een fabrieksbesturing</title>
+
+<p>
+Het doel van dit eindwerk is het ontwerpen van een webinterface voor een bestaande simulatie van een fabrieksbesturing.
+De simulatie bestaat uit Java software en is ontworpen in het kader van onderzoeksprojecten in dynamische productiesystemen bij
+PMA, KULeuven. Dynamisch betekent hier dat het planningsschema, dat op voorhand opgesteld is, nog tijdens de productie
+gewijzigd kan worden.
+</p>
+
+<p>
+Met de te ontwerpen webinterface is het mogelijk om het resultaat van de simulatie te bekijken en om bepaalde bedrijfsparameters
+te wijzigen. De webinterface moet kunnen werken in een gewone browser. Vermits er geen Java-applets gebruikt zullen worden, moet
+er  onderzocht worden welke technologie (zowel client- als server-zijde) in aanmerking komt voor een grafische visualisatie.
+Aan de client zijde is er enkel de browser (die eventueel Javascript gebruikt) en aan de server-zijde (waar de webinterface logica gehuisvest is)
+draait de webapplicatie. Deze webapplicatie communiceert met de Java simulatiesoftware.
+</p>
+<p>
+Het kiezen van de technologie en de daaruit volgende architectuur maakt deel uit van het eindwerk.
+</p>
+      </section>
+
+
+
+
+      <anchor id="fpgavis"/>
+      <section>
+        <title>Real-time visuele controle met behulp van een FPGA</title>
+        
+        <p>
+Dit eindwerk beoogt de interfacing en verwerking van camerabeelden via een virtexII-pro FPGA. 
+Aangezien deze FPGA beschikt over een ingebouwde powerpc is het mogelijk om aan hardware-software 
+codesign te doen. Dit codesign maakt het mogelijk om de tijdrovende beeldverwerkingsoperatie uit te 
+voeren op de FPGA terwijl het binnenlezen van de beelden via de powerpc gebeurt. 
+        </p>
+        <p>
+De ontwikkelde software/hardware kan getest en vergeleken worden met de huidige technologieen door 
+de integratie in een real-time visiecontroletoepassing. 
+        </p>
+        <p>
+Een mogelijke toepassing hiervoor is het bij ACRO lopende Tetra project over de 'appel plukmachine' 
+waarbij een appel moet herkend worden m.b.v. visie. 
+Deze herkenning zou aanzienlijk versneld kunnen worden door het gebruik van een FPGA. 
+        </p>
+        <p>
+Opdrachten:
+        </p>
+        <ul>
+          <li>
+            literatuurstudie (FPGA, visie, codesign, ...) 20%
+          </li>
+          <li>
+            implementatie (C++, VHDL) 60 %
+          </li>
+          <li>
+            experimenten 20%
+          </li>
+        </ul>
+        <p>
+           Begeleider: Peter Slaets 
+        </p>
+      </section>
+      
+      
+      <anchor id="webcam3d"/>
+      <section>
+        <title>3-D object herkenning m.b.v. webcam</title>
+
+        <p>
+Vorig jaar is er een eindwerk gestart in samenwerking met Mecon (ingenieursbedrijf in Gent). 
+Hun interesseveld gaat uit naar de mogelijke implementatie van real-time visiecontrole in de assemblage.
+Dit eindwerk spitste zicht toe op de uitlijning van aangeboden werkstukken op basis van CAD-gegevens en 
+statische camera beelden. Een volgende stap in dit proces is de herkenning en positionering 
+(positie en orientatie) van de werkstukken op basis van opgemeten beelden samen met de opgemeten 
+3-D verplaatsing van de camera. 
+        </p>
+        <p>
+Voor de beeldverwerking staat er een linux-pc met Fire-Wire camera ter beschikking alsook een 
+de beeldverwerkingsoftware OpenCV. 
+        </p>
+        <p>
+Het doel van dit eindwerk is de beeldverwerkingssoftware uit te breiden met stochastische schatter 
+(Kalman filter of particle filter) die de positie en orientatie van het werkstuk kunnen aangeven. 
+        </p>
+        <p>
+Opdrachten:
+        </p>
+          <ul>
+            <li>
+              literatuurstudie (schatter, modelleren) 20%
+            </li>
+            <li>
+              implementatie (c++) 40%
+            </li>
+            <li>
+              experimenten (Tool) 40%
+            </li>
+          </ul>
+          
+            <p>
+                 Begeleiders: Kasper Claes (KUL) en Peter Slaets
+            </p>
+      </section>
+-->
+
+      <anchor id="fpgart"/>
+      <section>
+        <title>Real-time applicatie op een FPGA</title>
+
+        <p>
+  Het FMTC (Flanders' Mechatronics Technology Centre) is een
+  onderzoekscentrum dat nauw samenwerkt met de mechatronische industrie.
+  Ze doen o.a. onderzoek naar het ontwikkelen van een 'Open Source
+  Real-time controller voor machines' waarbij flexibiliteit en
+  herconfigureerbaarheid prioritair zijn.  Het resultaat moet een open,
+  goedkope machine controller zijn die minstens even performant is als
+  de bestaande commerciele 'gesloten' oplossingen.
+        </p>
+        <p>
+  Een ideaal hardware platform om deze controller op te ontwikkelen is
+  de combinatie FPGA/powerpc omdat hierin de hoge uitvoeringssnelheid
+  (door parallellisme) van een ASIC gecombineerd kan worden met de
+  flexibiliteit van de software voor een microprocessor.  Op die manier
+  kunnen bepaalde stukken van de controlelus, die heel nauwe real-time
+  vereisten vertonen of veel rekenkracht vereisen, op de FPGA verwerkt
+  worden.
+        </p>
+        <p>
+  Dit eindwerk focust op het uitwerken van een controle/interface
+  applicatie die gebruik maakt van een FPGA in combinatie met een
+  powerpc.  Het (bestaande) software framework (<link href="http://www.orocos.org">orocos</link>)
+  maakt gebruik van een real-time variant van
+  het populaire linux besturingssysteem (<link href="http://www.rtai.org">RTAI</link> of
+  <link href="http://www.xenomai.org">Xenomai</link>), en is reeds geport naar de powerpc
+  architectuur.
+        </p>
+        <p>
+  Door gebruik te maken van de hardware-software codesign (FPGA-powerpc)
+  mogelijkheden, kunnen bepaalde interface/controlebewerkingen zeer
+  effcient in hardware uitgevoerd worden op de FPGA en is er
+  tegelijkertijd veel flexibiliteit door de herconfigureerbaarheid van
+  de FPGA.
+        </p>
+        <p>
+  Van de student wordt gevraagd om de orocos interfacing met bepaalde
+  sensor- of actuatorsignalen (bv. resolversignalen, ...) te voorzien
+  via de FPGA.
+        </p>
+        <p>
+  In een volgende stap kan in de software de mogelijkheid toegevoegd worden
+  om de selectie te maken tussen uitvoering in hardware of software.
+  Voor dit eindwerk moet de student een vooraf afgesproken aantal dagen
+  (+-20) aanwezig zijn op het FMTC te Leuven.
+        </p>
+        <p>
+  Opdrachten:
+        </p>
+        
+        <ul>
+         <li>
+           literatuurstudie (Powerpc,FPGA,OROCOS) 20%
+         </li>
+         <li>
+           implementatie (C++,VHDL)               50%
+         </li>
+         <li>
+           experimenten                           30%
+         </li>
+       </ul>
+    </section>
+
+
+    
+<!-- 
+  teruggetrokken onderwerp
+  
+    <anchor id="loggingdongle"/>
+      <section>
+        <title>Implementatie van hardware voor een logging-dongle</title>
+
+        <p>
+In het kader van enkele lopende projecten wensen we een oplossing te
+vinden voor een "logging-probleem". We wensen een gebruiker toegang te
+geven tot een dataset, enkel wanneer de actie die hij erop wenst uit te
+voeren gelogd wordt op een logging server. De logging server zal
+vervolgens een goedkeuring geven aan de gebruiker om de actie op dataset
+uit te voeren. Probleem van een dergelijk gecentraliseerd systeem is
+echter dat de logging server niet offline mag, en steeds bereikbaar moet
+zijn. Vandaar dat we naar een gedecentraliseerd systeem wensen over te
+gaan.
+        </p>
+        <p>
+Een dongle kan als een mini-logging server optreden, en acties van
+gebruikers opslaan. Op de computer van de gebruiker draait de software die
+connectie maakt met de dataset, en die logging events naar de dongle zal
+doorsturen. In een dergelijke setup heeft de gebruiker echter nog de
+volledige controle over de software en kan ze pogen deze aan te passen om
+zonder tussenkomst van de dongle toegang te hebben tot de dataset. Om dit
+tegen te gaan zullen we nieuwe technologie gebruiken die in het Re-Trust
+project ontwikkeld wordt.
+        </p>
+        <p>
+
+De algemene doelstelling van het Re-Trust project is het introduceren van
+een protocol dat continue de authenticiteit van software controleert
+tijdens het gebruik van de software zelf. Een ongeoorloofde wijziging van
+de software moet resulteren in het onderbreken van de uitvoering ervan.
+Een basis protocol, het TrustFlow Protocol, is reeds omschreven, en werkt
+als volgt:
+        </p>
+        <p>
+
+Een extra software module wordt ingebed in de software van de gebruiker.
+Door middel van obfuscatie technieken wordt deze module in de software
+ingebed. Bij uitvoering van de software zendt deze module continu 'secure
+tags' door naar de dongle. Men kan dit zien als een continue stroom van
+handtekeningen die telkens een bewijs leveren over de integriteit van de
+software. Op de dongle worden deze tags geverifieerd, en wordt een kleine
+update van de software terug gestuurd zodat deze verder kan werken.
+Concrete uitwerking hiervan start in september, wanneer het Re-Trust
+project van start gaat, en valt buiten de scope van deze thesis.
+        </p>
+        <p>
+
+Doelstelling van dit eindwerk is het ontwikkelen van een dergelijke
+dongle, met twee hoofd functionaliteiten:
+        </p>
+        
+        <ul>
+          <li>
+          Het loggen van acties. Het werk van deze thesis beperkt zich
+hoofdzakelijk tot het uitwerken van deze functionaliteit.
+          <ul>
+            <li>
+Een eerste aspect hiervan is het uitwerken van een logfile waarnaar de
+acties worden weggeschreven.
+            </li>
+            <li>
+Vervolgens moet er een interface voorzien worden om deze acties te
+verzenden naar een centrale logging server.
+            </li>
+            <li>
+Tenslotte beveiligen we de integriteit van de logfile door middel van een
+hash-chain.
+            </li>
+            </ul>
+          </li>
+          <li>
+Het authentiseren van software. We voorzien een rudimentaire
+implementatie van dit mechanisme gebaseerd op de vooruitgang van het
+retrust project.
+          </li>
+        </ul>
+<p>        
+Er zal zich op de dongle een FPGA bevinden waarop bovenvernoemde
+functionaliteiten in VHDL zullen geïmplementeerd worden.    
+</p>    
+<p>
+Promotors: Nele Mentens, Karel Wouters, Brecht Wyseur
+</p>
+<p>
+Bedrijf: KULeuven (COSIC)
+</p>
+      </section>
+  --> 
+  
+  
+  
+  <!--
+      <anchor id="testpattern"/>
+      <section>
+        <title>Test Pattern Verification of SoC Designs Accelerated through a Hardware Emulation Platform</title>
+
+        <p>
+The goal of this thesis is to automate the verification of test patterns for SoC designs using a state-of-the-art hardware emulation platform.
+        </p>
+        <p>
+With test patterns we verify that the final fabricated chip doesn’t have any manufacturing defects.
+For instance when making a System on Chip (SoC) for a mobile phone, car, airplane, etc. we want to make sure that each chip is fully functional because we don’t want a defect to make your mobile phone to crash or even worse: your airplane.
+        </p>
+        <p>
+But even before we have a real ASIC, we want to verify the test patterns on a theoretical model close to reality. The traditional way of doing this is by gate-level simulation. Looking at the growing complexity of the SoC designs as well as the test patterns it would take months of simulation time even with today’s powerful servers.
+        </p>
+        <p>
+Therefore we want to use our hardware emulation platform to accelerate the verification. Such a platform will hold your design on reconfigurable logic (FPGAs) and you can drive test patterns to the platform through software.
+The Emulation platform is more than a prototype board with an FPGA. It has hundreds of FPGAs that can hold very large and complex SoCs, also a logic analyzer and memories are inside.
+        </p>
+        <p>
+The aim is to design a reusable interface (Transactor) that translates software commands to real hardware processes on the emulator. This will imply writing software (SystemC/C++) and hardware code (SystemVerilog). The interface between hardware and software exists.
+The Transactor needs to be designed in a reusable way that it can be retargeted to any design.
+        </p>
+        <p>
+The thesis will contribute to the IMEC M4 project where we target to new technologies that can handle multiple cellular and WLAN standards. We are designing wireless terminals that support several multimedia standards and are low power.
+        </p>
+        <p>
+2 Students industrial/civil engineer
+        </p>
+        <p>
+Contact: Kristof Loots (kristof.loots@imec.be)
+        </p>
+      </section>
+      
+      -->
+      
+      
+      <!--
+      
+       Dit onderwerp is teruggetrokken
+       
+      <anchor id="lvds"/>      
+      <section>
+        <title>Ontwerp van ESD-geprotecteerde LVDS IO-paden in 130nm CMOS technologie</title>
+
+<p>
+LVDS staat voor <em>Low Voltage Differential Signaling</em> en is een moderne 
+interface standaard in o.a. tele- en datacommunicatie voor datatransfer 
+aan zeer hoge snelheden (bv. 500Mbit/s). Met deze techniek worden binaire 
+signalen differentieel uitgestuurd d.m.v. een blokgolf met kleine 
+amplitude (typisch 175mV), gecentreerd rond een vaste common-mode spanning 
+(typisch 1.25V). Deze kleine signaalswing garandeert een sterk verlaagd 
+vermogenverbruik en snellere transitietijden tegenover andere interfaces. 
+Bijkomende voordelen van differentiële datatransfer zijn de onderdrukking 
+van zowel common-mode ruis als elektromagnetische straling (EMI).
+</p>
+<p>
+De LVDS interface bestaat uit 3 blokken: driver, receiver en bias. 
+Off-chip datatransfer kan pas als de circuits in een zogenaamde 
+pad-structuur (d.i. met vaste hoogte en breedte) worden opgenomen. De 
+uiteindelijke paden kunnen dan in een standaard IO-ring van een chip 
+geplaatst worden. Elk pad in de IO-ring moet ook beschermd worden tegen 
+elektrostatische ontlading (ESD) via de pinnen.
+</p>
+<p>
+
+Het doel van dit eindwerk bestaat uit het ontwerp, simulatie, layout en 
+verificatie van de 3 modules met bijhorende ESD-protecties.
+We werken in een commerciële 130nm CMOS technologie waar er bestaande 
+paden als referentie beschikbaar zijn voor de opbouw van het vaste 
+pad-frame. In dit pad-frame kunnen dan de specifieke ESD 
+protectiestrukturen worden ontworpen volgens vooropgestelde ESD 
+richtlijnen.
+De LVDS driver, receiver en bias circuits worden eerst ontworpen en 
+gesimuleerd op transistorniveau (naar bestaande architectuur en 
+specificaties) om daarna gelayout te worden in de resterende vrije 
+oppervlakte van het pad (waar eerder ESD werd ingebracht). Tijdens de 
+layout-fase kan je de getekende layout continu verifiëren m.b.v. DRC 
+(Design Rule Check). Na layout wordt met LVS (Layout vs. Schematic) de 
+connectiviteit tussen transistorschema en layout nagegaan. LPE (Layout 
+Parasitic Extraction) laat je toe uit de finale layout een (ASCII) Spice 
+netlijst te extraheren die ook parasitaire capaciteiten en weerstanden 
+t.g.v. <em>interconnect</em> (metal routing, etc.) bevat. Deze parasitairen 
+worden heel belangrijk in kleinere technologieën doordat ze interne timing 
+van het circuit danig kunnen beïnvloeden. Deze LPE netlijst dient dan ook 
+als input voor post-layout simulatie.
+</p>
+<p>
+
+Dit uitdagende eindwerk vereist regelmatige aanwezigheid in IMEC voor 
+ontwerpondersteuning en het gebruik van de specifieke software tools.
+</p>
+<p>
+
+Software tools (state-of-the-art) en omgeving: 
+</p>
+<ul>
+  <li>
+	Cadence (Virtuoso, Composer, Analog Environment, Ocean, Spectre simulator
+	Calibre (DRC, LVS, LPE)
+  </li>
+  <li>
+	Linux/UNIX
+  </li>
+ </ul>
+<p>
+Aantal personen: 2 tot 3
+</p>
+<p>
+
+Schatting:
+</p>
+<ul>
+  <li>
+	10% layout van het pad-frame en de ESD strukturen
+  </li>
+  <li>
+	40% circuit design en simulatie voor de LVDS driver, receiver en biasmodules
+  </li>
+  <li>
+	40% layout van de LVDS driver, receiver en biasmodules
+  </li>
+  <li>
+	10% verificatie (pre- en post-layout)
+  </li>
+  </ul>
+ </section>      
+-->
+ 
+ 
+      <anchor id="gan"/>      
+      <section>
+        <title>Lichtgewicht DC voeding voor draagbare toestellen gebaseerd op nieuwe GaN transistors</title>      
+      
+        <p>
+Momenteel lopen we steeds meer rond met allerhande draagbare toestellen: GSM, MP3-player, PDA, portable computer, Digitaal fototoestel, … Al deze toestellen werken natuurlijk op batterijen en batterijen moeten worden opgeladen.
+En als je op reis gaat, merk je het wel: de lader van je GSM en zo is vaak groter en weegt vaak zwaarder dan je GSM zelf.
+De reden hiervoor ligt voor de hand: zoals in de cursus vermogenelektronica gezien werd, is hiervoor een schakelende voeding nodig en de verliezen van deze voeding worden in belangrijke mate bepaald door de vermogenverliezen van de schakelende transistor.
+Het gewicht wordt dan weer in belangrijke mate bepaald door de transformator (met “zware” magnetische kern).
+Voor beide problemen biedt de recent ontwikkelde GaN technologie een oplossing.
+De veel lagere aan-weerstand van deze transistors laat toe een veel kleinere vermogentransistor te gebruiken bij dezelfde stroom (omdat er minder koelvin nodig is) en de hogere schakelfrequentie aan dewelke deze transistors kunnen schakelen laat toe de transformator substantieel kleiner en lichter te nemen.
+Binnen IMEC worden prototypes van deze nieuwe GaN transistors ontwikkeld. Het onderwerp van dit eindwerk is deze nieuwe transistors te gebruiken in een klassiek ontwerp van een schakelende voeding en aan te tonen dat er met een kleinere transistor, aan een hogere schakelfrequentie en met een kleinere transformator kan gewerkt worden.
+En dit alles natuurlijk met een groter rendement.
+        </p>
+
+        <p>
+KHLim Promotor: dr.ir. Jan Genoe
+        </p>
+        <p>
+IMEC Promotor: dr. ir. Joff Derluyn
+        </p>
+
+
+      </section>
+
+ 
+<!--
+
+      <anchor id="onekbit"/>
+      <section>
+        <title>Design van een CuTCNQ 1kbit geheugen bovenop een CMOS BEOL process</title>
+
+        <p>
+Hedendaagse geheugens on top of silicon (denk maar aan je USB-stick) zijn gebaseerd op een floating gate (FLOTOX) transistor, 
+en kennen nog steeds een continue toename van de dichtheid. (De grootte van de gemiddelde USB stick verdubbelt om de 18 maand). 
+Het is echter duidelijk dat de floating gate transistor de schaling regels van de "gewone" transistor niet meer 
+zo mooi zal kunnen volgen in de komende generaties silicium. 
+Vandaar dat er volop gezocht wordt naar alternatieven die dat wel zullen kunnen. 
+Het wordt duidelijk dat dit schakelende weerstanden zullen zijn. 
+Wereldwijd zijn er verschillende alternatieven die bekeken worden. 
+Een van deze alternatieven is het organisch materiaal CuTCNQ, 
+waar recentelijk op IMEC redelijk goede resultaten mee bekomen zijn. 
+Vandaar dat we een stap verder willen zetten, 
+namelijk van het maken van individuele CuTCNQ geheugen elementen naar een klein geheugen (1 kilobit) geintegreerd bovenop het geheugenuitleescircuit in silicium. 
+Hiervoor dient er natuurlijk dit geheugenuitleescircuit ontworpen te worden, voldoende aan de specifieke eisen van het gebruikte geheugenmateriaal. 
+Dit ontwerp van het circuit vormt het onderwerp van dit chip-design eindwerk.
+        </p>
+        <p>
+KHLim Promotor: dr.ir. Jan Genoe 
+        </p>
+      </section>
+
+
+
+
+
+
+      <anchor id="controleinterface"/>
+      <section>
+        <title>Optimalisatie van een controle-intefacekaart</title>
+
+ 
+        <p>
+Het belangrijkste struikelblok bij de toepassing van een eenvoudige PC als controle-eenheid
+is de interfacing tussen de PC en het proces. Voorgaande studies realiseerden reeds op basis van een FPGA en aparte microprocessorkaarten  een ontwerp van een controle-interfacekaart die flexiebel en modulair is en bovendien eenvoudig, goedkoop maar toch voldoende snel en nauwkeurig is. Hierdoor is de kaart universeel inzetbaar in (servo-) controletoepassingen zoals bijvoorbeeld in de aansturing van een XY-tafel, van een robot of bij ‘visual servoing’ toepassingen.
+        </p>
+        
+        <p>
+Dit eindwerk beoogt de verdere optimalisatie van dit ontwerp zoals:
+        </p>
+        <ul>
+<li>
+het robuuster maken van de communicatie
+</li>
+<li>
+de uitbreiding van DC- naar stappenmotoren
+</li>
+<li>
+de uitbreiding van incrementaal opnemers naar absolute opnemers
+</li>
+<li>
+de toepassing van andere connectiewijzen (naast parallelle poort)
+</li>
+        </ul>
+ 
+<p>
+Voorgaand werk:
+
+Wim Beckers en Jochen Vandorpe, Hardware ontwerp voor opwaardering van robotcontroleinterface, IWT/PMA, KHLim/KULeuven, E05/ELO/03
+</p>
+ 
+<p>
+Studie van voorgaande realisaties  20% Hardware interfacing 20 %
+</p>
+<p>
+Software: VHDL, C, (micro-processor + Linux PC)  40%
+</p>
+
+<p>
+Experimenten 20%
+</p>
+
+<p>
+Promotor KHLim: Johan Baeten
+</p>
+
+</section>
+      -->
+      
+<!-- 
+
+    ICT
+
+  -->      
+      
+      <anchor id="objtracking"/>
+      <section>
+        <title>Visiegebaseerde bewegingscontrole voor object tracking</title>
+
+
+        <p>
+          De laatste jaren gaat heel wat onderzoek in de richting van visiegebaseerde bewegingscontrole met als ‘real-live’ voorbeeld de coördinatie tussen hand en ogen bij de mens. Deze coördinatie maakt het mogelijk om ook zonder exact model van onze armen heel nauwkeurig objecten te volgen en op te nemen.
+        </p>
+        <p>
+          Dit eindwerk beoogt de implementatie van deze visiegebaseerde bewegingscontrole (‘visual servoing’) op de IBM robot uit het labo regeltechniek. Hierbij wensen we alle informatie voor de controle uit het beeld te betrekken zonder enige kennis over de positie van de robot. Dit maakt dan de incrementaal opnemers op de robot overbodig.
+        </p>
+        <p>
+          Het eindwerk omvat de implementatie van de aansturing van de robot vanuit een PC, de identificatie van de robotstand uit de verandering van het beeld bij beweging alsook de controle van de robotpositie zodanig dat een vooropgesteld referentiebeeld behaald wordt en behouden blijft.
+        </p>
+        <p>
+          Studie van voorgaande realisaties  20%
+        </p>
+        <p>
+          Programmeren C, Linux, Beeldverwerking, zelf-calibratie - identificatie 50%
+        </p>
+        <p>
+          Interfacing 10 %
+        </p>
+        <p>
+          Experimenten 20%
+        </p>
+        <p>
+Promotor KHLim: Johan Baeten
+        </p>
+      </section>
+
+<!--      
+     
+      <anchor id="ase"/>      
+      <section>
+        <title>Embedded Webapplicatie</title>
+ 
+        <p> 
+De firma ASE R&amp;D Europe N.V. is een dochteronderneming van de Japanse international AMANO en
+produceert  tijdsregistratie- en parkeersystemen.
+        </p>
+        <p> 
+Het onderwerp kadert in een simulatie tool voor tijdsregistratie machines en access controllers.
+De applicatie wordt op een embedded controller board (nog te kiezen) geschreven. De applicatie bevat een Webinterface, een aantal ingangen en een aantal uitgangen.
+De applicatie moet real-life emulaties doen van card swipes in verschillende formaten. Bv. een proximity card swipe met een clk/data interface.
+De applicatie moet mogelijkheden hebben om fouten te genereren (bv parity errors, LRC errors, ...). 
+Verder wordt er gedacht aan aan andere formaten zoals wiegand, barcode, .... .
+De webinterface moet de mogelijkheid bieden om stand alone testen toe te laten. Bv kaarten generen met nummers van 1 tot 999999.
+        </p>
+        <p>
+Dit is een vrij globaal beeld van het eindwerk.
+De studenten doorlopen het hele ontwikkelprocess.
+        </p>
+        <ul>
+          <li>
+Opstellen van specificaties. (Welk OS? (Embedded Linux, Windows CE, ...of anderen), Welke functionaliteit? ....)
+          </li>
+          <li>
+Realisatie van het electronisch schema.
+          </li>
+          <li>
+Eventueel een PCB maken of laten maken. (of een bestaande module gebruiken)
+          </li>
+          <li>
+De embedded applicatie schrijven (modules, webserver, ....).
+          </li>
+          <li>
+Documentatie.
+          </li>
+          <li>
+Statische analyse.
+          </li>
+         </ul>
+ 
+         <p>
+           Contactpersoon:
+         </p>
+         <p>         
+Frank Valkenborgh
+         </p>
+         <p>         
+ASE R&amp;D Europe N.V.
+< ! - -
+frank.valkenborgh@ase-europe.net
+  - - >
+         </p>
+         <p>         
+Westerring 2
+         </p>
+         <p>         
+3600 Genk
+         </p>
+         <p>         
++32 (0)89 32.39.20
+         </p>
+      </section> 
+ -->
+      <anchor id="pvs"/>
+      <section>
+        <title>Gateway voor een omroeptafel</title>
+        
+        <p>
+           PVS is een bedrijf, gespecialiseerd in industriële en professionele geluidsinstallaties waaronder ook de industriële omroepsystemen onder gecatalogeerd kunnen worden.
+        </p>
+        <p>
+De hoofdfunctie van een omroepsystemen is het omroepen van berichten. Aangezien de informatie, hetzij een bericht, een alarmeringsboodschap of audio, verschillend kan zijn per zone, is een schakelnetwerk van contacten noodzakelijk. Het centrale systeem van waaruit de contacten gestuurd kunnen worden is de “digital paging microphone” of de zogenaamde APM “paging microphone”. Deze module heeft de flexibiliteit om de functie van de toetsen te programmeren:
+        </p>
+
+        <ul>
+          <li>
+         Men kan met een knop op de APM verschillende contacten laten schakelen waardoor de oproep of muziek naar de desbetreffende ruimtes wordt geleid en daar hoorbaar wordt gemaakt.
+          </li>
+          <li>
+         Het is ook mogelijk om meerdere contacten te schakelen waardoor de oproep of muziek in meerdere ruimtes hoorbaar wordt
+          </li>
+          <li>
+         Hiernaast kan men ook deuren, versterkers, … schakelen.
+          </li>
+         </ul>
+         <p>
+De huidige systemen worden gekenmerkt door een controlebus structuur. De sturing van de contacten is gebaseerd op een RS485 busstructuur waarvoor PVS een eigen aangepast protocol heeft ontwikkeld. Voor het datatransport wordt gebruikt gemaakt van een UTP kabel.
+         </p>
+         <p>
+Door de beperkingen (max 32 zones) van de omroeptafel is er steeds meer de vraag naar grotere tafels of touchscreens.
+         </p>
+         <p>
+De bedoeling is dat de gebruiker dit kan over Ethernet kan  gebeuren . Hiervoor heeft PVS een Ethernet module naar RS232 module beschikbaar (gateway).
+         </p>
+         <p>
+De bedoeling is dat de volgende dingen gemaakt worden:
+         </p>
+         <ul>
+           <li>
+         Print met daarop het volgende:
+             <ul>
+               <li>
+        omvorming RS232 naar RS485 printje (bidirectioneel)
+               </li>
+               <li>
+        DAC om digitale audio terug analoog te maken
+               </li>
+             </ul>
+           </li>
+           <li>
+         De gateway software (Java for embedded controller)
+           </li>
+           <li>
+         Software pc (website of application)
+             <ul>
+               <li>
+        Moet per klant eenvoudig te configureren zijn (omroepzones, toggelen van relais, inschakel vertraging).
+               </li>
+               <li>
+        Omroep microfoon moet op PC kunnen aangesloten worden en audio moet digitaal over Ethernet naar de gateway gestuurd worden.
+               </li>
+               <li>
+        Mogelijkheid om berichten af te spelen die op pc staan. Berichten moeten ook automatisch via timers kunnen worden afgespeeld.      
+               </li>
+               <li>
+        Relais moeten ook via een timerfunctie gestuurd kunnen worden.            
+               </li>
+             </ul>
+           </li>
+          </ul>
+ 
+         <p>
+Ing. Koen Swinters
+         </p>
+         <p>
+R&amp;D Engineer
+         </p>
+         <p>
+PVSnv
+         </p>
+         <p>
+Veldstraat 99, 3500 Hasselt (Belgium)
+         </p>
+         <p>
+Tel +32 11 275566
+         </p>
+         <p>
+fax +32 11 272781
+         </p>
+      </section>
+  
+      <anchor id="kerberos"/>
+      <section>
+        <title>Kerberos/LDAP authenticatie bij OpenAFS</title>
+ 
+        <p>
+          Het is mogelijk om de authenticatie van gebruikers te laten verlopen via LDAP.
+          Om veiligheidsredenen is het beter om de authenticatie van gebruikers te laten verlopen via Kerberos. LDAP 
+          wordt dan enkel gebruikt voor het beheren van de gebruikersgegevens (naam, homedirectory, uid, gid en andere).
+        </p>
+        <p>
+          Voor het onderbrengen van de homedirectory kan in plaats van NFS ook gebruikt worden. 
+          Dit is een clustering filesystem dat met Kerberos 
+          beveiligd is en is daarom een goede vervanger voor NFS die momenteel nog in gebruik is. Eén van de voordelen van OpenAFS
+          is dat volumes van de ene naar de andere server verhuisd kunnen worden zonder dat de gebruiker daar iets van merkt.
+        </p>
+        <p>
+          Het is de bedoeling om een OpenAFS server te installeren en te configureren. 
+          Verder wordt naast de OpenAFS server(s) een Kerberos/LDAP server opgezet. Deze server moet ook geïnstalleerd
+          en geconfigureerd worden. Voor de testen wordt een Linux client gebruikt waarop een voor Kerberos aangepaste kdm draait.
+          Het liefst worden alle installaties op Slackware. Eventueel kan hiervan afgeweken worden.
+        </p>
+        <p>
+          Aantal studenten: 2 (eventueel ook 1)
+        </p>
+        <p>
+          Promotor KHLim: Leo Rutten
+        </p>
+      </section>
+ 
+ 
+      <anchor id="lenya"/>
+      <section>
+        <title>Applicatieontwerp met Lenya CMS</title>
+ 
+        <p>
+          Het doel van dit eindwerk is nagaan of Lenya geschikt is voor applicatieontwerp. Oorspronkelijk
+          is Lenya een content management system, waarmee via de browser inhoud kan veranderd worden. Lenya
+          kan de gewijzigde documenten naast HTML ook in het XML formaat opgeslaan. Deze laatste mogelijkheid
+          moet onderzocht worden. Het voordeel van XML is de stricte syntax controle van de documenten.
+        </p>
+        <p>
+          Het onderzoek in dit eindwerk moet nagaan of het mogelijk is om applicatie te ontwerpen waarbij meerdere
+          gebruikers via hun browser samen werken aan een gemeenschappelijke gegegensbron. Deze gegevensbron bestaat zowel
+          uit gestructureerde informatie als informatie in een vrij formaat tteken met paragrafen, opsommingen en andere).
+          Voor gestructureerde informatie is XML een mogelijke opslagvorm; voor vrij-formaat informatie is XML de enige
+          opslagvorm.
+          Er moet ook onderzocht worden of de ingegeven XML documenten automatisch naar PDF kunnen geëxporteerd worden.
+        </p>
+        <p>
+          De reden waarom Lenya CMS in dit eindwerk gebruikt moet worden is meervoudig:
+        </p>
+        <ul>
+          <li>
+            Lenya is een CMS. Meerdere gebruikers kunnen inloggen en via een ingbouwde editor bronnen wijzigen.
+          </li>
+          <li>
+            Lenya is opgebouw bovenop Cocoon. deze laatste is een XML engine die als een servlet draait. Er is rond Cocoon
+            al veel expertise opgebouwd in de opleiding ing. ELO.
+          </li>
+          <li>
+            Een gedeelte van de te wijzigen informatie is een vrij formaat. Hiervoor heb je een CMS nodig.
+          </li>
+          <li>
+            Het andere gedeelte van de informatie is gestructureerd. Gelukkig is Lenya uitgerust met een ingebouwde editor
+            waarmee het mogelijk is om XML informatie te wijzigen zonder de XML syntax regels van dat bestand te overtreden.
+            Deze regels zijn opgesteld in het RelaxNG formaat.
+          </li>
+          <li>
+            Lenya gebruikt geen database voor de opslag van de te wijzigen informatie. Een database is niet flexibel genoeg.
+            Daarenboven heeft Lenya zijn eigen versiebeheer.
+          </li>
+        </ul>
+        <p>
+          Aantal studenten: 2 (eventueel ook 1)
+        </p>
+        <p>
+          Promotor KHLim: Leo Rutten
+        </p>
+      </section>
+ 
+ 
+      <anchor id="netkit"/>
+      <section>
+        <title>Netwerkdemo's ontwerpen voor Netkit</title>
+ 
+        <p>
+          Netkit is de tool die voor het vak datacommunicatie gebruikt wordt voor de oefening. Het doel van dit eindwerk
+          is het opstellen en testen van een aantal demo's. Deze demo's demonstreren een aantal technieken zoals 
+          tunneling, quality of service en andere.
+        </p>
+        <p>
+          Aantal studenten: 2 (eventueel ook 1)
+        </p>
+        <p>
+          Promotor KHLim: Leo Rutten
+        </p>
+      </section>
+ 
+ 
+      <anchor id="parlofoon"/>
+      <section>
+        <title>Parlofoonsysteem met integratie van MMS</title>
+ 
+<p>
+Het eerste gedeelte van het eindwerk zal gebaseerd zijn op onderzoek, om zo een bredere kennis van gebruikte protocollen en parlofoonsystemen te verkrijgen. Het hoofddoel zal dan zijn om deze verworven kennis te gaan gebruiken om de verschillende parlofoonsystemen van verschillende merken te gaan onderbrengen in 1 netwerk. Het is dus de bedoeling om een parlofoon van het merk X eenvoudig te koppelen met een parlofoon van het merk Y over hetzelfde netwerk. Daar de gebruikte protocollen van parlofoons van verschillende parlofoonsystemen van elkaar verschillen zal er bijhorende hardware moeten voorzien worden. De besturing van deze hardware zal dan verzorgd worden door al dan niet zelfgeschreven software. Hoe deze verschillende systemen met elkaar gekoppeld gaan worden, zoals welke hard- en software gebruikt zal worden, zal dus blijken uit het geleverde onderzoek.
+</p>
+<p>
+De controle van dit parlofoonnetwerk zal verzorgd worden door de 'homeserver'. Het is echter de bedoeling om de belasting ofwel het rekenwerk van de homeserver zoveel mogelijk uit handen te nemen. Zo zal de beeldcompressie niet uitgevoerd worden door de homeserver zelf maar door externe apparaten. Deze apparaten worden echter wel bestuurd en gecontroleerd via de homeserver. 
+</p>
+<p>
+Het uiteindelijke doel van het eindwerk is om in dit samengestelde parlofoonnetwerk, een GSM- module onder te brengen. Deze module is in staat om een foto te verzenden over een gsm netwerk. De bedoeling van deze module is om een foto van een bezoeker aan huis, door te sturen naar de afwezige eigenaar. Indien dus een persoon aanbelt aan huis, zal in eerste instantie de telefoon binnen rinkelen waarbij de eventueel aanwezige eigenaar telefonisch contact kan nemen met zijn bezoeker. Indien de eigenaar niet opneemt wordt er een foto van de bezoeker doorgestuurd naar de GSM van de eigenaar, met behulp van de GSM-module. Zo weet de eigenaar welke bezoeker voor zijn deur staat, alvorens hij telefonisch contact opneemt met deze persoon. 
+</p>
+<p>
+Daar de homeserver gekoppeld is met het domotica-systeem van de woning moet het ook mogelijk gemaakt worden dat de eigenaar via een SMS, commando’s kan sturen naar de homeserver. Deze commando’s kunnen dan zelfgekozen tekstregels zijn die de homeserver op een gepaste manier doorgeeft aan het domotica-systeem. Op deze manier kan de eigenaar op grote afstand via zijn GSM bijvoorbeeld de rolluiken omlaag te doen.
+</p>
+<p>
+Mogelijke uitbreidingen:
+</p>
+
+<ul>
+<li>
+Afhankelijk van de mogelijkheden van het GSM-toestel selecteren of men een videobeeld of een MMS wil ontvangen.
+</li>
+<li>
+Wanneer niemand thuis is, een waarschuwing versturen indien iemand de oprit oprijdt. 
+</li>
+<li>
+De bezoeker de mogelijkheid laten om een boodschap achter te laten indien de eigenaar onbereikbaar is. 
+</li>
+<li>
+De eigenaar op zijn website een tijdstip en een persoon laten instellen waarnaar doorgeschakeld moet worden.         
+</li>
+</ul>
+        
+<!--        
+  oude tekst      
+        <p>
+          In samenwerking met het bedrijf COMmeto dat onder andere systemen uitwerkt voor domotica in kantoor en woning
+          wordt een parlofoonsysteem ontwikkeld waarbij de bezoeker die aanbelt rechtstreeks wordt doorverbonden met de eigenaar.
+        </p>
+        <p>
+          In eerste instantie is het de bedoeling dat als er iemand aan de deur aanbelt, de telefoon in huis rinkelt.
+          Indien niemand opneemt zal na een aantal seconden het parlofoonsysteem overschakelen naar het GSM-toestel van de eigenaar.
+          De eigenaar zal vervolgens een MMS ontvangen met een foto van de bezoeker. 
+          Hierna kan hij eventueel een gesprek voeren met hem. 
+          Verder kan de eigenaar simpelweg een SMS sturen naar de "homeserver" van zijn domotica-systeem.
+          Met deze SMS kan hij bijvoorbeeld de voordeur of de garagepoort laten opengaan.
+        </p>
+        <p>
+          Indien de eigenaar onbereikbaar is, kan hij achteraf eveneens gemakkelijk controleren op zijn
+          "homeserver" of GSM wie er aan zijn deur heeft gebeld en op welk tijdstip dit is gebeurd.
+        </p>
+        
+        <p>
+          Mogelijke uitbreidingen:
+        </p>
+        <ul>
+          <li>
+            Grote of kleine mensen ook in het midden van het beeld laten centreren.
+          </li>
+          <li>
+            Afhankelijk van de mogelijkheden van het GSM-toestel selecteren of men een videobeeld of een MMS wil ontvangen.
+          </li>
+          <li>
+            Wanneer niemand thuis is, een waarschuwing versturen indien iemand de oprit oprijdt.
+          </li>
+          <li>
+            De bezoeker de mogelijkheid laten om een boodschap achter te laten indien de eigenaar onbereikbaar is.
+          </li>
+          <li>
+            De eigenaar op zijn website een tijdstip en een persoon laten instellen waarnaar doorgeschakeld moet worden.
+          </li>
+        </ul>
+      -->  
+      </section>
+ 
+ 
+      
+      <anchor id="stockbeheer"/>
+      <section>
+        <title>Systeem voor optimaal stockbeheer</title>
+        <p>
+          Het VrouwenAdviesCentrum (VAC) komt op voor gekwetste vrouwen. 
+          De vzw wil vrouwen zelf- en maatschappelijk bewuster maken. 
+          Ze probeert dit deels te doen via de werking van een tweedehandswinkel. 
+          De technologische uitdaging ligt in het beheer van de winkel en het beheer van de administratie en registratie.
+        </p>
+
+        <section>
+           <title>De winkel</title> 
+
+           <p>
+In die winkel verkopen we alleen maar gekregen goederen die in de winkel afgegeven worden. 
+We zoeken naar een structurele oplossing voor het beheren van de goederen in de winkel 
+omdat het op dit ogenblik onmogelijk is om aan een degelijk beheer (van opbouw) van voorraad te doen wegens gebrek aan gestructureerde informatie. 
+           </p>
+           <p>
+We hebben nood aan een programma
+           </p>
+           <ul>
+             <li>
+waarin we kunnen ingeven wat er binnenkomt en wat ermee gebeurt.
+             </li>
+             <li>
+dat de voorraad koppelt aan hetgeen in de winkel ligt en de verkoop. 
+             </li>
+             <li>
+dat ons ook vertelt waar we de voorraad vinden (in de kelder of op de zolder enz) en in welke doos (we werken met genummerde dozen). 
+             </li>
+           </ul>
+           
+           <p>
+De gekregen goederen worden bij ons gesorteerd naar bruikbaarheid in onze eigen winkel en naar de afvalcontainer. 
+Indien we echter over een gestructureerd overzicht zouden beschikken
+           </p>
+           <ul>
+             <li>
+hadden we de mogelijkheid om partijen goederen te verkopen op internet aan bv. verzamelaars of te schenken aan hobbyclubs, instellingen enz. 
+             </li>
+             <li>
+zouden we ook een beter zicht hebben op de goederen die we zouden kunnen verkopen 
+             </li>
+             <li>
+op de zondagsmarkt in Genk tijdens de zomervakantie 
+             </li>
+             <li>
+op de kerstmarkten in de winter 
+             </li>
+             <li>
+op de goederen die we zelf kunnen verwerken, bijvoorbeeld het maken kussens van draperiestof , bloemstukjes enz. 
+             </li>
+            </ul>
+          </section>
+          
+          <section>
+            <title>De administratie</title>
+            
+            <p>
+We zouden willen beschikken over een programma dat doet aan:
+            </p>
+            <ul>
+              <li>
+Beheer van de adressen. 
+             </li>
+             <li>
+Beheer van de abonnees van ons tijdschriftje Vactief. 
+             </li>
+             <li>
+Registratie van de cliënten en de cursisten. 
+             </li>
+             <li>
+Registratie van de activiteiten. 
+             </li>
+             <li>
+Het opvolgen van de stappen die we voor bepaalde activiteiten moeten doen.
+Ordening van de dokumenten en formulieren. 
+             </li>
+            </ul>
+            <p>
+Het systeem van voorraadbeheer moet door door laaggeschoolde vrouwen gebruikt worden, moet uitgebreide backupmogelijkheid hebben, een client-server applicatie waarin meerdere gebruikers tegelijk het systeem gebruiken vanop verschillende computers, 
+een voorraadbeheer dat automatisch aangepast wordt door de verkoopetiketten of de schenkingen van de coördinator 
+en het met een systeem zijn dat automatisch de goede etiketten uitprint voor de speciale toepassingen (de prijskaartjes, de etiketten op de dozen…) 
+            </p>
+            <p>
+Wat administratie betreft: 
+            </p>
+            <ul>
+              <li>
+Een werkbaar adressenbestand dat kan gelinkt worden naar etiketten en brieven en beheer van abonnementen. 
+             </li>
+             <li>
+Het gebruik van open-source software, voornamelijk omwille van de kosten (gratis). Een klassiek voorbeeld is het gebruik van OpenOffice in plaats van Microsoft Office. 
+             </li>
+             <li>
+Een registratiesysteem waarin de registratie van cliënten en cursisten gelinkt wordt aan aantallen en percentages. 
+             </li>
+             <li>
+Een systeem waarbij de scenario’s van de activiteiten de te zetten stappen aangeven zodat ook laaggeschoolde vrouwen er hun weg in vinden en waarbij de volgorde van de stappen vastliggen. 
+             </li>
+            </ul>
+           </section> 
+
+<!--
+  Niet relevant
+  
+Wie kan een optimaal systeem ontwikkelen. 
+Ter plaatse kan een licentiaat informatica/wiskunde hulp bieden. 
+Serviceclubs zijn eventueel bereid financieel tegemoet te komen.
+  -->
+        
+
+
+
+        <section>
+          <title>Contactgegevens social profit-organisatie</title>
+        
+        <p>
+VrouwenAdviesCentrum VZW
+        </p>
+        <p>
+Emy Lindelauf
+        </p>
+        <p>
+coördinator
+        </p>
+        <p>
+Molenstraat 3
+        </p>
+        <p>
+3600 Genk
+        </p>
+        <p>
+089-355481
+        </p>
+        <p>
+089-615278
+        </p>
+        <p>
+Email: vacgenk@hotmail.com
+        </p>
+      </section>
+  </section>
+ </section>     
+
+ 
+  </body>
+</document>

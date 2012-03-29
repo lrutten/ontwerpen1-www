@@ -1,0 +1,3469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V1.2//EN" "/export/usr/local/forrest/main/webapp/resources/schema/dtd/document-v12.dtd">
+<document> 
+  <header> 
+    <title>Masterproef 2008-2009</title> 
+  </header> 
+  <body> 
+      <p>Laatste wijziging: $Date: 2009-08-02 22:59:43 +0200 (Sun, 02 Aug 2009) $</p>
+<!--        
+  
+      <section>
+        <title>Inleiding</title>
+        -->
+        <p>
+          Dit is het overzicht van de masterproeven 2008-2009 van MA-ELO.
+        </p>
+<!--        
+        <p>
+          Er zijn verschillende bronnen voor de eindwerken. Een aantal eindwerkvoorstellen
+          worden aan de docenten gemeld en zijn verzameld in de tabel verderop.
+          Een aantal andere eindwerkvoorstellen worden verzameld door andere organisaties
+          en bedrijven. Dit lijstje geeft een overzicht.
+        </p>
+        
+        <ul>
+          <li>
+            <p>
+             <link href="http://www.cera-award.be/projecten.aspx">Cera Award</link>
+            </p>
+            <p>
+              Hier kan je beschikbare projecten selecteren per regio en/of thema.
+              Je kan best elektronica, ICT, informatica als thema kiezen. Eventueel
+              kan je ook biomedische wetenschappen kiezen. Een aantal van deze
+              laatste thema's kunnen bij elektronica aanleunen.
+            </p>
+          </li>
+          <li>
+            <p>
+              Herman Bruyninckx, Departement Werktuigkunde, K.U.Leuven
+            </p>
+            <p>
+              <link href="http://people.mech.kuleuven.be/~bruyninc/thesis/">Dit</link> is de lijst met
+              de eindwerkvoorstellen van Herman Bruyninckx.
+            </p>
+          </li>
+          <li>
+            <p>
+              Dit <link href="maproef/2008-2009/voorstellen/Eindwerkvoorstellen-MOBILAB.pdf">document</link> beschrijft de eindwerkvoorstellen van Mobilab, KHK Geel.
+              Deze voorstellen zijn verderop afzonderlijk beschreven.
+            </p>
+          
+          </li>
+        </ul>
+      </section>
+-->
+
+
+<!--
+  Voorlopig uitgeschakeld
+      <section>
+         <title>Masterproefinstructies</title>
+         
+         <p>
+           Alle richtlijnen die beschrijven hoe een masterproef loopt, zijn vastgelegd in een document.
+         </p>
+         <p>
+           Hier heb je het document in verschillende formaten:
+         </p>
+         <ul>
+           <li>
+             <link href="maproef/2006-2007/instructies-masterproef-elo-07.pdf">instructies-masterproef-elo-07.pdf</link>
+           </li>
+           <li>
+             <link href="maproef/2006-2007/instructies-masterproef-elo-07.odt">instructies-masterproef-elo-07.odt</link>
+           </li>
+           <li>
+             <link href="maproef/2006-2007/instructies-masterproef-elo-07.doc">instructies-masterproef-elo-07.doc</link>
+           </li>
+         </ul>
+      </section>
+-->
+      <section>
+      <title>Overzicht</title>
+
+<table>
+<caption>
+Masterproef 2008-2009
+</caption>
+
+<tr>
+ <th>code</th>
+ <th>student(en)</th>
+
+ <th>titel</th>
+ <th>bedrijf</th>
+ <th>promotors</th>
+</tr>
+
+<!-- voorstellen eindwerken -->
+
+<!-- 
+ Voorbeeld
+<tr>
+ <td></td>
+ <td></td>
+ <td>Titel (<link href="#verder">meer uitleg</link>)
+ </td>
+ <td>bedr</td>
+ <td>Prom</td>
+</tr>
+-->
+
+<tr>
+ <td>E09/ELO/01</td>
+ <td>Kevin Bertrand</td>
+
+ <td>Ontwikkeling van een geavanceerde 32-bit softcore processor voor dataverwerking (<link href="#processor">meer uitleg</link>)
+ </td>
+ <td>PMA, K.U.Leuven</td>
+ <td>Peter Slaets, Leo Rutten</td>
+</tr>
+
+<tr>
+ <td>E09/ELO/02</td>
+ <td>Dimitri Bervoets</td>
+
+ <td>Simulatie van de planning van decentrale energievoorziening (<link href="#simenergie">meer uitleg</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Paul Valkenaers, Leo Rutten</td>
+</tr>
+
+<tr>
+ <td>E09/ELO/03</td>
+ <td>Roy Sevit, Robin Brouns</td>
+
+ <td>Design van een CMOS IC voor het aansturen van oprolbare OLEDs op folie (<link href="#icoled">meer uitleg</link>)
+ </td>
+ <td>IMEC, Leuven</td>
+ <td>Kris Myny, Jan Genoe</td>
+</tr>
+
+<tr>
+ <td>E09/ELO/04</td>
+ <td>Christian Peeters, Niels Cornelissen</td>
+
+ <td>Veilige en compacte implementatie van cryptografische algoritmen op FPGA (<link href="#cryptcompact">meer uitleg</link>)
+ </td>
+ <td>COSIC, K.U.Leuven</td>
+ <td>Lejla Batina, Nele Mentens</td>
+</tr>
+
+<tr>
+ <td>E09/ELO/05</td>
+ <td>Jeroen Dreessen</td>
+
+ <td>Audible Distortion Detector (<link href="#audibdistor">meer uitleg</link>)
+ </td>
+ <td>Philips, Leuven</td>
+ <td>Gerrit De Poortere</td>
+</tr>
+
+<tr>
+ <td>E09/ELO/06</td>
+ <td>Bart Evens</td>
+
+ <td>
+   BlueJ extensies met contextafhankelijke help (<link href="#contextbluej">meer uitleg</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Kris Aerts, Leo Rutten</td>
+</tr>
+
+<tr>
+ <td>E09/ELO/07</td>
+ <td>Tom Geelen, Steven Vanhoenshoven</td>
+
+ <td>
+    Een op zichzelf staande implementatie voor het afluisteren van beeldschermen (<link href="#COSICbeeldschermen">meer uitleg</link>)
+ </td>
+ <td>COSIC, K.U.Leuven</td>
+ <td>Wim Aerts, Elke De Mulder, Nele Mentens <!-- Ingrid Verbauwhede, Guy Vandenbosch --></td>
+</tr>
+
+<tr>
+ <td>E09/ELO/08</td>
+ <td>Roald Goossens <!-- (, Erwin Vanderoey) --></td>
+
+ <td>Dynamische, partieel herconfigureerbare implementaties van cryptografische bouwblokken op FPGA (<link href="#herconffpga">meer uitleg</link>)
+ </td>
+ <td>COSIC, K.U.Leuven</td>
+ <td>Benedikt Gierlichs, Nele Mentens</td>
+</tr>
+
+<tr>
+ <td>E09/ELO/09</td>
+ <td>
+     Sylvester Janssens
+ </td>
+
+ <td>Ontwerp van Java hulpklassen voor de simulatie van productieplanningen
+ </td>
+ <td>PMA, K.U.Leuven</td>
+ <td>Paul Valckenaers, Kris Aerts, Leo Rutten</td>
+ 
+ <!--
+
+ Dit onderwerp is gestopt
+ <td>Study of Android-OpenKode platform (<link href="#NXPandroid">meer uitleg</link>)
+ </td>
+ <td>NXP, Leuven</td>
+ <td>Edwin Detrez, Bruno Smets, Kris Aerts</td>
+ 
+ -->
+</tr>
+
+<tr>
+ <td>E09/ELO/10</td>
+ <td>Toon Nelissen</td>
+
+ <td>Webapplicatie om robot aan te sturen (<link href="#webrobot">meer uitleg</link>)
+ </td>
+ <td>PMA, K.U.Leuven</td>
+ <td>Ruben Smits, Johan Baeten</td>
+</tr>
+
+<tr>
+ <td>E09/ELO/11</td>
+ <td>Joris Thielen, Dirk Rykx</td>
+
+ <td>Evaluatie van nieuwe hashfunctie kandidaten op FPGA (<link href="#hashfpga">meer uitleg</link>)
+ </td>
+ <td>COSIC, K.U.Leuven</td>
+ <td>Sebastiaan Indesteege, Nele Mentens</td>
+</tr>
+
+<tr>
+ <td>E09/ELO/12</td>
+ <td>Bart Salmon</td>
+
+ <td>Incontinentiemonitoring door middel van draadloze sensoren (<link href="#incnt">meer uitleg</link>)
+ </td>
+ <td>Mobilab, KHK, Geel</td>
+ <td>Kris Cuppens, Bart Vanrumste</td>
+</tr>
+
+<tr>
+ <td>E09/ELO/13</td>
+ <td>Wim Sijbers, Dieter Sauvillers</td>
+
+ <td>Ontwerp van een geïntegreerde switched capacitor schakeling IC om een ultradunne Batterij-op-folie op te laden aan de hand van een ultradunne organische zonnecel
+     (<link href="#batopfolie">meer uitleg</link>)
+ </td>
+ <td>IMEC, Leuven</td>
+ <td>Tom Aernouts, Jan Genoe</td>
+</tr>
+
+<tr>
+ <td>E09/ELO/14</td>
+ <td>Rob Smeets</td>
+
+ <td>Uitbouwen van een testopstelling(en) voor testen van MHP functies van
+Digitale Televisie ontvangers (<link href="#PMTCmhp">meer uitleg</link>)
+ </td>
+ <td>PMTC, Diepenbeek</td>
+ <td>Stijn Goffin, Robby Putzeys, Dirk Smets</td>
+</tr>
+
+<tr>
+ <td>E09/ELO/15</td>
+ <td>Luc Van Roey</td>
+
+ <td>
+   Experimenteren met Firefox Extensies (Addons) (<link href="#firefoxaddons">meer uitleg</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Kris Aerts, Johan Baeten</td>
+</tr>
+
+<tr>
+ <td>E09/ELO/16</td>
+ <td>Jan Vanoppen</td>
+
+ <td>
+   Java voorbeeldapplicatie met db4objects en Apache Cocoon
+ </td>
+ <td>KHLim</td>
+ <td>Leo Rutten</td>
+</tr>
+
+<!--
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Real-time detection and tracking of a ROI done by an FPGA (<link href="#rtroi">meer uitleg</link>)
+ </td>
+ <td></td>
+ <td>Bart Vanrumste</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Let Blind People See by means of their Ears (<link href="#blindsee">meer uitleg</link>)
+ </td>
+ <td></td>
+ <td>Bart Vanrumste</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Groepspecifieke detectie van epileptische aanvallen (<link href="#accelero">meer uitleg</link>)
+ </td>
+ <td></td>
+ <td>Bart Vanrumste</td>
+</tr>
+-->
+
+<!--
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Videodetectie van epileptische aanvallen (<link href="#videodet">meer uitleg</link>)
+ </td>
+ <td></td>
+ <td>Bart Vanrumste</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Valpreventie 1 (<link href="#valdet1">meer uitleg</link>)
+ </td>
+ <td></td>
+ <td>Bart Vanrumste</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Valpreventie 2 (<link href="#valdet2">meer uitleg</link>)
+ </td>
+ <td></td>
+ <td>Bart Vanrumste</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>6D object herkenning op een FPGA (<link href="#object6d">meer uitleg</link>)
+ </td>
+ <td></td>
+ <td>Peter Slaets</td>
+</tr>
+-->
+
+
+<!--
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Aansturen van een industriele robot d.m.v. een FPGA + powerpc (<link href="#controlrobot">meer uitleg</link>)
+ </td>
+ <td></td>
+ <td>Peter Slaets</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Real-time tracking m.b.v. een FPGA (<link href="#rttracking">meer uitleg</link>)
+ </td>
+ <td></td>
+ <td>Peter Slaets</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Vliegende robots (<link href="#vlrobot">meer uitleg</link>)
+ </td>
+ <td></td>
+ <td>Peter Slaets</td>
+</tr>
+-->
+
+
+<!--
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Device driver framework voor realtime Linux (<link href="http://people.mech.kuleuven.be/~bruyninc/thesis/">meer uitleg</link>)
+ </td>
+ <td>Dep. Werktuigkunde, K.U.Leuven</td>
+ <td>Herman Bruyninckx</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Port van het Orocos realtime controleframework naar WinCE (<link href="http://people.mech.kuleuven.be/~bruyninc/thesis/">meer uitleg</link>)
+ </td>
+ <td>Dep. Werktuigkunde, K.U.Leuven</td>
+ <td>Herman Bruyninckx</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Realtime Ethernet voor machinecontrole (<link href="http://people.mech.kuleuven.be/~bruyninc/thesis/">meer uitleg</link>)
+ </td>
+ <td>Dep. Werktuigkunde, K.U.Leuven</td>
+ <td>Herman Bruyninckx</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Grafische programmeerinterface voor robotcontrole (<link href="http://people.mech.kuleuven.be/~bruyninc/thesis/">meer uitleg</link>)
+ </td>
+ <td>Dep. Werktuigkunde, K.U.Leuven</td>
+ <td>Herman Bruyninckx</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Kloksynchronisatie voor gedistribueerde machinecontrole (<link href="http://people.mech.kuleuven.be/~bruyninc/thesis/">meer uitleg</link>)
+ </td>
+ <td>Dep. Werktuigkunde, K.U.Leuven</td>
+ <td>Herman Bruyninckx</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Starterkit voor Orocos machinecontrole (<link href="http://people.mech.kuleuven.be/~bruyninc/thesis/">meer uitleg</link>)
+ </td>
+ <td>Dep. Werktuigkunde, K.U.Leuven</td>
+ <td>Herman Bruyninckx</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Workflow software voor geavanceerde machinecontrole (<link href="http://people.mech.kuleuven.be/~bruyninc/thesis/">meer uitleg</link>)
+ </td>
+ <td>Dep. Werktuigkunde, K.U.Leuven</td>
+ <td>Herman Bruyninckx</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Eclipse voor programmatie van “agent based” robotsystemen (<link href="http://people.mech.kuleuven.be/~bruyninc/thesis/">meer uitleg</link>)
+ </td>
+ <td>Dep. Werktuigkunde, K.U.Leuven</td>
+ <td>Herman Bruyninckx</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Uitbreiden van Blender met dynamische simulatie van mensen (<link href="http://people.mech.kuleuven.be/~bruyninc/thesis/">meer uitleg</link>)
+ </td>
+ <td>Dep. Werktuigkunde, K.U.Leuven</td>
+ <td>Herman Bruyninckx</td>
+</tr>
+
+
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Load balancer voor Terracotta (<link href="#terracotta">meer uitleg</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Leo Rutten</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Fuse bestandensysteem voor testdoeleinden (<link href="#fuse">meer uitleg</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Leo Rutten</td>
+</tr>
+-->
+
+
+<!--
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Graphics Coprocessor Support for Signal Analyzing Software (<link href="#graphco">meer uitleg</link>)
+ </td>
+ <td>Agilent</td>
+ <td></td>
+</tr>
+
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Data Transform Techniques for High-Speed Signal Analyzers (<link href="#dattransform">meer uitleg</link>)
+ </td>
+ <td>Agilent</td>
+ <td></td>
+</tr>
+-->
+
+
+<!--
+<tr>
+ <td></td>
+ <td>
+ </td>
+
+ <td>Beveiligingssoftware op de Nokia 6131 NFC (<link href="#nokia">meer uitleg</link>)
+ </td>
+ <td>COSIC, K.U.Leuven</td>
+ <td>Karel Wouters, Kris Aerts</td>
+</tr>
+
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Uncompressed wireless high-definition video streaming (<link href="#NXPstreaming">meer uitleg</link>)
+ </td>
+ <td>NXP, Leuven</td>
+ <td></td>
+</tr>
+-->
+
+<!--
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>SystemC Modeling of MIPI/SLIMbus interface IP (<link href="#NXPsystemC">meer uitleg</link>)
+ </td>
+ <td>NXP, Leuven</td>
+ <td></td>
+</tr>
+-->
+
+<!--
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>HDMI over WiMedia Ultra Wide Band (UWB) (<link href="#NXPuwb">meer uitleg</link>)
+ </td>
+ <td>NXP, Leuven</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>The life of a software component (<link href="#NXPsoftware">meer uitleg</link>)
+ </td>
+ <td>NXP, Leuven</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Wireless USB headset (<link href="#NXPusb">meer uitleg</link>)
+ </td>
+ <td>NXP, Leuven</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Study of integrating OpenMAX MultiMedia components in a Windows Mobile phone (<link href="#NXPopenmax">meer uitleg</link>)
+ </td>
+ <td>NXP, Leuven</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Test application for Altera StratixIII based prototyping environment (<link href="#NXPaltera">meer uitleg</link>)
+ </td>
+ <td>NXP, Leuven</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>USB3.0 synthesisable TLM designed with esterel (<link href="#NXPesterel">meer uitleg</link>)
+ </td>
+ <td>NXP, Leuven</td>
+ <td></td>
+</tr>
+-->
+
+
+<!--
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Modelling of nanowire-based tunnel field effect transistors
+ </td>
+ <td>IMEC, Leuven</td>
+ <td>Jan Genoe</td>
+</tr>
+-->
+
+<!--
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>
+     Custom Chip ontwerp voor het aansturen van een lichtgewicht DC
+     voeding voor draagbare toestellen gebaseerd op nieuwe GaN transistors (<link href="#dcgan">meer uitleg</link>)
+ </td>
+ <td>IMEC, Leuven</td>
+ <td>Jan Genoe</td>
+</tr>
+-->
+
+<!--
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>
+  Apache filter voor PHP (<link href="#apachefilter">meer uitleg</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Kris Aerts</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>
+   Verbetering van open-source editor tswebeditor (<link href="#tswebeditor">meer uitleg</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Kris Aerts</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>
+    Roboteam voor Lego Mindstorms platform (<link href="maproef/2008-2009/voorstellen/ROBOP-Eindwerk-Lego-Mindstorms.pdf">meer uitleg</link>)
+ </td>
+ <td></td>
+ <td></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>
+    Roboteam voor deelname aan Robocup Small Size League (<link href="maproef/2008-2009/voorstellen/ROBOP-Eindwerk-Robocup-small-size-league.pdf">meer uitleg</link>)
+ </td>
+ <td></td>
+ <td></td>
+</tr>
+-->
+
+<!--
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>
+     Development of a Remote Controlled High Precision Current Source for driving Helmholtz coils in a 3D configuration <link href="#currsource">meer uitleg</link>)
+ </td>
+ <td>Navionex</td>
+ <td>Marc Bukenbergs, Johan Bogaerts</td>
+</tr>
+
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>
+     Research on and development of a Charge Amplifier with Demodulator for high grade discrete Tuned Fork Rate Sensors <link href="#chargeamp">meer uitleg</link>)
+ </td>
+ <td>Navionex</td>
+ <td>Marc Bukenbergs, Johan Bogaerts</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>
+     Timesheetverwerking via Internettoepassing <link href="#timesheet">meer uitleg</link>)
+ </td>
+ <td>Alliacta</td>
+ <td></td>
+</tr>
+-->
+
+
+
+<!-- einde tabel voorstellen eindwerken -->
+
+</table>
+
+
+
+
+
+
+
+
+
+    </section>
+
+    <section>
+      <title>Masterproefbeschrijvingen</title>
+
+      <!--
+
+      <anchor id="afkorting"/>      
+      <section>
+        <title>titel, bedrijf</title>
+          <p>
+            para
+          </p>
+          <p>
+            Links:
+          </p>
+            <ul>
+              <li>
+                <link href="http://www.hibernate.org">www.hibernate.org</link>
+              </li>
+              <li>
+                <link href="http://www.aspectj.org">www.aspectj.org</link>
+              </li>
+            </ul>
+      </section>
+      -->
+      
+      
+
+ 
+      
+      
+      
+        
+      
+<!-- vision fig ok -->
+
+<!--
+      <section>
+         <title>IMAGE PROCESSING Proposal Master projects 2008-2009 in MOBILAB</title>
+      
+      <p>
+         The increasing CPU power and decreasing prices of high quality image capturing devices, gives rise to a growing market where simple computers are used for computing intensive image analysis and image processing tasks. Indeed, normal desktop computers more and more obtain the ability to “see” for a reasonable price. This offers many new opportunities for human machine interaction. For example, the computer is getting the ability to recognize human facial expressions (such as tiredness, pain, …). The computer can even anticipate (e.g. a tired truck driver will be advised by a computer to take some rest; or  a nurse is alarmed when a patient has pain; …). Furthermore, a computer can (re)construct or imitate human facial expressions, which is very helpful in (animation) movies and computer games. 
+      </p>
+      <p>
+         Today it’s quit easy for a simple computer to capture images. Just think of the cheap webcams which are almost everywhere available. Furthermore by plugging the webcam into the USB connector we can just start a teleconference with not only sound but also moving images. The webcam has become a standard device of a PC today; image acquisition on a PC is no challenge anymore. The challenges today are to explore the abilities to let the computer be able to analyze and interpret the images.
+      </p>
+      <p>
+         One of the research domains of MOBILAB (Central Research Laboratory for Biomedical and Rehabilitation Technology) as a part of the KHK (University College Kempen)  is 
+         real-time image processing
+         . In one of the ongoing projects, in cooperation with The Catholic University of Leuven, we are focusing on facial expressions. We want to learn the computer how to interpret a human facial expression. The main goal of this research is to develop an application running on a computer, or something cheaper and smaller and faster (like an FPGA, DSP devices), that can decide in an objective manner how much pain someone, suffering from dementia, currently has.
+      </p>
+      <p>
+         Below an image is shown that quantifies pain based on facial expressions.
+      </p>
+      <p>
+         <img alt="vision-f1.jpg" src="maproef/2008-2009/voorstellen/vision-f1.jpg"/>
+      </p>
+      <p>
+         Example of a pain scale base don facial images (Scherder en van Manen, 2005).
+      </p>
+      <p>
+         For this purpose it’s important that we can “read” (interpret) the face of the patient. Therefore we extract features from the face. If we can track the position of landmarks (such as corner of the mouth, corner of the eye, ect. ) we can extract the distance between these landmarks as features.
+      </p>
+      <p>
+         Before we are able to let the computer extract the features, we first have to preprocess the images.  An important step in almost every image processing implementation is 
+         detecting and tracking the region of interest (ROI)
+         . This is at the same time the subject of the master thesis’s proposed here.
+      </p>
+
+      <anchor id="rtroi"/>      
+      <section>
+          <title>Real-time detection and tracking of a ROI done by an FPGA</title>
+      
+      <p>
+         A first master thesis is real-time detection and tracking of a ROI (Region Of Interest) done by an FPGA. The main purpose of this master thesis is to find a way of zooming in on a ROI. In this case the ROI will be a human face, which must be detected and tracked through a sequence of images (for additional information see below). The algorithms are developed in MATLAB/Simulink and are exported/translated to an FPGA (Field Programmable Array).
+      </p>
+      <p>Tasks:</p>
+      <p>20% Literature  </p>
+      <p>60% MATLAB/SIMULINK programming </p>
+      <p>20% Performance measuring </p>
+      <p>Daily supervisor:</p>
+      <p>
+         Bert Bonroy                        
+         bert.bonroy@khk.be
+      </p>
+      <p>
+         Promotor:
+      </p>
+      <p>
+         Bart Vanrumste (IBW)                
+         bart.vanrumste@khk.be
+      </p>
+      <p>
+         [
+         below you can find a short overview of detecting feature points in an ROI . . . 
+         ]
+      </p>
+      </section>
+
+      <anchor id="blindsee"/>
+      <section>
+        <title>Let Blind People See by means of their Ears</title>
+      
+      <p>
+         In this project a blind person will be helped to avoid obstacles coming in his or her direction by warning them by means of an audio sound. The purpose of this master thesis is to detect in real-time obstacles on the walk way by a small and portable camera system and warn the person if the obstacles are coming too close. It is not only enough to warn for an obstacle, but the audio signal should also indicate in which direction the obstacle is coming (from the right, the left or the front) and also how far the obstacle is. This can be done by changing the frequency and loudness of the audio signal. This allows the person to anticipate and walk safely around the obstacle. In this master project wearable a camera and a audio system should be build which can detect obstacles, in first instance walls, tables, chairs etc. should be detected. In a later phase also the direction of stairs, cares, bus, etc. should be recognized. Also the performance and reliability of the implementation is one of the import decisions which should be made during the development.
+      </p>
+      <p>Tasks: </p>
+      <p>20% Literature  </p>
+      <p>60% MATLAB/SIMULINK programming </p>
+      <p>20% Performance measuring </p>
+      <p>Daily supervisor: </p>
+      <p>
+         Bert Bonroy                        
+         bert.bonroy@khk.be
+      </p>
+      <p>
+         Promotor:
+      </p>
+      <p>
+         Bart Vanrumste (IBW)                
+         bart.vanrumste@khk.be
+      </p>
+      <p>
+         [
+         below you can find a short overview of detecting feature points in an ROI . . . 
+         ]
+      </p>
+      <p>
+         Detecting feature points in a region of interest (ROI)
+      </p>
+      <p>
+         First an application needs to be developed to autonomously find the ROI for a given image. This implies that the application is capable of recognizing objects of interest out of a given image. Today there already exists some powerful functions, known as 
+         morphological-functions
+          which allow us in a simple way, to detect a circle, square, ellipse etc. in an image (see figure below).
+      </p>
+      <p>
+         
+         <img width="227" height="170" alt="vision-f2.jpg" src="maproef/2008-2009/voorstellen/vision-f2.jpg"/>
+         
+                                                      
+         
+         <img width="227" height="170" alt="vision-f3.jpg" src="maproef/2008-2009/voorstellen/vision-f3.jpg"/>
+         
+      </p>
+      <p>
+         Copyright 2004-2005 The MathWorks, Inc. Published with MATLAB® 7.2
+      </p>
+      <p>
+         If we want to detect for example a human face (the face will become than the ROI), we have to search for some kind of ellipse in the picture. Once we have found the ellipse (face), we can zoom-in on it. This can be done in two ways. First you could change the hardware settings by means of changing the zoom of the lens. A second way is done in software, where you can zoom-in by extrapolate the pixel information. The images after this step contain mainly information about the face.
+      </p>
+      <p>
+         Once we have locked the face in the centre of the images, we can start tracking the face. This means that if the face moves, we follow this movement by adjusting the zoom options to get the face always in the centre of the image. 
+      </p>
+      <p>
+         If we want to execute these processing steps in 
+         real-time
+         , the algorithm must not only run once on one single image, but it must be able to handle e.g. 25 images (frames) each second (which is the frame rate of a film). It demands a lot of processing power of the processing device. Therefore we don’t want to implement this algorithm on a simple computer but we are looking for a fast and cheap hardware solution. An FPGA could probably be a good candidate to do this job.
+      </p>
+      <p>
+         The algorithms will be developed in Matlab/Simulink as it provides a lot of functionality for video and image processing. Also a lot of demos on video and image processing algorithms are available. The translation of the algorithm developed in Matlab or Simulink into code readable for hardware (HDL) or a computer (C, C++) can also be done via Simulink which has translation capabilities.
+      </p>
+      <p>
+         <img alt="vision-f4.jpg" src="maproef/2008-2009/voorstellen/vision-f4.jpg"/>
+       </p>
+      <p>Copyright 2004-2005 The MathWorks, Inc. Published with MATLAB® 7.2 </p>
+      <p>
+         Afterwards, the algorithm can be optimized to reduce the “false positives” by filtering the background. This can be done in several ways. For example: if the background is known in advance, we can filter it out leaving only the face.
+      </p>
+      <p>
+         The filtering can also be done based on color. Skin-color filtering is also commonly used (shown in the picture below). The skin color is typically not available in the background. The disadvantage of skin-color filtering is that color images are required.
+      </p>
+      <p>
+         <img alt="vision-f5.jpg" src="maproef/2008-2009/voorstellen/vision-f5.jpg"/>
+      </p>
+      <p>
+         Copyright 2004-2005 The MathWorks, Inc. Published with MATLAB® 7.2
+      </p>
+      <p>
+         The developed algorithm will be implemented on a hardware device. This device will become a link between the camera and the computer. The input of the device is the image recorded by the camera. The output of the device is the processed image which contains almost only facial information and no background information. This will make the facial expression recognition algorithm, running on the computer, much faster with less false positives due to background noise. 
+      </p>
+      <p>
+         This solution is usable in several other applications where faces are contained in ROIs. For example to stabilize the face of the speaker during an teleconferencing etc.
+      </p>
+      </section>
+      </section>
+-->
+
+
+<!-- accelero geen figuren -->
+<!--
+      <anchor id="accelero"/>
+      <section>
+        <title>Groepspecifieke detectie van epileptische aanvallen</title>
+      
+      <p>
+         De diagnose en classificatie van epilepsie 
+         wordt typisch uitgevoerd door middel van video-elektro-encefalogram (EEG) monitoring. Deze methode geldt als de Gouden Standaard voor de detectie van epileptische aanvallen. Maar deze onderzoeksmethode is oncomfortabel voor de patiënt omdat de elektroden aan de scalp bevestigd moeten worden. Bovendien is het bevestigen van de elektrodes arbeidsintensief omdat de verpleegsters een uur werk nodig hebben om de patiënt klaar te maken voor het onderzoek. Door deze nadelen kunnen patiënten niet dagelijks gemonitord worden.
+      </p>
+      <p>
+         Als alternatief voor de detectie van epileptische aanvallen via EEG-signalen willen we aanvallen detecteren met accelerometers. 
+         De Katholieke Hogeschool Kempen werkt samen met revalidatiecentrum Pulderbos voor de acquisitie van de accelerometersignalen. Deze signalen zijn afkomstig van accelerometers bevestigd aan de polsen en enkels van die patiënt. De accelerometers registreren de versnelling van de lichaamsdelen, dus indien de patiënt beweegt.
+      </p>
+      <p>
+         In voorgaande eindwerken werd er al een bedraad acquisitiesysteem ontwikkeld en er werd ook al een eerste detectiealgoritme geïmplementeerd. Dit algoritme werkt aan de hand van parameters die per patiënt ingesteld moeten worden. Bovendien is het algoritme getest op een beperkt aantal types van aanvallen. Verder onderzoek is dus nog nodig naar de detectie van andere types aanvallen, en eventueel de ontwikkeling van een algoritme dat bepaalde types van aanvallen kan detecteren voor een groep van patiënten met gelijkaardige aanvallen.
+      </p>
+      <p>
+         De detectiealgoritmes kunnen leiden tot een systeem dat bij de patiënt 
+         op de kamer geplaatst kan worden dat het aantal nachtelijk aanvallen automatisch logt en een alarm geeft wanneer de aanval te hevig is. De database met het aantal nachtelijke aanvallen kan gebruikt worden door de neuroloog om de evolutie van de ziekte beter te kunnen opvolgen, de invloed van de medicijnen te bepalen en dus de behandeling te verbeteren.
+      </p>
+      <p>
+         Aantal eindwerkstudenten: 1 of 2
+      </p>
+      <p>
+         Dagelijkse begeleiding: Kris Cuppens kris.cuppens@khk.be
+      </p>
+      <p>
+         Promotors: Bart Vanrumste (IBW) bart.vanrumste@khk.be
+      </p>
+      <p>Opdrachten:</p>
+      <ul>
+         <li>
+            <p>literatuurstudie: 20%</p>
+         </li>
+         <li>
+            <p>implementatie (Matlab): 50%</p>
+         </li>
+         <li>
+            <p>experimenten (validatie algoritme): 30%</p>
+         </li>
+      </ul>
+      </section>
+
+-->
+
+<!-- incontinentie -->
+
+      <anchor id="incnt"/>
+      <section>
+        <title>Incontinentiemonitoring door middel van draadloze sensoren</title>
+      <p>
+         Urinaire incontinentie (UI), het onvrijwillig verlies van urine, is een belangrijk klinisch
+         probleem en een aanzienlijke reden van discomfort. UI neemt toe met de leeftijd. In rusthuizen komt het bij 40% tot 80% van de personen voor. Op dit moment worden de luiers van incontinentiepatiënten manueel gecontroleerd. Dit eindwerk wil de incontinentiepatiënten monitoren door middel van vocht- en temperatuursensoren aangebracht in de luier. Dit zou een aanzienlijke vooruitgang zijn omdat dit de taak van het verplegend personeel verlicht, en een kostenreductie betekent voor de zorginstellingen. Als de luier immers te vroeg vervangen wordt, betekent dit een meerkost voor de rusthuizen (aan luier- en arbeidskosten). Wanneer de luier echter te laat vervangen wordt, resulteert dit in een onaanvaardbaar discomfort voor de patiënten.
+      </p>
+      <p>
+         De eerste stap
+          van dit eindwerk is het ontwerpen van een draadloos sensorsysteem dat door middel van temperatuur- en vochtsensoren de verzadiging van de luier kan controleren. De afstand voor de draadloze transmissie moet voldoende groot zijn zodat de patiënt een grote bewegingsvrijheid heeft binnen het rusthuis. Een tweede stap is het opmeten van de verzadigingscurve van de luier. Dit gebeurt aan de hand van simulatietesten. Door het vastleggen van de drempel van discomfort moet hieruit blijken wanneer de luier best vervangen wordt. Verder leveren deze testen ook feedback op over het sensorsysteem, waardoor dit geoptimaliseerd kan worden.
+      </p>
+      <p>
+         Het resultaat van dit eindwerk kan een alarmsysteem zijn dat aangeeft wanneer de luier zijn verzadigingspunt bereikt. Hierdoor hoeft het verplegend personeel enkel de luiers die net verzadigd zijn te vervangen. In latere toepassingen kunnen de gegevens van de patiënt geïntegreerd worden in een groter monitoringssysteem dat door het verplegend personeel geraadpleegd kan worden op bijvoorbeeld een PDA. Een andere mogelijkheid is de data op te slaan in databases waardoor het plasgedrag beter in kaart gebracht kan worden en zo de plastijden voorspeld kunnen worden waardoor men kleinere luiers kan gebruiken. Deze toepassing is ook zeer nuttig voor bedplassende kinderen, die op deze manier beter begeleid kunnen worden om van het bedplassen verlost te raken.
+      </p>
+      <p>
+         Aantal eindwerkstudenten: 1 of 2
+      </p>
+      <p>
+         Dagelijkse begeleiding: Kris Cuppens kris.cuppens@khk.be
+      </p>
+      <p>
+         Tom Van Den Broeck tom.van.den.broeck@khk.be
+      </p>
+      <p>
+         Promotoren: Tom Van den Broeck (TW) tom.van.den.broeck@khk.be
+      </p>
+      <p>
+         Lieven De Maesschalck (G-Lier) lieven.de.maesschalck@khk.be
+      </p>
+      <p>
+         Bart Vanrumste (IBW) bart.vanrumste@khk.be
+      </p>
+      <p>
+         Opdrachten: 
+      </p>
+      <ul>
+         <li>
+            <p>
+               literatuurstudie: 20%
+            </p>
+         </li>
+         <li>
+            <p>
+               opzetten sensorsysteem: 50%
+            </p>
+         </li>
+         <li>
+            <p>
+               experimenten: 30%
+            </p>
+         </li>
+      </ul>
+      <p>
+        <img width="472" height="265" alt="" src="maproef/2008-2009/voorstellen/incont-f1.png" />
+      </p>
+      </section>
+
+
+<!-- video geen figuren -->
+<!--
+      <anchor id="videodet"/>
+      <section>
+        <title>Videodetectie van epileptische aanvallen</title>
+      <p>
+         De diagnose en classificatie van epilepsie 
+         wordt typisch uitgevoerd door middel van video-elektro-encefalogram (EEG) monitoring. Deze methode geldt als de Gouden Standaard voor de detectie van epileptische aanvallen. Maar deze onderzoeksmethode is oncomfortabel voor de patiënt omdat de elektroden aan de scalp bevestigd moeten worden. Bovendien is het bevestigen van de elektrodes arbeidsintensief omdat de verpleegsters een uur werk nodig hebben om de patiënt klaar te maken voor het onderzoek. Door deze nadelen kunnen patiënten niet dagelijks gemonitord worden.
+      </p>
+      <p>
+         Het doel van dit eindwerk is om een videomonitoringsysteem te ontwikkelen dat videobeelden 
+         analyseert die ’s nachts van de epilepsiepatiënten worden opgenomen. Het systeem houdt het aantal aanvallen van een patiënt bij, en genereert een alarm indien een aanval te hevig is. Op dit moment is er een algoritme ontwikkeld dat de bewegingen van de patiënt onderscheidt van niet-bewegingen. Hierdoor wordt er al een eerste voorselectie op de videobeelden uitgevoerd. Uit de fragmenten waar de patiënt beweegt wordt later bepaald wanneer de beweging een aanval is, en eventueel welk type aanval. Het algoritme dat de epilepsieaanvallen detecteert moet nog ontwikkeld worden. Dit is de hoofddoelstelling van dit eindwerk.
+      </p>
+      <p>
+         Het uiteindelijke doel is dat 
+         er bij de patiënt een autonoom detectiesysteem kan geplaatst worden op de kamer. Dit detectiesysteem bepaalt enkel door middel van videobeelden wanneer een epileptische aanval optreedt of niet. Dit zorgt voor een comfortverhoging van de patiënt omdat het aanbrengen van de EEG-elektrodes niet nodig is, en dit zorgt ook voor een beter opvolging van de ziekte. Door deze betere opvolging kan de behandeling aangepast worden wat leidt tot een verhoogde levensstandaard van de patiënt.
+      </p>
+      <p>
+         Aantal eindwerkstudenten: 1 of 2
+      </p>
+      <p>
+         Dagelijkse begeleiding: Kris Cuppens kris.cuppens@khk.be
+      </p>
+      <p>
+         Promotors: Bart Vanrumste (IBW) bart.vanrumste@khk.be
+      </p>
+      <p>
+         <img width="231" height="172" alt="" src="file:///tmp/ontwerpen1/docs/school/2008-2009/eindwerken/voorstellen/bvanrumste/" />
+       </p>
+      <p>Opdrachten:</p>
+      <ul>
+         <li>
+            <p>literatuurstudie: 20%</p>
+         </li>
+         <li>
+            <p>implementatie (Matlab): 50%</p>
+         </li>
+         <li>
+            <p>experimenten (validatie algoritme): 30%</p>
+         </li>
+      </ul>
+      <p>
+         <img width="230" height="171" alt="" src="file:///tmp/ontwerpen1/docs/school/2008-2009/eindwerken/voorstellen/bvanrumste/" />
+         <img width="230" height="171" alt="" src="file:///tmp/ontwerpen1/docs/school/2008-2009/eindwerken/voorstellen/bvanrumste/" />
+       </p>
+      </section>
+  -->    
+
+
+<!-- Val -->
+<!--
+      <section>
+        <title>Valpreventie</title>
+      <p>Deze eindwerkvoorstellen kaderen binnen het gelijknamige onderzoeksproject uitgeschreven door De Nayer en de K.H.Kempen, en focussen op bepaalde deelaspecten (die evenwel niet essentieel zijn voor het verder verloop) van het onderzoeksproject. Deze eindwerken zullen complementair en in nauwe samenwerking uitgevoerd worden met de onderzoekers van De Nayer en de K.H.Kempen. </p>
+
+      <section><title>Inleiding</title>
+
+      <p>Een valincident wordt gedefinieerd als "een onverwachte gebeurtenis waarbij de oudere op de grond, vloer of een lager gelegen niveau terechtkomt". Een complexe interactie van verschillende gezondheidsgerelateerde risicofactoren (vb. evenwicht- en gangstoornissen, visusproblemen, polyfarmacie en orthostatische hypotensie) en gedrag- en omgevingsfactoren (vb. huis- en omgevingsveiligheid, schoeisel) zijn verantwoordelijk voor het probleem. </p>
+      <p>Dertig à vijfenveertig procent van de thuiswonende ouderen en meer dan de helft van de rusthuisbewoners valt minstens eenmaal per jaar. Het jaarlijkse aantal valincidenten bij 65-plussers in België bedraagt hierdoor meer dan 1 miljoen per jaar, een getal dat door de vergrijzing de komende jaren alleen maar zal toenemen.  </p>
+      <p>In heel wat onderzoek wordt aangegeven dat preventie van vallen in de thuissfeer, en meer in het bijzonder secundaire valpreventie, daadwerkelijk leidt tot een reductie in valincidenten van 25% tot 39%; dit door middel van een multidisciplinaire aanpak die zich richt op risicofactoren en waarbij de behandeling wordt gericht en afgestemd op het individu. Daarenboven zijn niet alle valincidenten te vermijden en kan 51% van de vallers niet zelfstandig rechtstaan. Hierdoor zijn ze vaak verplicht om langdurig in een benarde situatie te wachten op hulp. </p>
+      <p>Dit project richt zich op het bouwen en valideren van een camerasysteem voor de detectie van valincidenten bij thuiswonende ouderen en ouderen in serviceflats of woonconcepten zoals 'kleinschalig genormaliseerd wonen’. Het systeem wordt geïnstalleerd in de verschillende kamers van de woning van een bejaarde met een hoog valrisico en alarmeert de mantelzorg wanneer een valincident zich voordoet. </p>
+      </section>
+      <section><title>Omschrijving opdrachten</title>
+
+      <anchor id="valdet1"/>
+      <section><title>Opdracht 1</title>
+      <p>
+         DOEL: Verfijnen, implementeren en testen in Simulink, van bestaande beeldverwerkingsalgoritme of deelaspecten van een beeldverwerkingsalgoritme, dat valincidenten in een beeldenreeks kan detecteren.
+      </p>
+      <p>Het is in niet de bedoeling om zelf een algoritme te ontwikkelen. In de recente literatuur worden er reeds een aantal algoritmes beschreven die exact ontworpen zijn voor deze toepassing. De meerwaarde van deze opdracht is het feit dat deze algoritmes voor het eerst uitgebreid met echte bejaarden getest zal worden. In dit eindwerk zal na een grondige studie van de in de literatuur beschreven algoritmes een implementatie in Matlab/Simulink gemaakt worden. Deze omgeving laat toe op een hoog abstractieniveau algoritmes te modelleren en te simuleren. </p>
+      <p>
+        <img width="725" height="157" alt="" src="file:///tmp/ontwerpen1/docs/school/2008-2009/eindwerken/voorstellen/bvanrumste/"/>
+      </p>
+        <p>Basisopbouw beeldverwerkingsalgoritme voor valdetectie</p>
+      
+      <ul>
+         <li>
+            <p>20% Literatuur studie </p>
+         </li>
+         <li>
+            <p>60% Programmeren in MATLAB/Simulink </p>
+         </li>
+         <li>
+            <p>20% Performance measuring </p>
+         </li>
+      </ul>
+      </section>
+
+      <anchor id="valdet2"/>
+      <section><title>Opdracht 2</title>
+      <p>
+         DOEL:  Implementatie van het (deel)algoritme (uit de vorige opdracht) voor valdetectie op een hardware platform zodat het algoritme voor valdetectie in real-time de binnenkomende beelden kan analyseren en een resultaat kan berekenen.
+      </p>
+      <p>In opdracht 1 wordt het algoritme, of deelalgoritme, voor valdetectie geoptimaliseerd naar performantie, maar niet naar uitvoeringssnelheid. Nochtans moet het uiteindelijk prototype in real-time de binnenkomende beeldenstroom van alle camera's kunnen verwerken.  Daarom zal binnen deze opdracht onderzocht worden hoe het algoritme vanuit Matlab/Simulink naar een tijdsgeoptimaliseerde implementatie in C/C++ omgezet kan worden. Met de huidige ontwikkeltools van The Mathworks, zoals Real-Time Embedded Workshop, kan dit semi-automatisch gebeuren welke één van de technieken zal zijn die hier uitgetest zullen worden.</p>
+      <p>Het platform waar dit algoritme op zal draaien hoeft geen gewone PC te zijn. Om redenen van betaalbaarheid, performantie en vermogenverbruik zal een embedded platform gebruikt worden. In dit geval zal een platform gebruikt worden dat tijdens een vorige masterproef op De Nayer ontwikkeld werd. Het bevat onder andere een ARM9-processor en een Xilinx Spartan. In deze opdracht zal naast de vertaling van het Matlab/Simulink-model naar een C/C++ implementatie op de processor, ook de mogelijkheden onderzocht worden om een gedeelte van het algoritme in hardware te implementeren op de FPGA. Ook hier zal een pakket gebruikt worden, System Generator, om het Matlab/Simulink-model rechtreeks naar VHDL om te zetten. </p>
+      <ul>
+         <li>
+            <p>20% Literatuur studie </p>
+         </li>
+         <li>
+            <p>60% Programmeren in MATLAB/Simulink/C/C++/VHDL </p>
+         </li>
+         <li>
+            <p>20% Performance measuring</p>
+         </li>
+      </ul>
+      </section>
+      <section><title>Profiel</title>
+      <p>Studenten Industrieel Ingenieur – Master optie elektronica  </p>
+      <p>Aanbevolen kennis: </p>
+      <ul>
+         <li>
+            <p>MATLAB </p>
+         </li>
+         <li>
+            <p>Simulink  </p>
+         </li>
+         <li>
+            <p>VHDL </p>
+         </li>
+         <li>
+            <p>C/C++ </p>
+         </li>
+      </ul>
+      </section>
+      <section><title>Wat bieden wij aan</title>
+      <p>Een boeiende en uitdagende eindwerkopdracht in een flexibel, jong en dynamisch onderzoeksteam waarbij zelfstandigheid en creativiteit sterk aangemoedigd worden. In deze groeiende omgeving maak je kennis met de “state-of-the-art” en kom je in contact met de meest geavanceerde onderzoeksapparatuur. Gedurende de stageperiode zal je een aantal voordrachten en conferenties kunnen bijwonen en ook regelmatig je resultaten voorstellen aan collega’s en onderzoekers.</p>
+      </section>
+
+      <section><title>Promotor(en)</title>
+      
+      <p>dr. ir. Toon Goedemé<br />Toon.Goedeme@denayer.wenk.be<br />Hogeschool voor Wetenschap &amp; Kunst, Campus De Nayer<br />Departement: IW - Elektronica/ICT <br />Onderzoeksgroep: EmSD</p>
+      <p>dr. ir. Bart Vanrumste<br />Bart.Vanrumste@khk.be<br />Katholieke Hogeschool Kempen, Campus HIK Geel<br />Departement: Industriële en biowetenschappen<br />Onderzoeksgroep: MOBILAB</p>
+      </section>
+      <section><title>Begeleider(s)</title>
+      
+      <p>ing. Bert Bonroy<br />bert.bonroy@khk.be<br />Katholieke Hogeschool Kempen, Campus HIK Geel<br />Departement: Industriële en biowetenschappen<br />Onderzoeksgroep: MOBILAB</p>
+      </section>
+
+
+      </section>
+      </section>
+
+
+
+      <anchor id="object6d"/>
+      <section>
+        <title>6D object herkenning op een FPGA</title>
+
+<p>
+Dit eindwerk beoogt de verwerking van camerabeelden via een virtexII-pro FPGA (<link href="http://www.xilinx.com/univ/xupv2p.html">www.xilinx.com/univ/xupv2p.html</link>). 
+</p>
+<p>
+Aangezien deze FPGA beschikt over een ingebouwde powerpc is het mogelijk om aan hardware-software 
+codesign te doen. Dit codesign maakt het mogelijk om de tijdrovende beeldverwerkingsoperatie uit te voeren op de FPGA, terwijl andere operaties (communicatie) op de powerpc gebeuren. 
+Voor dit eindwerk werd gekozen om het bestaande ISEF algoritme (<link href="http://pages.cpsc.ucalgary.ca/~parker/501/edgedetect.pdf">pages.cpsc.ucalgary.ca/~parker/501/edgedetect.pdf</link>) te combineren met de Hough transformatie om de randen in een figuur te detecteren. 
+</p>
+<p>
+Deze randen worden dan vergeleken met de 2D projectie van een model van het (gekende) object volgens een bepaalde orientatie en positie. Hieruit halen we voor verschillende positie/orientaties de juiste 6D positionering van het object.  
+De software versie van deze algoritmes werd reeds geimplementeerd in matlab en moeten parallel geimplementeerd worden op de FPGA.
+</p>
+<p>
+Opdrachten:
+</p>
+
+<ul>
+<li>
+literatuurstudie (FPGA, visie, codesign, ...): 20%
+</li>
+<li>
+implementatie (C++, VHDL): 60 %
+</li>
+<li>
+experimenten: 20%
+</li>
+<li>
+begeleider: Peter Slaets (peter@slaets.org) 
+</li>
+</ul>
+      </section>
+-->
+
+
+
+      <anchor id="processor"/>
+      <section>
+        <title>Ontwikkeling van een geavanceerde 32-bit softcore processor voor dataverwerking</title>
+
+<p>
+In dit eindwerk dient een student een bestaande softcore processor (<link href="http://www.opencores.org/browse.cgi/by_category">www.opencores.org/browse.cgi/by_category</link>) die geimplementeerd is in VHDL uit te breiden met een extra rekeneenheid die het mogelijk maakt tegen zeer hoge snelheden eigenwaarde ontbindingen uit te voeren. 
+</p>
+<p>
+De softcore wordt onwikkeld op een SOC platform (virtexII-pro FPGA (<link href="http://www.xilinx.com/univ/xupv2p.html">www.xilinx.com/univ/xupv2p.html</link>) waarbij er twee powerpc's, FPGA op een chip geplaatst zijn uitgerust met USB, RS-232, ethernet, ... . 
+</p>
+<p>
+De geavanceerde softcore wordt getest door een USB-camera te interfacen op het SOC platform en uit de beelden in real-time via een PCA-analyse (<link href="http://en.wikipedia.org/wiki/Karhunen-LoÃ¨ve_transform">en.wikipedia.org/wiki/Karhunen-LoÃ¨ve_transform</link>) verschillende patronen automatisch en snel te herkennen. 
+</p>
+<p>
+
+Opdrachten:
+</p>
+
+<ul>
+<li>
+literatuurstudie (softcore, SVD) 20%
+</li>
+<li>
+implementatie (c++/c) 60%
+</li>
+<li>
+experimenten (USB-camera ) 20%
+</li>
+<li>
+begeleiders: Peter Slaets (peter@slaets.org) en Leo Rutten  
+</li>
+</ul>
+      </section>
+
+
+
+
+
+
+
+
+
+<!--
+      <anchor id="controlrobot"/>
+      <section>
+        <title>Aansturen van een industriele robot d.m.v. een FPGA + powerpc</title>
+
+<p>
+De robots uit het PMA lab (<link href="http://www.mech.kuleuven.be/robotics/acm/research.html">www.mech.kuleuven.be/robotics/acm/research.html</link>) van de KULeuven, afdeling mechanica, zijn losgekoppeld van de originele (meegeleverde) controller en worden op dit moment aangestuurd door een 'normale' PC met bijhorende interfacekaarten. 
+</p>
+<p>
+De kostprijs van deze hardware is +-4000 euro, waarvan +-1000 euro voor de PC en +-3000 euro voor de interfacekaarten.
+</p>
+<p>
+Om deze kost te drukken wilt men de interfacekaarten tussen de robot en het 'open source' robotbesturingsprogramma OROCOS (<link href="http://www.orocos.org">www.orocos.org</link>) vervangen door de herprogrammeerbare hardware van de virtex-II pro (<link href="http://www.xilinx.com/univ/xupv2p.html">www.xilinx.com/univ/xupv2p.html</link>) Field Programmable Grid Array (FPGA). 
+</p>
+<p>
+Op die manier wordt het mogelijk om de verschillende dure interfacekaart te vervangen door de flexibele, goedkope herprogrammeerbare hardware van een FPGA. Deze FPGA is via een System On Chip (SOC, <link href="http://en.wikipedia.org/wiki/System-on-a-chip">en.wikipedia.org/wiki/System-on-a-chip</link>) gekoppeld aan een Powerpc waarop OROCOS geinstallleerd is en die instaat voor de controle.
+</p>
+<p>
+De werking ervan is als volgt: 
+De Powerpc schrijft stuurgegevens naar de  FPGA(snelheden, statusgegevens, ...) voor elke motor van de robot en vraagt de toestand (posities, einddetectorsignalen, ...) van de motoren op. Naargelang het type motor en het type positie-opnemer kan de FPGA anders geprogrammeerd worden, zodat er voldoende flexibileit aanwezig voor uitbreiding naar andere types van robots.
+</p>
+<p>
+Deze SOC aanpak laat toe van voor een lagere prijs (+- 2000 euro) en een kleiner volume een flexibele en uitbreidbare controller + interfacing te ontwerpen.  
+</p>
+<p>
+Opdrachten:
+</p>
+
+<ul>
+<li>
+literatuurstudie (FPGA, orocos, interfacing, ...): 30%
+</li>
+<li>
+implementatie (C++, VHDL): 50 %
+</li>
+<li>
+experimenten: 20%
+</li>
+<li>
+begeleider: Peter Slaets (peter@slaets.org) 
+</li>
+</ul>
+      </section>
+
+
+
+
+
+
+
+      <anchor id="rttracking"/>
+      <section>
+        <title>Real-time tracking m.b.v. een FPGA</title>
+
+<p>
+Afgelopen academiejaar werd de commerciele ESHED robot (<link href="http://www.intelitek.com/">www.intelitek.com</link>) ontkoppeld van zijn industriele controller en aangestuurd door een System-On-Chip (SOC) (<link href="http://en.wikipedia.org/wiki/System-on-a-chip"></link>) bestaande uit een FPGA, powerpc en randapparatuur (<link href="http://www.xilinx.com/univ/xupv2p.html"></link>).
+</p>
+<p>
+Aan de student wordt gevraagd om een analoge camera module (<link href="http://www.digilentinc.com/Products/Detail.cfm?Prod=VDEC1&amp;Nav1=Products&amp;Nav2=Accessory">www.digilentinc.com/Products/Detail.cfm?Prod=VDEC1&amp;Nav1=Products&amp;Nav2=Accessory</link>) te interfaces met het SOC platform en een tracking algoritme te implementeren op de FPGA. 
+</p>
+<p>
+Het eindresultaat is een robot die een zeer snel bewegend(e) object(en) kan volgen binnen zijn bereik.
+</p>
+
+<p>
+Opdrachten:
+</p>
+<ul>
+<li>
+literatuurstudie (FPGA, visie, camera, ...): 20%
+</li>
+<li>
+implementatie (C++, VHDL): 60 %
+</li>
+<li>
+experimenten: 20%
+</li>
+<li>
+begeleider: Peter Slaets (peter@slaets.org)
+</li>
+</ul>
+      </section>
+ 
+
+
+ 
+
+
+
+
+
+      <anchor id="vlrobot"/>
+      <section>
+        <title>Vliegende robots</title>
+        
+<p>        
+        Aan het departement werktuigkunde van de K.U. Leuven wenst men experimenten uit te voeren met vliegende robots.
+</p>
+<p>
+        <img alt="vlrobot-f1.png" src="maproef/2008-2009/voorstellen/vlrobot-f1.png"/>
+
+</p>
+<p>
+        Het is de bedoeling dat bovenstaande helikopter voorzien wordt van een grijper, zodat er lichte voorwerpen mee vervoerd kunnen worden. Deze grijper zal volledig ontwikkeld en gerealiseerd moeten worden, de uitdaging hierbij een zo licht mogelijke constructie te ontwikkelen, gezien het beperkte draagvermogen van de robot. Deze grijper moet vervolgens geïntegreerd worden op het bestaande hardware platform van de helikopter. Het streefdoel hier is een vliegende robot met onderaan een grijper die kleine voorwerpen kan oppikken en verplaatsen, en dit op een zodanige manier dat de gebruiker de helikopter en de grijper vanaf de computer kan besturen. De helikopter is reeds aangepast zodat deze vanaf een computer bestuurd kan worden, de interface voor de grijper moet nog ontwikkeld worden. Er zal bijgevolg ook een stukje software en elektronica bij komen kijken om de grijper aan te sturen.
+
+</p>
+<p>
+Verwachte verdeling van het werk: 
+</p>
+
+<ul>
+<li>
+Literatuur studie:15 % 
+</li>
+<li>
+Mechanisch ontwerp en realisatie van de grijper: 60 % 
+</li>
+<li>
+Integratie van de grijper in het geheel: 25 % 
+</li>
+</ul>
+
+
+<p>
+Locatie:
+</p>
+
+<ul>
+<li>
+Literatuurstudie &amp; ontwerp: thuis
+</li>
+<li>
+Realisatie en testen: PMA in Leuven
+</li>
+</ul>
+
+<p>
+Begeleiding:
+</p>
+
+<ul>
+<li>
+extern: Hans Wambacq (hans.wambacq@mech.kuleuven.be)
+</li>
+<li>
+intern: Peter Slaets (peter@slaets.org)
+</li>
+</ul>
+
+      </section>
+-->
+
+
+
+      
+      
+      <anchor id="webrobot"/>
+      <section>
+        <title>Webapplicatie om robot aan te sturen</title>
+
+<p>
+Webapplicaties om vanop afstand een 'echte robot' aan te sturen geven (vb: <link href="http://ranier.hq.nasa.gov/telerobotics_page/realrobots.html">ranier.hq.nasa.gov/telerobotics_page/realrobots.html</link>) geven de robotica een kans om zich nog meer op het web te profileren. De robotica groep van het departement werktuigkunde van de KULeuven wil mee op deze kar springen en een webinterface aanbieden voor verschillende toepassingen op 1 van hun robots. 
+</p>
+
+<p>
+Dit project bevat het ontwerp van een webapplicatie en de keuze en uitwerking van het communicatieprotocol met de Open Robot Controle Software (<link href="http://www.orocos.org">www.orocos.org</link>).
+</p>
+
+<p>
+Opdrachten:
+</p>
+
+<ul>
+<li>
+literatuurstudie (OROCOS, communicatieprotocols, ...): 20%
+</li>
+<li>
+implementatie:  50 %
+</li>
+<li>
+experimenten: 30%
+</li>
+<li>
+begeleider: Peter Slaets (peter@slaets.org) (intern) en Ruben Smits (ruben.smits@mech.kuleuven.be) (extern) 
+</li>
+</ul>
+
+      </section>
+
+<!--
+      <anchor id="terracotta"/>
+      <section>
+        <title>Load balancer voor Terracotta</title>
+        
+        <p>
+          De meest voorkomende programmeertechniek in Java is het creëren van dynamische objecten. Deze objecten komen tot leven in de heap
+          binnen de JVM en zijn niet rechtstreeks toegankelijk van buiten de JVM (tenzij er RMI gebruikt wordt). In een aantal gevallen wil
+          met de heaps van verschillende JVM's groeperen. De redenen hiervoor kunnen velerlei zijn: de grootte van één enkele heap is te klein of
+          men ontwerpt een gedistribueerde applicatie die uit meerdere JVM's bestaat.
+        </p>
+        <p>
+          Met behulp van Terracotta (<link href="http://www.terracotta.org">www.terracotta.org</link>) is het mogelijk om de heaps van verschillende
+          JVM's te groeperen tot een soort superheap. Dit betekent dat alle objecten die tot leven komen in deze superheap toegankelijk zijn vanuit
+          alle meewerkende JVM's. Hierdoor is het eenvoudig om de threads in de verschillende JVM's met elkaar te synchronizeren. Terracotta neemt dit voor zijn rekening
+          zonder dat er een nieuwe API aan te pas komt. Voor elke JVM lijkt het alsof de superheap-objecten lokaal opgeslagen zijn. 
+        </p>
+        <p>
+          Het enige wat niet door Terracotta gedaan wordt is de load balancing tussen de verschillende JVM's. Het is daarom de bedoeling om een oplossing te ontwerpen 
+          die load balancing mogelijk maakt in een applicatie. Als type applicatie wordt er opteerd voor het uitrekenen van de posities van de knooppunten van een
+          grafe (<link href="http://www.ics.uci.edu/~ses/papers/grafdraw.pdf">graphdraw.pdf</link> en <link href="http://en.wikipedia.org/wiki/Graph_drawing">Graph_drawing</link>). 
+          Door deze berekening te spreiden over meerdere JVM's kunnen hogere schermrefreshtijden gehaald worden.
+        </p>
+        <p>
+          Aantal studenten: 2
+        </p>
+        <p>
+          Bedrijf: KHLim
+        </p>
+        <p>
+          Promotor: Leo Rutten
+        </p>
+      </section>
+      
+      <anchor id="fuse"/>
+      <section>
+        <title>Fuse bestandensysteem voor testdoeleinden</title>
+        
+        <p>
+          Met behulp van Fuse (<link href="http://fuse.sourceforge.net/">fuse.sourceforge.net</link>) is het mogelijk om 
+          een eigen bestandensysteem te ontwerpen dat als een user proces kan gestart worden. Dankzij Fuse is het niet nodig
+          om hiervoor een kernelmodule te maken.
+        </p>
+        <p>
+          Het is de bedoeling om in een eerste faze een bestandensysteem te maken dat in staat
+          is om alle bewerkingen te loggen en verder normaal af te handelen. Deze logging laat toe
+          om inzicht te verkrijgen op welke wijze applicaties bestanden lezen en schrijven.
+        </p>
+        <p>
+          In een latere faze wordt het bestandensysteem zo ontworpen
+          dat het mogelijk is om <link href="http://en.wikipedia.org/wiki/Mbox">mbox</link> bestanden weer te geven die
+          samengesteld zijn uit losse mbox bestanden of database records. mbox is het formaat dat door programma's
+          zoals Thunderbird gebruikt wordt voor de opslag van e-mail. Hierdoor wordt het mogelijk om e-mails te lezen die van
+          verschillende bronnen afkomstig zijn.
+        </p>
+        <p>
+          Aantal studenten: 2
+        </p>
+        <p>
+          Bedrijf: KHLim
+        </p>
+        <p>
+          Promotor: Leo Rutten
+        </p>
+      </section>
+      
+      <anchor id="simenergie"/>
+      <section>
+        <title>Simulatie van de planning van decentrale energievoorziening</title>
+        
+        <p>
+          In dit eindwerk wordt een simulatie in Java ontworpen om de planning van een netwerk van decentrale energievoorzieningen te bepalen en 
+          visueel weer te geven. 
+        </p>
+        <p>
+          Momenteel wordt er aan de KHLim onderzoek gedaan naar het gebruik van 
+          <link href="http://www.energieprojecten.nl/edu/ut_wkk.html">WKK</link>'s (warmtekrachtkoppeling). In tegenstelling tot een grote centrale
+          is het bij een netwerk van een groot aantal WKK's niet zo gemakkelijk om te bepalen welke WKK welk aandeel van de gevraagde energie moet
+          produceren. Daarom wordt in dit eindwerk een simulatie van een netwerk van WKK's uitgevoerd. Het voordeel van een simulatie is dat de werking van het netwerk
+          onderzocht kan worden zonder dat alle WKK's fysisch bestaan. De planning van de energieproductie door de verschillende WKK's wordt
+          bepaald door een algoritme dat op agents is gebaseerd. Dit algoritme is afkomst van eerder onderzoek bij PMA, K.U.Leuven en is succesvol toegepast
+          in de simulatie van productieomgevingen.
+        </p>
+        <p>
+          Het algoritme wordt in deze <link href="maproef/2008-2009/voorstellen/final-AEI-article.pdf">publicatie</link> beschreven.
+        </p>
+        
+        <p>
+          Aantal studenten: 1 of 2
+        </p>
+        <p>
+          Bedrijf: KHLim
+        </p>
+        <p>
+          Promotoren: Paul Valkenaers, Leo Rutten
+        </p>
+      </section>
+
+      
+      <anchor id="graphco"/>
+      <section>
+        <title>Graphics Coprocessor Support for Signal Analyzing Software</title>
+      <p>Context: </p>
+      <p>
+         When a new wireless standard is emerging in the telecommunications industry,
+         the first support provided by Agilent are software tools such as the 89600 Vector Signal Analyzer Software.  These software solutions run on the client’s computer and can connect to an instrument which is used to perform the RF processing. 
+      </p>
+      <p>
+         But while the rapid development cycle for 
+         software that is not constrained by the limitations of the measurement equipment is ideal to get a test solution to the market as soon as possible, it has one important disadvantage.  It is much slower than native support in the instrument which reduces the possible scope of a measurement session.
+      </p>
+      <p>
+         The large number of parallel computations that need to be performed in the baseband processing of modern wireless receivers is simply too high, even for state of the art high performance CPU’s which are optimized for serial, high precision processing.  However the graphical cards present in modern computers are transforming more and more into a highly parallel coprocessor similar to the ones present in dedicated measurement instruments. Moreover, such graphical cards might be interesting as coprocessors within the test and meassurement instruments themselves.
+      </p>
+      <p>Description of the Work: </p>
+      <p>
+         Starting from an existing measurement application, several investigations should be made:
+      </p>
+      <ol>
+         <li>
+            <p>
+               For which algorithms does it make sense to consider graphic cards?
+            </p>
+         </li>
+         <li>
+            <p>How much processing time can be gained by doing this? </p>
+         </li>
+         <li>
+            <p>How much additional development effort is needed to include this? </p>
+         </li>
+      </ol>
+      <p>
+         A final implementation of the existing application with coprocessor support will be created as well. The purpose is to demonstrate its feasibility for other, new applications.
+      </p>
+      <p>Number of Students: </p>
+      <p>
+         Preferably 
+         2 students.
+      </p>
+      <p>Type of the work: </p>
+      <p>
+         30% Literature (study of the existing solutions, study of the existing code)
+      </p>
+      <p>
+         70% SW Design
+      </p>
+      <p>Summer stay (stage) possible?  </p>
+      <p>
+         Yes, preferred.
+      </p>
+      <p>Contact at Agilent Technologies: </p>
+      <p>Joeri Melis</p>
+      <p>
+         <link href="mailto:joeri_melis@agilent.com">joeri_melis@agilent.com</link>
+      </p>
+      <p>
+         +32 (16) 46 97 17
+      </p>
+      <p>
+         SMRD Lead: Joeri Melis
+      </p>
+      </section>
+      
+
+      
+      <anchor id="dattransform"/>
+      <section>
+        <title>Data Transform Techniques for High-Speed Signal Analyzers</title>
+      <p>Context: </p>
+      <p>
+         In the evolution of signal analyzers we see a trend of increasing bandwidth that needs to be processed. There are two important technological challenges with this evolution: (1) it becomes very difficult to process the data and perform the measurements in (near-) real-time, which implies that the data must be stored for offline processing, and (2) stored data must be easily accessible and searchable in order to retrieve certain information of interest to the engineer performing the meassurements. These challenges lead to the search for suitable compression techniques for measurement data, and for meaningful attributes (metadata) that can be stored together with the raw or compressed data. 
+      </p>
+      <p>Description of the Work: </p>
+      <p>
+         The 
+         main data transform or compression technique that is the topic of this Master’s thesis is the KLT (Karhunen-Loève Transform). It is typically used as a reference in the image compression domain; here we will investigate its feasibility for compressing measurement data or extracting statistically relevant information out of the data. The KLT is an optmial transform, which makes it a good algorithm for benchmarking purposes. On the other hand, it is fairly complex and the transform is data dependent, which implies a large amount of computations. This makes it very challenging to define a feasible architecture which is implementable.
+      </p>
+      <p>
+         First, a litterature study of the KLT and related transforms will be performed. Then the students will, starting from an existing MATLAB model, adapt and extend the model and perform a number of simulations on a variety of input streams encountered as high-speed measurement data, and identify the characteristics of the resulting transform. Furthermore, the complexity of the KLT algorithm will be studied in some detail, and an analysis will be performed on the architecture needed for a (near-) real-time implementation. 
+      </p>
+      <p>Number of Students: </p>
+      <p>1 or 2 students </p>
+      <p>Type of the work: </p>
+      <p>30% algorithm study </p>
+      <p>40% MATLAB model development and simulations </p>
+      <p>30% architecture development </p>
+      <p>Summer stay (stage) possible?  </p>
+      <p>
+         Yes.
+      </p>
+      <p>Contact at Agilent Technologies:</p>
+      <p>
+         Contact person at SMRD for more information: 
+      </p>
+      <p>Lieven Philips </p>
+      <p>Agilent Technologies </p>
+      <p>Wingepark 51 </p>
+      <p>B-3110 Rotselaar </p>
+      <p>Tel: +32 16 46 9700 </p>
+      <p>
+         Email: <link href="mailto:lieven_philips@agilent.com">lieven_philips@agilent.com</link>
+      </p>
+      </section>      
+-->
+
+
+
+
+
+
+
+      
+      <anchor id="cryptcompact"/>
+      <section>
+        <title>Veilige en compacte implementatie van cryptografische algoritmen op FPGA</title>
+
+        <p>
+Om veiligheid toe te voegen aan embedded systemen die gebruik maken van FPGAs, moeten cryptografische algoritmen toegevoegd worden aan bestaande FPGA implementaties. Voor sommige toepassingen is het belangrijk dat de implementatie het algoritme zo snel mogelijk uitvoert, terwijl andere toepassingen vereisen dat de gebruikte oppervlakte op FPGA minimaal is. De opdracht van deze masterproef is het implementeren van cryptografische algoritmen op een zo klein mogelijke oppervlakte van de FPGA. Op die manier kan de rest van de FPGA gebruikt worden voor andere toepassingen. De uitvoeringssnelheid is in dit geval van ondergeschikt belang.
+        </p>
+
+        <p>
+Een bijkomende eis aan de cryptografische bouwblokken is dat ze bestand zijn tegen zogenaamde nevenkanaal aanvallen. Dit zijn aanvallen die via een meting van het vermogenverbruik of de uitvoeringstijd van bepaalde bewerkingen geheime informatie proberen te achterhalen. Zo toont onderstaande figuur bijvoorbeeld het vermogenverbruik van een cryptografisch bouwblok op FPGA. De bewerkingen die worden uitgevoerd, zijn afhankelijk van de bits van een geheime sleutel (d.i. een bitstring die niet in verkeerde handen mag vallen). De bits van de sleutel worden een voor een beschouwd. De bewerking "DUBBEL" wordt uitgevoerd wanneer de beschouwde bit gelijk is aan 0; de bewerking "DUBBEL" gevolgd door "TEL OP" wordt uitgevoerd wanneer de beschouwde bit gelijk is aan 1. De figuur toont dat het vermogenverbruik van de "DUBBEL" bewerking verschillend is van het vermogenverbruik van de "TEL OP" bewerking. De implementatie waarvan het vermogenverbruik getoond wordt in de figuur, is in dit geval niet bestand tegen een vermogenaanval, omdat we de sleutelbits kunnen afleiden aan de hand van een simpele vermogenmeting. De geheime sleutel is in dit geval gelijk aan 011010 (dit kan je zelf ook zien op de figuur!).
+        </p>
+
+        <p>
+           <img alt="power.jpg" height="426" width="614" src="maproef/2008-2009/voorstellen/power.jpg"/>
+        </p>
+        <p>
+De masterproef bestaat uit de volgende stappen:
+        </p>
+
+        <ol>
+        <li>
+studie van de te implementeren algoritmen,
+        </li>
+        <li>
+implementatie van de veilige en compacte architecturen op FPGA,
+        </li>
+        <li>
+implementatie van een test setup,
+        </li>
+        <li>
+uitgebreide rapportering van de snelheid, de oppervlakte en de veiligheid van de cryptografische bouwblokken.
+        </li>
+        </ol>
+
+
+        <p>
+Deze masterproef loopt in samenwerking met de onderzoeksgroep COSIC (COmputer Security and Industrial Cryptography) aan het departement Elektrotechniek-ESAT van de Katholieke Universiteit Leuven. De studenten kunnen aan hun masterproef werken aan de KHLim en worden enkele keren verwacht bij COSIC om de voortgang te bespreken.
+        </p>
+
+        <p>
+Aard van het werk:
+        </p>
+
+        <ul>
+        <li>
+20% literatuurstudie
+        </li>
+        <li>
+80% implementatie
+        </li>
+        </ul>
+
+        <p>
+Contactpersoon: Nele Mentens (nele.mentens@iwt.khlim.be)
+        </p>
+        </section>
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <anchor id="hashfpga"/>
+      <section>
+        <title>Evaluatie van nieuwe hashfunctie kandidaten op FPGA</title>
+
+        <p>
+Een hashfunctie is een bewerking die een (variabel) aantal bits afbeeldt op een bitstring met een vaste (kortere) lengte. In de cryptografie zijn hashfuncties vooral belangrijk voor het controleren van de integriteit van een boodschap: wanneer een boodschap samen met de bijhorende hashwaarde wordt verstuurd, kan er nagegaan worden of de boodschap gemanipuleerd werd door de hashwaarde van de boodschap opnieuw te berekenen en te vergelijken met de doorgestuurde hashwaarde. Op een gelijkaardige manier worden hashfuncties gebruikt bij het genereren en verifiëren van digitale handtekeningen.
+        </p>
+
+        <p>
+Omdat de bestaande standaarden voor hashfuncties niet meer voldoen aan de veiligheidseisen van toekomstige applicaties, start er in het najaar van 2008 een competitie voor het vinden van een nieuwe hashfunctie standaard (zie <link href="http://csrc.nist.gov/groups/ST/hash/index.html">csrc.nist.gov/groups/ST/hash/index.html</link>). Na publicatie van de specificaties van de kandidaat-hashfuncties, volgt er een evaluatiefase waarin niet enkel de veiligheid, maar ook de implementatie-eigenschappen (zowel in software als hardware) wereldwijd geëvalueerd worden.
+        </p>
+
+        <p>
+Deze masterproef levert een bijdrage aan de evaluatie van nieuwe hashfunctie kandidaten aan de hand van volgende stappen:
+        </p>
+
+        <ol>
+        <li>
+implementatie van een standaard hashfunctie op FPGA (te gebruiken als referentie-implementatie),
+        </li>
+        <li>
+implementatie van een test setup,
+        </li>
+        <li>
+implementatie van een of meerdere nieuwe hashfunctie kandidaten op FPGA,
+        </li>
+        <li>
+uitgebreide rapportering en vergelijking van de snelheid en de oppervlakte van de kandidaten en de referentie-implementatie.
+        </li>
+        </ol>
+       
+
+        <p>
+Deze masterproef loopt in samenwerking met de onderzoeksgroep COSIC (COmputer Security and Industrial Cryptography) aan het departement Elektrotechniek-ESAT van de Katholieke Universiteit Leuven. De studenten kunnen aan hun masterproef werken aan de KHLim en worden enkele keren verwacht bij COSIC om de voortgang te bespreken.
+        </p>
+
+        <p>
+Aard van het werk:
+        </p>
+
+        <ul>
+        <li>
+20% literatuurstudie
+        </li>
+        <li>
+80% implementatie
+        </li>
+        </ul>
+
+        <p>
+Contactpersoon: Nele Mentens (nele.mentens@iwt.khlim.be)
+        </p>
+         </section>
+       
+
+
+
+
+
+
+      <anchor id="herconffpga"/>
+      <section>
+        <title>Dynamische, partieel herconfigureerbare implementaties van cryptografische bouwblokken op FPGA</title>
+
+       
+
+        <p>
+De meest recente Xilinx FPGAs laten toe om een gedeelte van de FPGA te herconfigureren terwijl de rest van de FPGA onveranderd blijft en de normale werking verderzet. Dit noemen we partiële herconfiguratie. Daarnaast is het mogelijk om het onveranderd gedeelte van de FPGA te laten beslissen over de herconfiguratie van het herconfigureerbaar gedeelte. Dit noemen we dynamische, partiële herconfiguratie.
+        </p>
+
+        <p>
+Het doel van deze masterproef is het toevoegen van dynamische, partiële herconfigureerbaarheid aan cryptografische systemen. Dit zal verschillende voordelen bieden waaronder besparing van oppervlakte en verhoging van de uitvoeringssnelheid, maar ook verbetering van de veiligheid van het systeem.
+        </p>
+
+        <p>
+De masterproef bestaat uit de volgende stappen:
+        </p>
+
+        <ol>
+        <li>
+studie van de te implementeren cryptografische bouwblokken,
+        </li>
+        <li>
+implementatie van de dynamische, partieel herconfigureerbare systemen op FPGA
+        </li>
+        <li>
+implementatie van een test setup,
+        </li>
+        <li>
+uitgebreide rapportering van de snelheid, de oppervlakte en de veiligheid van de cryptografische bouwblokken.
+        </li>
+        </ol>
+       
+
+        <p>
+Deze masterproef loopt in samenwerking met de onderzoeksgroep COSIC (COmputer Security and Industrial Cryptography) aan het departement Elektrotechniek-ESAT van de Katholieke Universiteit Leuven. De studenten kunnen aan hun masterproef werken aan de KHLim en worden enkele keren verwacht bij COSIC om de voortgang te bespreken.
+        </p>
+
+        <p>
+Aard van het werk:
+        </p>
+
+        <ul>
+        <li>
+20% literatuurstudie
+        </li>
+        <li>
+80% implementatie
+        </li>
+        </ul>
+
+        <p>
+Contactpersoon: Nele Mentens (nele.mentens@iwt.khlim.be)
+        </p>
+
+        </section>
+
+
+
+
+<!-- NXP voorstellen -->
+<!--
+  
+      <anchor id="NXPstreaming"/>
+      <section>
+        <title>Uncompressed wireless high-definition video streaming</title>
+
+        <p>
+Subject:
+        </p>
+        <p>
+Television screens are becoming bigger and the quality of pictures is getting
+better. To be able to send the pictures to the screens without using any
+compression method, the bandwidth on the link is increasing a lot. At the same
+time, users want to remove all their cables between their screen and the setop
+box. This requires wireless links that are capable of transferring data in the
+range of 3 to 5 Gbps. In the past months companies have been demonstrating
+prototypes. But all of them were using different radio's and all of them had
+their own advantages and disadvantages.
+        </p>
+
+        <p>
+Tasks:
+        </p>
+        
+        <ol>
+        <li>
+Study of existing standards and prototypes that do wireless HD video streaming
+        </li>
+        <li>
+Make a comparison of all existing solutions
+        </li>
+        <li>
+Choose the most promising solution and define an architecture for a demonstrator
+        </li>
+        </ol>
+        
+
+        <p>
+Profile of the student:
+        </p>
+        
+        <ol>
+        <li>
+Knowledge on wireless communication protocols
+        </li>
+        <li>
+Knowledge on video transmission protocols
+        </li>
+        </ol>
+        
+
+        <p>
+Work environment:
+        </p>
+        <p>
+NXP Semiconductors Leuven (Connectivity IP group)
+        </p>
+
+        <p>
+Your contact person:
+        </p>
+        <p>
+Bart Vertenten (bart.vertenten@nxp.com)
+        </p>
+
+        </section>
+-->
+
+<!--
+
+      <anchor id="NXPandroid"/>
+      <section>
+        <title>Study of Android-OpenKode platform</title>
+
+        <p>
+Subject:
+        </p>
+        <p>
+Android is an initiative from Google to create an open, free mobile platform
+(www.openhandsetalliance.com) while OpenKODE is an initiative from Khronos
+industry forum to define an open standard for Mobile Application Portability
+(<link href="http://www.khronos.org">www.khronos.org</link>).
+        </p>
+        <p>
+Today's mobile platforms are expected to run a growing range of software such
+as internet browsers, navigation, games, music/video players, etc. Khronos
+defines interfaces to accelerate mobile media required to run rich media
+applications. As such both Android and Khronos together can offer a
+competitive advantage in the market.
+        </p>
+        <p>
+The goal of this study is to further explore the use of Khronos interfaces
+(OpenKode for OS abstraction, OpenMAX for streaming audio/video media and
+OpenSL-ES for 2D and 3D audio) within the Android platform; and the impact
+to run Android on a Khronos-enabled NXP platform.
+        </p>
+        <p>
+In order to explore, a prototype has to be developed on a PC with potential to
+port (part of) to NXP silicon, using a sample application.
+        </p>
+        <p>
+Tasks:
+        </p>
+        
+        <ol>
+        <li>
+Study of Android SDK by developing a simple Android Application
+        </li>
+        <li>
+Study of OpenKODE Core by installing FreeKode
+        </li>
+        <li>
+Develop Android OpenKODE Core run-time module
+        </li>
+        <li>
+Study of Android Media Framework API by developing a simple Android media application
+        </li>
+        <li>
+Study of OpenKODE media interfaces (OpenMAX and OpenSL-ES)
+        </li>
+        <li>
+Develop OpenKODE Media framework module
+        </li>
+        <li>
+Integrate OpenKODE modules in Android SDK using Android Applications
+        </li>
+        <li>
+Write a technical report on dependencies to port Android on NXP OpenKODE platform (e.g. use of Dalvik virtual machine)
+        </li>
+        <li>
+Port OpenKODE Core to NXP linux embedded platform
+        </li>
+        <li>
+Optionally: port Android SDK on NXP embedded platform
+        </li>
+        <li>
+Optionally: investigate use/porting of available Android applications to NXP embedded platform
+        </li>
+        </ol>
+        
+
+        <p>
+Profile of the student:
+        </p>
+        <p>
+2 students.<br/>
+Knowledge of C &amp; Java language is required.<br/>
+Knowledge of using Linux-PC environment is a plus.<br/>
+Some experience with media streaming technology (e.g. Direct Show, Gstreamer) is a plus.
+        </p>
+        <p>
+Work environment:
+        </p>
+        <p>
+Windows x86 platform, Linux x86 platform, ARM9 Linux embedded platform
+        </p>
+        <p>
+Your contact persons:
+        </p>
+        <p>
+Bruno Smets (bruno.smets@nxp.com)<br/>
+Edwin Detrez (edwin.detrez@nxp.com)
+        </p>
+        </section>
+-->
+
+<!--
+      <anchor id="NXPsystemC"/>
+      <section>
+        <title>SystemC Modeling of MIPI/SLIMbus interface IP</title>
+
+        <p>
+Subject:
+        </p>
+        <p>
+Goal is to create and verify a SystemC Model of an existing SLIMbus interface
+IP. The existing IP is written in VHDL. The SystemC model behavior has to be
+cycle-true and will be used to do early-on system modeling on SOC's which
+integrate this IP.
+        </p>
+        <p>
+The model will be based on the existing VHDL and datasheet of the IP.
+SLIMbus is a low-power two wire multi-drop interface for the mobile industry
+which aims to replace existing audio and control interfaces such as PCM, UART,
+SPI, I2S, I2C, ...
+        </p>
+        <p>
+Tasks:
+        </p>
+        
+        <ol>
+        <li>
+Learn existing IP based on datasheet and simulations
+        </li>
+        <li>
+create a SystemC model of the IP
+        </li>
+        <li>
+Verify the SystemC model against the VHDL
+        </li>
+        </ol>
+        
+
+        <p>
+Profile of the student:
+        </p>
+        <p>
+Good knowledge on VHDL<br/>
+Good knowledge on C++<br/>
+Knowledge on SystemC is an advantage<br/>
+        </p>
+        <p>
+Work environment:
+        </p>
+        <p>
+This thesis will be conducted within the Corporate Innovation &amp; Technology -
+Connectivity group in Leuven which focuses on the creation and verification of
+new interconnect IP within NXP.
+        </p>
+        <p>
+Your contact person:
+        </p>
+        <p>
+Davy Witters (davy.witters@nxp.com)
+        </p>
+        </section>
+-->
+
+
+<!--
+
+  Jeroen Dreesen heeft ondertussen een ander onderwerp, ook bij NXP 
+
+      <anchor id="NXPreflections"/>
+      <section>
+        <title>Automatic Equalization for a loudspeaker system that makes use of wall reflections</title>
+
+        <p>
+Introduction:
+        </p>
+        <p>
+A consumer audio system is often constrained by cost and design. This has
+implications on the sound quality. Sometimes a fixed equalizer is implemented
+to improve that sound quality. This equalizer is tuned manually, which is often a
+very time consuming task.
+        </p>
+        <p>
+In a previous project an investigation and implementation has been made of an
+automatic sequence to measure the acoustical response of a standard two point
+loudspeaker audio system (electronics and loudspeakers) and to calculate and
+implement an equalizer that optimizes the sound quality to given criteria.
+        </p>
+        <p>
+Subject:
+        </p>
+        <p>
+Home Cinema systems make more and more use of sound systems that aim to
+create embracing sound via wall reflections (e.g. HTS8100). This is different
+from a standard two point loudspeaker system.
+        </p>
+        <p>
+The sound that reaches the ears of the listener is a combination of direct and
+indirect sound and is experienced as quite unbalanced. This unbalance can be
+improved via equalization, which is currently tuned via trial and error.
+        </p>
+        <p>
+The purpose of this thesis is to develop a method to measure the acoustical
+response of wall reflecting sound systems and to investigate the subjective
+impression of different equalization schemes. In the end we want to a rather
+automated way of working.
+        </p>
+        <p>
+Tasks:
+        </p>
+        
+        <ol>
+        <li>
+Literature study on measurement methods of the acoustic response in a
+room of a loudspeaker system that makes use of reflections and
+verification by experiment.
+        </li>
+        <li>
+Determination of an acoustical target response curve. Because the
+sound that reaches the listener is a combination of direct sound and
+reflected sound, the target curves are not trivial.
+        </li>
+        <li>
+Revisiting the literature study on existing auto-equalization methods.
+        </li>
+        <li>
+Revisit of
+        <ol>
+        <li>
+The measurement sequence
+        </li>
+        <li>
+The equalizer calculation according certain given development criteria
+        </li>
+        </ol>
+As in established in the previous thesis (see introduction)
+        </li>
+        <li>
+Implementation and validation of an automatic sequence.
+        </li>
+        <li>
+Create/adapt a 'friendly' user interface
+        </li>
+        <li>
+Make documentation / user manual
+        </li>
+        </ol>
+        
+        <p>
+Profile of the student:
+        </p>
+        <p>
+Industrial Engineering<br/>
+Understanding digital signal processing<br/>
+Having MatLab skills<br/>
+Having interests in and affinity with acoustics.<br/>
+Being aware of sound quality<br/>
+        </p>
+
+        <p>
+Work environment:
+        </p>
+        <p>
+Philips Acoustics lab, Leuven, a team of 8 persons.<br/>
+We have dedicated listening rooms, an-aechoic chamber, a lab building for
+building and measuring prototypes and all appropriate tools and equipment.
+        </p>
+        <p>
+Your contact person:
+        </p>
+        <p>
+Gerrit De Poortere (gerrit.de.poortere@philips.com)
+        </p>
+	</section>
+-->
+
+
+
+
+      <anchor id="audibdistor"/>
+      <section>
+        <title>Audible Distortion Detector.</title>
+
+        <p>
+Introduction:
+        </p>
+        <p>
+The sound quality of a consumer product is constrained by amplifier power, loudspeaker frequency response, etc.
+In order to make a sound system as good as possible, very often equalization such as a bass boost is introduced.
+To avoid distortion, these enhancements can be made dynamical. E.g. when clipping occurs, the gain of a bass boost can be reduced. But some clipping may not be perceived by a consumer as distortion or is quite acceptable. In other words, there could already be a reduction of the sound effect without noticeable distortion.
+This leads to a non-optimal sound system.
+        </p>
+        <p>
+
+Subject of the thesis:
+        </p>
+        <p>
+
+The purpose of this thesis is to make a detector that indicates whether distortion is unacceptable to a consumer or not.
+This has not only to do with absolute distortion figures, but also with psycho-acoustics, the frequencies at which distortion occurs, masking, etc.
+        </p>
+        <p>
+
+Tasks:
+        </p>
+        <ol>
+          <li>   
+Literature study on how the perception of distortion functions and what the parameters are.
+          </li>
+          <li>
+Perform listening tests to confirm these parameters.
+          </li>
+          <li>
+Find a ranking of amount of distortion effect / parameter.
+          </li>
+          <li>
+Create an algorithm that incorporates the parameters in the order of importance.
+          </li>
+          <li>
+Test the algorithm step by step with listening tests.
+          </li>
+          <li>
+Make documentation / user manual.
+          </li>
+        </ol>
+        <p>
+Profile of the student:
+        </p>
+
+        <ul>
+          <li>
+          Industrial Engineering
+          </li>
+          <li>
+Understanding digital signal processing
+          </li>
+          <li>
+Having MatLab skills
+          </li>
+          <li>
+Having interests in and affinity with acoustics.
+          </li>
+          <li>
+Being aware of sound quality
+          </li>
+        </ul>
+
+        <p>
+        Work environment :
+        </p>
+        <p>
+Philips Acoustics lab – Leuven, a team of 8 persons. We have dedicated listening rooms, an-aechoic chamber, a lab building for building and measuring prototypes and all appropriate tools and equipment.
+        </p>
+        <p>
+
+Your contact person :
+        </p>
+        <p>
+
+Gerrit De Poortere
+        </p>
+        <!--
+gerrit.de.poortere@philips.com
+++32 16 390 659
+          -->
+     </section>
+
+
+
+
+
+<!--
+<anchor id="NXPuwb"/>
+      <section>
+        <title>HDMI over WiMedia Ultra Wide Band (UWB)</title>
+
+        <p>
+Subject:
+        </p>
+        <p>
+HDMI (High-Definition Multimedia Interface) is a standard for transmission
+of digital audio/video signals from DVD players, set-top boxes and other audiovisual
+sources to television sets, projectors and other video displays. It can
+carry all standard and high-definition consumer electronics video formats as
+well as high-quality multi-channel audio data.
+        </p>
+        <p>
+UWB (Ultra Wide Band) is a radio technology that can be used at very low
+power levels for short-range high-bandwidth communications. The platform
+used within NXP consists of a WiMedia compliant radio (physical layer) and
+MAC. Protocols using this platform are Wireless USB, Bluetooth over UWB
+(BToUWB) and WLP (TCP/IP over UWB).
+        </p>
+        <p>
+Within NXP Leuven, embeddable subsystems are developed for both UWB and
+HDMI. The purpose of this thesis is to design a solution for transporting an
+HDMI audio/video stream over WiMedia UWB. Starting from available HDMI
+and WiMedia prototypes, the solution can be implemented on an FPGA board in
+order to demonstrate a wireless HDMI video link.
+        </p>
+        <p>
+Tasks:
+        </p>
+        
+        <ol>
+        <li>
+Study HDMI protocol and existing HDMI TX solution
+        </li>
+        <li>
+Study WiMedia protocol and existing WiMedia solution
+        </li>
+        <li>
+Define a solution for transporting an HDMI stream in WiMedia packets
+        </li>
+        <li>
+Implement the solution in VHDL (digital hardware modules) and prove
+concept via simulations
+        </li>
+        <li>
+Implement the solution on an FPGA prototype and demonstrate wireless
+HDMI video transmission over WiMedia UWB
+        </li>
+        </ol>
+        
+        <p>
+Profile of the student:
+        </p>
+        
+        <ol>
+        <li>
+Knowledge of digital VLSI design
+        </li>
+        <li>
+Knowledge of VHDL
+        </li>
+        </ol>
+        
+        <p>
+Work environment:
+        </p>
+        <p>
+NXP Leuven (Connectivity IP department)
+        </p>
+        <p>
+Your contact persons:
+        </p>
+        <p>
+Hans De Kuyper (hans.de.kuyper@nxp.com)<br/>
+David Mertens (david.mertens@nxp.com)
+        </p>
+	</section>
+
+      <anchor id="NXPsoftware"/>
+      <section>
+        <title>The life of a software component</title>
+
+        <p>
+Subject:
+        </p>
+        <p>
+The car entertainment system contains more and more software. To keep up
+with the rapid evolution in the consumer devices in the car, the car
+entertainment system will need to add mid-life update capabilities.
+This leads to a number of new problems for this domain, problems that are
+already (partially) solved in the PC domain. The problems include individual
+codec updates, personalization of settings, diversity management and security.
+The goal of this thesis is to study existing solutions in the PC domain, propose
+a solution for the embedded car entertainment domain and implement a
+demonstration of the chosen solution on an ARM9 platform that will be used in
+next-generation car entertainment systems.
+        </p>
+        <p>
+Tasks:
+        </p>
+        
+	<ol>
+	<li>
+Create inventory of the problems to solve
+	</li>
+	<li>
+Study existing techniques (e.g. COM, CORBA, ...)
+	</li>
+	<li>
+Perform a SWOT analysis of the identified techniques, applied to the
+context of an embedded car entertainment system
+	</li>
+	<li>
+Implement a suitable solution in an embedded car entertainment system
+	</li>
+	<li>
+Create an evaluation report
+	</li>
+	</ol>
+        
+        <p>
+Profile of the student:
+        </p>
+        <p>
+Some basic knowledge of Linux and C programming is recommended.<br/>
+Preferably studying computer sciences.
+        </p>
+        <p>
+Work environment:
+        </p>
+        <p>
+Windows PC<br/>
+Embedded ARM9 target running linux and VxWorks
+        </p>
+        <p>
+Your contact person:
+        </p>
+        <p>
+Karl Verheyden (karl.verheyden@nxp.com)
+        </p>
+        </section>
+
+
+      <anchor id="NXPusb"/>
+      <section>
+        <title>Wireless USB headset</title>
+
+        <p>
+Subject:
+        </p>
+        <p>
+Development of a Wireless USB (WUSB) prototype, based on an existing (wired)
+USB headset
+        </p>
+        <p>
+Tasks:
+        </p>
+        <p>
+The student(s) participating in this thesis proposal will be involved in one or more of
+the tasks listed below:
+        </p>
+        
+	<ol>
+	<li>
+Starting from existing IP blocks and the existing system for the USB
+headset, create VHDL code which replaces the wired USB block with an
+(existing) wireless USB device block.
+	</li>
+	<li>
+FPGA synthesis of above VHDL code, programming the mapping on
+breadboards and functional testing of the code through test software,
+starting from existing code
+	</li>
+	<li>
+Extension of existing WUSB firmware to include support for isochronous
+endpoints and test it on the above FPGA mapping
+	</li>
+	<li>
+Integration of the updated firmware into the existing USB headset
+application
+	</li>
+	<li>
+Modification of USB descriptors if needed
+	</li>
+	<li>
+Integration of Audio Class 1.0 and HID (Human Interface Device) class with
+the updated WUSB firmware
+	</li>
+	<li>
+Replace existing synchronization mechanism controlling an adjustable PLL
+based on USB Start-Of-Frames by a mechanism compatible with WUSB
+	</li>
+	<li>
+Identify, install and potentially modify a WUSB host system on PC,
+supporting Audio Class and HID Class
+	</li>
+	</ol>
+        
+        <p>
+Profile of the student:
+        </p>
+        <p>
+A motivated student with a genuine interest in short range wireless connectivity,
+audio streaming, IC development, layered software stacks and/or embedded
+software development.
+        </p>
+        
+	<ol>
+	<li>
+Knowledge of digital VLSI design
+	</li>
+	<li>
+Knowledge of VHDL, Knowledge of C
+	</li>
+	</ol>
+        
+        <p>
+Work environment:
+        </p>
+        <p>
+Following tools will be used for the tasks listed above:
+        </p>
+        
+	<ol>
+	<li>
+Synplify Pro and Quartus for RTL synthesis of the VHDL code
+	</li>
+	<li>
+ARM Developer Suite for compilation and debugging of the embedded
+software
+	</li>
+	<li>
+Microsoft Visual Studio for the Windows PC based development
+	</li>
+	<li>
+Lecroy WUSB analyzer for debugging and analysis
+	</li>
+	</ol>
+        
+        <p>
+Your contact person:
+        </p>
+        <p>
+Koen Derom (koen.derom@nxp.com)
+        </p>
+        </section>
+
+
+      <anchor id="NXPopenmax"/>
+      <section>
+        <title>Study of integrating OpenMAX MultiMedia components in a Windows Mobile phone
+</title>
+
+        <p>
+Subject:
+        </p>
+        <p>
+Mobile phone vendors are increasing the playback time of their music phones by
+decreasing power consumption. However the baseband chip is not that power
+efficient. The power efficient mobile multimedia processors of NXP can take
+decoding and audio rendering over from this less power efficient baseband chip.
+As mobile phone vendors don't want to be dependent of one supplier that uses
+proprietary solutions, they demand the usage of open standards. NXP therefore
+offers OpenMAX software components to control the audio streaming. OpenMAX is
+such a standard that is suitable for media processing. It is promoted by Khronos, an
+industry consortitium, and among it members are NXP and Nokia.
+        </p>
+        <p>
+On the other hand, mobile phone manufacturers don't want to change their existing
+software framework. The low power music playback solutions from NXP have to be
+seamlessly integrated in their existing infrastructure.
+        </p>
+        <p>
+High end phones are typically running Symbian OS or Windows Mobile. In particular
+Windows Mobile uses the DirectShow framework for media playback. The goal of
+this thesis proposal is to study how OpenMAX components can interact in a
+DirectShow based architecture by working out an example application and writing a
+technical report.
+        </p>
+        <p>
+Background information:
+        </p>
+        <p>
+Windows Mobile 6: <link href="http://msdn2.microsoft.com/en-us/library/bb158486.aspx">http://msdn2.microsoft.com/en-us/library/bb158486.aspx</link><br/>
+OpenMAX: <link href="http://www.khronos.org/openmax/">http://www.khronos.org/openmax/</link><br/>
+PNX015x mobile multimedia processor: <link href="http://www.nxp.com/infocus/topics/pnx015x_family/">http://www.nxp.com/infocus/topics/pnx015x_family/</link>
+        </p>
+        <p>
+Tasks:
+        </p>
+        
+	<ol>
+	<li>
+Study of OpenMAX using NXP Windows simulation environment
+	</li>
+	<li>
+Study of Windows DirectX
+	</li>
+	<li>
+Wrap existing audio OpenMAX components in DirectShow filters
+	</li>
+	<li>
+Create a music playback application with these components (i.e. simulating
+local music playback on the baseband chip).
+	</li>
+	<li>
+Study and implement OpenMAX tunneled communication.
+	</li>
+	<li>
+Upgrade the music playback application so music is played back in a
+distributed system (using the Windows simulation environment or optionally
+with a PNX015x system).
+	</li>
+	<li>
+Write a technical report on integrating OpenMAX in a DirectX framework
+	</li>
+	<li>
+Optionally: Add a visualization component
+	</li>
+	<li>
+Optionally: Add video playback
+	</li>
+	<li>
+Optionally: Study of Windows Mobile development environment and run
+application from Windows Mobile development environment.
+	</li>
+	</ol>
+        
+        <p>
+Profile of the student:
+        </p>
+        <p>
+2 students<br/>
+Knowledge of C<br/>
+Knowledge of using Visual Studio environment and Windows Mobile 6 platform is a
+plus<br/>
+Some experience with media streaming technology (e.g. Direct Show, Gstreamer) is
+a plus.
+        </p>
+        <p>
+Work environment:
+        </p>
+        <p>
+Windows x86 platform, optionally PNX015x SDK
+        </p>
+        <p>
+Your contact persons:
+        </p>
+        <p>
+Peter Vanhoef (peter.vanhoef@nxp.com)
+        </p>
+        </section>
+
+
+      <anchor id="NXPaltera"/>
+      <section>
+        <title>Test application for Altera StratixIII based prototyping environment
+</title>
+
+        <p>
+Subject:
+        </p>
+        <p>
+Within our ASIC design flow we make use of in-house developed FPGA
+prototyping platforms.
+        </p>
+        <p>
+For the newest platform, based on the biggest existing FPGA's, we need to
+develop a test suite. Tests need to be done on USB, Ethernet, Flash, IIC, ...
+        </p>
+        <p>
+Tasks:
+        </p>
+        <p>
+This is a combined hardware / software task.
+        </p>
+        
+	<ol>
+	<li>
+Make a study of the existing hardware
+	</li>
+	<li>
+Proposal on how to test most of the hardware
+	</li>
+	<li>
+Implement these test(s).
+	</li>
+	</ol>
+        
+        <p>
+Profile of the student:
+        </p>
+        <p>
+This is quite a challenge for people who want to control different pieces of
+hardware with some new to develop software. Probably also some VHDL
+knowledge can be of use.
+        </p>
+        <p>
+Work environment:
+        </p>
+        <p>
+NXP will provide a desk + test equipment at the offices in Leuven/Haasrode
+Part of the work can be done at home.
+        </p>
+        <p>
+This picture gives a view on a (older) FPGA prototyping platform
+        </p>
+
+        <p>
+           <img alt="altera.jpg" src="maproef/2008-2009/voorstellen/altera.jpg"/>
+        </p>
+
+        <p>
+Your contact person:
+        </p>
+        <p>
+Piet Van Lierop (piet.van.lierop@nxp.com)
+        </p>
+        </section>
+
+
+      <anchor id="NXPesterel"/>
+      <section>
+        <title>USB3.0 synthesisable TLM designed with esterel</title>
+
+        <p>
+Tasks:
+        </p>
+        <p>
+USB3.0 is the upcoming interconnection standard for pc peripherals. The
+USB3.0 specification is currently still in the standardisation phase. The goal of
+this thesis is to develop a traffic generator and analyser at different levels of
+abstraction using the esterel language. The esterel language is a higher
+abstraction level language (ESL, Electronic System Level) targeting control
+dominated applications and supports automatic generation of VHDL and
+SystemC. The outcome of this thesis should be: a SystemC TLM for USB3.0
+traffic generation and analysis which can be used in verification testbenches
+and a VHDL description of this system, mapable on a FPGA which can be used in
+the validation process. The student will have to make a break down of the
+requirements to come to a composition where the core modules are in common
+for both targets and only small customisation modules are required to either
+have a high level programming interface for the SystemC TLM and a low level
+(HW-based) interface for the VHDL mapping.
+        </p>
+        <p>
+Profile of the student:
+        </p>
+        <p>
+2 students, interested in new languages, new methodologies and techniques
+(steep learning curve)
+        </p>
+        <p>
+Work environment:
+        </p>
+        <p>
+This thesis will be conducted within the Corporate I&amp;T - Connectivity group in
+Leuven which focuses on the creation and verification of new interconnect IP
+within NXP.
+        </p>
+        <p>
+Your contact person:
+        </p>
+        <p>
+Stefan Janssens (stefan.janssens@nxp.com)
+        </p>
+        </section>
+-->
+
+      <anchor id="PMTCmhp"/>
+      <section>
+        <title>Uitbouwen van een testopstelling(en) voor testen van MHP functies van Digitale Televisie ontvangers</title>
+
+        <!--
+Eventuele ondertitel: "Installeren van bestaande MHP test suites.
+Installeren van MHP caroussel en applicaties. Uitvoeren van testen op MHP
+ontvangers.-->
+        
+        <p>
+Onderwerp:
+        </p>
+        
+        <ol>
+        <li>
+Installeren van bestaande MHP test suites.
+        </li>
+        <li>
+Installeren van MHP caroussel en applicaties.
+        </li>
+        <li>
+Uitvoeren van testen op MHP ontvangers.
+        </li>
+        </ol>
+<p>
+Beschrijving: Er zijn 2 hoofdcomponenten aan dit eindwerk.
+</p>
+<ol>
+<li>
+<p>
+MHP Conformance Test Suite
+</p>
+<p>
+Installeren van de MHP conformance suite, onderzoeken welke test setups
+ervoor nodig zijn, uitproberen van de testen. Overdracht van opgedane
+kennis.
+</p>
+</li>
+
+<li>
+<p>
+MHP testing mogelijkheden zelf definiëren, onderzoeken, uitproberen.
+</p>
+<p>
+Vrij beschikbare MHP Object caroussels installeren, vrij beschikare
+applicaties installeren, eventueel simpele MHP applicaties schrijven of
+aanpassen, testen van caroussel met applicaties op digitale TV ontvangers.
+Overdracht van opgedane kennis.
+</p>
+</li>
+</ol>
+        <p>
+Contactpersonen:
+        </p>
+        <p>
+Robby Putzeys (Robby.Putzeys@pmtc.be)<br/>
+Stijn Goffin (Stijn.Goffin@pmtc.be)
+        </p>
+        </section>
+
+      <anchor id="icoled"/>
+      <section>
+        <title>Design van een CMOS IC voor het aansturen van oprolbare OLEDs op folie</title>
+        <p>
+E-ink gebaseerd elektronisch papier is momenteel aan een sterke opgang bezig, voornamelijk voor e-readers. 
+Dit zijn erg lichte toestellen die werken op de reflectie van licht. 
+Op basis van de OLED technologie kunnen er ook oprolbare displays ontwikkeld worden die licht uitzenden. 
+De aanstuurelektronica is echter volledig anders: De E-ink plooibare displays worden aangestuurd in spanning, 
+terwijl de OLED displays aangestuurd worden in stroom. Geheel nieuwe display drivers dienen hiervoor ontworpen te worden. 
+Het onderwerp van dit eindwerk is dus een full-custom design in L-Edit van deze display driver ICs.
+        </p>
+      <p>
+        Aantal studenten: 2
+      </p>
+      <p>
+        Promotor: Jan Genoe
+      </p>
+      </section>
+        
+      <anchor id="batopfolie"/>
+      <section>
+        <title>Ontwerp van een geïntegreerde switched capacitor schakeling IC om een ultradunne Batterij-op-folie op te laden aan de hand van een ultradunne organische zonnecel</title>
+
+<p>
+Organische zonnecellen bereiken momenteel efficiënties (5%) die nog steeds duidelijk lager zijn dan deze van (poly)-silicium, 
+maar ze hebben een aantal erg duidelijke voordelen ten opzichte van de klassieke silicium zonnecellen. 
+Ze zijn een factor 1000 maal dunner en daardoor ook oprolbaar indien ze aangebracht worden op een flexibel substraat, 
+ze zijn veel goedkoper en ze kunnen ook op een veel goedkopere wijze aangebracht worden (een aantal druktechnieken worden momenteel onderzocht). 
+Er openen zich dus allerhande mogelijkheden om goedkoop energie te leveren aan (kleine) elektronische schakelingen. 
+De voornaamste toepassingen zijn momenteel indoor en mobiele toepassingen, namelijk verspreide sensors die self-powered moeten zijn. 
+Echter, de belichtingscondities indoor verschillen snel verschillende decades, naargelang het moment van de dag en er is niet altijd licht aanwezig. 
+De open klemmenspanning van deze organische zonnecellen verandert met 120 mV per decade. 
+Er is dus een schakeling nodig die de bekomen spanning omzet naar een stabiele spanning, die de elektronica nodig heeft om te werken, 
+of die de batterij nodig heeft om op te laden.
+</p>
+<p>
+In deze applicatie gaan we de dunne folie met zonnecellen combineren met een dunne folie batterij. 
+Derhalve zal een stabiele 3.6V door de IC dienen afgeleverd te worden. We zullen deze IC ook verdunnen, 
+zodanig dat hij ongemerkt in de dunne folie kan opgenomen worden. 
+Aangezien we alles in de folie willen opnemen, kunnen we niet gebruik maken van een spoel. 
+Condensatoren kunnen wel eenvoudig op IC en eventueel ook op de folie gemaakt worden. 
+De DC-DC convertor zal dus gebruik maken van het principe van geschakelde capaciteiten.
+</p>
+      <p>
+        Aantal studenten: 2
+      </p>
+      <p>
+        Promotor: Jan Genoe
+      </p>
+      </section>
+ 
+
+      
+<!--      
+      <anchor id="dcgan"/>
+      <section>
+        <title>Custom Chip ontwerp voor het aansturen van een lichtgewicht DC
+     voeding voor draagbare toestellen gebaseerd op nieuwe GaN transistors</title>
+
+
+<p>
+Momenteel lopen we steeds meer rond met allerhande draagbare toestellen: GSM, MP3-player, PDA, portable computer, Digitaal fototoestel, … Al deze toestellen werken natuurlijk op batterijen en batterijen moeten worden opgeladen. 
+En als je op reis gaat, merk je het wel: de lader van je GSM en zo is vaak groter en weegt vaak zwaarder dan je GSM zelf. 
+De reden hiervoor ligt voor de hand: zoals in de cursus vermogenelektronica gezien werd, 
+is hiervoor een schakelende voeding nodig en de verliezen van deze voeding worden in belangrijke mate bepaald door de vermogenverliezen van de schakelende transistor. 
+Het gewicht wordt dan weer in belangrijke mate bepaald door de transformator (met “zware” magnetische kern). 
+Voor beide problemen biedt de recent ontwikkelde GaN technologie een oplossing. De veel lagere aan-weerstand van deze transistors laat toe een veel kleinere vermogentransistor te gebruiken bij dezelfde stroom (omdat er minder koelvin nodig is) en de hogere schakelfrequentie aan dewelke deze transistors kunnen schakelen laat toe de transformator substantieel kleiner en lichter te nemen. Binnen IMEC worden prototypes van deze nieuwe GaN transistors ontwikkeld. Vorig academiejaar is deze nieuwe transistor gebruikt geworden in een klassiek ontwerp van een schakelende voeding en is getoond dat er met een kleinere transistor, aan een hogere schakelfrequentie en met een kleinere transformator kan gewerkt worden, en dit alles natuurlijk met een groter rendement. 
+De bedoeling van dit voorstel tot masterproef is, vertrekkende van het klassieke ontwerp van vorig academiejaar, 
+een chip ontwerp te maken dat alle klassieke aanstuurcomponenten uit het ontwerp van het voorbije academiejaar, incorporeert in een custom Silicium chip ontwerp. 
+De GaN vermogencomponenten blijven natuurlijk wel de losse componenten...
+</p>      
+      <p>
+        Aantal studenten: 2
+      </p>
+      <p>
+        Promotor: Jan Genoe
+      </p>
+      </section>
+   -->   
+      
+      
+      
+      <anchor id="contextbluej"/>
+      <section>
+        <title>BlueJ extensies met contextafhankelijke help</title>
+
+        <p>
+BlueJ is een didactische programmeeromgeving voor Java, ontwikkeld aan Deakin University en University of Kent, en wordt gesteund door Sun. (<link href="http://www.bluej.org">www.bluej.org</link>). Vernieuwend zijn vooral de object workbench zodat je rechtstreeks met objecten kan spelen en de visualisatie van de manier waarop klassen en objecten met elkaar werken.
+Enige nadeel is dat de editor nog verschillende verbeterpunten bevat.
+Gelukkig kan je gemakkelijk extensies ontwikkelen voor BlueJ en dat gaan we dan ook doen in deze masterproef. Concreet willen we op zijn minst context-afhankelijke help, zodat je bv. op F1 kan drukken wanneer de cursor boven drawString staat en dan naar de documentatie van die drawString kan springen. Of beter nog: zodat je het overzicht van de benodigde parameters in een infokader aan de muispijl kan zien.
+Dit soort uitbreidingen maakt het beginners nog gemakkelijker om met BlueJ te werken.
+        </p>
+        <p>
+Profiel:
+        </p>
+        <ul>
+          <li>
+goede kennis van Java
+          </li>
+          <li>
+minimaal didactisch inzicht in het leren werken met Java
+          </li>
+        </ul>
+        <p>
+Aard van het werk:
+        </p>
+        <ul>
+          <li>
+literatuurstudie: 15 a 20% (papers ivm BlueJ, studie van bestaande extensies)
+          </li>
+          <li>
+design &amp; implementatie: 75 a 80%
+          </li>
+          <li>
+verspreiding &amp; promotie : 5%
+          </li>
+        </ul>
+
+        <p>
+Contactpersoon: Kris Aerts (Kris.Aerts@khlim.be)
+        </p>
+      </section>
+
+      <anchor id="firefoxaddons"/>
+      <section>
+        <title>Experimenteren met Firefox Extensies (Addons)</title>
+
+        <p>
+Firefox is een open source web browser die veel beter de <link href="http://www.w3c.org">www.w3c.org</link> standaarden opvolgt dan de marktleider Internet Explorer en die (terecht) heel wat aanhang heeft bij onafhankelijke gebruikers en in academische kringen. Leuk aan Firefox is het feit dat je gemakkelijk extensies kan ontwikkelen (<link href="https://addons.mozilla.org/nl/firefox/browse/type:1">https://addons.mozilla.org/nl/firefox/browse/type:1</link>).
+"Extensies zijn kleine add-ons die nieuwe functionaliteit toevoegen aan Firefox, van een eenvoudige werkbalkknop tot een volledig nieuwe mogelijkheid. Ze stellen u in staat om Firefox aan uw eigen behoefte en voorkeuren aan te passen, terwijl wij Firefox zelf licht en efficiënt kunnen houden."
+        </p>
+        <p>
+In deze masterproef gaan we experimenteren met het ontwikkelen van zo'n extensie. Minimaal willen enerzijds de bron van een pagina kunnen bewerken en direct uploaden naar een webserver met sftp, en anderzijds het werken met bookmarks verbeteren.
+        </p>
+
+        <p>
+Profiel:
+        </p>
+        <ul>
+          <li>
+geintrigeerd door het web en Firefox
+          </li>
+          <li>
+vaardig in XML en Javascript
+          </li>
+          <li>
+goede kennis van C++ mag ook, als alternatief voor Javascript
+          </li>
+        </ul>
+
+        <p>
+Aard van het werk:
+        </p>
+        <ul>
+          <li>
+literatuurstudie: 20%
+          </li>
+          <li>
+ontwikkeling: 75%
+          </li>
+          <li>
+verspreiding &amp; promotie: 5%
+          </li>
+        </ul>
+
+        <p>
+Contactpersoon: Kris Aerts (Kris.Aerts@khlim.be)
+        </p>
+      </section>
+
+<!--
+      <anchor id="apachefilter"/>
+      <section>
+        <title>Apache filter voor PHP</title>
+
+        <p>
+PHP is een bijzonder populaire ontwikkeltaal voor webapplicaties.
+(<link href="http://www.php.net">www.php.net</link>) die goed samenwerkt met Apache (<link href="http://www.apache.org">www.apache.org</link>).
+De php-code wordt uitgevoerd via een apache-filter. Momenteel voert de filter twee taken uit: een voor .php die de code uitvoert, en een tweede voor .phps die de broncode in geformatteerd formaat weergeeft.
+Doel van deze masterproef is de ontwikkeling van een derde aanpak, waarbij de php-code uitgevoerd wordt, maar waarbij je daarnaast de broncode van die uitvoer kan zien (rechtstreeks of afhankelijk van het aanklikken van de code of zo) die voor die uitvoer zorgt.
+Een mogelijke strategie hiervoor is dat we een filter ontwikkelen die het invoer-bestand omvormt tot een versie die rechtstreeks door de .php-filter kan en waarbij de code verdubbeld wordt: een eerste maal om uitgevoerd te worden en een tweede maal om als code getoond te worden, maar er zijn vanzelfsprekend ook alternatieven mogelijk.
+        </p>
+
+        <p>
+Profiel:
+        </p>
+        <ul>
+          <li>
+gedreven door het web
+          </li>
+          <li>
+vaardig in C++
+          </li>
+          <li>
+ervaring met PHP, Linux en Apache strekt tot aanbeveling
+          </li>
+        </ul>
+
+        <p>
+Aard van het werk:
+        </p>
+        <ul>
+          <li>
+literatuur- en softwarestudie: 25%
+          </li>
+          <li>
+ontwikkeling en testing: 75%
+          </li>
+        </ul>
+
+        <p>
+Contactpersoon: Kris Aerts (Kris.Aerts@khlim.be)
+        </p>
+      </section>
+
+      <anchor id="tswebeditor"/>
+      <section>
+        <title>Verbetering van open-source editor tswebeditor</title>
+
+        <p>
+Tswebeditor is een leuke ontwikkelomgeving voor PHP
+(<link href="http://www.tswebeditor.tk">www.tswebeditor.tk</link> of <link href="http://tswebeditor.tigris.org">tswebeditor.tigris.org</link>)
+die we zelf gebruiken voor onze eigen ontwikkeling en voor cursussen bij 3ABA EM en bij de opleiding communicatie- en multimediadesign in Genk.
+Spijtig genoeg is de ontwikkeling van de tswebeditor blijkbaar wat stil gevallen en zijn er een aantal belangrijke features die we graag zouden toevoegen. Minstens denken we hierbij aan code-completion en parameterhelp voor de mysqli-interface van PHP5 en aan ondersteuning voor directe uploads via sftp vanuit de editor, maar er zijn nog veel andere opties voor wanneer het werk vlotter dan verwacht zou gaan.
+        </p>
+
+        <p>
+Profiel:
+        </p>
+        <ul>
+          <li>
+kennis van of interesse in PHP
+          </li>
+          <li>
+kennis van Delphi, of bereid om dit snel te leren
+          </li>
+        </ul>
+
+        <p>
+Aard van het werk:
+        </p>
+          <ul>
+          <li>
+studie van bestaande aanpak en code: 20%
+          </li>
+          <li>
+implementatie: 80%
+          </li>
+        </ul>
+
+        <p>
+Contactpersoon: Kris Aerts (Kris.Aerts@khlim.be)
+        </p>
+      </section>
+-->
+
+      <anchor id="COSICbeeldschermen"/>
+      <section>
+        <title>Een op zichzelf staande implementatie voor het afluisteren van beeldschermen</title>
+
+        <p>
+
+Dit eindwerk is een vervolg op een eindwerk afgeleverd in het academiejaar 2006-2007. Toen werd er een opstelling gemaakt die het mogelijk maakte om beeldschermen af te luisteren met behulp van een oscilloscoop, antenne en Matlab. De meet- en verwerkingscyclus verliep als volgt:
+      </p>
+        
+        <ol>
+        <li>
+Een aantal signalen die het mogelijk maakten om het beeld correct te reconstrueren werden afgetapt van de VGA-kabel.
+        </li>
+        <li>
+Het uitgestraalde veld werd opgemeten met behulp van een antenne en gedigitalizeerd door een oscilloscoop.
+        </li>
+        <li>
+Het gedigitalizeerde signaal werd overgebracht van de oscilloscoop naar een pc.
+	</li>
+        <li>
+De uiteindelijk omzetting van het opgemeten signaal naar het gereconstreerde beeldscherm gebeurde in Matlab.
+        </li>
+        </ol>
+        
+
+        <p>
+Al deze tussenstappen en omwegen zorgen ervoor dat het afluisteren niet realtime kan gebeuren. De bedoeling van dit eindwerk is het implementeren van de verwerkingsalgoritmes in hardware (meer bepaald een FPGA implementatie). Hierdoor moet het mogelijk zijn om realtime beeldschermen af te luisteren.
+      </p>
+        <p>
+
+Praktische informatie:
+      </p>
+        <p>
+
+Promotoren: Prof. Ingrid Verbauwhede en Prof. Guy Vandenbosch
+      </p>
+        <p>
+
+Dagelijkse beleiding (contactpersonen): Elke De Mulder (elke.demulder@esat.kuleuven.be) en Wim Aerts (wim.aerts@esat.kuleuven.be)
+      </p>
+        <p>
+
+Aard van het werk: 20 % literatuur, 80 % implementatie
+        </p>
+
+        </section>
+      
+
+        
+        
+        
+        <!--
+        
+      <anchor id="nokia"/>
+      <section>
+        <title>Beveiligingssoftware op de Nokia 6131 NFC</title>
+
+<p>
+Near-Field Communication (NFC) is een korte-afstand, contactloze technologie die gebruikt wordt om elektronische toestellen met elkaar te laten communiceren als ze dicht bij mekaar zijn (enkele centimeters). Producten met ingebouwde NFC technologie, zoals bijvoorbeeld de Nokia 6131 NFC, zullen de manier waarop toestellen van gebruikers met elkaar interageren drastisch vereenvoudigen om zo connecties te versnellen, mensen te helpen om informatie te ontvangen en te delen en om zelfs sneller betalingen door te voeren op een veilige manier. Mensen die gebruik maken van een mobiele telefoon uitgerust met NFC technologie kunnen bijvoorbeeld hun portefeuille thuis laten en hun GSM gebruiken om een contactloze betaling uit te voeren of om toegang verleend te krijgen tot het openbaar vervoer.
+</p>
+<p>
+COSIC neemt deel aan een project waarin een proof of concept met NFC technologie ontwikkeld wordt. Als test case
+worden elektronische maaltijdcheques geimplementeerd: maaltijdcheques zijn niet langer papieren cheques maar worden in digitaal formaat opgeslagen in een GSM uitgerust met NFC technologie.
+</p>
+<p>
+In dit eindwerk zullen we bestuderen wat zo'n Nokia 6131 allemaal kan, hoe veilig de NFC communicatie is, en hoe veilig we ze kunnen maken. 
+Hiervoor zal het nodig zijn om een lijst van vereisten op te maken en te specifieren hoe aan deze vereisten technisch gezien kan voldaan worden. De nadruk van het werk ligt op de praktische realisatie: het implementeren van beveiligingsroutines op de Nokia 6131. Er wordt dan ook verwacht dat je vertrouwd bent met Java.
+</p>
+<p>
+<img src="maproef/2008-2009/voorstellen/nokia.jpg" alt="nokia.jpg"/>
+</p>
+
+<p>
+Links
+</p>
+
+<ul>
+<li><link href="http://www.nfc-forum.org/resources/multimedia/">NFC use cases</link></li>
+<li><link href="http://wiki.forum.nokia.com/index.php/Nokia_6131_NFC_-_FAQs">Nokia 6131 NFC Faqs</link></li>
+<li><link href="http://www.nfc-research.at/">NFC Research Lab Hagenberg</link></li>
+</ul>
+
+
+
+<p>
+Practische informatie:
+</p>
+
+<table>
+  <tr>
+  <td>Promotoren:</td>
+  <td><link href="http://www.esat.kuleuven.be/mail.php?u=bart.preneel">Bart Preneel</link> en 
+      <link href="http://www.esat.kuleuven.be/mail.php?u=vincent.rijmen">Vincent Rijmen</link></td>
+</tr><tr>
+  <td>Dagelijkse begeleiding:&nbsp;</td>
+  <td><link href="http://www.esat.kuleuven.be/mail.php?u=karel.wouters">Karel Wouters</link>
+(01.53) en 
+      <link href="http://www.esat.kuleuven.be/mail.php?u=robert.maier">Robert Maier</link> (02.23)</td>
+</tr><tr>
+  <td>Aard van het werk:</td>
+  <td>20 % literatuur, 30 % theoretisch werk, 50 % software</td>
+</tr><tr>
+  <td>Aantal studenten:</td>
+  <td> 1 of 2</td>
+</tr>
+<tr>
+  <td>Assessoren:</td><td>Distrinet</td></tr>
+  </table>
+
+
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+        
+        
+        
+        
+
+      <anchor id="currsource"/>
+      <section>
+        <title>Development of a Remote Controlled High Precision Current Source for driving Helmholtz coils in a 3D configuration</title>
+        
+        <p>
+The purpose of the project is to be able to calibrate 3D magnetic sensors for aviation applications. This project is a combination of digital and analog electronics as well as a small piece of PC software and a small piece of embedded software. The applicant can start from a functional PC / processor environment.
+        </p>
+        <p>
+The applicant has to:
+        </p>
+        <ul>
+          <li>
+write some basic software on PC to demonstrate the functionality of the developed electronics by sending parameter over a communications port. Software language can be VB, C or C++ .
+          </li>
+          <li>
+write an embedded software routine to translate the PC commands to the DAC. Software language will be C.
+          </li>
+          <li>
+Develop schematics and PCB
+          </li>
+          <li>
+Further, the final project (pc board) will contain:
+            <ul>
+              <li>
+a 16 bit Fujitsu microcontroller
+              </li>
+              <li>
+a three channel high resolution multiplying DAC
+              </li>
+              <li>
+three high power bridge amplifiers (about 300 W each) with independent power supplies.
+              </li>
+              <li>
+three sets of sensing electronics using high precision components
+              </li>
+            </ul>
+          </li>
+         </ul>
+
+         <p>
+Development of the calibration algorithm nor the implementation on PC thereof  are subject of this project.
+         </p>
+         <p>
+Navionex Europe has a huge knowledge on all involved fields in this project, and therefore will assist (not execute ourselves) when necessary in:
+         </p>
+         <ul>
+            <li>
+		Schematics entry
+            </li>
+            <li>
+		PCB design	(EMC compliant and oscillation free)
+            </li>
+            <li>
+		PC software
+            </li>
+            <li>
+		Embedded software
+            </li>
+            <li>
+		Precision analog electronics
+            </li>
+            <li>
+		Power electronics
+            </li>
+         </ul>
+
+          
+         <p>
+Mentors will be: Ing. Marc Bukenbergs and Ir. Johan Bogaerts
+         </p>
+         <p>
+Website : <link href="http://www.navionex.com">www.navionex.com</link>	
+         </p>
+         <p>
+Navionex Inc. was formerly known as B&amp;A Avionics b.v.b.a.
+         </p>
+
+         <p>
+Personal evaluation is necessary before acceptance of the applicant.
+         </p>
+         <p>
+Spoken language at the development office is Dutch.
+         </p>
+         <p>
+Thesis will have to be written in English.
+         </p>
+         <p>
+The publication will have some restrictions on level of detail for the electronics.        
+         </p>
+       </section>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      <anchor id="chargeamp"/>
+      <section>
+        <title>Research on and development of a Charge Amplifier with Demodulator for high grade discrete Tuned Fork Rate Sensors</title>
+
+
+<p>
+The purpose of the project is to analyze and modify an existing charge amplifier ( IP of Navionex ) to reduce temperature effects on the electronics without increasing the noise floor.
+</p>
+<p>
+Modeling of the sensor and the electronics will be necessary to achieve good results. 
+</p>
+<p>
+Although this project is a combination of analog and digital electronics as well as a small piece of PC software for data logging, the main focus of the project is analog electronics. The applicant can start from a functional setup.
+</p>
+<p>
+The applicant has to:
+</p>
+<ul>
+<li>
+evaluate the existing circuits
+</li>
+<li>
+execute research on noise performance on passive and active components
+by spec comparison as well as by measurement
+</li>
+<li>
+develop a low noise, wide operating temperature charge amplifier 
+based on the existing electronics
+</li>
+<li>
+develop schematics and PCB’s for the several setups to evaluate
+boards are about 5 cm x 4 cm
+</li>
+</ul>
+
+<p>
+Navionex Europe has a huge knowledge on all involved fields in this project, and therefore will assist (not execute ourselves) when necessary in:
+</p>
+<ul>
+<li>
+		Schematics entry
+</li>
+<li>
+		PCB design	
+</li>
+<li>
+		PCB track influence on high impedance signals		
+</li>
+<li>
+Noise analysis of passive and active components
+</li>
+</ul>
+<p>
+Mentors will be: Ing. Marc Bukenbergs and Ir. Johan Bogaerts
+</p>
+<p>
+Website: <link href="http://www.navionex.com">www.navionex.com</link>	
+</p>
+<p>
+Navionex Inc. was formerly known as B&amp;A Avionics b.v.b.a.
+</p>
+<p>
+
+Personal evaluation is necessary before acceptance of the applicant.
+</p>
+<p>
+Spoken language at the development office is Dutch.
+</p>
+<p>
+Thesis will have to be written in English.
+</p>
+<p>
+The publication will have restrictions on the level of detail for the electronics. No detailed amplifier nor driving electronics may be published. Block diagrams and basic schematics are no problem. Performance results can be published.
+In supplement to the contract between Navionex and the KHLim, the applicant as well as the by the KHLim appointed Mentor have to sign a standard, two way equally balanced, legal Non Disclosure Agreement with Navionex.
+</p>
+</section>        
+        
+        
+        
+      <anchor id="timesheet"/>
+      <section>
+        <title>Timesheetverwerking via Internettoepassing</title>
+        
+        <section>
+          <title>Doelstelling</title>
+          <p>
+Automatisatie tijdsregistratie door middel van electronisch aanleveren timesheet via een toepassing beschikbaar gesteld op de website van Alliacta.
+          </p>
+        </section>
+        <section>
+          <title>Basisdata</title>
+          <p>
+Timesheet bestaat uit volgende elementen:
+          </p>
+          <ul>
+            <li>
+Personeelslid (naam en personeelsnummer);
+            </li>
+            <li>
+Aantal uren op project (#uren en #projectnummer);
+            </li>
+            <li>
+Aantal uren per soort afwezigheid (keuze uit ziekte, recup, klein verlet, opleiding, feestdag, educatief verlof, Algemeen, Onbetaald verlof, diversen intern)
+            </li>
+          </ul>
+        </section>
+        <section>
+          <title>Loonsverwerking</title>
+          <p>
+Gegevens dienen door te stromen om verloning mogelijk te maken, basisbestand voor SD aanmaken, maar voor zij die manueel een timesheet binnenbrengen moet dit ook mogelijk zijn. Hierbij moeten prestaties omgezet worden in codes voor loonsverwerking zoals voorzien bij SD in recordvorm van SD.  Ook zou het mogelijk moeten zijn voor een automatische, verlof- recup en overuren teller te maken. Het zou mogelijk moeten zijn wanneer de personeelsdienst beslist dat de gegevens definitief zijn dat de medewerker niet meer aanpassingen kan doen aan zijn timesheet dus tot afsluiting moet het mogelijk zijn om aanpassingen te maken. Zoniet dient er intern bijgestuurd te worden via correcties op de verloning.
+          </p>
+        </section>
+        <section>
+          <title>Projectmatige medewerkersvergoedingen automatiseren</title>
+          <p>
+Eveneens zou het mogelijk moeten zijn om automatisch de detacheringsvergoeding (maaltijdvergoeding, forfait kosten eigen aan de werkgever, …) te berekenen. Dit is mogelijk door een bestand met medewerker-projectnummer-vergoeding per medewerker te copiëren rekening houdend met een minimum van uren. Deze vergoedi ng wordt mede met het loon van de betrokken periode uitbetaald dus deze gegevens zouden eveneens in het SD pakket verwerkt moeten worden.
+          </p>
+        </section>
+        <section>
+          <title>Extra tools</title>
+          <ul>
+            <li>
+Electronische handtekening klant;
+            </li>
+            <li>
+Verwittigen via mail voor ontbrekende mail;
+            </li>
+            <li>
+Checken op volledigheid (uren-dagen) en juistheid van projecten en afwezigheden;
+            </li>
+            <li>
+In samenspraak met SD kijken of en hoe we een gedetailleerde loonsfiche kunnen terugkoppelen naar de medewerker zodat deze maandelijks zijn verwerkte prestaties kan controleren, de daaraan gekoppelde overurenteller en overurenloon, status verlof en recupdagen evenals de uitbetaalde detacheringsvergoeding naast de standaard loonsgegevens.
+            </li>
+           </ul>
+        </section>
+      </section>
+-->
+        
+        
+        
+        
+        
+      </section>
+ 
+  </body>
+</document>

@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V1.2//EN" "/export/usr/local/forrest/context/resources/schema/dtd/document-v12.dtd">
+<document> 
+  <header> 
+    <title>Bachelor 2006-2007</title> 
+  </header> 
+  <body> 
+      <p>Laatste wijziging: $Date: 2009-08-02 22:59:43 +0200 (Sun, 02 Aug 2009) $</p>
+  
+      <section>
+        <title>Inleiding</title>      
+        <p>
+          Dit is het overzicht van de bachelorproef onderwerpen 2006-2007 voor 3ABA-ELO.
+        </p>
+      </section>
+
+      <section>
+      <title>Overzicht</title>
+
+<table>
+<caption>
+Bachelorproeven 2006-2007
+</caption>
+
+<tr>
+ <th>Groep</th>
+ <th>Student(en)</th>
+ <th>Titel</th>
+ <th>Bedrijf</th>
+ <th>Begeleider</th>
+</tr>
+
+
+<tr>
+ <td>SchakelELO 1</td>
+ <td>Jelle Hendriks, Tom Mentens, Kurt Ilsen</td>
+ <td>Ontwikkeling van een controller voor een graanmolen (<link href="#graanmolen">meer uitleg</link>, <link href="http://ontwerpen1.khlim.be/graan/">site</link>)
+ </td>
+ <td>Geyskens Beringen</td>
+ <td>Geert Moonen</td>
+</tr>
+
+<tr>
+ <td>SchakelELO 2</td>
+ <td>Toon Nelissen, Rob Smeets, Lukasz Jasczuk, Markian Yskout
+ </td>
+ <td>Keypad Simulator (<link href="http://ontwerpen1.khlim.be/keypad/">site</link>)
+ </td>
+ <td>Amano Genk</td>
+ <td>Frank Valkenborgh, Dirk Smets</td>
+</tr>
+
+
+<tr>
+ <td>SchakelELO 3</td>
+ <td>Tim Drijkoningen,
+    Andy Knoors,
+    Sylvester Janssens,
+    Wim Schrijvers
+</td>
+ <td>KIDS project (<link href="http://ontwerpen1.khlim.be/kids/">site</link>)
+ </td>
+ <td>KIDS Hasselt</td>
+ <td>Luc Coenegracht</td>
+</tr>
+
+<tr>
+ <td>3ABAELO 1</td>
+ <td>Sandro Iacovella, Jan Van Riet, Michael Billen, Mitch Vanhelden</td>
+ <td>Optimalisatie van een controle-interfacekaart (<link href="#controleinterface">meer uitleg</link>, <link href="http://ontwerpen1.khlim.be/controle/">site</link>)
+ </td>
+ <td></td>
+ <td></td>
+</tr>
+
+<tr>
+ <td>3ABAELO 2</td>
+ <td>Free Claessens, Frederik Gommé, Steven Reynders</td>
+ <td>Ontwerp van embedded software voor de br380 printplaat (<link href="#br380">meer uitleg</link>, <link href="http://ontwerpen1.khlim.be/slagboom/">site</link>)
+ </td>
+ <td>Bormet</td>
+ <td>Leo Rutten</td>
+</tr>
+
+
+</table>
+
+    </section>
+
+    <section>
+      <title>Bachelorproefbeschrijvingen</title>
+
+      <!--
+
+      <anchor id="afkorting"/>      
+      <section>
+        <title>titel, bedrijf</title>
+          <p>
+            para
+          </p>
+          <p>
+            Links:
+          </p>
+            <ul>
+              <li>
+                <link href="http://www.hibernate.org">www.hibernate.org</link>
+              </li>
+              <li>
+                <link href="http://www.aspectj.org">www.aspectj.org</link>
+              </li>
+            </ul>
+      </section>
+      -->
+      
+      
+  
+ 
+      <anchor id="controleinterface"/>
+      <section>
+        <title>Optimalisatie van een controle-intefacekaart</title>
+
+ 
+        <p>
+Het belangrijkste struikelblok bij de toepassing van een eenvoudige PC als controle-eenheid
+is de interfacing tussen de PC en het proces. Voorgaande studies realiseerden reeds op basis van een FPGA en aparte microprocessorkaarten  een ontwerp van een controle-interfacekaart die flexiebel en modulair is en bovendien eenvoudig, goedkoop maar toch voldoende snel en nauwkeurig is. Hierdoor is de kaart universeel inzetbaar in (servo-) controletoepassingen zoals bijvoorbeeld in de aansturing van een XY-tafel, van een robot of bij ‘visual servoing’ toepassingen.
+        </p>
+        
+        <p>
+Dit eindwerk beoogt de verdere optimalisatie van dit ontwerp zoals:
+        </p>
+        <ul>
+<li>
+het robuuster maken van de communicatie
+</li>
+<li>
+de uitbreiding van DC- naar stappenmotoren
+</li>
+<li>
+de uitbreiding van incrementaal opnemers naar absolute opnemers
+</li>
+<li>
+de toepassing van andere connectiewijzen (naast parallelle poort)
+</li>
+        </ul>
+ 
+<p>
+Voorgaand werk:
+
+Wim Beckers en Jochen Vandorpe, Hardware ontwerp voor opwaardering van robotcontroleinterface, IWT/PMA, KHLim/KULeuven, E05/ELO/03
+</p>
+ 
+<p>
+Studie van voorgaande realisaties  20% Hardware interfacing 20 %
+</p>
+<p>
+Software: VHDL, C, (micro-processor + Linux PC)  40%
+</p>
+
+<p>
+Experimenten 20%
+</p>
+
+
+</section>
+ 
+
+
+      <anchor id="br380"/>
+      <section>
+        <title>Ontwerp van embedded software voor de br380 printplaat</title>
+
+ 
+        <p>
+          Bormet b.v.b.a. is een KMO die gespecialiseerd is in slagbomen, toegangscontrole en automatisatie van toegangspoorten.
+          Het huismerk van Bormet is BAM (Belgian Access Management) en wordt ontwikkeld en geproduceerd in de vestiging te Kozen.
+        </p>
+        
+        <p>
+          De br380 printplaat is het hart van de automatische slagbomen en de poort- en hekopeners.
+          Deze printplaat staat in voor zowel het aansturen als het beveiligen van elke beweging. De
+          betrouwbaarheid van dit product is dus zeer belangrijk in alle omstandigheden.
+        </p>
+        
+        <p>
+        De Fujitsu MB90F574A-processor stuurt de br380 aan. Deze processor van de MB90570 serie controleert de 16 ingangen, stuurt de 10 uitgangen, geeft info
+        weer op de display, controleert 4 jumpers, ... Al deze functies dient de processor in real-time te doorlopen, zodat een veilig functioneren gegarandeerd is.
+        </p>
+        
+        <p>
+          Er dienen twee verschillende software versies ontwikkeld te worden. De eerste voor het gebruik bij aandrijvingen voorzien van twee motoren
+          en de tweede voor het gebruik bij aandrijvingen voorzien van één motor. Enkele parameters zoals de motortijd, pauzetijd,
+          sluitvertraging, slottijd, verlichtingstijd, ... dienen instelbaar te zijn voor het flashen van de printplaat.
+        </p>
+        
+        <p>
+          Het aansturen van de motoren gebeurt d. m. v. triacs. Het is dus mogelijk om de snelheid van de motor te beïnvloeden. De mogelijkheid om de 
+          snelheid te wijzigen in functie van de stand van een ingang dient voorzien te worden in beide versies.
+        </p>
+        <p>
+          Alle functies kunnen uitgetest worden op een verplaatsbare testapplicatie die door Bormet bvba geleverd wordt bij de aanvang van het project.
+        </p>
+        
+        <p>
+          Bormat bvba
+        </p>
+        <p>
+          Zwarteinde 11
+        </p>
+        <p>
+          3850 Kozen
+        </p>
+        <p>
+          tel: 011/31 26 56
+        </p>
+        <p>
+          e-mail: info@bormet.be
+        </p>
+        <p>
+          url: <link href="http://www.bormet.be">www.bormet.be</link>
+        </p>
+        
+      </section>
+
+
+
+
+
+      <anchor id="graanmolen"/>
+      <section>
+        <title>Ontwikkeling van een controller voor een graanmolen</title>
+        
+        <p>
+         De opdracht bestaat eruit een verbeterde versie te bouwen van een bestaand bedieningspaneel van een machine.
+         Dit omdat de huidige sturing niet werkt bij negatieve termperaturen en de huidige processor sterk verouderd is.
+        </p>
+        
+        <p>
+          Het paneel bestaat momenteel uit een 2x20 LCD, 8 bedieningstoetsen, een 68HC705J2 microprocessor. Met het paneel worden een aantal
+          parameters (snelheid, posities, ...) van een machine ingesteld en seriëel doorgezonden.
+        </p>
+        <p>
+          Er zijn geen gegevens bekend over het gebruikte communicatie protocol. De machinecode van de µC hebben we reeds kunnen uitlezen, maar deze 
+          dient nog geanalyseerd te worden.
+        </p>
+        <p>
+          Dit kan met behulp van:
+        </p>
+        <ul>
+          <li>
+            een portmonitor (bv <link href="http://www.sysinternals.com/Utilities/Portmon.html">Portmon</link>)
+          </li>
+          <li>
+            een login-analyzer
+          </li>
+          <li>
+            disassembler
+          </li>
+        </ul>
+        <p>
+          Natuurlijk moet de volledige menustructuur overgenomen worden (net als alle parameters die er gezonden/ontvangen worden). Het nieuwe 
+          ontwerp zal dus volledig dezelfde functionaliteit dienen te hebben dan het originele.
+        </p>
+        <p>
+          Momenteel wordt de schakeling gevoed door 24 V DC en die wordt omgevormd tot 5V.
+        </p>
+        
+        <p>
+          Opdracht
+        </p>
+        <ul>
+          <li>
+            Ga de werking van de huidige PCB na en teken hiervan het schema.
+          </li>
+          <li>
+            Ontleed de huidige machine-code van de huidige processor.
+          </li>
+          <li>
+            Kies een nieuwe µC en programmeer deze in C.
+          </li>
+          <li>
+            Ontwerp een nieuwe PCB die in het huidige bedieningspaneel past (zelfde afmetingen).
+          </li>
+          <li>
+            Let op het temperatuursbereik bij de keuze van ALLE componenten.
+          </li>
+        </ul>
+        
+        <p>
+          Opdrachtgever:
+        </p>
+        <p>
+          Bloemmolens en veevoeders Geyskens
+        </p>
+        <p>
+          Terbekestraat 36
+        </p>
+        <p>
+          3580 Beringen
+        </p>
+    </section>
+ </section>     
+
+ 
+  </body>
+</document>

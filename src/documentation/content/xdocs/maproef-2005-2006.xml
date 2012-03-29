@@ -1,0 +1,1662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V1.2//EN" "/export/usr/local/forrest/main/webapp/resources/schema/dtd/document-v12.dtd">
+<document> 
+  <header> 
+    <title>Abstracts Eindwerken 2005-2006</title> 
+  </header> 
+  <body> 
+  
+       <p>Dit is het overzicht van de abstracts van de eindwerken ELO die uitgevoerd zijn in het academiejaar 2005-2006.</p>
+      <p>Laatste wijziging: $Date: 2009-08-02 22:59:43 +0200 (Sun, 02 Aug 2009) $</p>
+
+      <section>
+      <title>Overzicht</title>
+
+<table>
+<caption>
+Eindwerken 2005-2006
+</caption>
+
+<tr>
+ <th>code</th>
+ <th>student(en)</th>
+ <th>titel</th>
+ <th>bedrijf</th>
+ <th>promotors</th>
+</tr>
+
+<!-- voorstellen eindwerken -->
+
+<tr>
+ <td>1</td>
+ <td>Kwinten Billen</td>
+ <td>Computer controlled light level regulation with a PIC18F4550 (<link href="#lightlevel">abstract</link>)</td>
+ <td>Erasmus Valencia, Spanje</td>
+ <td>Miguel Alcañiz Fillol</td>
+</tr>
+
+<tr>
+ <td>2</td>
+ <td>Wout Claes, Ferre Lenaerts</td>
+ <td>Constructie van een aangepaste tester voor de meting van de degradatie van organische transistors (<link href="#orgtransistor">abstract</link>)
+ </td>
+ <td>IMEC</td>
+ <td>Jan Genoe</td>
+</tr>
+
+<tr>
+ <td>3</td>
+ <td> 
+  Jerry Doumen, Nico Kelchtermans, Tom Mignolet
+ </td>
+ <td>Ontwerp van een signalisatiepaneel (<link href="#sigpaneel">abstract</link>)
+ </td>
+ <td>Terberg Specials</td>
+ <td>Leo Rutten</td>
+</tr>
+
+<tr>
+ <td>4</td>
+ <td>Pieter Gevers</td>
+ <td>Studie van UIML (User Interface Markup Language) (<link href="#uiml">abstract</link>, 
+                      <link href="http://ontwerpen1.khlim.be/uiml/">site</link>)
+ </td>
+ <td>Philips Leuven</td>
+ <td>Peter Vanhoef, Leo Rutten</td>
+</tr>
+
+<tr>
+ <td>5</td>
+ <td>Caroline Vanderheyden, Jelko Huysmans</td>
+ <td>Ontwerpen en aanvallen van cryptografische (sub)schakelingen met behulp van een nieuwe ontwerpmethode (<link href="#nieuwontwerpcrypto">abstract</link>)
+ </td>
+ <td>COSIC</td>
+ <td>Nele Mentens</td>
+</tr>
+
+<tr>
+ <td>6</td>
+ <td>Karel Jaksons, Philippe Nédée</td>
+ <td>Implementatie van stroomcijfers in VHDL (<link href="#stroomcijfers1">abstract</link>)
+ </td>
+ <td>COSIC</td>
+ <td>Nele Mentens</td>
+</tr>
+
+<tr>
+ <td>7</td>
+ <td>Bart Jansen</td>
+ <td>Computer controlled stepping motor with a PIC18F4550 microcontroller (<link href="#stepper">abstract</link>)</td>
+ <td>Erasmus Valencia, Spanje</td>
+ <td>Miguel Alcañiz Fillol</td>
+</tr>
+
+<tr>
+ <td>8</td>
+ <td>Kevin Lismont, Dimitri Sauvillers</td>
+ <td>Cameragebaseerde automatisering voor uitlijning van werkstukken aan de hand van CAD-gegevens (<link href="#camerauitlijnen">abstract</link>)
+ </td>
+ <td>Mecon Optronics</td>
+ <td>Ronny De Loor, Johan Baeten</td>
+</tr>
+
+<tr>
+ <td>9</td>
+ <td>Joris Plessers, Piet Vangenechten</td>
+ <td>Implementatie van hashfuncties in hardware (<link href="#hashfuncties">abstract</link>)
+ </td>
+ <td>COSIC</td>
+ <td>Nele Mentens</td>
+</tr>
+
+<tr>
+ <td>10</td>
+ <td>Joël Vrolix, Peter Schreurs</td>
+ <td>Implementatie van stroomcijfers in HW, deel 2 (<link href="#stroomcijfers2">abstract</link>)
+ </td>
+ <td>COSIC</td>
+ <td>Nele Mentens</td>
+</tr>
+
+<!--
+<tr>
+ <td>11</td>
+ <td>Ioanis Stefopoulos</td>
+ <td>Aspect georienteerd applicatieontwerp ontwerpen met Hibernate (O/R mapper) (<link href="#hibernate">abstract</link>,
+                      <link href="http://ontwerpen1.khlim.be/hibernat/">site</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Leo Rutten</td>
+</tr>
+ -->
+<tr>
+ <td>12</td>
+ <td>Stijn Vandael</td>
+ <td>Data acquisition with the PIC18F4550 microcontroller controlled over a swing-based Java application (<link href="#dataacq">abstract</link>)</td>
+ <td>Erasmus Valencia, Spanje</td>
+ <td>Miguel Alcañiz Fillol</td>
+</tr>
+
+<tr>
+ <td>13</td>
+ <td>Wouter Vanmontfort</td>
+ <td>Java-simulator voor discrete gebeurtenissen (<link href="#simulator">abstract</link>,
+                      <link href="http://ontwerpen1.khlim.be/simul/">site</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Leo Rutten</td>
+</tr>
+
+<tr>
+ <td>14</td>
+ <td>Jan Vanoppen</td>
+ <td>Objectgeoriënteerd voorbeeldapplicatieontwerp met db4objects (OO database) (<link href="#db4o">abstract</link>,
+                      <link href="http://ontwerpen1.khlim.be/db4o/">site</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Leo Rutten</td>
+</tr>
+
+
+
+<!-- einde gekozen eindwerken -->
+
+
+<!-- 
+
+niet gekozen
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Omvorming van bestaande systemen tot een degelijke digitale ruggengraat (<link href="#sonar">abstract</link>)
+ </td>
+ <td>Sonar</td>
+ <td></td>
+</tr>
+-->
+<!--
+<tr>
+ <td></td>
+ <td></td>
+ <td>Mixed Hardware/Software implementation of JPEG decoder (<link href="#jpegdecoder">abstract</link>)
+ </td>
+ <td>IMEC</td>
+ <td>Geert Vanwijnsberghe, Tom Tassignon</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Hardware/software implementation of an ASIC test machine (<link href="#hardsoftware">abstract</link>)
+ </td>
+ <td>IMEC</td>
+ <td>Bert Van Thielen</td>
+</tr>
+<tr>
+ <td></td>
+ <td></td>
+ <td>Evaluation and Modification of a Low-Power Charge-Conservation 8-bit
+   Analog-to-Digital Converter in a 0.35 M-5 CMOS Technology. Shrink to 0.18 M-5 CMOS (<link href="#adconvertor">abstract</link>)
+ </td>
+ <td>IMEC</td>
+ <td>Jan Wouters, Nico Beylemans</td>
+</tr>
+<tr>
+ <td></td>
+ <td></td>
+ <td>Mixed Hardware/Software implementation of mp3 player (<link href="#mp3">abstract</link>)
+ </td>
+ <td>IMEC</td>
+ <td>Geert Vanwijnsberghe, Tom Tassignon</td>
+</tr>
+<tr>
+ <td></td>
+ <td></td>
+ <td>Design of a 10-bit Segmented Current-Steering Digital-to-Analog Converter (<link href="#daconvertor">abstract</link>)
+ </td>
+ <td>IMEC</td>
+ <td>Geert Thys, Jan Wouters</td>
+</tr>
+
+
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Web-based timesheet system development (<link href="#webtimesheet">abstract</link>)
+ </td>
+ <td>IMEC</td>
+ <td>Kristof Loots</td>
+</tr>
+-->
+
+
+<!--
+<tr>
+ <td></td>
+ <td></td>
+ <td>Datacaptatiesysteem voor injectiepersen (<link href="#datacaptatie">abstract</link>)
+ </td>
+ <td>Hercorub</td>
+ <td></td>
+</tr>
+-->
+
+<!--
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Meting naar de properheid van lijnbussen (<link href="#properheid">abstract</link>)
+ </td>
+ <td>De Lijn</td>
+ <td></td>
+</tr>
+-->
+
+<!--
+<tr>
+ <td></td>
+ <td> </td>
+ <td>Schrijven van Embedded C Software voor een 16-bit Fujitsu processor (<link href="#embeddedc">abstract</link>)
+ </td>
+ <td>Bormet bvba</td>
+ <td>Johan Baeten, Ruben Schreurs, Piet Dayers</td>
+</tr>
+-->
+
+
+
+
+
+<!--
+<tr>
+ <td></td>
+ <td>Jan Piccard, Wim Piccard</td>
+ <td>Studie van het schakelgedrag van organische geheugens (<link href="#orggeheugen">abstract</link>)
+ </td>
+ <td>IMEC</td>
+ <td>Jan Genoe</td>
+</tr>
+-->
+
+<!--
+<tr>
+ <td></td>
+ <td></td>
+ <td>Bloeddoorstromingsmeting</td>
+ <td></td>
+ <td>Jan Genoe</td>
+</tr>
+-->
+
+<!-- 
+
+  Uitgeschakeld, onderwerp teruggetrokken
+  
+<tr>
+ <td></td>
+ <td></td>
+ <td>Cameragestuurde controle bij IBM-SCARA robot (<link href="#robot">abstract</link>)
+ </td>
+ <td>KHLim, IWT</td>
+ <td>Johan Baeten, Leo Rutten</td>
+</tr>
+
+  
+ 
+<tr>
+ <td></td>
+ <td></td>
+ <td>Ontwikkeling van een universele videoserver (<link href="#videoserver">abstract</link>)
+ </td>
+ <td>Entelec Control Systems</td>
+ <td></td>
+</tr>
+ -->
+
+
+<!-- 
+<tr>
+ <td></td>
+ <td></td>
+ <td>MOST interface(<link href="#most">abstract</link>)
+ </td>
+ <td>IPTE</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Flexray (<link href="#flexray">abstract</link>)
+ </td>
+ <td>IPTE</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>PXI Interface (<link href="#pxi">abstract</link>)
+ </td>
+ <td>IPTE</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>MegaXFlash (<link href="#megaxflash">abstract</link>)
+ </td>
+ <td>IPTE</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>LXI interface (<link href="#lxi">abstract</link>)
+ </td>
+ <td>IPTE</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Functioneel testen met Spider (<link href="#spider">abstract</link>)
+ </td>
+ <td>IPTE</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Automatiseren van meetopstellingen (<link href="#uhp1">abstract</link>)
+ </td>
+ <td>Philips Lighting Turnhout</td>
+ <td>Ludo Schreel</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Ondersteuning in technologie projekten (<link href="#uhp2">abstract</link>)
+ </td>
+ <td>Philips Lighting Turnhout</td>
+ <td>Ludo Schreel</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Ontwikkeling van een meettoestel voor karakterisatie van
+magneeteigenschappen (<link href="#magneet">abstract</link>)
+ </td>
+ <td>Metis, Leuven</td>
+ <td>Luc Van Bockstal</td>
+</tr>
+
+
+-->
+
+
+
+</table>
+
+<p>
+De volgende studenten waren reeds als ingenieur afgestudeerd aan de universiteit van Brno, Tsjechië en hebben in de KHLim aan een onderzoeksproject gewerkt tijdens het eerste semester van 2006-2006.
+</p>
+
+
+
+
+<table>
+<caption>
+Post-Master Projecten 2005-2006
+</caption>
+
+<tr>
+ <th>code</th>
+ <th>student(en)</th>
+ <th>titel</th>
+ <th>instituut van herkomst</th>
+ <th>promotor</th>
+</tr>
+
+
+<!-- 
+   De speciale r is in unicode &#x0159;  
+  -->
+
+<tr>
+ <td>1</td>
+ <td>Milan Brezina</td>
+ <td>Analysis of network quality of service in a User Mode Linux environment</td>
+ <td>University of Brno</td>
+ <td>Leo Rutten</td>
+</tr>
+
+
+
+<tr>
+ <td>2</td>
+ <td>Petr Danecek</td>
+ <td>Design of Random Number Generators on FPGAs</td>
+ <td>University of Brno</td>
+ <td>Nele Mentens</td>
+</tr>
+</table>
+
+
+
+
+
+    </section>
+
+    <section>
+      <title>Eindwerkabstracts</title>
+  
+      <!-- 1 -->
+      <anchor id="lightlevel"/>      
+      <section>
+        <title>Computer controlled light level regulation with a PIC18F4550</title>
+<p>At the “Universidad Politecnica” of Valencia in Spain students of electronics learn to program embedded software into microcontrollers. My supervisor and lecturer at the university, Mr. Alcañiz, decided to update to one of the latest microcontrollers, the PIC18F4550, which is USB capable. Updating, however, also means that some basic applications need to be developed so that the students have didactically justified applications to work with in the laboratory sessions. </p>
+<p>One of these applications is a computer controlled light level regulator. The PIC in this application is used to receive commands from a computer and translate them to pulses that ignite a TRIAC, which controls the light level.</p>
+<p>The project consisted of two phases. The first phase was to write the software for the PIC and a GUI for controlling the light from a computer, and the second phase was to design a PCB for the hardware components.</p>
+<p>Before I could do anything practical with an actual microcontroller, I wrote and tested all syntax using a software simulation packet called Proteus.</p>
+<p>Because Proteus does not know the PIC18F4550 yet, I needed to use a different microcontroller that was similar from the point of view of the functional units and migrate later to the actual PIC. </p>
+<p>When complete code had been written and tested, I downloaded the program into the PIC and started working on the PCB for the application.</p>
+      </section>
+
+      
+  <!-- 2 -->
+  <anchor id="orgtransistor"/>
+
+
+  <section>
+    <title>Constructie van een aangepaste tester voor de meting van de degradatie van organische transistors</title>
+
+<p>De evolutie in de elektronicawereld naar een betere en goedkopere organische transistor was voor de Leuvense onderzoeksinstelling IMEC de aanleiding om de opdracht voor deze masterproef aan te bieden.</p>
+<p>Naast de continue inspanning om de prestaties van deze organische transistor te verbeteren, is er nood aan een volgend niveau van testen. Om inzetbaar te zijn, onder verschillende omstandigheden, moet de organische transistor zeer stabiel zijn over een langere tijdsperiode en onder verschillende klimatologische omstandigheden.</p>
+<p>Ons werd opgedragen een tester te realiseren voor dit betrouwbaarheids-onderzoek. Bijkomend moest ons testappat ook nog compact, robuust, autonoom en gebruiksvriendelijk zijn om gemakkelijk het gedrag van de organische transistor te kunnen testen in bijvoorbeeld een oven of onder een uv-lamp.</p>
+<p>Eerst werd een schema opgemaakt dat het gewenste ontwerp realiseert op basis van standaard componenten. Om een geschikte keuze te kunnen maken uit het ruime marktaanbod van componenten, zijn we begonnen met een grondige studie daarvan. Daarna kwam het eigenlijke ontwerpen van het appat aan de beurt.</p>
+<p>Het resultaat is een kleine vierlagenprint geworden met als hart een ATMEL-microcontroller. De tests zelf worden vooraf op een pc samengesteld. Vervolgens wordt de test-sequentie doorgestuurd naar de microcontroler, die de juiste pinnen van het sample met organische transistors aanstuurt. De ingestelde pmeters die het soort uit te voeren test bepalen, worden op vooraf bepaalde tijdstippen gemeten en via het handige I²C-(TWI)-protocol in een EEPROM opgeslagen. Later – of tijdens het testen zelf al – kunnen al die data via een USB-interface gemakkelijk door de pc opgehaald en verwerkt worden.</p>
+<p>Met deze tester is IMEC in staat zijn al vergevorderd onderzoek naar de organische transistor te versnellen en zo zijn wereldpositie op dit vlak te verstevigen.</p>
+
+<!--
+<p>
+
+aantal studenten: 2  
+</p>
+<p>
+Contact persoon: Jan Genoe 
+</p>
+-->
+</section>
+
+<!--
+  <anchor id="orggeheugen"/>
+
+  <section>
+    <title>Studie van het schakelgedrag van organische geheugens</title>
+
+<p>
+Organische Charge Transfer complexes is een van de materialen die mogelijk de flash geheugens (Flotox transistors) in de toekomst kan vervangen in massageheugens in combinatie met CMOS technologie zoals bijvoorbeeld de USB-stick. Hiervoor is er echter nog een belangrijke optimalisatie van het materiaal en het schakelgedrag nodig. In dit eindwerk zal er op basis van de metingen van het aan-af schakelen van deze materialen gezocht worden naar de beste laagdiktes om de gewenste geheugens te bekomen.
+</p>
+<p>
+aantal studenten: 2  
+</p>
+<p>
+Contact persoon: Jan Genoe
+</p>
+
+</section>
+-->
+
+      <!-- 3  -->
+  <anchor id="sigpaneel"/>
+  
+  <section>
+    <title>Ontwerp van een signalisatiepaneel</title>
+    <p>De kernactiviteit van de firma Terberg Specials is het modificeren van personen- en bedrijfswagens. Opdrachtgevers voor Terberg Specials zijn verschillende overheidsdiensten, autofabrikanten en importeurs. Onze opdracht bestaat erin een LED-signalisatiepaneel te ontwerpen dat geplaatst kan worden op het dak van een voertuig. Het paneel is een volledig grafische vierkleuren-LED-display waarvan men de totale oppervlakte kan benutten. Het is de bedoeling om zowel vaste als geanimeerde beelden zichtbaar te maken. Deze beelden bestaan uit teksten, tekeningen en animaties in meerdere kleuren. De beelden kunnen via een laptop in het geheugen van het paneel worden geladen. Ze worden in het geheugen van het paneel opgeslagen in een bepaald formaat op een SD-geheugenkaart. De communicatie met de computer vindt plaats met een USB-verbinding. In normaal gebruik is er geen verbinding met de laptop nodig. De gebruiker kan uiteindelijk kiezen tussen de verschillende figuren of animaties met een bedieningspaneel dat vast ingebouwd is in het voertuig. Dit zal tevens de mogelijkheid bieden nog een eigen tekst in te voeren die beter geschikt is voor een bepaalde verkeerssituatie. Iedere individuele LED van het paneel wordt aangestuurd met een LED-driver IC die zijn informatie verkrijgt van een Atmel-AVR-microprocessor. Dit eindwerk omvat het ontwikkelen van de hardware voor het signalisatiepaneel en de bediening met grafische display en het schrijven van de software voor de microprocessor, het bedieningspaneel en een pc-gebruikersapplicatie.</p>
+  </section>
+
+  <!-- 4 -->
+  <anchor id="uiml"/>
+
+
+<section>
+<title>Een studie van UIML (User Interface Markup Language)</title>
+ 
+<p>De laatste jaren is er een sterke groei merkbaar op het gebied van computer-devices. Deze beschikken vaak over dezelfde chipset waarop dezelfde software draait, maar vereisen toch een verschillende User Interface (UI). Elk device beschikt immers over eigen display-, interactie- en inputmogelijkheden.</p>
+<p>In dit opzicht rees de vraag vanuit het technologiebedrijf Philips Applied Technologies Leuven naar mogelijke oplossingen die toelaten om UI’s te ontwerpen m.b.v. één enkele, universele taal die los staat van het device en van ontwikkelingen op het gebied van interfaces. Aan deze behoefte heeft een taal als User Interface Markup Language (UIML) zijn bestaan te danken.</p>
+<p>UIML is een applicatie- en OS-onafhankelijke taal die het voorkomen/uitzicht van een User Interface en de interactie met de gebruiker beschrijft. Het is een metalanguage die gebaseerd is op XML.</p>
+<p>Het doel van deze masterproef was het bestuderen van de mogelijkheden die UIML biedt op het vlak van User Interface ontwerp, onder meer een antwoord zoeken op de vraag of UIML een extra waarde kan zijn voor het snel genereren van een UI voor bijv. demoproducten. Bij de studie werd als vertrekpunt een bestaande applicatie van een autoradio genomen. Deze werd omgevormd zodat voor deze applicatie een UI in UIML kon ontwikkeld worden, gebruikmakend van een open source renderer voor het .NET-platform. Op deze manier kon aan de hand van de praktijk worden nagegaan of UIML geschikt is om gebruikt te worden in softwaretoepassingen in de wereld van de consumentenelektronica.</p>
+ 
+</section>
+
+      <!-- 5 -->
+      <anchor id="nieuwontwerpcrypto"/>      
+  <section>
+    <title>Ontwerpen en aanvallen van cryptografische (sub)schakelingen met behulp van een nieuwe ontwerpmethode</title>
+    
+<p>De onderzoeksgroep COSIC (COmputer Security and Industrial Cryptography) is een onderdeel van het departement Elektrotechniek-ESAT van de K.U.Leuven. De hardwaregroep binnen COSIC doet onderzoek naar efficiënte implementaties van cryptografische algoritmen en protocols maar ook naar nevenkanaalaanvallen. Deze aanvallen buiten zwakheden in de implementatie van een bepaald cryptografisch algoritme uit zonder daarbij de theoretische veiligheid van dit algoritme te breken. Bekende voorbeelden zijn aanvallen gebaseerd op tijds- en vermogenanalyse. Op UCLA (University of California, Los Angeles) werd een nieuwe ontwerpmethode, WDDL (Wave Dynamic Differential Logic), ontwikkeld waarvan wordt aangenomen dat ze de weerstand van een implementatie tegen vermogenaanvallen verhoogt. </p>
+<p>Onze opdracht bestond erin de veiligheid na te gaan van blokcijfers die geïmplementeerd werden met behulp van WDDL. Om een vergelijking te kunnen maken, hebben we het DES-algoritme (Data Encryption Standard) geïmplementeerd met de nieuwe en met de traditionele ontwerpmethode. Met SWAN hebben we vermogenaanvallen op beide implementaties uitgevoerd en hun resistentie tegen deze aanvallen vergeleken. SWAN (Substrate Noise Waveform Analysis tool) is een programma, op IMEC (Interuniversitair Micro-Elektronica Centrum) ontwikkeld, om substraatruis te modelleren in analoog en digitaal gemixte systemen. Het kan ook gebruikt worden om het vermogenverbruik van een chip te modelleren. Wij waren de eersten die het programma met het oog op nevenkanaalaanvallen gebruikten. Het resultaat was een grondige vergelijking van beide ontwerpmethodes en daaruit bleek dat de nieuwe ontwerpmethode beter bestand is tegen de uitgevoerde vermogenaanvallen.</p>
+  
+          <p>
+            Verslag:
+          </p>
+            <ul>
+              <li>
+                <link href="maproef/2005-2006/Masterproef_E06_ELO_05.pdf">Masterproef_E06_ELO_05.pdf</link>
+              </li>
+            </ul>
+</section>
+
+
+
+      <!-- 6 -->
+      <anchor id="stroomcijfers1"/>      
+  <section>
+    <title>Implementatie van stroomcijfers in VHDL</title>
+
+<p>Het onderwerp van deze masterproef werd aangeboden door COSIC (COmputer Security and Industrial Cryptography ). COSIC is verbonden aan de K.U.Leuven en houdt zich bezig met cryptografie en netwerkbeveiliging.</p>
+<p>Deze masterproef bestaat uit het bestuderen, analyseren en implementeren van verschillende stroomcijfers in hardware. Een stroomcijfer is een cryptografisch algoritme dat o.a. gebruikt wordt voor de beveiliging van draadloze communicatie. Om het gebrek aan goede stroomcijfers op te vangen werd er in 2004 op Europees niveau een stroomcijferwedstrijd uitgeschreven.</p>
+<p>Deze masterproef evalueert de eigenschappen van de hardware-implementaties van deze stroomcijferskandidaten. Daartoe wordt gebruik gemaakt van de hardwarebeschrijvingstaal VHDL (Very High Speed Integrated Circuit Hardware Description Language). Het resultaat is de FPGA- implementatie van een aantal stroomcijferkandidaten. Deze implementaties worden vergeleken op verschillende criteria, waarvan de belangrijkste de oppervlakte en de throughput zijn. In deze masterproef werden de stroomcijferkandidaten GRAIN, MICKEY, PHELIX en MOSQUITO behandeld</p>
+
+
+          <p>
+            Verslag:
+          </p>
+            <ul>
+              <li>
+                <link href="maproef/2005-2006/Masterproef_E06_ELO_10.pdf">Masterproef_E06_ELO_10.pdf</link>
+              </li>
+            </ul>
+  </section>
+
+      <!-- 7 -->
+      <anchor id="stepper"/>      
+      <section>
+        <title>Computer controlled stepper motor with a PIC18F4550 microcontroller</title>
+<p>At the Polytechnic University of Valencia the microcontroller which is used in the laboratory sessions of the subject “Advanced Industrial Electronic Systems” will be updated. Now The SAB80537 is used and they want to start using the PIC microcontroller from the Microchip Technology Inc. because Microchip is the number one in the microcontroller market. For this application the PICDEMTM FS USB Starter Kit has been bought which uses the PIC18F4550. </p>
+<p>Because the students will have to program the embedded software for controlling a stepper motor they need a platform to do this. This platform will consist of a one layer PCB, a software application to control the microcontroller from the PC and the embedded software itself for testing everything. </p>
+<p>The PCB will contain a stepper motor driver, because the microcontroller can not deliver the high current we need for our motor, and a transformer for the power supply of 12 V. For the software application a graphical user interface was written in Visual Basic in which you have the ability to adjust the step sequence, full step or half step, both clockwise or counter clockwise. Also the number of steps and the stepping frequency can be adjusted. </p>
+<p>Writing the embedded software was done in assembly with the program MPlab. And Proteus was used for testing the assembly code and making the PCB layout. Because the PIC18F4550 microcontroller was not available in Proteus the </p>
+<p>PIC 18F4525 was used for testing the software.</p>
+<p>With the complete system students will be able to learn more about programming microcontrollers and the working of a stepper motor. </p>
+      </section>
+
+      
+ <!-- 8 -->
+ <anchor id="camerauitlijnen"/>
+  <section>
+    <title>Cameragebaseerde automatisering voor uitlijning van werkstukken aan de hand van CAD-gegevens</title>
+<p>Mecon Optronics is een ingenieursbedrijf uit Gent dat gespecialiseerd is in het uitvoeren van mechatronische projecten. Potentiële klanten hebben vaak interesse in de automatisering van productieprocessen. Het gebruik van camera-informatie lijkt hierbij onontbeerlijk. Onze opdracht bestond erin om de in een productieproces aangeboden werkstukken uit te lijnen op basis van hun CAD-gegevens en camerabeelden.</p>
+<p>Om te beginnen hebben we een wiskundige analyse gemaakt die het verband legt tussen de camera, het object en een wereldreferentie. Dit houdt in dat we een geometrische transformatie hebben uitgevoerd van de 3D-objectomgeving naar een 2D-cameraprojectie. Daarna zijn we overgegaan naar het terugtransformeren van ons 2D-objectbeeld naar een 3D-model. Aangezien we een bruikbaar C-programma moesten schrijven zijn we op zoek gegaan naar een geschikte visiebibliotheek. OpenCV, een open source C-bibliotheek van Intel, droeg onze voorkeur weg om de code te schrijven voor de camerakalibratie, onontbeerlijk om de nodige pmeters voor de terugtransformatie te verkrijgen. Na succesvolle kalibratie van de camera, hebben we een programma geschreven waarmee we met een vaste cameraopstelling 2D-camerabeelden terug kunnen transformeren naar een 3D-objectmodel.</p>
+<p>Via een tweede bibliotheek, OpenGL, slaagden we erin het gewenste 3D-model te visualiseren, daarbij gebruik makend van de output van het hoofdprogramma die alle gegevens inzake de positie en oriëntatie van het object omvat.</p>
+<p>Concreet zijn we er dus in geslaagd om aan de hand van één camerabeeld en de CAD-gegevens van het object, dit object te situeren in de ruimte. Een robot zou zodoende een object kunnen positioneren of uitlijnen op een transportband.</p>
+  </section>
+  
+  
+  <!--
+<anchor id="datacaptatie"/>
+  <section>
+    <title>Datacaptatiesysteem voor injectiepersen</title>
+<p> 
+Hercorub Lanaken is fabrikant van industriële rubberartikels.  Voor de vervaardiging van deze artikels gebruikt men rubbermengsels.  Ook deze mengsels worden bij Hercorub samengesteld en gemixt.
+</p>
+<p> 
+Een methode voor het produceren van rubberen artikels is het injectievormen.  Hiervoor staan er bij Hercorub een 40-tal injectiepersen opgesteld.  Deze machines worden bediend door operatoren die dagelijks de door hun geproduceerde volumes op een productie opvolgingsblad noteren.  Hierbij worden ook matrijsnummers, gebruikte mengsels enz. genoteerd.
+Deze opvolgingsbladen worden op het einde van elke shift opgehaald en door een administratieve medewerker ingegeven in het centrale computersysteem.  Deze gegevens worden gebruikt om de voorraden up-to-date te houden, om de planning af te boeken en om nacalculaties te verrichten.
+</p>
+<p> 
+Nu is het ingeven van al deze gegevens een behoorlijk saaie job en met het groeien van het bedrijf en de noodzaak aan meer en accurate info is het aantal in te geven gegevens eveneens meegegroeid.  Het gevolg is dat de administratie deze gegevens niet tijdig verwerkt krijgt.  Dit zorgt op haar beurt voor onjuiste voorraden en fictieve achterstand in de planning.
+</p>
+<p> 
+Om dit op te lossen zoeken wij vandaag naar een automatische registratie van deze gegevens.  Aan elke pers zouden wij daarom een eenvoudige PLC voorzien waarop de operator zijn operatornummer, matrijscode en mengselcode ingeeft.  Het aantal persbeurten kan dan automatisch geregistreerd en doorgestuurd worden naar een centrale computer.  In de centrale computer worden deze gegevens dan opgevangen, verwerkt en doorgestuurd naar de centrale database.
+</p>
+<p> 
+Systemen voor dit soort datacaptatie bestaan vandaag op de markt (scada e.d.), nadeel hiervan is dat deze systemen niet universeel zijn en zeker niet geschikt voor de oudere typen machines.  De gegevens die door zulk een systemen beschikbaar zijn, zijn inderdaad veel gedetailleerder maar worden vaak niet in een geschikte vorm afgeleverd zodat we ze niet automatisch aan onze centraal beheerde databases kunnen koppelen.
+</p>
+  </section>
+  
+  
+<anchor id="properheid"/>
+  <section>
+    <title>Meting naar de properheid van lijnbussen</title>
+<p> 
+Onderzoek naar een neutrale meting die de properheid van een bus kan uitvoeren. In dit verband bestaat er al software op de markt die door optische lezing een meting mogelijk maakt. De opdracht is een alternatief hiervoor uit te werken.
+</p>
+
+<p> 
+De Lijn Limburg
+</p>
+<p> 
+Grote breemstraat 4
+</p>
+<p> 
+3500 Hasselt
+</p>
+<p> 
+Tel: 011/85 02 11
+</p>
+<p> 
+Fax: 011/25 32 92
+</p>
+<p> 
+
+Contactpersoon: Duchateau Egon (011/ 85 03 11)
+</p>
+  </section>
+  
+      <anchor id="embeddedc"/>  
+  <section>
+    <title>Schrijven van Embedded C Software voor een 16-bit Fujitsu processor</title>
+
+<p> 
+Bormet bvba is producent van slagbomen, toegangscontrole en poort- en hekopeners.  Hiervoor heeft het alle technologie in huis voor zowel de mechanica, de elektriciteit als de elektronica.
+</p>
+<p> 
+De opdracht bestaat erin om embedded software te schrijven voor het aansturen van motoren (zowel monofasig als driefasig).  Hierbij dient men rekening te houden met de veiligheid volgens de CE-normering.  Dit betekent dat het programma op een gepaste manier naar de beveiligingsingangen dient te kijken en dat het nooit een onveilige toestand creëert (bv. na een spanningsuitval).
+</p>
+<p> 
+In eerste instantie dient men software te schrijven voor het aansturen en beveiligen van een dubbelvleugelig hek uitgerust met twee monofasige motoren.  Wanneer deze volledig getest is en bedrijfsklaar is, zullen we overgaan tot het aanpassen van deze software voor de andere producten, elk met hun specifieke eigenschappen.
+</p>
+<p> 
+De printplaat is uitgerust met een 16-bit Fujitsu processor (MB90F574A).  Dit bord is in opdracht van de firma Bormet bvba ontwikkeld, en hierdoor beschikken we ook over de nodige tools en info voor het schrijven van embedded software voor deze printplaat.
+</p>
+<p> 
+Er zal op school een testopstelling geplaatst worden, zodat er ten alle tijden de mogelijkheid bestaat om aan het eindwerk te werken.  Deze testopstelling omvat alles om een reële situatie te simuleren.
+</p>
+<p> 
+
+
+</p>
+<p> 
+promotor KHLim:
+</p>
+<ul>
+  <li>
+    dr. ir. Johan Baeten
+  </li>
+  </ul>
+
+<p> 
+promotoren Bormet bvba:
+</p>
+  <ul>
+    <li>
+	   ing. Ruben Schreurs
+    </li>
+    <li>
+	  Piet Dayers
+   </li>
+ </ul>
+
+<p> 
+Bormet bvba
+</p>
+<p> 
+Zwarteinde 11
+</p>
+<p> 
+B-3850 Kozen
+</p>
+<p> 
+Tel: 011/31.26.56
+</p>
+<p> 
+Fax: 011/31.65.66
+</p>
+<p> 
+E-mail: ruben@bormet.be
+</p>
+
+
+  </section>
+-->
+
+<!--
+<section>
+<title>Profiel van de student</title>
+<p>
+Enige basiskennis van Linux, C en C# is vereist.
+Kennis van XML is een pluspunt.
+</p> 
+</section>
+<section>
+<title>Werkomgeving</title>
+<p>
+Doel-applicatie = een ARM-9 Linux embedded systeem of een x86 Windows pc.
+</p>
+<p>
+Ontwikkel-omgeving = een x86 Linux pc of een x86 Windows pc
+</p>
+</section>
+-->
+
+<!--
+<section>
+<title>Contactpersoon</title>
+<p>
+Peter Vanhoef, Karl Verheyden
+</p>
+</section>
+-->
+
+
+
+
+
+
+
+       <!-- 9 -->
+      <anchor id="hashfuncties"/>      
+<section>
+  <title>Implementatie van hashfuncties in hardware</title>
+  
+    
+<p>Het onderwerp van onze masterproef werd uitgeschreven door COSIC (COmputer Security and Industrial Cryptography), een onderzoeksinstelling binnen de K.U.Leuven, die zich toespitst op cryptografie en netwerkbeveiliging. COSIC telt ongeveer 45 medewerkers, waarvan 8 postdocs en 3 professoren, dieonderzoek doen naar zowel de theoretische als de praktische aspecten vancryptografie en netwerkbeveiliging. Dit vertaalt zich in verschillende Europeseonderzoeksprojecten en een nauwe samenwerking met de industrie.</p>
+<p>Onze opdracht bestond erin de hashfuncties MD5 en Whirlpool te implementeren in hardware en vervolgens de implementaties te vergelijken.</p>
+<p>Een hashfunctie is een algoritme dat van een reeks bits van willekeurige lengte een samenvatting berekent met een vast aantal bits, hashwaarde genoemd. Wanneer één of meerdere bits van de data veranderen, zal ook de hashwaarde veranderen. Door de hashwaarde van de ontvangen data te berekenen en deze te vergelijken met de bijgeleverde hashwaarde kan men controleren of die data ongewijzigd gebleven zijn. Hoewel verschillende aanvallen hebben aangetoond dat het veiligheidsniveau van het MD5-algoritme veel lager is dan oorspronkelijk verwacht, wordt MD5 toch nog in verschillende toepassingen gebruikt. Het Whirlpoolalgoritme daarentegen is een vrij nieuwe hashfunctie waarvan minder hardware-implementaties voorhanden zijn. Om een vergelijking te kunnen maken tussen beide hashfuncties hebben we zowel het MD5-algoritme als het Whirlpoolalgoritme geïmplementeerd op een FPGA (Field Programmable Array) met behulp van de hardwarebeschrijvingstaal VHDL (Very High Speed Integrated Circuit Hardware Description Language).</p>
+<p>We hebben daarbij meerdere implementaties van beide algoritmes geëvalueerd. Het resultaat is een tabel die enerzijds de verschillende implementaties vaneenzelfde algoritme vergelijkt en anderzijds de oppervlakte en de snelheid vanWhirlpool en MD5 tegen elkaar afweegt.</p>
+
+          <p>
+            Verslag:
+          </p>
+            <ul>
+              <li>
+                <link href="maproef/2005-2006/Masterproef_E06_ELO_09.pdf">Masterproef_E06_ELO_09.pdf</link>
+              </li>
+            </ul>
+</section>
+
+      <!-- 10 -->
+      <anchor id="stroomcijfers2"/>      
+      <section>
+        <title>Implementatie van stroomcijfers in hardware</title>
+<p>Deze masterproef is ontstaan naar aanleiding van het stroomcijferproject eSTREAM. Dit Europees project, uitgeschreven door de Europese Encryptie gemeenschap, is in 2004 van start gegaan, omdat de huidige blokcijfers te groot waren om als stroomcijfer gebruikt te worden, en omdat de meeste degelijke stroomcijfers gebroken waren. De verschillende stroomcijferkandidaten moeten met elkaar vergeleken worden op o.a. grootte, snelheid en veiligheid. Om de eerste twee criteria te kunnen evalueren, moeten ze allemaal geïmplementeerd worden. Een stroomcijfer is een algoritme waarmee we boodschappen kunnen coderen. Stroomcijfers worden vooral gebruikt in draadloze communicatietoepassingen.</p>
+<p>De opdracht die ons vanuit COSIC (COmputer Security and Industrial Cryptography), een onderzoeksgroep binnen de K.U.Leuven, aangeboden werd, bestond erin om een aantal stroomcijfers te bestuderen en vervolgens te implementeren op FPGA (Field-Progammable Gate Array). Uiteindelijk hebben we de implementaties met elkaar vergeleken op verschillende criteria, waarvan oppervlakte en throughput de belangrijkste zijn.</p>
+      </section>
+
+      
+      <!-- 12 -->
+      <anchor id="dataacq"/>      
+      <section>
+        <title>Data acquisition with the PIC18F4550 microcontroller controlled over a swing-based Java application</title>
+<p>In the labsessions “Advanced Industrial Electronic Systems” at the University Politecnica of Valencia, students were using the microcontroller SAB 80537. As an exercise, they had to write embedded software for this microcontroller to create a data acquisition system. The microcontroller had to read an analogue voltage through AD(analogue/digital)–conversion and generate an analogue voltage through PWM (Pulse Width Modulation).</p>
+<p>The used microcontroller was outdated and had to be replaced by the more recent PIC18F4550 microcontroller. My task consisted of reprogramming the embedded software for this microcontroller and designing a PCB which can be connected to it. On the PCB, there is a potentiometer to control the voltage for the AD-conversion and a low-pass filter to convert the PWM-signal to an analogue voltage.</p>
+<p>Furthermore, communication between the microcontroller and the pc is necessary to make it possible to control the PWM and AD modules with a personal computer. I designed a protocol for sending packages from the pc to the microcontroller which contain the voltage for the PWM. The response of the microcontroller is a package with the acquired voltage from the AD-conversion.</p>
+<p>On the pc-side, I programmed a java library for this communication and a java GUI (Graphical User Interface) for interaction with the user. The main functionality of the GUI consists of a slide bar for regulating the voltage and a</p>
+<p>dynamic graph for visualizing the voltage. </p>
+<p>With this complete system, students should be able to learn the basics of a microcontroller in a quick and efficient way.</p>
+      </section>
+
+      
+      <!-- 13 -->
+      <anchor id="simulator"/>      
+      <section>
+        <title>Java-simulator voor discrete gebeurtenissen</title>
+<p>Dit eindwerk gaat over een simulator voor discrete gebeurtenissen die gemaakt is in de programmeertaal Java. Een simulator voor discrete gebeurtenissen kan gebruikt worden om complexe systemen zoals netwerken, digitale schakelingen en dergelijke te simuleren.</p>
+<p>Deze simulator maakt deel uit van het Netsim-onderzoeksproject dat momenteel op de KHLim loopt. Het Netsim-onderzoeksproject maakte gebruik van een andere simulatie-engine die gebaseerd was op de SSF API (Scalable Simulation Framework Application Programming Interface), maar deze engine was niet open source. De eigen simulatie-engine is ook gebaseerd op deze API om de andere engine gemakkelijk te kunnen vervangen.</p>
+<p>De SSF API beschrijft vijf basisklassen die nodig zijn om een simulatie te kunnen uitvoeren. Buiten deze klassen zijn er nog een aantal andere klassen nodig om een volwaardige simulatie-engine te bekomen.</p>
+<p>Het was dan ook de bedoeling van dit eindwerk om deze klassen uit te werken om zo een goed functionerende, open source simulatie-engine te verkrijgen.</p>
+      </section>
+
+      <!-- 14 -->
+      <anchor id="db4o"/>      
+      <section>
+        <title>Objectgeoriënteerd voorbeeldapplicatieontwerp met db4objects</title>
+<p>De opzet van dit afstudeerwerk bestond erin een Java-voorbeeldapplicatie te ontwerpen op basis van db4objects. db4objects is een objectgeoriënteerde databank.</p>
+<p>Informatie wordt opgeslagen in Java-objecten en deze worden toegevoegd aan de databank.</p>
+<p>Er zijn twee mogelijkheden voorzien om de informatiestructuur object-georiënteerd te beschrijven: enerzijds grafisch door het tekenen van een UML-diagram, anderzijds door middel van tekstuele ingave in een XML-bestand.</p>
+<p>Uit deze beschrijving genereert een XSL-programma de Java-broncode. De broncode wordt vervolgens gecompileerd en als objecten in de databank gebruikt.</p>
+<p>Apache Cocoon voorziet toegang tot en weergave van de informatie, opgeslagen in de databank. Apache Cocoon is een webontwikkelplatform, ontworpen rond de concepten scheiding-van-belangen en component-gebaseerd-webontwerp. Het toepassen van XSP laat hier toe Java-code te gebruiken binnen een XML-context, om aldus met de databank te interfereren.</p>
+<p>Uiteindelijk is het, voor het opstarten van een nieuwe applicatie, enkel nodig de</p>
+<p>informatiestructuur eenmalig objectgeoriënteerd te beschrijven. De verdere stappen, om de applicatie te genereren, zijn in een build.xml-bestand opgenomen en worden automatisch uitgevoerd.</p>
+<p>Als ontwerpomgeving is Slackware Linux gebruikt. Zowel de ontwerpomgeving als de toegepaste programmatuur zijn vrije software.</p>
+      </section>
+      
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+  Uitgeschakeld
+      <anchor id="hibernate"/>      
+      <section>
+        <title>Aspect georienteerd applicatieontwerp ontwerpen met Hibernate (O/R mapper), KHLim</title>
+          <p>
+            Het doel van dit eindwerk is het ontwerpen van een Java applicatie op basis van Hibernate.
+            Hibernate is een zogenaamde object-relationele mapper; in andere woorden, Hibernate zorgt voor de toegang tot
+            een klassieke relationele database. Deze datebase wordt aangesproken via JDBC. De uit de database gelezen gegevens worden
+            door Hibernate aan de applicatie gepresenteerd als Java objecten. Het is mogelijk om via deze source code generering de
+            Java broncode voor deze klassen te genereren. Deze gegenereerde broncode mag niet rechtstreeks gewijzigd worden.
+            Deze wijzigingen gebeuren met aspect georienteerde programmeertechnieken. Dit is een aanvulling op object georienteerd
+            programmeren.
+          </p>
+          <p>
+            Links:
+          </p>
+            <ul>
+              <li>
+                <link href="http://www.hibernate.org">www.hibernate.org</link>
+              </li>
+              <li>
+                <link href="http://www.aspectj.org">www.aspectj.org</link>
+              </li>
+            </ul>
+      </section>
+      
+   -->   
+      <!--   
+      <anchor id="sonar"/>      
+      <section>
+        <title>Omvorming van bestaande systemen tot een degelijke digitale ruggengraat, Sonar</title>
+        
+          <section>
+            <title>Opdracht</title>
+            
+          <p>
+          Het Centrum Algemeen Welzijnswerk SONAR is verspreid over verschillende locaties. 
+          De organisatie heeft nood aan een degelijke digitale communicatieruggengraat, 
+          zodat de communicatie tussen de verschillende afdelingen in de toekomst veel vlotter kan verlopen. 
+          In het centrum is een mix van systemen aanwezig, om budgettaire en economische redenen kan hier niets aan veranderd worden. 
+          Je analyseert de huidige situatie en je stelt oplossingen voor. 
+          Daarnaast ontwikkel je ook een website die selectief toegankelijk is voor personeel, 
+          raad van bestuur, directie en bezoeker. 
+          Aan dit project kan één student industrieel ingenieur werken.
+          </p>
+          
+          </section>
+          <section>
+            <title>Organisatie</title>
+            
+            <p>Centrum voor Algemeen Welzijnswerk SONAR</p>
+
+            <p>
+               Het Centrum voor Algemeen Welzijnswerk SONAR biedt hulp- en dienstverlening aan alle personen 
+               binnen de Limburgse regio van wie de welzijnskansen op persoonlijk, 
+               sociaal, psychosociaal en/of materieel vlak bedreigd zijn.
+            </p>
+          
+            
+         </section>
+          <section>
+            <title>Contact</title>
+           
+           <p>
+Magda Schelen of Johan Huygen, directieleden
+           </p>
+           <p>
+Adres: Rozenstraat 28, 3500 Hasselt
+           </p>
+           <p>
+Telefoon: 011/85 99 20
+           </p>
+           <p>
+               E-mail:
+                 <link href="mailto:magda.scheelen@cawsonar.be">magda.scheelen@cawsonar.be</link> of
+                 <link href="mailto:johan.huygen@cawsona">johan.huygen@cawsonar.be</link>
+           </p>
+          </section>
+          
+          <section>
+            <title>Links</title>
+          
+            <ul>
+              <li>
+                <link href="http://award.cerafoundation.be/nl/eindwerk_detail.php?counter=9&amp;id=101">Cera</link>
+              </li>
+            </ul>
+          </section>
+      </section>
+    -->
+    
+  <!--    
+      <anchor id="jpegdecoder"/>
+      <section>
+        <title>Mixed Hardware/Software implementation of JPEG decoder</title>
+ 
+<p>
+Embedded system design will become one of the challenges for engineers
+of tomorrow. By integrating processors into FPGA's it is now possible to
+go through a complete design cycle including hardware and software within
+reasonable time.
+</p>
+<p>
+Compression technology has enabled extensive usage of multimedia applications
+where vast amount of image information is stored or transmitted. JPEG has
+become the most popular image compression technique used currently.
+</p>
+<p>
+The aim of this thesis is the development of a system that displays JPEG
+images on a VGA screen. The thesis consists of two parts, one part is a
+software implementation of the jpeg decoder. The second part is a hardware
+implementation of the jpeg decoder block.
+</p>
+<p>
+The implementation will be done on a Xilinx University Board containing a
+Virtex-II pro FGPA with two embedded IBM PowerPCs. The board itself contains
+a VGA interface. The Xilinx Embedded Development Kit (EDK) will be used to
+create the JPEG decoder. EDK is a set of software tools for designing embedded
+processor systems on programmable logic.
+</p>
+<p>
+The software implementation of the JPEG decoder will be done in C/C++ on the
+PowerPC processor. Afterwards a mixed hardware software implementation will
+be the real challenge of this thesis.
+</p>
+ 
+
+<ul>
+  <li>
+  Kind of internship:   Thesis
+  </li>
+  <li>
+  Number of students:   1 or 2
+  </li>
+  <li>
+  Student:   Industrial Engineer (4 years Engineering School)
+  </li>
+  <li>
+  Contact person:   Geert Vanwijnsberghe, Tom Tassignon
+  </li>
+</ul> 
+</section> 
+ 
+
+      <anchor id="hardsoftware"/>      
+      <section>
+        <title>Hardware/software implementation of an ASIC test machine</title>
+<p> 
+Embedded system design will become one of the challenges for engineers of
+tomorrow. By integrating processors into FPGA's it is now possible to go
+through a complete design cycle including hardware and software within
+reasonable time.
+</p>
+<p>
+Using a so called 'ASIC test machine' engineers are able to verify the
+functionality of an ASIC in a fast but accurate way. Using such machine,
+much of the 'device acceptance tests' can be automated.
+</p>
+<p>
+The aim of this thesis is the development of a simple ASIC test machine.
+The machine should be able to apply test-vectors to a DUT, but also read
+and interpret results. It should also be capable to interpret files written
+in WGL format. This is a commonly used format for professional ASIC test machines.
+Hardware-software co-design (VHDL and C) is a key element in this thesis.
+</p>
+<p>
+The implementation will be done on a Xilinx University Board containing a
+Virtex-II pro FPGA with two embedded IBM PowerPCM-^Rs. EDK is a set of software
+tools for designing embedded processor systems on programmable logic.
+</p>
+ 
+<ul>
+  <li>
+Languages: VHDL, C/C++
+  </li>
+  <li>
+Tools: EDK development kit, Modelsim
+  </li>
+  <li>
+Hardware: PC (windows or Linux), Xilinx University Board
+  </li>
+  <li>
+ 
+  Kind of internship:   Thesis combined with a practical training (4 weeks)
+  </li>
+  <li>
+  Number of students:   2
+  </li>
+  <li>
+  Student:   Industrial Engineer (4 years Engineering School)
+  </li>
+  <li>
+  Contact person: Bert Van Thielen
+  </li>
+  </ul>
+</section>
+
+      <anchor id="adconvertor"/>      
+      <section>
+        <title>Evaluation and Modification of a Low-Power Charge-Conservation 8-bit
+   Analog-to-Digital Converter in a 0.35 M-5 CMOS Technology. Shrink to 0.18 M-5 CMOS.</title>
+ 
+<p>
+Last year an 8-bit Analog-to-Digital Converter was designed, in the AMI Semiconductor
+0.35 M-5 CMOS technology. A successive approximation algorithm is implemented using an
+array of binary-scaled capacitors. The operation is based on charge conservation-
+redistribution. A key component is an accurate auto-zeroing comparator. Operating
+voltage is 3.3 Volt. Power consumption was minimized. The design is now fabricated,
+and the devices need to be measured to determine their performance. Possible
+weaknesses then need to be corrected.
+In parallel, the design has to be ported to the UMC 0.18 M-5 technology.
+</p>
+<p>
+The motivation for these two ADC designs is to extend the available IP blocks.
+Specifically for the 0.18 M-5 technology, the converter is to be part of the DARE
+(Design Against Radiation Effects) library. This library has been created by Imec
+on behalf of ESA (European Space Agency) and contains at the moment a full set
+of digital standard cells and I/O. Several special techniques have been applied
+(to be used in the ADC as well) to guarantee radiation hardness.
+</p>
+<p>
+Tanner IC design software, running on a PC, is to be used for the 0.35 M-5 cell.
+The new 0.18 M-5 design preferably is to be done with Cadence software; a complete
+design flow is available at Imec, and students must be able to work at Imec on a
+regular basis.
+</p>
+ 
+
+<ul>
+  <li>
+  Kind of internship:   Thesis combined with a practical training (4 weeks) 
+  </li>
+  <li>
+  Number of students:   2
+  </li>
+  <li>
+  Student:   Industrial Engineer (4 years Engineering School)
+  </li>
+  <li>
+  Student majoring in:   Electronics
+  </li>
+  <li>
+  Contact person:   Jan Wouters, Nico Beylemans
+  </li>
+</ul>
+</section>
+
+      <anchor id="mp3"/>      
+      <section>
+        <title>Mixed Hardware/Software implementation of mp3 player</title>
+ 
+<p>
+Embedded system design will become one of the challenges for engineers of
+tomorrow. By integrating processors into FPGA's it is now possible to go t
+hrough a complete design cycle including hardware and software within reasonable
+time. Using mp3 to compress raw audio can reduce the storage space approximately
+with a factor of ten. This technology makes it possible to play audio from devices
+with limited storage space. It is now possible to buy small mp3-players that
+contain thousands of mp3's stored on a hard drive or flash memory.
+</p>
+<p>
+The aim of this thesis is the development of an embedded mp3 player with
+CompactFlash interface. The mp3 player should be able to read and play mp3 files
+from a CompactFlash card.
+</p>
+<p>
+The thesis will be split up in two parts: in the first part the mp3 player is
+implemented in software and afterwards a hardware implementation is done.
+</p>
+<p>
+The implementation will be done on a Xilinx University Board containing a
+Virtex-II pro FGPA with two embedded IBM PowerPC's. The board itself contains
+an AC97 codec, guaranteeing high performance audio quality output. The Xilinx
+Embedded Development Kit (EDK) will be used to create the mp3 decoder. EDK is
+a set of software tools for designing embedded processor systems on programmable
+logic.
+</p>
+<p>
+The software implementation of the decoder will be done in C/C++ on the
+PowerPC processor. Afterwards a mixed hardware software implementation
+will be the real challenge of this thesis.
+</p>
+
+<ul>
+  <li>
+  Kind of internship:   Thesis combined with a practical training (4 weeks)
+  </li>
+  <li>
+  Number of students:   1 or 2
+  </li>
+  <li>
+  Student:   Industrial Engineer (4 years Engineering School)
+  </li>
+  <li>
+  Student majoring in:   Electronics
+  </li>
+  <li>
+  Contact person:   Geert Vanwijnsberghe, Tom Tassignon
+</li>
+</ul>
+
+</section>
+
+<anchor id="daconvertor"/>      
+      <section>
+        <title>Design of a 10-bit Segmented Current-Steering Digital-to-Analog Converter</title>
+
+<p>
+The objective is the design of a current-steering DAC in the UMC 0.18 M-5 CMOS
+technology. The selected converter architecture is segmented. So one part of
+the 10 bits are binary coded, while the other part is thermometer coded. This
+architecture allows a better trade-off between power, speed and area. A proper
+segmentation that meets the desired DAC specifications (accuracy, linearity,
+clock speed, testability, yield...) has to be chosen after in-depth analysis.
+A transistor level schematic will be used to simulate the DAC behavior and
+verify the performance.
+</p>
+<p>
+The design stage is followed by a layout implementation, that preferably is
+done in a semi automated way (using parametric cells) or even fully automated
+(using a built-in programming language). Parasitic and processing effects that
+could harm the performance should be analyzed and taken into account. The
+final layout must be compliant with the foundry design rules and match the
+simulated schematics.
+</p>
+<p>
+Finally a behavioral model for both analog and digital simulators should be
+written.
+</p>
+<p>
+The motivation for this DAC design is to extend the available IP blocks of
+the DARE (Design Against Radiation Effects) library. This library was developed
+at IMEC on behalf of ESA (European Space Agency) and contains at the moment a
+full set of digital standard cells and I/O. Several special techniques have been
+applied (to be used in the DAC as well) to guarantee radiation hardness.
+</p>
+<p>
+Fabrication of the circuit can be done via the EUROPRACTICE mini@sic MPW service.
+Measurements on prototypes are possible if time permits.
+</p>
+<p>
+A fully functional front-end and back-end design flow, based on Cadence IC design
+software, is available at IMEC. Interested students should be able to work on the
+DAC in persona at IMEC on a regular basis. Different optimization goals are at hand,
+which gives more than 1 group of students the opportunity to enroll for this thesis
+work.
+</p>
+ 
+ 
+ 
+<ul>
+  <li>
+  Kind of internship:   Thesis combined with a practical training (4 weeks)
+  </li>
+  <li>
+  Number of students:   4
+  </li>
+  <li>
+  Student:   Industrial Engineer (4 years Engineering School)
+  </li>
+  <li>
+  Student majoring in:   Electronics
+  </li>
+  <li>
+  Contact person:   Geert Thys, Jan Wouters
+  </li>
+</ul>
+  
+ </section>
+ 
+      <anchor id="webtimesheet"/>      
+      <section>
+        <title>Web-based timesheet system development</title>
+ 
+<p>
+Within Invomec, the need for an easy-to-use timesheet system exists. The main
+purpose of the system is to collect input from the employees about the amount
+of work spent on projects. This information is needed for a.o. billing purposes.
+The current system is not practical in use and not easily manageable.
+</p>
+<p>
+The thesis consists of two main phases:
+</p>
+<p>
+During analysis phase, the systemM-^Rs functionality has to be determined in
+conjunction with the users, a database model and an interface definition
+needs to be created.
+The implementation involves the creation of a web-based user interface and
+a system management interface on an open source platform (Linux/MySQL/PHP)
+(system setup by imec or student). Transferring the system's output to another
+system like SAP should be kept in mind.
+</p>
+ 
+<ul>
+  <li>
+  Kind of internship:   Thesis
+  </li>
+  <li>
+  Number of students:   1
+  </li>
+  <li>
+  Student:   Industrial Engineer (4 years Engineering School)
+  </li>
+  <li>
+  Student majoring in:   Informatics
+  </li>
+  <li>
+  Contact person:   Kristof Loots
+  </li>
+ </ul>
+ 
+</section>
+-->
+
+
+
+
+
+
+
+<!-- 
+
+   Uitgeschakeld 27/5/2005
+
+  <anchor id="robot"/>
+
+<section>
+  <title>Cameragestuurde controle bij IBM-SCARA robot</title>
+
+<p>
+Na een succesvolle implementatie van Fire-Wire camera’s voor gebruik in (Real Time) Linux enerzijds en de opwaardering van de IBM-SCARA robot uit het labo regeltechniek anderzijds, zijn nu alle componenten voorhanden om een visie-gebaseerde robottoepassing te verwezenlijken.  
+</p>
+
+<p>
+Dit eindwerk beoogt de realisatie van een visie-toepassing ter illustratie van sensorgebaseerde robotcontrole voor didactische doeleinden. Bijkomende aspecten zijn:
+</p>
+
+<ul>
+  <li>
+    op punt stellen van visiecontrole-regellus
+  </li>
+  <li>
+    verbetering van het gebruiksgemak van de opstelling
+  </li>
+  <li>
+ 
+    uitbreiding  (met implementatie en testen) van beeldwerkingsalgoritmes
+  </li>
+  <li>
+
+    verfraaiing van grafische User Interface
+  </li>
+  <li>
+
+    Ondersteuning voor gebruik van de hardware interface
+  </li>
+</ul>
+
+ 
+<p>
+Mogelijk kan de robot ook met OROCOS (open robot control software <link href="http://www.orocos.org">www.orocos.org</link>) aangestuurd worden.
+</p>
+ 
+<p>
+Voor:
+</p>
+
+<p>
+Studenten ELO optie ICT of studenten EM, optie Automatisering met interesse in programeren (onder Linux) of
+een gemengde groep.
+</p>
+<p>
+Bedrijf: KHLim IWT, Labo regeltechniek (KULeuven, mogelijk in samen met  Optidrive)
+</p>
+<p>
+Promotoren:
+            Johan Baeten, Leo Rutten, KHLim IWT
+</p>
+</section>
+
+
+  <anchor id="videoserver"/>
+
+<section>
+  <title>Ontwikkeling van een universele videoserver</title>
+
+  <p>
+   Het is de bedoeling een universele videoserver te ontwikkelen voor het opnemen van beelden komende van IP-camera's.
+   Deze videoserver zouden wij op termijn kunnen uitbreiden met de mogelijkheid om op niveau van de videoserver motion detectie uit te voeren op de beelden. 
+   Via deze motion detectie moet het mogelijk zijn een onderscheid te maken in een bewegingsrichting van een object, 
+   de grootte van het object en de plaats waar het object zich bevind in het beeld, en eventueel andere functies. 
+   Het deel van de motion detectie op basis van beeldanalyse zou als een eindwerk kunnen beschouwd worden.
+  </p>
+
+  <p>  
+Entelec Control Systems
+</p>
+<p>
+Wetenschapspark 25
+</p>
+<p>
+3590 Diepenbeek
+</p>
+<p>
+tel: 011/30 30 01
+</p>
+<p>
+contactpersoon: Miet Loix
+</p>
+
+  
+</section>
+-->
+
+
+
+
+
+
+
+<!--
+  <anchor id="most"/>
+
+<section>
+<title>MOST interface</title>
+
+<p>
+MOST is een entertainment bus in de Automotive wereld. Deze interface dient om data transfer te doen voor voornamelijk audio en video toepassingen.
+</p>
+<p>
+
+De bedoeling is na te gaan hoe MOST in detail werkr en hoe deze interface getest kan worden. Met eventueel het aanmaken van een MOST interface. 
+ook moet onderzocht wordenop welke platformen deze interface ingebracht kan worden (vb. : standalone module, PXI, Ethernet,...).
+</p>
+ 
+
+  <anchor id="flexray"/>
+
+  </section>
+<section>
+<title>Flexray</title>
+<p>
+Flexray is een begrip dat opkomt in de Automotive wereld. In de voertuigen vindt men steeds, en steeds meer een communicatie bus voor verschillende doeleinden.
+Meestal tot dusver worden hier CAN, VAN, LIN bussen voor gebruikt. Deze hebben echter voor bepaalde toepassingen beperkingen. 
+Flexray is een nieuwer type interface waarbij op hogere snelheden gecommuniceerd wordt.
+</p>
+<p>
+Het doel is na te gaan hoe Flexray in detail werkt en hoe deze interface getest kan worden. Eventueel wordt een Flexray interface aangemaakt. 
+Er moet ook onderzocht worden op welke platformen deze interface ingebracht kan worden (vb. : PXI, Ethernet,...).
+</p>
+</section>
+
+ <anchor id="pxi"/>
+
+
+<section>
+<title>PXI Interface</title>
+<p>
+De noodzaak bestaat om met een specifieke functionaliteit bepaalde testen te doen op een produkt. 
+Deze functionaliteit moet geintegreerd kunnen worden in een totaal test systeem. 
+Vandaag de dag is PXI een platform dat in de testwereld regelmatig gebruikt wordt. 
+De kennis en inzicht in de technologie moet opgebouwd worden om zelf zulk een interface te bouwen en hierop de specifieke technologie te integreren. 
+Er zijn standaard interfaces op de markt verkrijgbaar maar die zijn te gesloten of kunnen de nodige signalen niet hanteren.
+</p>
+</section>
+
+
+<anchor id="megaxflash"/>
+
+<section>
+<title>MegaXFlash</title>
+<p>
+Het gaat hier over een PC104 gebaseerde module waarbij we een specifieke interface hebben gemaakt om op hoge snelheid digitale bit patronen kunnen genereren om aldus verschillende processoren, memories, controllers, en dergelijke te programmeren. 
+Hierbij is deze module uitgerust met FPGA’s om aldus flexibel het protocol te kunnen veranderen van het het type protocol dat gebruikt moet worden.
+</p>
+<p>
+Het device moet een low cost device zijn. Target 500,-EUR. De mogelijkheid moet bestaan om er een serieproduct van te kunnen maken.
+</p>
+</section>
+
+  <anchor id="lxi"/>
+
+
+<section>
+<title>LXI Interface</title>
+<p>
+LXI is een nieuw platform dat gebaseerd is op meetequipment via Ethernet. De interresse bestaat om de kennis en technologie op te bouwen 
+om de interfacing naar specifieke toepassingen op te kunnen bouwen. 
+</p>
+ 
+
+</section>
+
+
+  <anchor id="spider"/>
+
+
+<section>
+<title>Functioneel testen met Spider</title>
+<p>
+Spider is een In Circuit test systeem voor het meten van componenten. Het is een eigen ontwikkeld product 
+dat met enkele andere functionaliteiten  zoals functionele testen uitgebreid moet worden. 
+Hierbij wordt gemengd gebruik gemaakt van de hardware die reeds voorhanden is bij de Spider, of additionele instrumenten. 
+Simpele functionele testen moet mogelijk zijn. Ook digitale testen moeten met de Spider aangestuurd kunnen worden.
+</p>
+</section>
+
+
+
+  <anchor id="uhp1"/>
+
+
+<section>
+<title>Automatiseren van meetopstellingen</title>
+<p>
+</p>
+<p>
+Binnen de UHP System Group worden de interacties tussen de UHP Lamp
+(Ultra High Pressure gasontladingslampen die o.a. worden toegepast in
+digitale projectoren) en de elektronische ballast (of 'driver' genoemd) geevalueerd.
+Deze interacties worden geevalueerd binnen standaard testen van het
+release programma. Tevens worden binnen de groep zogenaamde
+technologie-projekten gedefinieerd, waarbij experimenteren met nieuwe ideeen voor
+toekomstige produkten of concepten uitgevoerd worden.
+</p>
+<p>
+Op dit ogenblik bestaat de noodzaak om een aantal van onze standaard
+testen te automatiseren. Deze meetopstellingen zijn elektronisch van aard,
+vanzelfspreken met de nodige hardware en software. Hierbij wordt gedacht aan
+het automatisch meten van de powercurve (of loadline) van een driver, of
+het monitoren van een produkt op zijn diverse elektrische parameters in
+gedefineerde schakelcycli.
+</p>
+<p>
+Voor deze opdrachten wordt gedacht aan een profiel van een industrieel
+ingenieur met brede technische affiniteit - gezien de raakvlakken met
+fysica en optiek-, en specialisatie in (vermogens-) elektronika en/of
+informatica. Een duidelijke troef is het overweg kunnen met Labview,
+eventueel Matlab.
+</p>
+<p>
+Contactpersoon:
+</p>
+
+<p>
+Ludo Schreel ludo.schreel@philips.com
+</p>
+<p>
+Group leader System development
+</p>
+<p>
+UHP Development
+</p>
+<p>
+Philips Lighting Turnhout
+</p>
+<p>
+Steenweg op Gierle 417 B-2300 Turnhout
+</p>
+<p>
+Tel: [32] 14 40.77.63 Fax: [32] 14 40.77.18
+</p>
+
+</section>
+
+  <anchor id="uhp2"/>
+
+
+<section>
+<title>Ondersteuning in technologie projekten</title>
+<p>
+Binnen de UHP System Group worden de interacties tussen de UHP Lamp
+(Ultra High Pressure gasontladingslampen die o.a. worden toegepast in
+digitale projectoren) en de elektronische ballast (of 'driver' genoemd) geevalueerd.
+Deze interacties worden geevalueerd binnen standaard testen van het
+release programma. Tevens worden binnen de groep zogenaamde
+technologie-projekten gedefinieerd, waarbij experimenteren met nieuwe ideeen voor
+toekomstige produkten of concepten uitgevoerd worden.
+</p>
+<p>
+De lamp/driver interacties hebben heel vaak betrekking op het dynamisch
+lichtgedrag. Zo kunnen de lampen zich onstabiel gedragen waardoor men
+genoodzaakt is een speciale stroomvorm te genereren om dit effekt tegen
+te gaan. Het meten, evalueren en vervolgens bepalen van correcte
+stroomvormen is een duidelijk onderzoeksgebied binnen de groep.
+Een andere mogelijke opdracht is het nauwkeurig kunnen meten en evalueren
+van stroomsignalen op de kleur-respons van de lamp, binnen tijdsfracties
+van milliseconden.
+</p>
+<p>
+Een derde in dit gebied, zonder te diep uit te wijden gezien het
+confidentieel gehalte, is het evalueren van zeer speciale stroomsignalen
+om de levensduur van een lamp positief te kunnen beinvloeden. Ook hier
+moet een experimentele meetopstelling gebouwd worden, waarmee vervolgens
+op flexibele manier diverse metingen kunnen worden verricht, gekoppeld aan
+de nodige evaluatie.
+</p>
+<p>
+Voor deze opdrachten wordt gedacht aan een profiel van een industrieel
+ingenieur met brede technische affiniteit - gezien de raakvlakken met
+fysica en optiek-, en specialisatie in (vermogens-) elektronika en/of
+informatica. Een duidelijke troef is het overweg kunnen met Labview,
+eventueel Matlab.
+</p>
+<p>
+Contactpersoon:
+</p>
+
+<p>
+Ludo Schreel ludo.schreel@philips.com
+</p>
+<p>
+Group leader System development
+</p>
+<p>
+UHP Development
+</p>
+<p>
+Philips Lighting Turnhout
+</p>
+<p>
+Steenweg op Gierle 417 B-2300 Turnhout
+</p>
+<p>
+Tel: [32] 14 40.77.63 Fax: [32] 14 40.77.18
+</p>
+
+</section>
+
+
+      <anchor id="magneet"/>      
+      <section>
+        <title>Ontwikkeling van een meettoestel voor karakterisatie van
+magneeteigenschappen</title>
+          <section>
+            <title>Situering</title>
+            
+<p>
+Tot op heden worden de magnetische eigenschappen (en dus de
+kwaliteit) van een permanente magneet gemeten dmv een ‘hysterograaf’.
+Hiermee wordt hysteresiscurve van een sample gemeten, waaruit
+relevante parameter s worden afgeleid, zoals de magnetische
+remanentie, de ‘sterkte’, en de coerviviteit, de ‘weerstand’ tegen
+demagnetisatie.
+</p>
+<p>
+De firma Metis (www.metis.be ) heeft een meetconcept (‘HyMPulse’)
+ontwikkeld dat een aantal problemen bij de klassieke hysterograaf
+oplost en zo een innovatie teweegbrengt in de magneetwereld. Dit
+concept is momenteel beschermd door een provisional patent en laat
+toe om sterke magneten (NdFeB, SmCo, hardferriet) van arbitraire vorm
+volledig te karakteriseren. Hiervoor is sterke interesse getoond uit de
+industriële wereld door toonaangevende producenten en verbruikers
+van magneten, zoals Siemens, Alstom, Magnequench, etc.
+Het doel van dit eindwerk is het realiseren van een betrouwbaar
+industrieel meetinst rument, vertrekkend vanuit een bestaand
+prototype. Aan de hand van de vergelijkende experimenten,
+signaalanalyse en analyses van theoretische modellen dienen bestaande
+problemen en tekortkomingen te worden geidentificeerd. Voor deze
+kinderziektes dienen dan gepaste oplossingen te worden gezocht en
+geïmplementeerd.
+</p>
+<p>
+De hoofbrok van het werk ligt op het vlak van analoge electronica voor
+de signaalverwerking en het verder ontwikkelen van de sturings - en
+verwerkingssoftware.
+</p>
+<p>
+Dit eindwerk biedt een uitgebreide mix aan mogelijkheden in
+verschillende domeinen zoals materiaalkunde, magnetisme, software,
+analoge elektronica, data-acquisitie enz. waarvan de invulling afhangt
+van de interesses van de studenten. De nadruk ligt op een pragmatische
+aanpak van de problemen waardoor het eindwerk zeer praktisch gericht
+is. Bij voorkeur zoeken wij mensen met een sterke affiniteit voor
+electronica, data-acquisitie en software-ontwikkeling
+</p>
+</section>
+<section>
+  <title>Werkverdeling</title>
+<p>
+Studie: 30- 40%
+</p>
+<p>
+Praktisch: 60- 70%
+</p>
+</section>
+<section>
+  <title>Promotor</title>
+  
+  <p></p>
+  
+</section>
+<section>
+  <title>Begeleider</title>
+<p>  
+Luc Van Bockstal          
+</p>          
+  </section>        
+          
+      </section>
+-->
+
+<!-- 
+      <anchor id=""/>      
+      <section>
+        <title></title>
+          <p>
+          </p>
+      </section>
+ -->
+ </section>     
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  </body>
+</document>

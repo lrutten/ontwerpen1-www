@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V1.2//EN" "/export/usr/local/forrest/context/resources/schema/dtd/document-v12.dtd">
+<document> 
+  <header> 
+    <title>Netsim Network Simulator</title> 
+  </header> 
+  <body>
+    
+
+  <section>
+    <title>Introduction</title>
+
+    <section>
+      <title>Learning routing protocols</title>
+
+      <p>
+        Learning routing protocols is not an easy task, but it is an essential part of the datacommunication learning path.
+        At the moment the engineering students use the <link href="http://dc.qut.edu.au/adios/">Adios</link> Linux distribution. This distribution can be run from CD without installing
+        on the hard disk. It also has the possibility to run several Linux instances in user mode (UML). Each UML runs <link href="http://www.zebra.org">Zebra</link>, which is
+        an open source implementation of RIP, OSPF and BGP.  In order to get an view on all the databases within the router protocols, several
+        commands of zebra must used. These commands show only text based information. A graphical view on this information is not possible.
+        The number of routers in each experiment is limited by the amount of RAM memory available in the pc.
+      </p>
+    </section>
+    
+    <section>
+      <title>Definition of the Routing Simulation Project</title>
+      <p>
+        The purpose of this project is the design of a GUI program which offers
+        the student an insight in all the data structures within and all the messages between 
+        routing protocols. The protocols viewed by this GUI program are RIP, OSPF and BGP.
+        At least one of these must be included in the program. The program must be written in Java.
+        For the GUI part Swing will be used. Since the complete network of routers is simulated the progress of the simulation
+        can be suspended. This allows the student to examine the current state of all the routers.
+      </p>
+    </section>
+    <section>
+      <title>Software architecture</title>
+      <p>
+        Due to the complexity of routing protocols the design is based on existing software.
+        The <link href="http://www.ssfnet.org">www.ssfnet.org</link> project already developped a complete network simulator
+        running in Java. In this
+        software, which is partly open source, the GUI is absent. SSFNet consists of two parts:
+      </p>
+      <ul>
+        <li>
+          <p>
+            SSFNet part: open source
+          </p>
+          <p>
+            This part contains the simulation of networks, interface cards, hosts, routers and protocols.
+            The source code is available and can be adapted.
+          </p>
+        </li>
+        <li>
+          <p>
+            SSF: not open source. The jar library is available.
+          </p>
+          <p>
+            This part is simulation engine for simulating systems based on discrete events. This engine is able to divide the calculations 
+            to be made over several computers. This feature will not be used in our GUI project. In order to obtain complete independency from
+            this jar file, a complete rewrite of the simulation engine would be necessary. This step however is not planned for the future. 
+          </p>
+        </li>
+      </ul>
+      <p>
+        The GUI Netsim software will consist of the following parts:
+      </p>
+      <ul>
+        <li>
+          <p>
+            Swing part
+          </p>
+          <p>
+            This will be completely new.
+          </p>
+        </li>
+        <li>
+          <p>
+            JGraph part
+          </p>
+          <p>
+            These are the classes to be written to show graphs. JGraph is an open source library to draw graphs in a window.
+          </p>
+        </li>
+        <li>
+          <p>
+            SSFNet part
+          </p>
+          <p>
+            In some classes changes must be made. An big amount of time will be necessary to study how these classes work. SSFNet
+            contains implementations of RIP, OSPF and BGP. The studywork should result in a clear view on the state information to be made visible
+            in the Swing part.
+          </p>
+        </li>
+        <li>
+          <p>
+            SSF simulation engine (<code>raceway.jar</code>)
+          </p>
+          <p>
+            This library can be used as it is. It must only be rewritten when redistribution of Netsim is considered.
+          </p>
+        </li>
+      </ul>
+        
+    </section>
+  </section>
+
+  <section>
+    <title>Resources</title>
+
+    <section>
+      <title>People</title>
+      <ul>
+        <li>
+          <p>
+            Leo Rutten (<link href="http://www.khlim.be/~lrutten">web page</link>)
+          </p>
+        </li>
+        <li>
+          <p>
+            Marek Huczala
+          </p>
+        </li>
+        <li>
+          <p>
+            Wouter Vanmontfort (<link href="thesis.html">thesis</link>)
+          </p>
+        </li>
+      </ul>
+    </section>
+    
+    <section>
+      <title>Tools</title>
+      <p>
+        This is a list of usefull tools: 
+      </p>
+      <ul>
+        <li>
+          <p>
+            <link href="http://java.sun.com">java.sun.com</link>
+          </p>
+        </li>
+        <li>
+          <p>
+            <link href="http://www.eclipse.org">www.eclipse.org</link>
+          </p>
+          <p>
+            Integrated development environment for Java. It takes a lot of memory, but it is the best.
+          </p>
+        </li>
+        <li>
+          <p>
+            <link href="http://www.aspectj.org">www.aspectj.org</link>
+          </p>
+          <p>
+             Aspect oriented programming is a new paradigm which extents the
+             object oriented programming style. The AspectJ implementation contains
+             the compiler needed. This tools will only be used in the project as a way to adapt exisiting code.
+             Until now it is only used for some tests.
+          </p>
+        </li>
+        <li>
+          <p>
+            <link href="http://ant.apache.org">ant.apache.org</link>
+          </p>
+          <p>
+            This tools allows you to automate Java compilations. Each compilation is described in an <code>build.xml</code> file. 
+          </p>
+         
+        </li>
+        <li>
+          <p>
+            <link href="http://www.jgraph.org">www.jgraph.org</link>
+          </p>
+          <p>
+            <link href="jgraph-tutorial.pdf">jgraph tutorial</link>
+          </p>
+          <p>
+           
+            <link href="jgraph-paper.pdf">jgraph paper</link>
+          </p>
+          <p>
+            This Java library can easily be used to show graphs in a window.
+          </p>
+         
+        </li>
+      </ul>
+    </section>
+    
+    
+    
+    <section>
+      <title>Network Simulation tools</title>
+      <p>
+        There are some interesting simulation tools: 
+      </p>
+      <ul>
+        <li>
+          <p>
+            <link href="http://www.ssfnet.org">www.ssfnet.org</link>
+          </p>
+          <p>
+            This code will be used in the project.
+          </p>
+        </li>
+        <li>
+          <p>
+            <link href="http://www.j-sim.org">www.j-sim.org</link>
+          </p>
+        </li>
+        <li>
+          <p>
+            <link href="http://picolibre.enst-bretagne.fr/projects/flan/">picolibre.enst-bretagne.fr/projects/flan/</link>
+          </p>
+        </li>
+        <li>
+          <p>
+            <link href="http://www.control.auc.dk/~bart/links.html">www.control.auc.dk/~bart/links.html</link>
+          </p>
+        </li>
+        <li>
+          <p>
+            <link href="http://www.control.auc.dk/~bart/">www.control.auc.dk/~bart/</link>
+          </p>
+        </li>
+      </ul>
+    </section>
+    
+    <section>
+      <title>SSFNet documents</title>
+      <ul>
+        <li>
+          <p>
+            <link href="http://www.ssfnet.org/SSFdocs/ssfapiManual.pdf">SSF API Manual</link>
+          </p>
+          <p>
+            This document explains the interface to the SSF simulation engine.
+          </p>
+        </li>
+        <li>
+          <p>
+            <link href="http://ssfnet.d-jacob.net">ssfnet.d-jacob.net</link>
+          </p>
+          <p>
+            OSPFv2 Testsuite for SSFNET by Dirk Jacob
+          </p>
+        </li>
+        <li>
+          <p>
+            <link href="http://ssfnet.d-jacob.net/files/thesis.pdf">ssfnet.d-jacob.net/files/thesis.pdf</link>
+          </p>
+          <p>
+            Thesis by Dirk Jacob
+          </p>
+        </li>
+        <li>
+          <p>
+            <link href="http://ssfnet.d-jacob.net/files/SSFNet-slides.pdf">ssfnet.d-jacob.net/files/SSFNet-slides.pdf</link>
+          </p>
+          <p>
+            Introduction to SSFNet
+          </p>
+        </li>
+      </ul>
+    </section>
+    
+  </section>
+
+  <section>
+    <title>Architectural tests</title>
+
+    <p>
+      These test have been made while defining the project software architecture.
+    </p>
+    
+  <section>
+    <title>SSFNet tests</title>
+
+    <section>
+      <title>SSF example</title>
+      <p>
+        The following SSF example has been tested. Some code is added to delay the simulation threads. 
+      </p>
+      <p>
+        This example was necessary to to proof that the simulation can be halted. It is based on the example
+        in the SSF API Manual. Some code is added to delay the simulation. This code is based on Java thread
+        synchronizing mechanisms. More on the latter topic can be found in the Java Tutorial at <link href="http://java.sun.com">java.sun.com</link>.
+      </p>
+      
+<source><![CDATA[
+/*
+   $Date: 2009-08-12 12:15:37 +0200 (Wed, 12 Aug 2009) $
+   $Author: lrutten $
+   $revision$
+
+18/ 2/2004
+   counter is reset on each stop
+   
+13/ 2/2004
+   SSF simulation example created
+   WaitRoom added
+ */
+
+package be.khlim.iwt.inf;
+
+import com.renesys.raceway.SSF.*;
+
+/**
+ *  this class holds running threads from other classes
+ *  in a stopped condition
+ */
+
+class WaitRoom
+{
+   int     counter;  // count the number of threads which run into stopped condition
+   boolean stopped;  // if true, all threads which call  
+   boolean end;      // this flag indicates that all threads hav finished      
+   
+   public WaitRoom()
+   {
+      counter = 0;
+      stopped = false;
+      end     = false;
+   }
+
+   /* 
+      This method is called to indicate 
+      that alle threads have stopped normally
+    */
+   public synchronized void markend()
+   {
+      System.out.println("thread " + Thread.currentThread() + "  markend() ");
+      end = true;
+      notifyAll();
+   }
+   
+   
+   /*
+       This method is called from a running thread 
+       to put itself in the stopped condition
+    */
+   public synchronized void stop()
+   {
+      // if not yet in stopped condition
+      // go into stopped condition
+      if (!stopped)
+      {
+         stopped = true;
+         counter++;
+         System.out.println("thread " + Thread.currentThread() + "  stop() " + counter);
+         
+         notifyAll();
+      }
+      
+      
+      // keep waiting while the stopped condition is true
+      while (stopped)
+      {
+         try
+         {
+            wait();
+         }
+         catch (InterruptedException exc)
+         {
+         }
+      }
+   }
+   
+   
+   /**
+    * resume all threads
+    * this ends the stopped condition
+    */
+   
+   public synchronized void resume()
+   {
+      if (stopped)
+      {
+         stopped = false;
+         counter = 0;
+         notifyAll();
+      }
+   }
+
+   /*
+      This method is called from the delaying thread
+      in order to wait for the stopped condition
+    */
+   public synchronized boolean waitforstop()
+   {
+      if (!end)
+      {
+         while (!stopped && !end)
+         {
+            try
+            {
+               wait();
+            }
+            catch (InterruptedException exc)
+            {
+            }
+         }
+      }
+      return end;
+   }
+}
+
+
+
+class Host extends Entity
+{
+   private WaitRoom waitroom;
+   public int rcvd;
+   public inChannel  in;
+   public outChannel out;
+   
+   public Host(WaitRoom wr)
+   {
+      waitroom = wr;
+      rcvd = 0;
+      in = new inChannel(this);
+      out = new outChannel(this, 20);
+      
+      
+      
+      // receiver process
+      new process(this)
+      {
+         public void action()
+         {
+            waitOn(in);
+            Event[] eset = in.activeEvents();
+            System.out.println("thread " + Thread.currentThread() + " " + owner().now() +" waitOn " + eset[0]);
+            rcvd++;
+         }
+      };
+
+      // sender process
+      new process(this)
+      {
+         public void action()
+         {
+            out.write(new Event());
+            
+            
+            waitFor(20);
+            System.out.println("thread " + Thread.currentThread() + " " + owner().now() + " waitFor");
+            rcvd++;
+
+            /*
+               go to stopped condition
+             */
+            waitroom.stop();
+         }
+      };
+   }
+}
+
+
+public class TwoHost implements Runnable
+{
+      WaitRoom wr;
+      Host host1;
+      Host host2;
+   
+   public  TwoHost()
+   {
+      wr    = new WaitRoom();
+      host1 = new Host(wr);
+      host2 = new Host(wr);
+      
+      host1.out.mapto( host2.in);
+      host2.out.mapto( host1.in);
+   }
+   
+
+
+   /*
+      this is the delaying thread
+      It catches all the threads which 
+    */
+   
+   public void run()
+   {
+      boolean stopnow = false;
+      
+      System.out.println("thread " + Thread.currentThread() + " run()");
+      while (!stopnow)
+      {
+         // wait for one or more threads to stop
+         // stopnow indicates that the complete simulation has finished
+         stopnow = wr.waitforstop();
+
+         
+         // delay now all the stopped threads
+         try
+         {
+            // Wait for 500 ms
+            Thread.sleep(500);
+         }
+         catch (InterruptedException exc)
+         {
+         }
+         
+         // only resume all threads 
+         // if threads not finished
+         if (!stopnow)
+         {
+            wr.resume();
+         }
+      }
+   }
+   
+   
+   // this is the simulation
+   public void simulate()
+   {
+      Thread th = new Thread(this);
+      th.start();
+      
+      host1.startAll(200);
+      host1.joinAll();
+    
+      // tell delaying thread that simulation is finished
+      wr.markend();
+      
+      System.out.println("host1.rcvd " + host1.rcvd);
+      System.out.println("host2.rcvd " + host2.rcvd);
+      System.out.println("thread " + Thread.currentThread() + " simulate() end");
+   }
+
+   public static void main(String[] args)
+   {
+      TwoHost hosts = new TwoHost();
+      hosts.simulate();
+   }
+}
+]]></source>      
+    </section>
+    
+    
+    <section>
+      <title>JGraph example</title>
+      
+      <p>
+        This example (<link href="Graaf1.java">Graaf1.java</link>) is adapted from JGraph example 1.
+        This examples shows you how a simple graph can be shown.
+      </p>
+    </section>
+    
+    <section>
+      <title>Graph Spring layout example</title>
+      
+      <p>
+        This example (<link href="GraphSpring.java">GraphSpring.java</link>) is adapted from J2SDK GraphLayout example.
+        In case the positioning of all the nodes in the must be done automatically, the spring algorthm in this
+        example can be used.
+      </p>
+    </section>
+
+    <section>
+      <title>build.xml example</title>
+      
+      <p>
+        <link href="build.xml.txt">build.xml</link>: this is an example of a build file for <code>ant</code>. 
+      </p>
+    </section>
+   </section> 
+    
+    
+  </section>
+  
+    
+    
+  </body>
+</document>

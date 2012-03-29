@@ -1,0 +1,3303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V1.2//EN" "/export/usr/local/forrest/main/webapp/resources/schema/dtd/document-v12.dtd">
+<document> 
+  <header> 
+    <title>Masterproeven 2010-2011</title> 
+  </header> 
+  <body> 
+      <p>Laatste wijziging: $Date: 2010-09-29 20:35:33 +0200 (Wed, 29 Sep 2010) $</p>
+        <p>
+          Dit is het overzicht van de masterproeven 2010-2011 van MA-ELO, terug te vinden in de onderstaande tabel.
+        </p>
+
+      <section>
+      <title>Overzicht</title>
+
+<table>
+<caption>
+Masterproef 2010-2011
+</caption>
+
+<tr>
+ <th>code</th>
+ <th>student(en)</th>
+
+ <th>titel</th>
+ <th>bedrijf</th>
+ <th>promotors</th>
+</tr>
+
+<!-- voorstellen eindwerken -->
+
+<!-- voorstel10 --> 
+<tr>
+ <td>MP2011/ELO/01</td>
+ <td>David Barjas-Martinez, Niky Timmermans</td>
+ <td>Het ontwerpen van modellen voor de planning van decentrale energievoorziening (<link href="#simenergiemodellen">meer uitleg</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Paul Valckenaers, Leo Rutten</td>
+</tr>
+
+<!-- voorstel30 -->
+<tr>
+   <td>MP2011/ELO/02</td>
+   <td>Kevin Blommen, Kevin Renette</td>
+   <td>Ontwerp van een FPGA-gebaseerde sturing voor een sorteerinstallatie (<link href="#sorteerfpga">meer uitleg</link>)</td>
+   <td>N.V. Gielen Recyclage, ACRO</td>
+   <td>Hans De Bruycker, Eric Claesen, Wim Beckers</td>
+</tr>
+
+<!-- voorstel2 -->
+<tr>
+ <td>MP2011/ELO/03</td>
+ <td>Gert-Jan Ceyssens, Jeroen Wygaerts</td>
+ <td>Ontwikkeling van een draadloze robot met multi-platform sturing (<link href="#multiplatformrobotsturing">meer uitleg</link>)</td>
+ <td>KHLim</td>
+ <td>Kris Aerts, Leo Rutten</td>
+</tr>
+
+   <!-- voorstel39 -->
+   <tr>
+      <td>MP2011/ELO/04</td>
+      <td>Kjell Moreels<!-- en Dimitri Marechal, eerst SCHELO afwerken  --></td>
+      <td>Implementatie van een GPS-klok op FPGA. (<link href="#gps">meer uitleg</link>)</td>
+      <td>Koninklijke Sterrenwacht van België</td>
+      <td>Wim Aerts, Nele Mentens</td>
+   </tr>
+   
+   <!-- voorstel42 -->
+   <tr>
+      <td>MP2011/ELO/05</td>
+      <td>Ben Willems, Raf Martino</td>
+      <td>Een GPS ontvanger op FPGA (<link href="#gpsrec">meer uitleg</link>)</td>
+      <td>Koninklijke Sterrenwacht van België</td>
+      <td>Wim Aerts, Nele Mentens</td>
+   </tr>
+
+   <!-- voorstel8 -->
+<tr>
+ <td>MP2011/ELO/06</td>
+ <td>Thomas Richard</td>
+ <td>C++ programmatie van rekenintensieve signaalverwerkingsalgoritmes (<link href="#sigalgo">meer uitleg</link>)</td>
+ <td>Mobilab</td>
+ <td>Bart Vanrumste</td>
+</tr>
+
+<!-- voorstel1 -->
+<tr>
+ <td>MP2011/ELO/07</td>
+ <td>Stijn Schepers</td>
+ <td>WSDL generatie vanuit PHP (<link href="#php2wsdl">meer uitleg</link>)</td>
+ <td>KHLim</td>
+ <td>Kris Aerts, Leo Rutten</td>
+</tr>
+
+   <!-- voorstel43 -->
+   <tr>
+      <td>MP2011/ELO/08</td>
+      <td>Thomas Stals</td>
+      <td>Onderzoek naar inter-operabiliteit van zigbee devices volgens de zigbee profiles (<link href="#rmoni">meer uitleg</link>)</td>
+      <td>RMONI</td>
+      <td></td>
+   </tr>
+
+   <!--
+   
+   NIET GEKOZEN
+
+<tr>
+ <td>voorstel3</td>
+ <td></td>
+ <td>Ontwikkeling van een hardwarebeschrijvingstaal op basis van F# (<link href="#hardwarebeschrijvinginFsharp">meer uitleg</link>)</td>
+ <td>KHLim</td>
+ <td>Kris Aerts</td>
+</tr>
+
+<tr>
+ <td>voorstel4</td>
+ <td></td>
+ <td>Profilering en optimalisatie van de Open Garments community (<link href="#opengarments">meer uitleg</link>)</td>
+ <td>KHLim</td>
+ <td>Kris Aerts, Niels Hendriks</td>
+</tr>
+
+
+<tr>
+ <td>voorstel5</td>
+ <td></td>
+ <td>Detectie van fysiologische parameters aan de hand van een camerasysteem (<link href="#fysparam">meer uitleg</link>)</td>
+ <td>Mobilab</td>
+ <td>Bart Vanrumste</td>
+</tr>
+
+<tr>
+ <td>voorstel6</td>
+ <td></td>
+ <td>Groepspecifieke detectie van epileptische aanvallen (<link href="#accelero">meer uitleg</link>)</td>
+ <td>Mobilab</td>
+ <td>Bart Vanrumste</td>
+</tr>
+
+<tr>
+ <td>voorstel7</td>
+ <td></td>
+ <td>Cameragebaseerde detectie van abnormaal gedrag (<link href="#cameradetectie">meer uitleg</link>)</td>
+ <td>Mobilab</td>
+ <td>Bart Vanrumste</td>
+</tr>
+
+< ! - -
+Dit onderwerp is te licht.
+
+<tr>
+ <td>voorstel9</td>
+ <td>, </td>
+ <td>Aansturing van informatiepanelen vanuit een centrale applicatie (<link href="#sigpanelen">meer uitleg</link>)</td>
+ <td>Infrabel</td>
+ <td>Jef Hendrikx</td>
+</tr>
+ - - >
+
+<tr>
+ <td>voorstel11</td>
+ <td></td>
+ <td>Toolkit voor de planning van decentrale energievoorziening (<link href="#simenergietoolkit">meer uitleg</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Paul Valckenaers, Leo Rutten</td>
+</tr>
+
+<tr>
+ <td>voorstel12</td>
+ <td></td>
+ <td>Ontwerp van bouwblokken binnen IMEC’s DARE bibliotheken (<link href="#darebouwblokken">meer uitleg</link>)
+ </td>
+ <td>Imec</td>
+ <td>Geert Thys</td>
+</tr>
+
+<tr>
+ <td>voorstel13</td>
+ <td></td>
+ <td>Logo’s omzetten naar ‘propere’ GDSII (<link href="#logo2gdsii">meer uitleg</link>)
+ </td>
+ <td>Imec</td>
+ <td>Erwin Deumens</td>
+</tr>
+
+<tr>
+ <td>voorstel14</td>
+ <td></td>
+ <td>Development of GUI modules (<link href="#guimod">meer uitleg</link>)
+ </td>
+ <td>Septentrio</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td>voorstel15</td>
+ <td></td>
+ <td>Extension of regression test framework (<link href="#regrtest">meer uitleg</link>)
+ </td>
+ <td>Septentrio</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td>voorstel16</td>
+ <td></td>
+ <td>Het aanpassen van de ASIC designkit voor 0.35µm CMOS technologie naar Linux omgeving (<link href="#asic035">meer uitleg</link>)
+ </td>
+ <td>IMEC</td>
+ <td>Robin Brouns</td>
+</tr>
+
+<tr>
+ <td>voorstel17</td>
+ <td></td>
+ <td>Ultra-WideBand (UWB) voor in vivo dosimetrie (<link href="#uwb">meer uitleg</link>)
+ </td>
+ <td></td>
+ <td>Paul Leroux, Maarten Strackx</td>
+</tr>
+
+<tr>
+ <td>voorstel18</td>
+ <td></td>
+ <td>Ultra-WideBand (UWB) voor in vivo dosimetrie: receiver (<link href="#uwbrec">meer uitleg</link>)
+ </td>
+ <td></td>
+ <td>Paul Leroux, Maarten Strackx</td>
+</tr>
+
+<tr>
+ <td>voorstel19</td>
+ <td></td>
+ <td>Ultra-WideBand (UWB) voor in vivo dosimetrie: transmitter (<link href="#uwbtrans">meer uitleg</link>)
+ </td>
+ <td></td>
+ <td>Paul Leroux, Maarten Strackx</td>
+</tr>
+
+<tr>
+ <td>voorstel20</td>
+ <td></td>
+ <td>Development of the fast fiber Bragg grating interrogation system (<link href="#bragg">meer uitleg</link>)
+ </td>
+ <td></td>
+ <td>Paul Leroux, A. Gusarov</td>
+</tr>
+
+<tr>
+ <td>voorstel21</td>
+ <td></td>
+ <td>Ontwerp en characterisatie van een robuuste meerkanaals programmeerbare sensor interface voor gebruik in extreme omgevingen (<link href="#robsensor">meer uitleg</link>)
+ </td>
+ <td></td>
+ <td>Paul Leroux</td>
+</tr>
+
+<tr>
+ <td>voorstel22</td>
+ <td></td>
+ <td>Ontwerp van een ultrasone camera demonstrator bord (<link href="#ultrasonecamera">meer uitleg</link>)
+ </td>
+ <td></td>
+ <td>Paul Leroux</td>
+</tr>
+
+<tr>
+ <td>voorstel23</td>
+ <td></td>
+ <td>Ontwerp van een MEMS gebaseerde ultrasone sensor matrix voor visualizatie in vloeibaar metaal (<link href="#sensormatrix">meer uitleg</link>)
+ </td>
+ <td></td>
+ <td>Paul Leroux</td>
+</tr>
+
+<tr>
+ <td>voorstel24</td>
+ <td></td>
+ <td>Ontwerp van een geïntegreerde ultrasone zender-ontvanger schakeling voor gebruik in extreme omgevingen (<link href="#uzenderontv">meer uitleg</link>)
+ </td>
+ <td></td>
+ <td>Paul Leroux</td>
+</tr>
+
+<tr>
+ <td>voorstel25</td>
+ <td></td>
+ <td>Ontwerp van een ultrasoon ontvangerchip voor toepassingen bij hoge temperatuur (<link href="#uchip">meer uitleg</link>)
+ </td>
+ <td></td>
+ <td>Paul Leroux, Wouter De Cock</td>
+</tr>
+
+<tr>
+ <td>voorstel26</td>
+ <td></td>
+ <td>Ontwerp van een ultrasoon zender voor toepassingen bij hoge temperatuur (<link href="#uzender">meer uitleg</link>)
+ </td>
+ <td></td>
+ <td>Paul Leroux, Wouter De Cock</td>
+</tr>
+
+<tr>
+   <td>voorstel27</td>
+   <td></td>
+   <td>Ontwikkelen van een FPGA testplatform voor cryptografische bouwblokken (<link href="#testplatform">meer uitleg</link>)</td>
+   <td>KHLim</td>
+   <td>Kris Aerts, Nele Mentens, Davy Wolfs</td>
+</tr>
+
+<tr>
+   <td>voorstel28</td>
+   <td></td>
+   <td>Ontwikkeling van een boororiëntatie-unit (<link href="#boororientatie">meer uitleg</link>)</td>
+   <td>AWB Schots, ACRO</td>
+   <td>Roeland Schots, Eric Claesen, Eelco Galestien</td>
+</tr>
+
+<tr>
+   <td>voorstel29</td>
+   <td></td>
+   <td>Opbouw van een PROFINET Remote IO eiland (<link href="#profinet">meer uitleg</link>)</td>
+   <td>ACRO</td>
+   <td>Ronald Poosen, Geert Leen</td>
+</tr>
+
+<tr>
+   <td>voorstel31</td>
+   <td></td>
+   <td>Loudspeaker shuffler for listening tests (<link href="#loudspeakershuffle">meer uitleg</link>)</td>
+   <td>NXP</td>
+   <td>Sylvain Choisel</td>
+</tr>
+
+<tr>
+   <td>voorstel32</td>
+   <td></td>
+   <td>Automation of test specification generation (<link href="#autotestspecgen">meer uitleg</link>)</td>
+   <td>NXP</td>
+   <td>Thierry Gouraud</td>
+</tr>
+
+<tr>
+   <td>voorstel33</td>
+   <td></td>
+   <td>Reproduction Quality on Mobile Devices (<link href="#qualityrepro">meer uitleg</link>)</td>
+   <td>NXP</td>
+   <td>Mike Hopwood</td>
+</tr>
+
+<tr>
+   <td>voorstel34</td>
+   <td></td>
+   <td>Voice Morphing and Imitation (<link href="#voicemorphing">meer uitleg</link>)</td>
+   <td>NXP</td>
+   <td>Mike Hopwood</td>
+</tr>
+
+<tr>
+   <td>voorstel35</td>
+   <td></td>
+   <td>Network and Device Simulator (<link href="#networksim">meer uitleg</link>)</td>
+   <td>NXP</td>
+   <td>Mike Hopwood</td>
+</tr>
+
+<tr>
+   <td>voorstel36</td>
+   <td></td>
+   <td>Bulk Delay Tracker (<link href="#bulkdelay">meer uitleg</link>)</td>
+   <td>NXP</td>
+   <td>Mike Hopwood</td>
+</tr>
+
+<tr>
+   <td>voorstel37</td>
+   <td></td>
+   <td>USB3 System Simulator (<link href="#usb3sim">meer uitleg</link>)</td>
+   <td>NXP</td>
+   <td>Antony Joseph</td>
+</tr>
+
+   <tr>
+      <td>voorstel38</td>
+      <td></td>
+      <td>Evaluatie en ontwikkeling van parallelle implementatieplatformen voor cryptanalytische aanvallen. (<link href="#parallel">meer uitleg</link>)</td>
+      <td>K.U.Leuven, ESAT, COSIC</td>
+      <td>Nele Mentens, Jo Vliegen</td>
+   </tr>
+
+   < ! - - mag nog niet starten
+   
+   <tr>
+      <td>voorstel40</td>
+      <td>Dirk Vanderhoydonks</td>
+      <td>Implementatie van geavanceerde vermogenaanvallen op cryptografische implementaties. (<link href="#dpa">meer uitleg</link>)</td>
+      <td>K.U.Leuven, ESAT, COSIC</td>
+      <td>Nele Mentens, Jo Vliegen</td>
+   </tr>
+   - - >
+   <tr>
+      <td>voorstel41</td>
+      <td></td>
+      <td>Hydrogen generation from solar light – Experimental setup (<link href="#h2">meer uitleg</link>)</td>
+      <td>IMEC</td>
+      <td>Ruben Lieten</td>
+   </tr>
+   
+   <tr>
+      <td>voorstel44</td>
+      <td></td>
+      < ! - - onderwerp is geheim - - >
+      <td>< ! - - Ontwerp en realisatie van een Iphone applicatie als hulpmiddel bij post-operatieve revalidatie van gewrichten (<link href="#rotero">meer uitleg</link>) - - ></td>
+      <td>Rotero</td>
+      <td>Kris Aerts</td>
+   </tr>
+
+   Einde niet gekozen
+   -->
+<!-- einde tabel voorstellen eindwerken -->
+
+</table>
+
+    </section>
+
+    
+    <section>
+      <title>Masterproefbeschrijvingen</title>
+
+<!--
+        <anchor id="hydrogen"/>
+        <section>
+          <title>Hydrogen generation from solar light – Experimental setup</title>
+
+          <section>
+            <title>Description</title>
+
+            <p>
+Hydrogen (H_2 ) is interesting as fuel for transportation and as storage of solar energy. There exist many methods to produce hydrogen. An environmental friendly way is the use of solar energy, which can be a source of hydrogen with quasi infinite lifetime.
+</p>
+<p>
+The aim of this thesis is to develop a setup which demonstrates the generation of hydrogen by solar energy and the use of hydrogen for the production of electricity. For this aim a demonstration setup has to be developed, consisting of a solar panel, an electrolyzer, a water tank, hydrogen storage, a fuel cell, sensors, read out electronics and software. The solar panel converts solar light into electricity, which is consequently used by the electrolyzer to produce hydrogen (H_2 ) and oxygen (O_2 ) from water (H_2 O). The generated hydrogen needs to be stored. The fuel cell uses the stored hydrogen to generate electricity again. Sensors measure the power generated by the solar panel and the fuel cell, the hydrogen production rate, etc. This information is shown in an attractive way on a computer.
+</p>
+<p>
+The thesis consists of developing the setup, selecting the different components and putting them together. Software has to be written to control the setup, read out the sensors and to give a nice overview of the setup.
+</p>
+<p>
+      <img alt="figuur" src="eenfiguur.jpg"/>
+</p>
+<p>
+Fig.1: (a) Een figuur
+</p>
+
+
+          </section>
+          <section>
+            <title>Contact person(s)</title>
+            <p>Stefan.Degroote@imec.be or jan.genoe@iwt.khlim.be</p>
+          </section>
+
+        </section>
+
+        
+        <anchor id="cryptoelliptic"/>
+        <section>
+          <title>Efficiënte implementatie van cryptosystemen gebaseerd op elliptische krommen</title>
+
+<p>
+Om op een efficiënte manier o.a. digitale handtekeningen te kunnen genereren en verifiëren, worden cryptosystemen gebruikt die gebaseerd zijn op elliptische krommen. Hoewel deze systemen wiskundig relatief complex zijn, vertonen ze goede eigenschappen inzake chipoppervlakte en snelheid. De opdracht van deze masterproef bestaat erin om verschillende varianten van cryptosystemen gebaseerd op elliptische krommen te implementeren en te vergelijken op FPGA. Hiertoe zullen standaardkrommen en -parameters aangewend worden die wereldwijd als veilig aanzien worden.
+</p>
+<p>
+
+Deze masterproef loopt in samenwerking met EhB (Erasmushogeschool Brussel). De studenten kunnen aan hun masterproef werken aan de KHLim en worden enkele keren verwacht bij EhB om de voortgang te bespreken. 
+</p>
+<p>
+
+Aard van het werk:
+</p>
+<p>
+
+20% literatuurstudie
+</p>
+<p>
+80% implementatie
+</p>
+<p>
+
+Interne promotoren KHLim: Jo Vliegen (jo.vliegen@iwt.khlim.be), Nele Mentens (nele.mentens@iwt.khlim.be)
+</p>
+<p>
+Externe promotoren Erasmushogeschool Brussel: An Braeken (an.braeken@docent.ehb.be), Abdellah Touhafi (abdellah.touhafi@docent.ehb.be)
+</p>
+<p>
+
+Studenten: Robben Aerts, Brecht Sluismans
+</p>
+        </section>
+-->
+
+
+
+
+
+
+
+
+
+
+
+        <anchor id="php2wsdl"/>
+        <section>
+          <title>WSDL generatie vanuit PHP</title>
+
+          <section>
+            <title>Achtergrond</title>
+<p>
+PHP is een zeer populaire, laagdrempelige taal voor de ontwikkeling van dynamische websites.
+Een stap verder dan websites is het begrip webservices: hierbij wordt een applicatie opgebouwd door
+verschillende webservices aan elkaar te koppelen. Deze webservices kunnen dan in verschillende programmeertalen
+op verschillende platforms uitgebaat worden. Hierbij wordt soms PHP gebruikt, maar dikwijls ook Java, .net, C++, ...
+Om deze webservices met elkaar te kunnen laten praten, hebben we een protocol nodig.
+Meestal is dit SOAP, maar ook REST is populair,
+vooral dan in de typische web 2.0 API's zoals youtube, flickr, facebook, ...
+<br/>
+De beschrijving van welke methodes en welke data types de webservice aanbiedt,
+gebeurt meestal in WSDL. Het is sterk aan te raden om dit (quasi-)automatisch
+te genereren aangezien het formaat vrij complex is.
+</p>
+          </section>
+
+          <section>
+            <title>Inhoud</title>
+<p>
+Er is al ondersteuning in PHP voor SOAP, namelijk ofwel via nuSOAP, ofwel via de standaard SOAP-extensie van PHP,
+maar geen van beide voorziet de mogelijkheid om WSDL te genereren. Je kan wel een beperkt aantal tools vinden waarmee je
+WSDL zou kunnen genereren uit een PHP-klasse, maar de kwaliteit van die WSDL is zeer beperkt
+(bv. omdat er geen datatypes mee genereerd worden) of bevat zelfs fouten. De WSDL-generatie van Zend Studio 5.5
+is wel in orde, maar statisch. Daarnaast is dit een dure omgeving en in de nieuwste versie van Zend Studio is de gebruiksvriendelijkheid van deze tool sterk
+achteruit gegaan. Bovendien wordt in de verschillende tools WSDL1.1 of een enkele keer WSDL1.2 aangeboden,
+terwijl de nieuwste standaard al WSDL2.0 is. In deze nieuwe standaard kan je nu ook REST-services beschrijven wat
+in de vorige versies niet het geval was.
+</p>
+<p>
+In deze masterproef ontwikkelt de student een sterk configureerbare tool om volledige WSDL te genereren vanuit bestaande PHP-code,
+zowel WSDL1.1, 1.2 als 2.0.
+Indien de tijd het toestaat, kan er ook een tool gemaakt worden om de bijpassende PHP-structuur te genereren uit een gegeven WSDL.
+</p>
+          </section>
+
+          <section>
+            <title>Doel</title>
+<ol>
+<li>
+ontwikkeling van een tool die de WSDL voor bestaande PHP-code maakt,
+waarbij de gebruiker de versie van WSDL kan kiezen, en aan kan duiden welke methodes (van welke klassen)
+opgenomen worden in de service.
+</li>
+
+<li>
+deze tool moet vanuit PHP gebruikt kunnen worden zodat de WSDL dynamisch aangeboden kan worden,
+en niet na elke wijziging in de code opgeslagen moeten worden in een bestand.
+</li>
+
+<li>
+via de tool moet je de WSDL ook kunnen opslaan in een bestand, als de gebruiker dat wil</li>
+
+</ol>
+          </section>
+
+          <section>
+            <title>Aard van het werk</title>
+<p>Deze masterproef is in principe voor één student.</p>
+<ul>
+
+<li>
+    literatuurstudie: 20%
+  </li>
+
+
+<li>
+    analyse: 10%
+  </li>
+
+<li>
+    ontwikkeling en implementatie: 60%
+  </li>
+
+<li>
+    distributie en opvolging: 10%
+  </li>
+</ul>
+          </section>
+
+          <section>
+            <title>Promotor</title>
+            <p>Kris Aerts</p>
+          </section>
+
+        </section>
+
+
+
+
+        <anchor id="multiplatformrobotsturing"/>
+        <section>
+          <title>Ontwikkeling van een draadloze robot met multi-platform sturing</title>
+
+          <section>
+            <title>Achtergrond</title>
+<p>
+In het academiejaar 2011-'12 richten we met XIOS een vak "Hardwaregericht software-ontwerp" in.
+Doel van dit vak is om studenten inzicht te geven in hoe programmeertalen omgaan met de hardware waarvoor ze
+ontwikkeld zijn. Denken we bijvoorbeeld aan C++ waar je via pointers, adressen en specifieke bibliotheken hardware kan aansturen,
+aan de manier waarop .net-talen en Java of Java FX hardware aanspreken, aan  Objective C voor Apple-hardware, of de C++-toolkit voor Nintendo DS, ...
+Om beslagen aan dit vak te kunnen starten, ontwikkelen we in deze masterproef een uitgebreide applicatie
+die eventueel ook als leermodel kan dienen voor de cursus.
+</p>
+          </section>
+
+          <section>
+            <title>Inhoud</title>
+<p>
+In deze masterproef kan je twee delen onderscheiden: het ene is meer hardware, het andere meer software. Beide stukken hebben een verschillend gewicht.
+Het is dus niet de bedoeling dat de ene student enkel de hardware doet en de andere enkel de software:
+de interactie tussen beide delen moet elkaar versterken.
+</p>
+<p>
+De hardware bestaat uit het bouwen van een robot op basis van twee stappenmotoren, een WiFi-ontvanger en de nodige sturing om de signalen die binnen komen
+op de WiFi-ontvanger om te zetten in opdrachten voor de stappenmotoren zodat je het robotje in de gewenste richting kan laten lopen.</p>
+<p>
+De signalen die verstuurd worden tussen de computer en de hardware zijn gebaseerd op de opdrachtset van Karel De Robot (Karel The Robot: A Gentle Introduction to the Art of Programming, 2nd Edition
+Richard E. Pattis, ISBN: 978-0-471-59725-4), nl. in de eerste plaats <em>turnLeft()</em> en <em>move()</em>.</p>
+<p>
+In het software-gedeelte is het de bedoeling om vanuit zo veel mogelijk programmeertalen (in casu C++, C#, VB.net, Java, Java FX, Objective C voor Apple-producten, C++ voor Nintendo DS ARM7, ...)
+een binding te voorzien voor deze robot, waarbij de uiteindelijke programmeur opdrachten kan gebruiken die zo dicht mogelijk aansluiten bij de effectieve
+syntax van de taal in kwestie, zodat je in die taal Karel De Robot-opdrachten kan inbedden in de rest van de taal.</p>
+
+          </section>
+
+          <section>
+            <title>Doel</title>
+<ol>
+
+<li>
+ontwikkeling van de draadloze robot en elektronische sturing
+</li>
+<li>
+ontwikkeling van de software bibliotheken
+</li>
+<li>
+het vertalen en veralgemenen van de opgedane ervaring voor gebruik in de cursus, bv. in de vorm van leertrajecten,
+ontwikkeling van tutorials, ...
+</li>
+
+</ol>
+          </section>
+
+          <section>
+            <title>Aard van het werk</title>
+<p>Deze masterproef is bestemd voor 2 studenten.</p>
+<ul>
+
+<li>
+    literatuurstudie: 15%
+  </li>
+
+
+<li>
+    analyse: 15%
+  </li>
+
+<li>
+    ontwikkeling en implementatie: 50%
+  </li>
+
+<li>
+    vertaling van de leerervaring: 20%
+  </li>
+
+</ul>
+          </section>
+
+          <section>
+            <title>Promotor</title>
+            <p>Kris Aerts</p>
+          </section>
+        </section>
+
+<!--
+Niet gekozen
+
+        <anchor id="hardwarebeschrijvinginFsharp"/>
+        <section>
+          <title>Ontwikkeling van een hardwarebeschrijvingstaal op basis van F#</title>
+
+          <section>
+            <title>Achtergrond</title>
+<p>
+Naast VHDL, de meest gekende hardwarebeschrijvingstaal voor FPGA's, zijn er nog heel wat andere hardwarebeschrijvingstalen,
+zoals Lava, Wired, Erlang, SystemC, ...
+In het CREA-project onder leiding van Nele Mentens en Kris Aerts rond de ontwikkeling van een grote-getallenbibliotheek voor VHDL
+maken we gebruik van zo'n alternatief taal, nL; Lava, een hardwarebeschrijvingstaal gebaseerd op Haskell, waarbij Haskell de gestandaardiseerde functionele taal is
+(<link href="http://www.haskell.org">www.haskell.org</link>). Doordat Lava gebaseerd is op Haskell, kan je heel krachtige combinaties maken en een zeer algemeen toepasbare (polymorfe)
+code schrijven.
+</p>
+<p>
+Vrij recent is ook Microsoft op de kar van functionele talen gesprongen en in 2008 hebben zij F# uitgebracht (zie bv. de podcast
+op <link href="http://channel9.msdn.com/pdc2008/TL11/">http://channel9.msdn.com/pdc2008/TL11/</link>). Naast de puur functionele eigenschappen hebben zij ook niet-pure elementen toegevoegd,
+zoals variabelen met een wijzigbare toestand en een specifieke binding met I/O en grafische user interfaces. </p>
+          </section>
+
+          <section>
+            <title>Inhoud</title>
+<p>
+Alhoewel puur functionele talen grote voordelen hebben, kan de toevoeging van niet-pure dingen bepaalde aanpakken gemakkelijker maken,
+vooral wanneer die te maken hebben met het bijhouden en wijzigen van toestanden in het programma.
+Daarom zou het wel eens kunnen dat een hardwarebeschrijvingstaal gebaseerd op F# nog beter is dan Lava, omdat je de voordelen van
+de functionele aanpak combineert met de ruwe/brute kracht van toekenningen.
+</p>
+<p>
+Deze masterproef onderzoekt deze hypothese en bouwt een beperkte aanzet van zo'n hardwarebeschrijvingstaal gebaseerd op F#.
+Hierbij kan en zal natuurlijk vertrokken worden van de bestaande implementatie van Lava en eventuele andere hardwarebeschrijvingstalen.
+</p>
+          </section>
+
+          <section>
+            <title>Aard van het werk</title>
+<ul>
+
+<li>
+    literatuurstudie: 25%
+  </li>
+
+
+<li>
+    analyse: 20%
+  </li>
+
+<li>
+    ontwikkeling en implementatie: 40%
+  </li>
+
+<li>
+    evaluatie: 15%
+  </li>
+
+</ul>
+          </section>
+
+          <section>
+            <title>Promotor</title>
+            <p>Kris Aerts</p>
+          </section>
+
+        </section>
+
+
+
+        <anchor id="opengarments"/>
+        <section>
+          <title>Profilering en optimalisatie van de Open Garments community</title>
+
+          <section>
+            <title>Achtergrond</title>
+<p>
+Binnen het departement MDA en de opleiding communicatie- en multimediadesign van de KHLim
+nemen we deel aan het Europees project Open Garments (<link href="http://www.open-garments.eu">www.open-garments.eu</link>)
+rond mass customization waarin we ontwerpers, makers en kopers
+van persoonlijke kledij via een internet community willen samenbrengen, en waarin we nieuwe
+en/of aangepaste productie- en verkoopstechnieken willen toepassen.
+De KHLim bouwt hiervoor de community site.
+</p>
+          </section>
+
+          <section>
+            <title>Inhoud</title>
+<p>
+Alhoewel de community site initieel slechts door een beperkt aantal gebruikers
+belast zal worden, is het wel de bedoeling om grote aantallen bezoekers te kunnen verwerken
+wanneer het hele systeem volledig in productie gaat.
+In deze masterproef onderzoeken de studenten  hoe ze het beste de performantie
+van de webapplicatie kunnen meten en optimaliseren. Het gaat hierbij niet alleen over de snelheid
+en de reactietijd voor de eindgebruiker, maar ook over de koppeling met andere delen van het systeem
+die in verschillende technologieen gebouwd kunnen zijn en waarvoor een gepaste communicatiestructuur
+en API voorzien wordt op basis van SOAP en REST.
+</p>
+<p>
+Om de gewenste performantieverhoging te bekomen krijgen de studenten de kans om de ontwikkelaars
+van de applicatie direct aan te sturen en eventueel mee te werken aan de bouw ervan.
+</p>
+          </section>
+
+          <section>
+            <title>Doel</title>
+<ol>
+
+<li>
+selectie (en eventueel fijntuning of ontwikkeling) van de gepaste tools om de performantie na te gaan
+</li>
+
+<li>
+verbetertrajecten definieren, evalueren en implementeren
+</li>
+
+</ol>
+          </section>
+
+          <section>
+            <title>Aard van het werk</title>
+<p>Deze masterproef kan met een of twee studenten uitgevoerd worden.</p>
+<ul>
+
+<li>
+    literatuurstudie: 20%
+  </li>
+
+
+<li>
+    analyse: 20%
+  </li>
+
+<li>
+    ontwikkeling en implementatie: 45%
+  </li>
+
+<li>
+    evaluatie: 15%
+  </li>
+
+</ul>
+          </section>
+
+          <section>
+            <title>Promotoren</title>
+<p>Kris Aerts, Niels.Hendriks@khlim.be (van MDA)</p>
+          </section>
+          
+        </section>
+        
+
+
+
+
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <anchor id="fysparam"/>
+        <section>
+          <title>Detectie van fysiologische parameters aan de hand van een camerasysteem</title>
+
+          <p>          
+            Het monitoren van patiënten in hun slaap gebeurt typisch door middel van verschillende signalen
+            die met sensoren die aan het lichaam bevestigd worden zoals bijvoorbeeld EEG (meten van hersenactiviteit), 
+            EMG (meten van spieractiviteit), ECG (hartslagmetingen), monitoring van ademhaling en geluid 
+            (om bijvoorbeeld snurken te detecteren). Om het opnemen van deze signalen comfortabeler te maken
+            voor de patiënt zouden deze contactloos opgenomen kunnen worden met behulp van een camerasysteem.
+            In de literatuur zijn al enkele aanzetten te vinden waarbij men bijvoorbeeld ademhaling gaat detecteren
+            uit videobeelden. Hoe goed zou een dergelijk systeem kunnen werken in een thuissituatie en 
+            welk type camera is hiervoor nodig (en moeten er bijvoorbeeld visuele markers aangebracht worden)? 
+            Is het mogelijk om ook andere fysiologische parameters uit de beelden te halen, eventueel met toevoeging 
+            van andere signalen zoals geluid? 
+          </p>
+          <p>
+            Aantal eindwerkstudenten: 1 of 2
+          </p>
+          <p>
+            Dagelijkse begeleiding: Kris Cuppens kris.cuppens@khk.be
+          </p>
+          <p>
+            Promotor: Bart Vanrumste (IBW) bart.vanrumste@khk.be
+          </p>
+          <p>
+           Opdrachten:
+          </p>
+          <ul>
+            <li>literatuurstudie: 25%</li>
+            <li>implementatie (Matlab): 35%</li>
+            <li>experimenten: 40%</li>
+          </ul>
+          
+         <p>
+               <img alt="figuur" src="maproef/2010-2011/videofysparam-1.jpg"/>
+         </p>
+          
+          
+          
+          
+        </section>
+        
+        
+        
+        
+        
+        
+        
+        
+        <anchor id="accelero"/>
+        <section>
+          <title>Groepspecifieke detectie van epileptische aanvallen</title>
+
+          <p>
+De diagnose en classificatie van epilepsie wordt typisch uitgevoerd door middel van video-
+elektro-encefalogram (EEG) monitoring. Deze methode geldt als de Gouden Standaard voor
+de detectie van epileptische aanvallen. Maar deze onderzoeksmethode is oncomfortabel voor
+de patiënt omdat de elektroden aan de scalp bevestigd moeten worden. Bovendien is het
+bevestigen van de elektrodes arbeidsintensief omdat de verpleegsters een uur werk nodig
+hebben om de patiënt klaar te maken voor het onderzoek. Door deze nadelen kunnen patiënten
+niet dagelijks gemonitord worden.
+          </p>
+          <p>
+Als alternatief voor de detectie van epileptische aanvallen via EEG-signalen willen we
+aanvallen detecteren met accelerometers. De Katholieke Hogeschool Kempen werkt samen
+met revalidatiecentrum Pulderbos voor de acquisitie van de accelerometersignalen. Deze
+signalen zijn afkomstig van accelerometers bevestigd aan de polsen en enkels van die patiënt.
+De accelerometers registreren de versnelling van de lichaamsdelen, dus indien de patiënt
+beweegt.
+          </p>
+          <p>
+In voorgaande eindwerken werd er al een bedraad acquisitiesysteem ontwikkeld en er werd
+ook al een eerste detectiealgoritme geïmplementeerd. Dit algoritme werkt aan de hand van
+parameters die per patiënt ingesteld moeten worden. Bovendien is het algoritme getest op een
+beperkt aantal types van aanvallen. Verder onderzoek is dus nog nodig naar de detectie van
+andere types aanvallen, en eventueel de ontwikkeling van een algoritme dat bepaalde types
+van aanvallen kan detecteren voor een groep van patiënten met gelijkaardige aanvallen.
+De detectiealgoritmes kunnen leiden tot een systeem dat bij de patiënt op de kamer geplaatst
+kan worden dat het aantal nachtelijk aanvallen automatisch logt en een alarm geeft wanneer
+de aanval te hevig is. De database met het aantal nachtelijke aanvallen kan gebruikt worden
+door de neuroloog om de evolutie van de ziekte beter te kunnen opvolgen, de invloed van de
+medicijnen te bepalen en dus de behandeling te verbeteren.
+          </p>
+          <p>
+Aantal eindwerkstudenten: 1 of 2
+          </p>
+          <p>
+Dagelijkse begeleiding: Kris Cuppens kris.cuppens@khk.be, Ann-Sofie Decaigny ann-sofie.decaigny@khk.be
+          </p>
+          <p>
+Promotors: Bart Vanrumste (IBW) bart.vanrumste@khk.be
+          </p>
+          <p>
+Opdrachten:
+          </p>
+          <ul>
+<li>literatuurstudie: 20%</li>
+<li>implementatie (Matlab): 50%</li>
+<li>experimenten (validatie algoritme): 30%</li>
+          </ul>
+
+          
+          
+          
+         <p>
+               <img alt="figuur" src="maproef/2010-2011/groepsdetepilepsie-1.jpg"/>
+         </p>
+          
+          </section>         
+        
+        <anchor id="cameradetectie"/>
+          <section>
+            <title>Cameragebaseerde detectie van abnormaal gedrag</title>
+            <p>
+Onze gemeenschap wordt steeds ouder, terwijl de ouderen ook steeds zo lang mogelijk onafhankelijk
+en comfortabel willen blijven leven. Om onze ziekenzorg betaalbaar te houden, moet dit ook zo lang
+mogelijk gedaan worden. Maar onafhankelijk wonen brengt ook risico's met zich mee. Met ouderdom
+verminderen de mobiliteit, cognitie en reflexen, waardoor deze ouderen ook meer blootgesteld worden
+aan allerlei risico's, en zelfs gevaarlijke situaties. Een kritisch element om ouderen zelfstandig te laten
+wonen, is het constant monitoren van de activiteit en het vroegtijdig detecteren van abnormale
+activiteiten. Deze veranderingen kunnen duiden op veranderde omstandigheden, gezondheidscrisis of
+noodsituaties.
+            </p>
+            <p>
+Door middel van een camerasysteem kunnen we deze personen volgen en hun normale gedrag leren
+met behulp van technieken uit de Artificiële Inteligentie. Aan de hand van wat we hieruit geleerd
+hebben, kunnen we dan afwijkingen detecteren. We hebben reeds verschillende datasets ter beschikking
+die hiervoor gebruikt kunnen worden.
+            </p>
+            <p>
+Het doel van deze thesis is het identificeren van een normaal gedragspatroon van de bewoner, het
+rapporteren van de frequentie van bepaalde activiteiten en het detecteren van afwijkingen op het
+geleerde gedrag.
+            </p>
+            <p>
+Aantal master thesis studenten: 1 of 2
+            </p>
+            <p>
+Dagelijkse begeleiding: Glen Debard (glen.debard@khk.be)
+            </p>
+            <p>
+Promotor: dr. ir. Bart Vanrumste (bart.vanrumste@esat.kuleuven.be)
+            </p>
+            <p>
+Taken:
+            </p>
+            <ul>
+<li>literatuur studie: 25%</li>
+<li>implementatie (Matlab or C++): 45%</li> 
+<li>experimenten: 30%</li>
+            </ul>
+
+         <p>
+               <img alt="figuur" src="maproef/2010-2011/behav-1.jpg"/>
+         </p>
+         <p>
+               <img alt="figuur" src="maproef/2010-2011/behav-2.jpg"/>
+               <br/>
+               Activiteitsherkenning gebaseerd op locatie.
+         </p>
+          
+          
+          
+          </section>
+  -->      
+        
+        <anchor id="sigalgo"/>
+          <section>
+            <title>C++ programmatie van rekenintensieve signaalverwerkingsalgoritmes</title>
+
+            <p>            
+De dag van vandaag is het een koud kunstje om een computer beelden te laten tonen. Denk maar
+aan de goedkope webcam’s. U plugt ze in de usb-poort en een teleconferentie kan zo van start
+gaan waarin naast spraak, ook beelden van de deelnemers te voorschijn komen. Daarnaast zijn er
+ook de realistisch ogende computergames waar u de wereld van de “virtual reality” in kan stappen.
+De grote uitdaging, de “state-of the-art” zoals men dit ook wel eens noemt, is om de computer de
+aangeleverde beelden zelfstandig te laten interpreteren in reële tijd.
+            </p>
+            <p>
+Binnen
+MOBILAB
+(Multidisciplinair
+onderzoekslaboratorium
+voor
+Biomedische-
+en
+Revalidatietechnologie: www.mobilab-khk.be) liepen en lopen er verschillende onderzoeksprojecten
+waar men hoge resolutievideobeelden als basis neemt om hieruit klinisch relevante informatie te
+halen. Enkele voorbeeldprojecten hiervan zijn:
+             </p>
+             <ul>
+               <li>Painvision: het automatisch detecteren van pijn bij dementerende bejaarde op basis van hun gelaatsexpressies;</li>
+               <li>FallCam: het automatisch detecteren van een val bij een ouder thuis op basis van camerabeelden;</li>
+               <li>Detectie van nachtelijke epilepsieaanvallen bij kinderen op basis van video-opnamen.</li>
+             </ul>
+         <p>
+               <img alt="figuur" src="maproef/2010-2011/sigalgo-1.jpg"/>
+         </p>
+
+             <p>
+Een gemeenschappelijke uitgangspunt voor al deze projecten is dat het resultaat (een alarm) in
+reële tijd gegenereerd moet worden. Dit is vandaag een struikelblok in elk van deze projecten.
+Deze onderzoeksprojecten maken gebruik van de meest geavanceerde, “state-of-the-art”,
+beeldverwerkingsalgoritmes. Deze algoritmes zijn vaak rekenintensief. Bijkomend is dat de
+gebruikte ingangsbeelden van hoge kwaliteit zijn, wat betekent dat er enorm veel data op zeer
+korte tijd dient verwerkt te worden.
+             </p>
+             <p>
+In het academiejaar 2008-2009 is reeds een eerste stap gezet in de richting van het in reële tijd
+verwerken van deze rekenintensieve berekeningen. De opdracht van deze masterproef bestond
+erin een kerntaak van een beeldverwerkingsalgoritme om te zetten naar een FPGA implementatie.
+Hiervoor werd gebruik gemaakt van SIMULINK hardware code bibliotheken. Ten opzichte van de
+referentie in MATLAB werd serieuze snelheidswinst gehaald (meer dan 150 keer sneller).
+             </p>
+             <p>
+Hoewel bovenstaande aanpak een hoog potentieel heeft is er de afhankelijkheid van de
+commerciële SIMULINK bibliotheken en de gebruikte hardware. Ook de manier van programmeren
+op deze “dedicated” hardware verschilt significant van deze op “general purpose” systemen.
+Daarnaast maakt de multi-core architecture van de huidige CPU’s, parallelizeren mogelijk wat
+eveneens, indien juist geprogrammeerd, significante snelheidswinsten mogelijk maakt. Bovendien
+zijn er bibliotheken (OPENGL, OPENCV, OPENCL) beschikbaar die de grafische kaart, welke
+geoptimaliseerd is voor welbepaalde signaalverwerkingstechnieken, kunnen aanspreken.
+Hierbij
+lijkt de recentelijk gelanceerde nieuwe standaard OPENCL vele interessante eigenschappen te
+bieden. Vandaar dat we in deze masterproef mikken op het efficiënt programmeren van een aantal
+basis signaalverwerkingsalgoritmes voor de uitvoering op PC.
+Initiële testen geven alvast
+veelbelovende resultaten.
+             </p>
+             <p>
+Samengevat: De onderzoeksopdracht bestaat er in om rekenintensieve onderdelen van een
+algoritme (bv. lineaire algebra taken zoals een matrix-vector product) te (her)implementeren
+gebruikmakende van verschillende open bibliotheken waaronder zeker OPENCL. Het coderen dient
+in C++ te gebeuren en de verschillende alternatieven waaronder ook een MATLAB implementatie
+moeten
+worden
+vergeleken
+op
+basis
+van
+snelheid,
+hardware
+onafhankelijkheid,
+implementatiemethode.
+            </p>            
+         <p>
+               <img alt="figuur" src="maproef/2010-2011/sigalgo-2.jpg"/>
+         </p>
+
+            <p>            
+             Taken:
+            </p>
+            <ul>
+              <li>20% Literatuur studie en het schrijven van een paper</li>
+              <li>60% programmeren C++/MATLAB/SIMULINK :
+OPENCV, OPENGL - OPENCL – GOTO BLAS – ATLAS – ACML - …</li>
+              <li>20% Testen</li>
+            </ul>
+
+              
+            <p>  
+              Dagelijkse begeleiding: Bert Bonroy – Peter Karsmakers
+            </p>
+            <p>
+              Kennis:
+            </p>
+            <ul>
+              <li>1 of 2 master studenten elektronica-ICT gedurende 1 jaar</li>
+              <li>Kennis signaalverwerking is een pluspunt</li>
+              <li>Kennis MATLAB/Simulink, C++ en Ubuntu (Linux) is aanbevolen</li>            
+            </ul>            
+            </section>
+
+<!--            
+            <anchor id="sigpanelen"/>
+            <section>
+              <title>Aansturing van informatiepanelen vanuit een centrale applicatie</title>
+              
+              <p>
+                Deze masterproef betreft de aansluitingen tussen de verschillende vormen van openbaar
+vervoer.
+              </p>
+<p>
+Dit omvat panelen die aangestuurd worden via RS485 over ethernet (internet),
+een centraal programma (voorkeur .net) voor de aansturing van die panelen.
+De centrale applicatie moet ook communiceren met bvb www.railtime.be om
+informatie ivm aansluitingen realtime te communiceren met de reizigers, met bvb.
+de applicatie voor de omroeper in een station om de informatie in verband met
+aansluitingen te communiceren in de stations, ...
+</p>
+<p>
+Voorts is er een webapplicatie die voornamelijk in javascript, met behulp van
+ajax-technieken moet geschreven worden voor de controle en de monitoring van
+het geheel.
+</p>
+<p>
+Het project kan uitgebreid worden met SMS, en andere.
+</p>
+
+<p>
+Promotor: Jef Hendrikx jef.hendrikx@infrabel.be
+</p>
+
+< ! - -
+
+Jef Hendrikx
+Directie NETWERK            Direction RESEAU
+I-N.222 S84-K402            I-R.222 S84-K402
+Aribus               Aribus
+Barastraat 110              Rue Bara, 110
+B-1070 Brussel              B-1070 Bruxelles
+
+T : +32 2 5252429           service/dienst : 911/52429
+F : +32 2 5259109    service/dienst : 911/59109
+M : +32 499 543084
+@ : jef.hendrikx@infrabel.be <mailto:jef.hendrikx@infrabel.be>
+
+<http://www.infrabel.be>
+- - >
+              
+            </section>
+
+            
+     -->       
+            
+            
+            
+            
+        <anchor id="simenergiemodellen"/>
+        <section>
+          <title>Het ontwerpen van modellen voor de planning van decentrale energievoorziening</title>
+
+          <section>
+            <title>Situering</title>
+         
+<p>
+Aan het departement PMA (Production engineering, Manufacturing and Automation) 
+van de K.U.Leuven wordt er o.a. 
+onderzoek verricht over het gebruik van agent technologie voor 
+het opstellen van korte termijnvoorspellingen voor productieomgevingen.
+</p>
+
+<p>
+Door gebruik te maken van parallelle algoritmes (die gebaseerd 
+zijn op het gedrag van mierenkolonies) is het mogelijk om 
+flexibele planningen op te stellen. Deze planningen zijn niet 
+alleen geoptimaliseerd maar kunnen ook flexibel aangepast worden 
+tijdens het uitvoeren van deze planning. Dit betekent 
+bijvoorbeeld dat bij uitval van een machine een order verschuift 
+naar een andere machine; de lopende planning hoeft hiervoor niet
+volledig opnieuw opgesteld te worden. De planning wordt in een continue proces
+enkel minimaal bijgesteld.
+</p>
+
+<p>
+In het kader van eindwerken en onderzoek gedurende de laatste academiejaren zijn  
+er verschillende implementaties van simulatoren voor de planning van elektricteitsproductie ontworpen.
+Deze software is telkens in Java geschreven en 
+zorgt voor de optimale koppeling tussen de gebruikers en producenten 
+in een elektriciteitsdistributienetwerk. Het algoritme is zodanig dat 
+de gebruikers mieren uitzenden over het netwerk en 
+hierdoor de producenten ontdekken. 
+Deze mieren zijn in staat om een gedeelte van de energie 
+geproduceerd door een producent op voorhand te reserveren. Deze reservatie
+heeft evenwel een tijdelijke geldigheid. 
+Dit zorgt ervoor dat bepaalde reservaties automatisch vrijgegeven worden indien de gebruiker om een of andere reden deze energie niet meer nodig heeft.
+</p>
+
+                </section>
+                <section>
+                  <title>Opdracht</title>
+                  <p>
+                    Het doel van dit eindwerk is het opstellen en implementeren van elektrische en/of thermische modellen
+                    van apparaten zoals transfo's, kabels, diepvriezers, WKK's en thermische buffers. Elk van deze apparaten 
+                    heeft specifieke eigenschappen (in- en uitschakeltijden, overbelasting, stijg- en daaltijden, max. capaciteit, ...)
+                    Het is bijvoorbeeld vanzelfsprekend dat een kabel of een transfo wel tijdelijk een kleine graad van overbelasting aankan
+                    maar niet permanent.
+                    Het is daarom wenselijk dat bij het opstellen van een planning rekening gehouden wordt met de specifieke beperkingen
+                    en eigenschappen van elk van deze apparaten.
+                  </p>
+                  <p>
+                    Het is de bedoeling om voor enkele van deze apparaten modellen uit te werken en te integreren in een eenvoudig
+                    simulator. Op deze wijze kan aangetoond worden dat de planning rekening houdt met de beperkingen van deze apparaten.
+                  </p>
+                  
+                  <!--
+<p>
+Het is de bedoeling om in het academiejaar dit eindwerk verder te zetten en er een aantal verbeteringen in aan te brengen.
+</p>
+<ul>
+  <li>
+ Bij de koppeling van gebruikers en producenten is het noodzakelijk om rekening te houden met een aantal beperkingen die inherent zijn aan een elektriciteitsdistributienetwerk. Dit zijn een aantal voorbeelden:
+  <ul>
+    <li>
+   Er moet rekening gehouden worden met de omzetting van 3 faze naar 2 faze. 
+   De 3 fazen moeten hierbij gelijk belast worden.
+    </li>
+    <li>
+   Er zijn transfo's opgenomen in het netwerk.
+    </li>
+    <li>
+   
+   De stroom kan slechts in één richting vloeien. 
+    </li>
+    <li>
+   De transmissiekabels hebben een beperkte capaciteit.
+    </li>
+  </ul>
+</li>
+<li>
+Verbetering van de visualisatie.
+</li>
+<li>
+Het parallel uitvoeren van de simulatie met behulp van Terracotta.
+</li>
+</ul>
+
+<p>
+Een aantal van deze componenten in de elektriciteitsdistributie zullen in Java gemodelleerd worden en opgenomen worden in de simulatie. 
+Ook is het de bedoeling om de visualisatie van de simulatie te verbeteren. 
+Dit laatste is trouwens ook noodzakelijk om de correcte werking van het mierenalgoritme te kunnen verifiëren
+en laat tenslotte toe om de simulatie te gebruiken als een demo.
+</p>
+
+<p>
+Sleutelwoorden: Java, multithreading, threadsynchronisatie, 
+modelleren van componenten uit het probleemdomein, simulaties in Java,
+Java ontwikkeltools: Eclipse, Spring, ant, versiebeheer, Terracotta.
+</p>
+-->
+          </section>
+          <section>
+            <title>Praktische informatie</title>
+          
+<p>
+Aantal studenten: 2
+</p>
+<ul>
+  <li>1 masterstudent ELO/ICT</li>
+  <li>1 masterstudent EM of EL</li>
+</ul>
+  
+<p>
+Promotoren: Paul Valckenaers, Leo Rutten
+</p>
+<p>
+Sleutelwoorden: Java, elektrische en thermische modellen, 
+ simulaties in Java,
+</p>
+          </section>
+        </section>
+            
+
+   <!-- Niet gekozen
+            
+        <anchor id="simenergietoolkit"/>
+        <section>
+          <title>Toolkit voor de planning van decentrale energievoorziening</title>
+
+          <section>
+            <title>Situering</title>
+         
+<p>
+Aan het departement PMA (Production engineering, Manufacturing and Automation) 
+van de K.U.Leuven wordt er o.a. 
+onderzoek verricht over het gebruik van agent technologie voor 
+het opstellen van korte termijnvoorspellingen voor productieomgevingen.
+</p>
+
+<p>
+Door gebruik te maken van parallelle algoritmes (die gebaseerd 
+zijn op het gedrag van mierenkolonies) is het mogelijk om 
+flexibele planningen op te stellen. Deze planningen zijn niet 
+alleen geoptimaliseerd maar kunnen ook flexibel aangepast worden 
+tijdens het uitvoeren van deze planning. Dit betekent 
+bijvoorbeeld dat bij uitval van een machine een order verschuift 
+naar een andere machine; de lopende planning hoeft hiervoor niet
+volledig opnieuw opgesteld te worden. De planning wordt in een continue proces
+enkel minimaal bijgesteld.
+</p>
+
+<p>
+In het kader van eindwerken en onderzoek gedurende de laatste academiejaren zijn  
+er verschillende implementaties van simulatoren voor de planning van elektricteitsproductie ontworpen.
+Deze software is telkens in Java geschreven en 
+zorgt voor de optimale koppeling tussen de gebruikers en producenten 
+in een elektriciteitsdistributienetwerk. Het algoritme is zodanig dat 
+de gebruikers mieren uitzenden over het netwerk en 
+hierdoor de producenten ontdekken. 
+Deze mieren zijn in staat om een gedeelte van de energie 
+geproduceerd door een producent op voorhand te reserveren. Deze reservatie
+heeft evenwel een tijdelijke geldigheid. 
+Dit zorgt ervoor dat bepaalde reservaties automatisch vrijgegeven worden indien de gebruiker om een of andere reden deze energie niet meer nodig heeft.
+</p>
+
+                </section>
+                <section>
+                  <title>Opdracht</title>
+                  <p>
+                    Het doel van het eindwerk is het verder verbeteren, aanvullen en documenteren van de Java toolkit die in het verleden is ontworpen.
+                    Deze toolkit (of bibliotheek) wordt door de masterstudenten in het vak CSYS gebruikt om simulaties van energieplanningen te ontwerpen.
+                    De toolkit bevat nu reeds een aantal klassen om entiteiten zoals transfo's, generatoren en kabels te modelleren. Er zijn ook klassen
+                    voorzien voor de visuale weergave van curves (verbruik, vermogen in functie van de tijd).
+                  </p>
+                  <p>
+                    Een nevendoel is het opstellen van een handleiding voor het ontwerpen van simulaties.
+                    Deze handleiding omvat o.a. ontwerppatronen voor het gebruik van de toolkit en geeft ook aan welke tools (Eclipse, Maven, Archiva, Ant, ...)
+                    op welke wijze gebruikt kunnen worden.
+                  </p>  
+                  
+          </section>
+          <section>
+            <title>Praktische informatie</title>
+          
+<p>
+Aantal studenten: 2
+</p>
+<p>
+Promotoren: Paul Valckenaers, Leo Rutten
+</p>
+<p>
+Sleutelwoorden: Java, multithreading, threadsynchronisatie, 
+modelleren van componenten uit het probleemdomein, simulaties in Java,
+Java ontwikkeltools: Eclipse, ant, Maven, versiebeheer.
+</p>
+          </section>
+        </section>
+            
+            
+            
+        <anchor id="darebouwblokken"/>
+        <section>
+          <title>Ontwerp van bouwblokken binnen IMEC’s DARE bibliotheken</title>
+
+          <p>
+Via dit ontwerpeindwerk komen de studenten in aanraking met de hele ontwerpflow van digitale IC’s.
+          </p>
+          <p>
+Imec ontwikkelt in samenwerking met het Europese Ruimteagentschap ESA celbibliotheken die toelaten radiatietolerante chips te ontwerpen in commerciële technologieën.
+Zonder zulke bibliotheken moet er steeds gekozen worden voor dure radiatieharde processen met beperkte functionele flexibiliteit in het analoog domein.
+Momenteel ondersteunt IMEC zo een 0.18 micron bibliotheek en zijn de eerste stappen gezet naar de ontwikkeling van een 90 nm bibliotheek; beiden gebaseerd op technologieën van UMC. We noemen die bibliotheken DARE. DARE is een acroniem voor Design Against Radiation Effects.
+De bibliotheken worden gratis ter beschikking gesteld van de Europese ruimtevaartindustrie.
+          </p>
+          <p>
+
+In het kader van deze bibliotheekontwikkeling zijn er verschillende vragen binnengekomen voor aanpassingen van functionaliteit: minder vermogenverbruik van LVDS I/O, het voorzien van 5V I/O paden, verschillende geheugencompilers, cellen converteren naar een andere technologie, etc.
+Imec heeft recent ook een door een andere partij ontwikkelde bibliotheek overgenomen en wil die in de toekomst kunnen aanbieden binnen een up-to-date ontwerpomgeving.
+          </p>
+          <p>
+
+De taak van de student(en) in dit eindwerk bestaat erin een eerste ontwerpiteratie te doen van deze DARE bibiliotheekelementen. Dit behelst karakterisatiesimulaties en het genereren van alle bibliotheekinformatie die nodig is om die cellen in een volledige digitale ASIC ontwerpflow te kunnen gebruiken, zoals daar zijn:
+          </p>
+          <ul>
+<li>schema</li>
+<li>layout</li>
+<li>lef file</li>
+<li>verilog simulatiemodel</li>
+<li>vital simulatiemodel</li>
+<li>lib file</li>
+<li>IBIS modellen voor I/O cellen</li>
+          </ul>
+          <p>
+Dit eindwerk vereist toegang tot Cadence ontwerptools en regelmatige aanwezigheid in IMEC voor ontwerpondersteuning en mogelijk ook het gebruik van de specifieke software tools.
+          </p>
+          <p>
+Software tools (state-of-the-art) en - omgeving:
+          </p>
+          <ul>
+<li>Cadence (Virtuoso, Composer, Analog Environment, Ocean, Spectre simulator,  Digital Implementation System, Encounter Library Characterizer)</li>
+<li>Calibre (DRC, LVS, LPE)</li>
+<li>Linux/Unix</li>
+          </ul>
+          <p>
+Aantal studenten: 1 (Er kunnen meerdere studenten op werken)
+          </p>
+          <p>
+Contacteer: Geert.Thys@imec.be
+          </p>
+        </section>
+
+
+
+
+
+        <anchor id="logo2gdsii"/>
+        <section>
+          <title>Logo’s omzetten naar ‘propere’ GDSII</title>
+
+          <p>
+Dit eindwerk behelst softwareontwikkeling.
+          </p>
+          <p>
+Via imec laten enkele honderden universiteiten en bedrijven jaarlijks chips produceren. Zij sturen hun fabricatieinformatie (layout) op naar imec onder de vorm van een GDSII bestand.
+Ontwerpers van zo een layout zetten op zo een chip al wel eens hun naam in een van de lagen die de chipfunctionaliteit bepalen. Die naam wordt dan wel zichtbaar op de layout (of op de plot van de layout) maar verder heeft die geen functie op de chip.
+De polygonen waaruit de naam bestaat moeten echter wel voldoen aan de ontwerpregels van de technologie. 
+Nog leuker zou het zijn als die ontwerpers ook het logo van hun bedrijf zouden kunnen mee op de chip zetten. Er bestaan wel wat omzetters van verschillende formaten naar GDSII, maar geen daarvan houdt rekening met de ontwerpregels (DRC regels).
+          </p>
+          <p>
+
+In dit eindwerk zou een student zo een ‘propere’ omzetter schrijven van een of meerdere grafische formaten naar een GDSII bestand dat voldoet aan de ontwerpregels van een specifieke technologie. Het programma moet toelaten verschillende technologieën te ondersteunen.
+          </p>
+          <p>
+
+Afhankelijk van een eerste feasibilitystudie kunnen de volgende opties geïmplementeerd worden: 
+          </p>
+          
+          <ol>
+          
+<li>zwart/wit bmp naar gdsII</li> 
+<li>greyscale bmp naar gdsII:    zwart/wit en 1 a 2 grijswaarden</li>
+<li>kleur bmp naar gdsII.</li>
+<li>multi format (tiff, gif, png,...) naar gdsII.</li>
+
+          </ol>
+          <p>
+Dit is een software eindwerk, maar je hebt wel een GDSII viewer nodig om het resultaat te kunnen bekijken. De student moet ook regelmatig naar imec komen om DRC checks te lopen op de gegenereerde GDSII bestanden.  
+          </p>
+          <p>
+Aantal studenten: 1 
+          </p>
+          <p>
+Contacteer: erwin.deumens@imec.be
+          </p>
+       </section>     
+            
+            
+       <anchor id="guimod"/>
+       <section>
+         <title>Development of GUI modules</title>
+<p>
+If you are interested in the exciting world of graphical programming this is a great opportunity. In Septentrio you will write modules for Graphical User Interfaces, which will be shared among the different applications in the GUI and Tools department. These tools help in order to control and monitor the GNSS receivers. You will be assisted by a group  of experienced programmers so that you can learn the techniques of GUI programming and multiplatform development.
+</p>
+<p>
+        An ideal candidate has:
+</p>
+<ul>
+<li>experience with programming in C, C++ (Qt is a plus)</li>
+<li>experience with multi platform programming in Linux and Windows (Windows Mobile is a plus)</li>
+<li>experience in GUI programming (is a plus)</li>            
+         </ul>
+       </section>
+
+
+       <anchor id="regrtest"/>
+       <section>
+         <title>Extension of regression test framework</title>
+         <p>
+In order to efficiently test its gps receiver software, Septentrio has setup an automated regression test framework that is launched nigthly.
+The tests are evaluating the key performance parameters of our receivers. Position accuracy ( &lt; 2 cm ?),  Availability (100% in benign conditions), Reliability (chance on Hazardous misleading information). 
+A professional GPS receiver is  a very complex device though and many more parameters have to be examined on a daily bases. You will contribute to the overall development efficiency,  by programming extra test cases into the regression framework. 
+The tests are written in python.
+         </p>
+         
+         <ul>
+<li>Period:  4->8 months</li>
+<li>Title:  Python programmer</li>
+<li>Experience:  1-2 years relevant experience</li>
+<li>Task:  extension of regression test framework</li>
+</ul>
+         </section> 
+
+         
+         
+       <anchor id="asic035"/>
+       <section>
+         <title>Het aanpassen van de ASIC designkit voor 0.35µm CMOS technologie naar Linux omgeving</title>
+         
+         <section>
+           <title>Achtergrond</title>
+           <p>
+De 0.35µm CMOS technologie van On-semiconductors is erg gegeerd in auto-,
+medische- en ruimtevaartindustrie omdat ze stabiel, stralingsbestendig en
+goedkoop is.
+           </p>
+           <p>
+Designs worden dezer dagen gemaakt met Cadence. Dit is het programma dat
+elke professionele ASIC designer gebruikt.
+           </p>
+         </section>
+          <section>
+            <title>Onderwerp – domein</title>
+            <p>
+VLSI electronics – ASIC design
+            </p>
+          </section>
+         <section>
+           <title>Inhoud</title>
+           <p>
+De huidige designs worden in een UNIX omgeving gemaakt.
+Om met de state-of-the-art Cadence versies te werken moet de designkit
+worden aangepast om te werken onder Linux.
+           </p>
+           <p>
+Dit houdt in de modellen om te zetten, omtwerptools aan te passen en het
+geheel te testen door een eigen chip ontwerp te maken. Dit ontwerp mag
+gekozen worden door de studenten zelf.
+           </p>
+          </section>
+           <section>
+           <title>Doel</title>
+           <p>
+IMEC is op zoek naar enthousiaste studenten die willen helpen de designkit in
+een nieuw jasje te steken.
+           </p>
+           <p>
+Bij de start krijgen de studenten een introductiecursus Cadence-based full
+custom design. Deze kennis geeft de studenten de nodige basis om deze thesis
+tot een succesvol einde te brengen want hun eigen ontwerp zal worden
+gefabriceerd en de studenten zullen hun design hierna testen.
+           </p>
+           <p>
+Deze thesis is erg gevarieerd door zowel met software als met ASIC chip design
+bezig te zijn. De studenten leren alle aspecten van chip design kennen zoals
+simulatie, layouting, layout verificatie en post layout simulatie.
+           </p>
+           <p>
+Hun aangepaste designkit zal over de hele wereld worden verspreid naar
+klanten in industrie, universiteiten en research instellingen.
+           </p>
+         </section>
+          <section>
+            <title>Voorkennis</title>
+            <p>
+Basis elektronica
+            </p>
+            <p>
+Basis programeren
+            </p>
+          </section>
+          <section>
+            <title>Aantal studenten</title>
+            <p>
+              2 studenten
+            </p>
+          </section>
+          <section>
+            <title>Contact, begeleiding</title>
+            <p>
+Robin Brouns, Robin.Brouns@imec.be
+            </p>
+            <p>
+Steven Redant, Steven.Redant@imec.be
+            </p>
+          </section>
+           
+           
+          
+       </section>
+         
+         -->
+
+       
+       
+       <!--
+       Dit is enkel een situering
+       
+       <anchor id="uwbsit"/>
+       <section>
+         <title>Ultra-WideBand (UWB) voor in vivo dosimetrie: situering</title>
+         <p>
+Ultra-WideBand is opkomende draadloze technologie. Zoals de naam doet vermoeden, zijn de gebruikte signalen zeer breedbandig waardoor er veel informatie kan verzonden worden. Weldra zal deze technologie gebruikt worden bij de nieuwe draadloze USB (WUSB) [1], WBANs [2] en WLANs. De technologie op zich bestaat al sinds de jaren ’70 maar kent de afgelopen jaren meer belangstelling. Dit mede door het regulariseren van UWB door het FCC in 2002. Naast het draadloos verzenden van data op korte afstanden tegen grote snelheden heeft UWB nog meer troeven. Zo wordt UWB ook gebruikt voor radartoepassingen. Door de breedbandige signalen kan er immers veel meer informatie afgeleid worden van het doel. Bestaande militaire toepassingen gebruiken UWB om vijanden in gebouwen te lokaliseren [3] of voor de detectie van landmijnen.
+         </p>
+         <p>
+Ook in de biomedische sector heeft de UWB-radar toepassingsmogelijkheden. Zo is het mogelijk om op draadloze wijze de hartslag en ademhaling van patiënten op te volgen [4]. Men gaat zelfs nog een stap verder bij het detecteren van hersenbloedingen [5] of het in kaart brengen van borstkanker op een 3-D mammografie [6]. Het principe is steeds dat iedere significante wijziging in elektromagnetische parameters van een materiaal kan teruggevonden worden in het gereflecteerde signaal. 
+         </p>
+         <p>
+
+Wij wensen een UWB-radar te ontwerpen voor het detecteren van de geabsorbeerde stralingsdosis bij kankerpatiënten in radiotherapie. Momenteel ondergaan kankerpatiënten die radiotherapie volgen een programma dat opgesteld wordt door de radiotherapeut en de bestralingsfysicus. Zij doen dit aan de hand van verscheidene scans en computermodellen die al dan niet geverifieerd zijn op fantomen. Dit geeft echter een algemene benadering. Een patiënt volgt dit programma dat enigszins kan gewijzigd worden op basis van scans. Het nadeel van deze methode is dat er niet kan bijgestuurd worden tijdens de bestraling, er zijn namelijk geen gegevens beschikbaar over de effectief geabsorbeerde stralingsdosis van de patiënt.
+         </p>
+         <p>
+
+Bij het bestralen van organisch weefsel ontstaan kortstondig vrije radicalen. Deze vrije radicalen geven aanleiding tot perturbaties in de lokale elektrische parameters van het weefsel, wat zorgt voor een gewijzigde elektromagnetische impedantie. UWB-signalen hebben een hoge temporale resolutie in de orde van ps tot enkele ns, wat ze bijzonder geschikt maakt voor het opmeten van deze processen.
+         </p>
+         <p>
+Figuur  Smalband signalen vs. UWB-signalen in frequentie- en tijdsdomein [5]
+         </p>
+         <p>
+Referenties:
+         </p>
+<ul>         
+<li>[1]	http://en.wikipedia.org/wiki/Wireless_USB</li>
+<li>[2]	http://en.wikipedia.org/wiki/Body_area_network</li>
+<li>[3]	http://www.youtube.com/watch?v=U_BIWdBPJ9k</li>
+<li>[4]	I. Immoreev, Teh-Ho Tao, “UWB Radar for Patient Monitoring,” IEEE Aerospace and Electronic Systems Magazine, vol. 23, no. 11, pp. 11-18, 2008.</li>
+<li>[5]	C. N. Paulson et al., “Ultra-wideband Radar Methods and Techniques of Medical Sensing and Imaging,” Proceedings of the SPIE, vol. 6007, pp. 96-107, 2005.</li>
+<li>[6]	S. K. Davis et al., “Breast Tumor Characterization Based on Ultrawideband Microwave Backscatter,” IEEE Transactions on Biomedical Engineering, vol. 55, no. 1, pp. 89-93, 2008.</li>
+</ul>
+              </section>
+
+       
+       -->
+       
+       
+       
+       
+       
+       
+       
+         
+  <!--
+    Niet gekozen       
+
+       <anchor id="uwb"/>
+       <section>
+         <title>Ultra-WideBand (UWB) voor in vivo dosimetrie</title>
+         <p>
+Ultra-WideBand is opkomende draadloze technologie. Zoals de naam doet vermoeden, zijn de gebruikte signalen zeer breedbandig waardoor er veel informatie kan verzonden worden. Weldra zal deze technologie gebruikt worden bij de nieuwe draadloze USB (WUSB) [1], WBANs [2] en WLANs. De technologie op zich bestaat al sinds de jaren ’70 maar kent de afgelopen jaren meer belangstelling. Dit mede door het regulariseren van UWB door het FCC in 2002. Naast het draadloos verzenden van data op korte afstanden tegen grote snelheden heeft UWB nog meer troeven. Zo wordt UWB ook gebruikt voor radartoepassingen. Door de breedbandige signalen kan er immers veel meer informatie afgeleid worden van het doel. Bestaande militaire toepassingen gebruiken UWB om vijanden in gebouwen te lokaliseren [3] of voor de detectie van landmijnen.
+         </p>
+         <p>
+Ook in de biomedische sector heeft de UWB-radar toepassingsmogelijkheden. Zo is het mogelijk om op draadloze wijze de hartslag en ademhaling van patiënten op te volgen [4]. Men gaat zelfs nog een stap verder bij het detecteren van hersenbloedingen [5] of het in kaart brengen van borstkanker op een 3-D mammografie [6]. Het principe is steeds dat iedere significante wijziging in elektromagnetische parameters van een materiaal kan teruggevonden worden in het gereflecteerde signaal. 
+         </p>
+         <p>
+
+Wij wensen een UWB-radar te ontwerpen voor het detecteren van de geabsorbeerde stralingsdosis bij kankerpatiënten in radiotherapie. Momenteel ondergaan kankerpatiënten die radiotherapie volgen een programma dat opgesteld wordt door de radiotherapeut en de bestralingsfysicus. Zij doen dit aan de hand van verscheidene scans en computermodellen die al dan niet geverifieerd zijn op fantomen. Dit geeft echter een algemene benadering. Een patiënt volgt dit programma dat enigszins kan gewijzigd worden op basis van scans. Het nadeel van deze methode is dat er niet kan bijgestuurd worden tijdens de bestraling, er zijn namelijk geen gegevens beschikbaar over de effectief geabsorbeerde stralingsdosis van de patiënt.
+         </p>
+         <p>
+
+Bij het bestralen van organisch weefsel ontstaan kortstondig vrije radicalen. Deze vrije radicalen geven aanleiding tot perturbaties in de lokale elektrische parameters van het weefsel, wat zorgt voor een gewijzigde elektromagnetische impedantie. UWB-signalen hebben een hoge temporale resolutie in de orde van ps tot enkele ns, wat ze bijzonder geschikt maakt voor het opmeten van deze processen.
+         </p>
+         <p>
+
+
+               <img alt="figuur" src="maproef/2010-2011/uwb-2.jpg"/>
+         </p>
+         <p>
+
+Figuur  Smalband signalen vs. UWB-signalen in frequentie- en tijdsdomein [5]
+         </p>
+         <p>
+Deze masterproef heeft als doel om innovatieve circuits te ontwikkelen voor een UWB-radar die in staat is om de geabsorbeerde stralingsdosis op te meten. Je ontwikkelt hiervoor een UWB-pulsgenerator die al dan niet digitaal instelbaar is. De gegenereerde puls moet voldoen aan een vooropgesteld spectraal masker. De grote uitdaging in dit ontwerp schuilt in de eis dat de pulsvorm steeds dezelfde moet zijn.
+         </p>
+         <p>
+
+Je kan hierbij als volgt tewerk gaan:
+         </p>
+         <p>
+Literatuurstudie: Nuttig voor het verkennen van methodes en gebruiken in UWB-radars alsook voor de internationale stand van zaken. Je zal verder ook op zoek moeten gaan naar concrete schakelingen voor UWB-pulsgeneratie.
+Simulatie: Hier kan je jouw creativiteit de vrije loop laten gaan door een schakeling te ontwerpen die voldoet aan vooropgestelde specificaties.
+Lay-out: In een laatste fase kan je het ontwerp uittekenen op een chip. Een aantal belangrijke aspecten hierbij zijn symmetrie en oppervlakte.
+         </p>
+         <p>
+
+Voor deze opdracht is een algemene basiskennis van geïntegreerde elektronica vereist. Tevens moet de student op zelfstandige wijze kunnen werken met simulatie- en modelleringsoftware (SPICE, Matlab, …). De stage kan uitgevoerd worden binnen onderzoeksgroep RELIC van de K.H.Kempen of de onderzoeksgroep ESAT-MICAS van de K.U.Leuven. Op deze manier kan de student een eerste onderzoekservaring opdoen.
+         </p>
+         <p>
+Contactgegevens:
+         </p>
+         <ul>
+<li>Paul Leroux			paul.leroux@khk.be of paul.leroux@esat.kuleuven.be</li>
+<li>Maarten Strackx		maarten.strackx@khk.be</li>
+         </ul>
+         
+         <p>
+Referenties:
+         </p>
+         <ul>
+
+<li>[1]	<link href="http://en.wikipedia.org/wiki/Wireless_USB">en.wikipedia.org/wiki/Wireless_USB</link></li>
+<li>[2]	<link href="http://en.wikipedia.org/wiki/Body_area_network">en.wikipedia.org/wiki/Body_area_network</link></li>
+<li>[3]	<link href="http://www.youtube.com/watch?v=U_BIWdBPJ9k">www.youtube.com/watch?v=U_BIWdBPJ9k</link></li>
+<li>[4]	I. Immoreev, Teh-Ho Tao, “UWB Radar for Patient Monitoring,” IEEE Aerospace and Electronic Systems Magazine, vol. 23, no. 11, pp. 11-18, 2008.</li>
+<li>[5]	C. N. Paulson et al., “Ultra-wideband Radar Methods and Techniques of Medical Sensing and Imaging,” Proceedings of the SPIE, vol. 6007, pp. 96-107, 2005.</li>
+<li>[6]	S. K. Davis et al., “Breast Tumor Characterization Based on Ultrawideband Microwave Backscatter,” IEEE Transactions on Biomedical Engineering, vol. 55, no. 1, pp. 89-93, 2008.</li>
+<li>[7]	Verhelst, M., Dehaene W. (2009). Energy Scalable Radio Design for Pulsed UWB Communication and Ranging. Springer.</li>
+         </ul>
+
+         <p>
+               <img alt="figuur" src="maproef/2010-2011/uwb-3.jpg"/>
+         </p>
+
+         <p>
+Figuur  Lay-out van een volledig geïntegreerde QAC IR-UWB receiver [7]
+         </p>
+       </section>
+       
+       
+
+
+       <anchor id="uwbrec"/>
+       <section>
+         <title>Ultra-WideBand (UWB) voor in vivo dosimetrie: receiver</title>
+         <p>
+Deze masterproef heeft als doel om innovatieve circuits te ontwikkelen voor een receiver in een UWB-radar die in staat is om de geabsorbeerde stralingsdosis op te meten. Het ontwerp kan bestaan uit een LNA, VGA, correlator of ADC. 1 geeft de architectuur weer van een klassieke impulse radio (IR)-UWB receiver voor telecommunicatiedoeleinden. 2 geeft ter illustratie een lay-out weer van een volledig geïntegreerde IR-UWB ontvanger.
+         </p>
+         <p>
+De low noise amplifier (LNA) moet over een grote bandbreedte gematched zijn aan de antenne. Deze trap zorgt voor een eerste versterking waarbij het belangrijk is om zo weinig mogelijk ruis toe te voegen aan het signaal. De variable gain amplifier (VGA) vangt wijziging in signaalsterkte op door de versterking bij te regelen. Het laatste blok in deze keten is de ADC. Dit zorgt ervoor dat verdere bewerkingen in het digitale domein kunnen plaatsvinden.
+         </p>
+         <p>
+Figuur  Blokschema van een IR-UWB-ontvanger met een tijdsdomeincorrelator [1]
+         </p>
+         <p>
+Het belangrijkste verschil tussen UWB-radars en klassieke UWB-schakelingen ligt bij de correlator. Bij telecommunicatie is men immers alleen maar geïnteresseerd in de detectie en binaire kwalificatie van UWB-pulsen. Het voordeel hier is dat de ontvangen puls nog sterk gelijkt op de uitgestuurde puls waardoor men een correlatie kan doen tussen het ontvangen signaal en een template. De template wordt gebruikt als referentie om te kunnen besluiten of men een puls binnenkrijgt en eventueel te vergelijken met welk symbool dit overeenstemt. Het resultaat van de correlatie wordt over meerdere pulsen geïntegreerd om een hogere energie-inhoud te bekomen. De UWB-pulsen bezitten zo weinig energie dat deze niet boven de ruisvloer komen.
+Bij een UWB-radar is het verloop van de reflectie op voorhand niet gekend. Dit is immers afhankelijk van de vorm en elektromagnetische parameters van het te observeren doel. Als de reflectie weinig gelijkt op een template, dan zal de correlatie geen resultaat leveren. Daarbij komt nog het feit dat we expliciet geïnteresseerd zijn in het verloop van de reflectie. Iets waar men bij telecommunicatie minder belang aan hecht.
+Gelukkig bestaan er een aantal oplossingen om dit probleem te verhelpen. Een methode is gebruik maken van een autocorrelatie. Hierbij wordt in de ontvanger gekeken hoe goed 2 opeenvolgende pulsen met elkaar correleren. Een andere methode is gebruik maken van een software receiver. Door het digitale deel dichter bij de antenne te plaatsen kunnen er meer rekenintensieve bewerkingen plaatsvinden. In de literatuur zijn er verschillende alternatieven terug te vinden.
+         </p>
+
+         <p>
+               <img alt="figuur" src="maproef/2010-2011/uwb-3.jpg"/>
+         </p>
+         <p>
+Figuur  Lay-out van een volledig geïntegreerde QAC IR-UWB receiver [2]
+         </p>
+         <p>
+Je kan hierbij als volgt tewerk gaan:
+         </p>
+         <ul>
+<li>Literatuurstudie: Nuttig voor het verkennen van methodes en gebruiken in UWB-radars alsook voor de internationale stand van zaken. Je zal verder ook op zoek moeten gaan naar concrete schakelingen voor UWB-radar receivers</li>
+<li>Simulatie: Hier kan je jouw creativiteit de vrije loop laten gaan door een schakeling te ontwerpen die voldoet aan vooropgestelde specificaties.</li>
+<li>Lay-out: In een laatste fase kan je het ontwerp uittekenen op een chip. Een aantal belangrijke aspecten hierbij zijn symmetrie en oppervlakte.</li>
+         </ul>
+         <p>
+Voor deze opdracht is een algemene basiskennis van geïntegreerde elektronica vereist. Tevens moet de student op zelfstandige wijze kunnen werken met simulatie- en modelleringsoftware (SPICE, Matlab, …). De stage kan uitgevoerd worden binnen de onderzoeksgroep RELIC van de K.H.Kempen of de onderzoeksgroep ESAT-MICAS van de K.U.Leuven. Op deze manier kan de student een eerste onderzoekservaring opdoen.
+         </p>
+         <p>
+Contactgegevens:
+         </p>
+         <ul>
+<li>Paul Leroux			paul.leroux@khk.be of paul.leroux@esat.kuleuven.be</li>
+<li>Maarten Strackx		maarten.strackx@khk.be</li>
+         </ul>
+
+         <p>
+         Referenties:
+         </p>
+         <ul>
+         
+<li>[1]	Asad Abidi, Payam Heydari, “Special session: Low-power UWB transceiver design,” IEEE Int’l Symposium on Low-Power Electronics and Design (ISLPED), p. 301, 2005.</li>
+<li>[2]	Verhelst, M., Dehaene W. (2009). Energy Scalable Radio Design for Pulsed UWB Communication and Ranging. Springer.</li>
+         </ul>
+       </section>
+
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+       <anchor id="uwbtrans"/>
+       <section>
+         <title>Ultra-WideBand (UWB) voor in vivo dosimetrie: transmitter</title>
+         <p>
+Deze masterproef heeft als doel om innovatieve circuits te ontwikkelen voor een UWB-radar die in staat is om de geabsorbeerde stralingsdosis op te meten. Je ontwikkelt hiervoor een UWB-pulsgenerator die al dan niet digitaal instelbaar is zodat de mogelijkheid bestaat om uit een aantal pulsen te kiezen. De gegenereerde puls moet voldoen aan een vooropgesteld spectraal masker. De grote uitdaging in dit ontwerp schuilt in de eis dat de pulsvorm steeds dezelfde moet zijn.
+         </p>
+         <p>
+Het voordeel van impulse radio (IR)-UWB is dat er geen up-conversie plaatvindt bij de zender. Dit reduceert de complexiteit van de zenderschakeling. Vaak gebruikt men gaussiaanse pulsen of n-de orde afgeleiden ervan. 1 geeft deze signalen weer. Door de gaussiaanse puls af te leiden zal het spectrum verschuiven naar de hogere frequenties. Vanaf een 4e orde afgeleide blijft in dit geval het spectrum onder het masker. 2 geeft een voorbeeld van een praktische implementatie weer voor UWB-pulsgeneratie. De schakeling wekt een 2e orde afgeleide op en zal deze versterken alvorens de puls een definitieve vorm krijgt.
+         </p>
+
+         <p>
+               <img alt="figuur" src="maproef/2010-2011/uwb-4.jpg"/>
+         </p>
+         <p>
+Figuur n-de orde afgeleiden van een gaussiaanse puls [1]
+         </p>
+         <p>
+               <img alt="figuur" src="maproef/2010-2011/uwb-5.jpg"/>
+         </p>
+         <p>
+
+
+Figuur  UWB-pulsgenerator [2]
+         </p>
+         <p>
+
+Je kan hierbij als volgt tewerk gaan:
+         </p>
+         <ul>
+<li>Literatuurstudie: Nuttig voor het verkennen van methodes en gebruiken in UWB-radars alsook voor de internationale stand van zaken. Je zal verder ook op zoek moeten gaan naar concrete schakelingen voor UWB-pulsgeneratie (figuur 2 is slechts een voorbeeld).</li>
+<li>Simulatie: Hier kan je jouw creativiteit de vrije loop laten gaan door een schakeling te ontwerpen die voldoet aan vooropgestelde specificaties.</li>
+<li>Lay-out: In een laatste fase kan je het ontwerp uittekenen op een chip. Een aantal belangrijke aspecten hierbij zijn symmetrie en oppervlakte.</li>
+         </ul>
+         <p>         
+Voor deze opdracht is een algemene basiskennis van geïntegreerde elektronica vereist. Tevens moet de student op zelfstandige wijze kunnen werken met simulatie- en modelleringsoftware (SPICE, Matlab, …). De stage kan uitgevoerd worden binnen de onderzoeksgroep RELIC van de K.H.Kempen of de onderzoeksgroep ESAT-MICAS van de K.U.Leuven. Op deze manier kan de student een eerste onderzoekservaring opdoen.
+         </p>
+         <p>
+Contactgegevens:
+         </p>
+         <ul>
+
+<li>Paul Leroux			paul.leroux@khk.be of paul.leroux@esat.kuleuven.be</li>
+<li>Maarten Strackx		maarten.strackx@khk.be</li>
+         </ul>
+         <p>
+Referenties:
+         </p>
+         <ul>
+<li>[1]	Gharpurey, R., Kinget, P. (2007). Ultra Wideband Circuits, Transceivers and Systems. New York: Springer.</li>
+<li>[2]	Yuanjin Zheng et al., “A CMOS Carrier-less UWB Transceiver for WPAN Applications,” ISSCC Dig. Tech. Papers, pp. 116–117, 2006.</li>
+         </ul>
+       </section>
+
+         
+         
+         
+         
+         
+         
+         
+
+
+
+
+
+
+
+
+
+
+       <anchor id="bragg"/>
+       <section>
+         <title>Development of the fast fiber Bragg grating interrogation system</title>
+         <section>
+           <title>Introduction/framework</title>
+           <p>
+The use of a liquid metal (LM) in MYRRHA (<link href="http://myrrha.sckcen.be/">myrrha.sckcen.be</link>) makes its inspection and maintenance very difficult because standard optical methods are not suitable in this case. To solve the inspection issue the ARI group of ANS is developing an ultrasonic (US) imaging system suitable for the MYRRHA very particular environment
+We propose to explore a new approach to the US visualization, using the possibilities offered by the fiber optics technology, in particular by the fiber Bragg gratings (FGBs). The feasibility of using FBGs for US detection in a standard environment was demonstrated recently. There are several important advantages in the use of FBGs for US visualization. FBGs are very compact, operate passively, which removes the need for electronics inside the pool; gratings types, which can sustain temperatures up to 800° for long service times are available; potentially many gratings can be multiplexed on fiber. 
+A FBGs-based US visualization system should include a PZT emitter and an array of FBG receivers multiplexed on one or several fibers. Such system would allow to significantly reduces the system complexity as compared to a standard system. 
+           </p>
+         </section>
+         <section>
+           <title>Objectives of the project</title> 
+
+           <p>
+The MYRRHA visualization system should operate in the 5 MHz frequency range, which is defined by the compromise between the resolution and the attenuation. Therefore, an interrogation system allowing sampling at 10 MHz or higher rate is required to detect the ultrasound waves. Such fast systems are currently not available. The goal of the work is to study possible solutions and to construct an electronic system suitable for the interrogation at the required speed. Currently amplitude detection based system is considered. However, other possibilities require a due assessment. The system operation must be experimentally demonstrated at the end of the work. 
+           </p>
+         </section>
+         <section>
+           <title>Foreseen time schedule</title>
+           <p>
+Potential university which will guide the work/ existing collaborations
+           </p>
+           <p>
+The PhD will be prepared under joint mentorship of the Advanced Reactor Instrumentation (ARI) expertise group of the SCK-CEN and ???. 
+The ARI group has a long and well-established experience in the studying of radiation effects in optical fibers, including fiber optic dosimetry. ARI is also responsible for the development of the visualization system for MYRRHA. 
+The partner academic organizations is …
+           </p>
+         </section>  
+         <section>
+           <title>Contact person(s)</title>
+           <p>
+SCK-CEN Belgian Nuclear Research Center, ARI-ANS: 
+A. Gusarov
+Tel +32 (0) 14 33 34 42, e-mai: agusarov@sckcen.be, paul.leroux@khk.be
+           </p>
+         </section>
+       </section>
+       <anchor id="robsensor"/>
+       <section>
+         <title>Ontwerp en characterisatie van een robuuste meerkanaals programmeerbare sensor interface voor gebruik in extreme omgevingen</title><p></p>
+         <section>
+           <title>Inleiding</title>
+           <p>
+Sensornetwerken maken tegenwoordig integraal deel uit van innovatieve producten en geavanceerde systemen. Deze netwerken laten interactie toe tussen het systeem en de buitenwereld. Waar mogelijk worden tegenwoordig slimme sensorsystemen gebruikt die zowel de sensoren zelf als alle signaalverwerkings- elektronica en communicatie-elektronica met PC of microcontroller bevatten. Een belangrijke eigenschap van zo'n slimme sensor is zijn flexibiliteit en gebruiksgemak. Aan de uitgang van zo'n sensornetwerk kan men doorgaans gebruik maken van één van de talrijke beschikbare bus protocols zoals RS232, USB... Aan de ingangszijde, de scheiding tussen de elektronica en de sensor zelf zijn geen standaarden beschikbaar. Aangezien er een breed scale van verschillende sensortypes bestaat (resistief, capacitief, inductief...) en de sensorinformatie op verschillende manieren kan voorgesteld worden (stroom, spanning, frekwentie...) heeft men voor elk type specifieke elektronica nodig wat de ontwikkeling van een sensornetwerk een moeilijk en langdurig proces maakt. De bedoeling van dit project is deze problemen op te lossen door een sensor interface circuit te ontwikkelen dat universeel kan geprogrammeerd worden om deze verscheidenheid aan verschillende sensoren uit te lezen.
+           </p>
+         </section>
+         <section>
+           <title>Objectieven</title>
+           <p>
+Dit eindwerk beoogt de ontwikkeling en realisatie van een sensor interface circuit welke een kritische link vormt tussen een microcontroller/PC en een netwerk van verschillende sensortypes in een complex monitoring systeem. De schakeling zal een 16-lijns, seriele sensor bus omvatten met gemultiplexte analoge uitgangssignalen. De schakeling bevat onder andere de volgende componenten: een multiplexer, een temperatuurssensor voor eventuele temperatuurscompensatie en programmeerbare sensor uitleeselektronica die compatibel is met meerdere types sensoren zoals capacitieve, inductieve, resistieve, potentiometrische...
+De schakeling zal gemaakt worden met hoge temperatuursbestendige elektronische componenten. Dit zal toelaten de uiteindelijke schakeling te gebruiken in extreme omgevingsomstandigheden zoals die optreden in nucleaire systemen zoals bijvoorbeeld MYRRHA (http://myrrha.sckcen.be/) en ITER (http://www.iter.org).
+           </p>
+         </section>
+        </section>
+
+
+
+
+
+
+
+       <anchor id="ultrasonecamera"/>
+       <section>
+         <title>Ontwerp van een ultrasone camera demonstrator bord</title>
+         <section>
+           <title>Inleiding</title> 
+           <p>
+Het doel van dit werk is het ontwerp van een demonstrator bord voor een ultrasone camera voor visualizatie in een vloeibaar metaal binnen in de reactor kuip van de MYRRHA reactor. Deze kuip is gevuld met een vloeibare metaal-legering bestaande uit lood en bismuth op ongeveer 300°C. Dit stelt elk ondergedompeld voorwerp bloot aan hoge temperaturen en een zekere stralingsdosis. De sensor dient om de operatoren van de MYRRHA beelden te veschaffen van het binnenste van de reactor met mm resolutie. Deze beelden zijn cruciaal om op een veilige manier manipulaties uit te voeren in de reactor zoals het laden en ontladen van brandstofelementen. De ultrasone camera kan gezien worden als een matrix van individuele sensor-elementen wiens signalen kunnen samengevoegd worden tot een (3D) beeld.
+           </p>
+         </section>
+         <section>
+           <title>Objectieven</title>
+           <p>
+Het doel van dit werk is de realisatie van een demonstrator bord voor de ultrasone camera hierboven beschreven. Commercial of the shelf (COTS) componenten zullen gebruikt worden om dit te verwezenlijken. Deze demonstrator zal instaan voor alle digitale en analoge functies die nodig zijn in een typisch ultrasoon systeem. Dit zijn onder andere, generatie van hoogspanningspulsen en schakelen van deze signalen, ultrasone bundelvorming, analoge en digitale signaal verwerking, vermogensbeheer van de schakeling...Al deze verschillende functies zullen samengebracht worden op een printplaat. Een laatste opdracht is het specifieren van de software die nodig is om deze signalen op een scherm te tonen. De programmatie zelf is geen noodzakelijk deel van dit werk.
+           </p>
+          </section>
+        </section>
+
+
+
+
+
+
+
+
+       <anchor id="sensormatrix"/>
+       <section>
+         <title>Ontwerp van een MEMS gebaseerde ultrasone sensor matrix voor visualizatie in vloeibaar metaal</title>
+         <section>
+           <title>Inleiding</title>
+           <p>
+Het doel van dit werk is het ontwerp van een ultrasone camera voor visualizatie in een vloeibaar metaal binnen in de reactor kuip van de MYRRHA (<link href="http://myrrha.sckcen.be/">myrrha.sckcen.be</link>) reactor. Deze kuip is gevuld met een vloeibare metaal-legering bestaande uit lood en bismuth op ongeveer 300°C. Dit stelt elk ondergedompeld voorwerp bloot aan hoge temperaturen en een zekere stralingsdosis. De sensor dient om de operatoren van de MYRRHA beelden te veschaffen van het binnenste van de reactor met mm resolutie. Deze beelden zijn cruciaal om op een veilige manier manipulaties uit te voeren in de reactor zoals het laden en ontladen van brandstofelementen.
+De ultrasone camera kan gezien worden als een matrix van individuele sensor-elementen wiens signalen kunnen samengevoegd worden tot een (3D) beeld. Tegenwoordig maakt men meer en meer gebruik van ultrasone sensoren gemaakt uit silicium gebaseerde micro-elektro mechanische systeem technologieën. Door hun kleine afmetingen laten deze toe van een groot aantal sensoren te integreren in een grote matrix. 
+           </p>
+         </section>
+         <section>
+           <title>Objectieven</title>
+           <p>
+De exacte configuratie en ontwerp van de individuele sensor-elementen om te komen tot een ultrasone camera, vormt het onderwerp van dit onderzoek. Er zal gebruik gemaakt worden van een Silicon-on-insulator (SOI) MEMS technologie zodat in een latere stap ook de stuur- en controle-elektronica kan geïntegreerd worden in dezelfde technologie. Dit laatste is echter geen onderdeel van dit werk. In een eerste stap zal één enkel sensorelement gemodelleerd en gesimuleerd worden in zijn omgeving, PbBi. Daarna kan dit element gebruikt worden om verschillende configuraties van meerdere elementen te bestuderen om te komen tot het beste camerabeeld. De optimale configuratie zal uiteindelijk fysisch gerealiseerd worden in de MEMS technologie. 
+           </p>
+         </section>
+        </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+       <anchor id="uzenderontv"/>
+       <section>
+         <title>Ontwerp van een geïntegreerde ultrasone zender-ontvanger schakeling voor gebruik in extreme omgevingen</title><section>
+           <title>Inleiding</title>
+           <p>
+Het doel van dit werk is het ontwerp van een analoge zender-ontvanger voor een ultrasone camera voor visualizatie in een vloeibaar metaal binnen in de reactor kuip van de MYRRHA (http://myrrha.sckcen.be/) reactor. Deze kuip is gevuld met een vloeibare metaal-legering bestaande uit lood en bismuth op ongeveer 300°C. Dit stelt elk ondergedompeld voorwerp bloot aan hoge temperaturen en een zekere stralingsdosis. De sensor dient om de operatoren van de MYRRHA reactor beelden te veschaffen van het binnenste van de reactor met mm resolutie. Deze beelden zijn cruciaal om op een veilige manier manipulaties uit te voeren in de reactor zoals het laden en ontladen van brandstofelementen.
+De ultrasone camera kan gezien worden als een matrix van individuele sensor-elementen wiens signalen kunnen samengevoegd worden tot een (3D) beeld. Om deze sensor matrix aan te sturen en de gegenereerde signalen te verwerken is controle elektronica nodig. Deze elektronica zal geïntegreerd worden in een stralingsharde een hoge temperatuurstechnologie. Deze zal toelaten ook de sensor matrix zelf in dezelfde technologie te integreren gebruik makende van micro-elektro-mechanische systeem (MEMS) technieken. Dit laatste is echter geen deel van dit werk.
+           </p>
+         </section>
+         <section>
+           <title>Objectieven</title>
+           <p>
+Het belangrijkste doel van dit onderzoek is de realisatie van de zender en ontvanger elektronica nodig om een sensor matrix aan te sturen en de ontvangen signalen te verwerken. Deze elektronica omvat onder andere typische bouwblokken zoals lage ruis versterkers, multiplexers, hoge spanningsrelais, hoge spanning puls generatoren... Om de ontwikkelde elektronica bestand te maken tegen hoge temperaturen en straling zal een state-of-the-art silicon-on-insulator technologie gebruikt worden. In een eerste stap zullen de nodige specificaties voor de verschillende bouwblokken afgeleid worden gebaseerd op de signalen die typisch uit een ultrasone sensor komen. Daarna kunnen de verschillende schakelingen gemodelleerd, ontworpen en gesimuleerd worden. Tot slot worden de verschillende bouwblokken gecombineerd tot een volledige zender-ontvanger voor de ultrasone camera.
+           </p>
+         </section>
+       </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       <anchor id="uchip"/>
+       <section>
+         <title>Ontwerp van een ultrasoon ontvangerchip voor toepassingen bij hoge temperatuur</title>
+
+         <p>
+Deze stage, uitgevoerd binnen de expertisegroep Geavanceerde Reactor Instrumentatie op het Studie Centrum voor Kernenergie (SCK·CEN) in Mol, beoogt het ontwerp en de optimalisatie van een ultrasoon ontvanger IC. Deze ontvanger zal o.a. gebruikt worden voor toepassingen in de MYRRHA reactor (4de generatie) die ontwikkeld wordt op het SCK·CEN (Fig. 1). Hierbij wordt de schakeling blootgesteld aan extreem hoge temperaturen (&gt;250°C).
+         </p>
+         <p>
+De ontvanger maakt deel uit van een ultrasone camera die gebruikt dient te worden voor visuele inspectie van de positie van de splijtstofelementen in de reactorkern. Hierbij wordt de camera noodgedwongen ondergedompeld in vloeibaar metaal (Pb/Bi). Om werking bij hoge temperaturen te verzekeren zal gewerkt moeten worden met een technologie die daartegen voldoende bestand is, zoals SOI (Silicon On Insulator). Bijkomstig zal de ultrasoon camera blootgesteld worden aan radioactieve straling tijdens een dergelijke inspectie. Een typische verwachte stralingsdosis is van de orde van 100 kGy (kilo-Gray). Commerciële schakelingen sneuvelen meestal al bij enkele Gy tot enkele kGy.
+         </p>
+         <p>
+
+Tijdens deze masterproef wordt de focus gelegd op het ontwerp en realisatie van een ontvanger prototype. Een mogelijk schema van een dergelijke ontvanger wordt voorgesteld in Fig. 2. Daarbij wordt een piezo-elektrische kristaltransducer met een resonantiefrequentie van enkele MHz gebruikt als sensor. Een impedantieaanpassing met transformator zorgt ervoor dat het ontvangen vermogen optimaal wordt doorgegeven aan de lage-ruis ingangsversterker LNA (Low-Noise Amplifier). De timing zorgt er voor dat de LNA op het juiste moment geactiveerd wordt om zo de directe reflectie vanuit de zender te negeren. Na de versterker zal een analoog/digitaal omzetter de binnenkomende golf digitaliseren. Aangezien de intrinsieke bandbreedte van het ontvangen signaal klein is (bijv. 200 kHz) wordt hier geopteerd voor een delta-sigma omzetter die bemonstert aan een frequentie van 51.2 MHz, een overbemonsteringsverhouding van 128 (128 maal sneller dan Nyquist). Aangezien het signaal zich rond 5MHz bevindt wordt in de -lus een banddoorlaatfilter gebruikt. Voor het gewnste signaal gedraag de lus zich als een banddoorlaatfilter. Voor de quantisatieruis is de lus een bandsperfilter wat zorgt voor de typische noise-shaping en de hoge signaal-ruisverhouding aan de uitgang. Het digitaal signaal wordt verder behandeld in het digitaal domein.
+         </p>
+         <p>
+
+
+In dit eindwerk zullen de verschillende schakelingen hiervoor ontworpen en gevalideerd worden. Dit zal gebeuren via simulaties op hoog niveau met matlab (delta-sigma toolbox) en met Spice op transistorniveau. Daarna wordt een layout getekend van de chip in Cadence of Mentor.
+         </p>
+         <p>
+
+De kandidaat moet een degelijke basiskennis hebben van elektronica en bijhorende simulatieprogramma's en zelfstandig kunnen werken in een vakkundige werkomgeving.
+         </p>
+
+         <p>
+               <img alt="figuur" src="maproef/2010-2011/myrrha-2.png"/>
+         </p>
+         
+
+         <p>
+Fig.1: Schematische doorsnede van de MYRRHA reactor
+         </p>
+
+
+         <p>
+               <img alt="figuur" src="maproef/2010-2011/myrrha-1.jpg"/>
+         </p>
+         <p>
+Fig.2: Ultrasoon ontvanger architectuur met 
+banddoorlaat delta-sigma A/D omzetter
+         </p>
+
+         <p>
+Taken:
+         </p>
+         <ul>
+<li>20% literatuurstudie</li>
+<li>		50% simulaties (matlab, SPICE)</li>
+<li>		20% layout</li>
+<li>		10% testen</li>
+         </ul>         
+         <p>
+Opdracht: 1 of 2 master studenten elektronica-ICT gedurende 1 jaar
+         </p>
+         <p>
+Dagelijkse begeleiding:
+         </p>
+         <ul>
+<li>Paul Leroux (paul.leroux@khk.be)</li>
+<li>Wouter De Cock (wdcock@sckcen.be)</li>
+         </ul>
+
+
+         
+         <p>
+Vereisten:
+         </p>
+         <ul>
+<li>kennis MATLAB is aanbevolen</li>
+<li>kennis SPICE is aanbevolen</li>
+<li>interesse in elektronica</li>
+         </ul>
+         </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       <anchor id="uzender"/>
+       <section>
+         <title>Ontwerp van een ultrasoon zender voor toepassingen bij hoge temperatuur</title>
+         <p>
+Deze stage, uitgevoerd binnen de expertisegroep Geavanceerde Reactor Instrumentatie op het Studie Centrum voor Kernenergie (SCK·CEN) in Mol, beoogt het ontwerp, de karakterisatie en optimalisatie van een ultrasoon zender. Deze zender zal o.a. gebruikt worden voor toepassingen in de MYRRHA reactor (4de generatie) die ontwikkeld wordt op het SCK·CEN (Fig. 1). Hierbij wordt de generator blootgesteld aan extreem hoge temperaturen (&gt;250°C).
+         </p>
+         <p>         
+De zender maakt deel uit van een ultrasone camera die gebruikt dient te worden voor visuele inspectie van de positie van de splijtstofelementen in de reactorkern. Hierbij wordt de camera noodgedwongen ondergedompeld in vloeibaar metaal (Pb/Bi). Om werking bij hoge temperaturen te verzekeren zal gewerkt worden met hoge temperatuur transistoren op basis van bijv. SiC technologie. Deze technologie blijft functioneel tot ±500°C, wat ruimschoots volstaat voor deze toepassing. Bijkomstig zal de zender blootgesteld worden aan radioactieve straling tijdens een dergelijke inspectie. Een typische verwachte stralingsdosis is van de orde van 100 kGy (kilo-Gray). Commerciële schakelingen sneuvelen meestal al bij enkele Gy tot enkele kGy.
+         </p>
+         <p>         
+
+Tijdens deze masterproef wordt de focus gelegd op het ontwerp en realisatie van de zender. Een principieel voorbeeldschema van een dergelijke zender wordt voorgesteld in Fig. 2. Daarbij wordt een kristaltransducer met een resonantiefrequentie van enkele MHz aangestuurd door een push-pull vermogenversterker waarbij de transformator de belastingsimpedantie transformeert naar de optimale waarde voor de gebruikte transistoren. Een oscillator afgestemd op de resonantiefrequentie van het kristal zal er voor zorgen dat het geproduceerde vermogen in de zendpuls met de beste efficiëntie wordt omgezet naar akoestisch vermogen. De sinusoidale spanning wordt naar een kortere puls omgezet via een schakelaar aangestuurd door een kortstondige blokgolf. Na versterking en filtering krijgen we een puls van enkele MHz met een quasi-gaussische omhullende met een smaller spectrum (onderdrukking van de sinc zijbanden). Deze spanning wordt zo geleverd aan de vermogenversterker die met hoge lineariteit deze puls verder omzet naar een vermogenpuls in de transducer. 
+         </p>
+         <p>         
+
+In dit eindwerk zullen de verschillende schakelingen hiervoor ontworpen en gevalideerd worden. De metingen zullen ook worden uitgevoerd onder thermische belasting en tijdens gamma bestraling in de nucleaire faciliteiten.
+         </p>
+         <p>         
+
+De kandidaat moet een degelijke basiskennis hebben van elektronica en bijhorende simulatieprogramma's en zelfstandig kunnen werken in een vakkundige werkomgeving.
+         </p>
+
+
+
+         <p>
+               <img alt="figuur" src="maproef/2010-2011/myrrha-2.png"/>
+         </p>
+         <p>         
+Fig.1: Schematische doorsnede van de MYRRHA reactor
+         </p>
+
+
+
+         <p>
+               <img alt="figuur" src="maproef/2010-2011/myrrha-3.jpg"/>
+         </p>
+         <p>         
+Fig.2: Ultrasoon zender architectuur met open loop frequentiebijsturing
+         </p>
+         <p>         
+Taken:
+         </p>
+         <ul>         
+<li>20% literatuurstudie</li>
+<li>		30% simulaties</li>
+<li>		20% ontwikkeling</li>
+<li>		30% testen</li>
+         </ul>
+         <p>         
+Opdracht: 1 of 2 master studenten elektronica-ICT gedurende 1 jaar
+         </p>
+         <p>         
+
+Dagelijkse begeleiding:
+         </p>
+         <ul>         
+<li>Paul Leroux (paul.leroux@khk.be)</li>
+<li>					Wouter De Cock (wdcock@sckcen.be)</li>
+          </ul>
+         
+         <p>         
+
+Vereisten:
+         </p>
+         <ul>         
+
+<li>kennis MATLAB is aanbevolen</li>
+<li>kennis SPICE is aanbevolen</li>
+<li>interesse in elektronica</li>
+         </ul>
+       </section>
+
+
+		<anchor id="testplatform"/>
+			<section>
+				<title>Ontwikkelen van een FPGA testplatform voor cryptografische bouwblokken</title>
+				<section>
+					<title>Achtergrond</title>
+					<p>
+						Cryptografie is niet meer weg te denken uit onze samenleving. Denk maar aan de beveiliging van bankgegevens, digitale handtekeningen, https, enz... Men gebruikt vaak hardware componenten voor cryptografie omdat deze een hogere snelheid bieden ten opzichte van een software algoritme. Hierbij kiest men steeds vaker voor FPGA's omwille van de relatief korte ontwikkelingstijd ten opzichte van een ASIC. Een cryptografische bouwblok in een FPGA moet voldoen aan verschillende eisen omtrent snelheid, oppervlakte en veiligheid. Het algoritme dat in de cryptografische bouwblok is geïmplementeerd, wordt verondersteld theoretisch veilig te zijn. Een bijkomende eis aan de cryptografische bouwblokken is dat ze bestand zijn tegen zogenaamde nevenkanaalaanvallen.
+					</p>
+					<p>
+						In het CREA-project rond de ontwikkeling van een bibliotheek voor cryptografische bouwblokken voor VHDL probeert het onderzoeksteam een brug te bouwen tussen de omschrijving van de cryptografische bouwblok in de hardwarebeschrijvingstaal Lava en een efficiënte en veilige implementatie in VHDL. 
+					</p>
+					<p>	
+						Voor dit onderzoek is er nood aan een testplatform waarop cryptografische bouwblokken kunnen geëvalueerd worden met een uitgebreide rapportering van de resultaten.
+					</p>
+				</section>
+				<section>
+					<title>Inhoud</title>
+					<p>
+						De studenten dienen een algemeen testplatform voor cryptografische bouwblokken te ontwikkelen. Dit testplatform is opgebouwd rond een FPGA-bord en een grafische user interface op PC.
+                  Volgende stappen dienen doorlopen te worden:
+					</p>
+						<ul>
+							<li>opstellen van de testomgeving aan de hand van een FPGA-bordje, een oscilloscoop en een PC,</li>
+							<li>analyseren van bestaande cryptosystemen,</li>
+							<li>vergelijken van de veiligheid, de oppervlakte en de snelheid van de verschillende implementaties van het CREA project.</li>
+						</ul>
+				</section>
+				<section>
+					<title>Aard van het werk</title>
+					<p>
+						Deze masterproef is geschikt voor 2 eindwerkstudenten.
+					</p>
+						<ul>
+							<li>literatuurstudie: 10%</li>
+							<li>analyse: 25%</li>
+							<li>ontwikkeling en implementatie: 50%</li>
+							<li>vertaling van de leerervaring: 15%</li>
+						</ul>
+				</section>
+				<section>
+					<title>Promotoren</title>
+						<ul>
+							<li>Kris Aerts (KHLim)</li>
+							<li>Nele Mentens (KHLim)</li>
+							<li>Davy Wolfs (KHLim)</li>
+						</ul>
+				</section>
+			</section>
+
+			<anchor id="boororientatie"/>
+			<section>
+				<title>Ontwikkeling van een boororiëntatie-unit</title> 
+				<section>
+				  <title>Probleemstelling</title>
+				  <p>
+Bij de firma AWB Schots is een werknemer door een ongeval aan één oog blind. Met één oog is het moeilijk om diepte te zien en daarom heeft de werknemer nu moeite met het boren van gaten. Hij kan immers niet meer zien of de boor loodrecht op het werkstuk staat. Gezien de afmetingen van de werkstukken is een kolomboor geen optie. Daarnaast kunnen de werkstukken een willekeurige oriëntatie hebben waardoor een waterpas ook geen oplossing biedt.
+              </p>
+               <p>
+                  <img alt="figuur" src="maproef/2010-2011/boormachine.png"/>
+               </p>
+            </section>
+            
+            <section>
+              <title>Opdracht</title>
+              <p>
+Ten eerste moet er een geschikte manier gevonden worden om de oriëntatie van de boormachine ten opzichte van het werkstuk te meten. Als de boormachine loodrecht op het werkstuk staat moet de werknemer een signaal krijgen dat hij mag beginnen met boren. Hiervoor moeten geschikte sensoren worden gekozen, afhankelijk van de gekozen methode. 
+De nodige algoritmes om de oriëntatie te bepalen uit sensordata zullen eerst ontwikkeld worden op een computer vanwege de flexibiliteit en rekenkracht.
+Een tweede stap is het ontwikkelen van een gebruiksvriendelijk systeem dat geschikt is voor gebruik in de werkplaats van AWB Schots. Hierbij gaat de voorkeur uit naar een klein apparaatje dat geïntegreerd kan worden op of in de boormachine. Daarom moeten de algoritmes worden aangepast voor een systeem met beperkte rekenkracht.
+              </p>
+            </section>
+            <section>
+              <title>Ondersteuning</title>
+              <p>
+Dit eindwerk zal voornamelijk doorgaan binnen de projectgroep ACRO. Keuze en aankoop van software en componenten gebeurt in overleg met de projectgroep ACRO en de andere projectverantwoordelijken. Het systeem wordt uiteindelijk getest in de werkplaats van AWB Schots.
+              </p>
+            </section>
+            <section>
+              <title>Praktisch</title>
+              <p>
+Dit onderwerp is bij voorkeur geschikt voor studenten: EL-Automatisering, ELO.
+              </p>
+              <p>            
+Bij voorkeur eindwerk op een half jaar (afstuderen in januari)
+              </p>
+            </section>
+            <section>
+               <title>Bedrijf</title>
+               <p>
+AWB Schots
+<br/>
+Liebroekstraat 69, 3545 HALEN
+<br/>
+Tel. +32/(0)13/442406
+<br/>
+In samenwerking met de projectgroep ACRO
+</p>
+<p>
+Promotor: Roeland Schots
+</p>
+<p>
+Docent: Eric Claesen, Eelco Galestien (eelco.galestien@acro.be)
+</p>
+             </section>
+           </section>
+         
+           
+           
+           
+           
+			<anchor id="profinet"/>
+           <section>
+             <title>Opbouw van een PROFINET Remote IO eiland</title>
+	
+             <section>
+               <title>Probleemstelling</title>
+               
+               <p>
+ACRO is sinds 2003 als enige in België internationaal geaccrediteerd als PROFIBUS Competence Center.  Dit betekent dat ACRO voor heel België instaat voor de technische ondersteuning omtrent alle aspecten van PROFIBUS en PROFINET.  Deze technische ondersteuning omvat telefonisch en on-site advies, consultancy, on-site troubleshooting en doelgerichte opleidingen.
+               </p>
+               <p>
+               Om een PROFINET  toestel op de markt te brengen dienen fabrikanten echter een hele procedure te doorlopen, van ontwikkeling over testen tot en met certificatie en identificatie-aanvraag.  Ook deze volledige procedure vereist uiteraard een nauwgezette technische ondersteuning.
+               </p>
+               <p>
+
+Op dit vlak heeft ACRO een technische lacune.  ACRO is geen producent van PROFINET componenten en daardoor werd deze procedure nooit doorlopen.
+               </p>
+               <p>
+
+Om in de toekomst ontwikkelaars van PROFINET componenten te kunnen ondersteunen bij ontwikkeling van nieuwe toestellen, wil ACRO deze procedure volledig doorlopen en een afgewerkte PROFINET device bouwen (op basis van een Remote IO eiland).
+               </p>
+             </section>
+             <section>
+               <title>Opdracht</title>
+               <p>
+Er dient vanaf nul een volledig nieuw toestel gebouwd te worden.  In eerste instantie omhelst dit de keuze van de juiste hardware-componenten, zoals de microcontroller en de communicatie-ASIC.  Vervolgens dient in de juiste programmeertaal, afhankelijk van de gekozen microcontroller de volledige softwarematige implementatie van de slave te worden uitgewerkt.  Tegelijkertijd dient tevens een GSD-file te worden opgemaakt, welke het mogelijk maakt het device te testen, gebruik makend van verschillende Controllers.
+               </p>
+             </section>
+             <section>
+               <title>Ondersteuning</title>
+
+               <p>
+ACRO bezit als geen ander in België de uitgebreide kennis en ervaring rond PROFINET.  Binnen ACRO zijn verschillende PROFIBUS specialisten, allen bereid om bij te springen en bij te sturen waar dit nodig is.
+               </p>
+               <p>
+Ook de nodige materialen, zoals microcontrollers, ASIC’s, PC en DP-masters zullen door ACRO ter beschikking gesteld worden. 
+               </p>
+               <p>
+Voor het uitvoeren van het eindwerk zal tevens een ruimte gereserveerd worden in het Technologiecentrum.
+Dit onderwerp is bij voorkeur geschikt voor studenten ELO , 2 studenten           
+               </p>
+             </section>
+             <section>
+               <title>Bedrijf</title>
+               
+               <p>
+ACRO
+<br/>
+Wetenschapspark 27
+<br/>
+3590 Diepenbeek
+<br/>
+011/300.473
+               </p>
+               <p>
+Promotor: Ronald Poosen (ronald.poosen@acro.be)
+               </p>
+               <p>
+Docent:  Ing. Geert Leen
+               </p>
+             </section>
+           </section>
+           
+
+-->
+
+
+
+
+           <anchor id="sorteerfpga"/>
+           <section>
+             <title>Ontwerp van een FPGA-gebaseerde sturing voor een sorteerinstallatie</title>
+             
+             
+             <p>	
+ACRO is momenteel samen met N.V. Gielen Recyclage een MDF-sorteerinstallatie aan het uitwerken. De machine zal vermalen houtafval verwerken en de afvalstroom splitsen in 2 stromen: MDF en hout. Via een transportsysteem wordt het vermalen houtafval aangevoerd naar een visiesysteem. Het visiesysteem analyseert het afval en onderscheidt MDF-stukken van het hout. Op basis van de gegevens van het visiesysteem zal een PLC ventielen aansturen die de MDF-stukken uit de houtstroom schieten. 
+             </p>
+             
+             <section>
+               <title>Probleemstelling</title>
+               
+               <p>
+Het prototype van de sorteerinstallatie werkt met een PLC-sturing. De voornaamste taak van de PLC is het aansturen van de ventielen op het juiste moment. Dit werkt als volgt: Het visiesysteem analyseert voortdurend de opgenomen beelden en stuurt de coördinaten van MDF-stukken door naar de PLC. De ontvangen coördinaten worden in de PLC continue afgetrokken op basis van een incrementopnemer. Wanneer een coördinaat een bepaalde waarde aanneemt (0), bevindt het MDF-stuk zich onder het ventiel en wordt het vervolgens weg geschoten.
+               </p>
+               <p>
+Een deel van de PLC-sturing kan bij latere machines vervangen worden door een FPGA-sturing, met name het exact aansturen van de ventielen. Een opmaatgemaakte FPGA-sturing zal resulteren in een snellere reactietijd.
+               </p>
+             </section>
+             <section>
+               <title>Opdracht</title>
+               <p>
+                 Het eindwerk omvat de implementatie van de ventielensturing op een FPGA. Dit houdt in:
+               </p>
+               <ul>
+                 <li>
+       Implementeren van de communicatie met het visiesysteem (PC-systeem). Nagaan welk protocol/interface geschikt is.
+                 </li>
+                 <li>
+       Synchronisatie van het visiesysteem met de camera en transportband op basis van Encoders.
+                 </li>
+                 <li>
+       Implementatie van ventielen sturing, flexibel aanpasbaar afhankelijk van het aantal ventielen
+                 </li>
+                 <li>
+       Hardware ontwerp om een compact, robuust geheel te vormen.
+                 </li>
+               </ul>
+             </section>
+             <section>
+               <title>Ondersteuning</title>
+
+               <p>
+Het nodige materiaal (testsamples, technologieën, …) zal door ACRO ter beschikking gesteld worden. Testen zullen op ACRO uitgevoerd worden.
+               </p>
+
+               <p>
+Dit onderwerp is bij voorkeur geschikt voor studenten
+Elektronica-ontwerpen , 1-2 studenten.
+               </p>
+             </section>
+             <section>
+               <title>Bedrijf</title>
+               
+               <p>
+N.V. Gielen Recyclage
+                  <br/>
+Eikelaarstraat 17
+                  <br/>
+3600 Genk
+               </p>
+               
+<p>
+Promotor: Dhr. Hans De Bruycker
+</p>
+<p>
+Docent: Ing. Eric Claesen, Ing. Wim Beckers, ACRO (wim.beckers@acro.be)
+</p>
+               </section>
+             </section>
+
+
+
+             
+             
+             
+             
+             
+             
+             
+  <!--
+    Niet gekozen
+             
+             
+
+           <anchor id="loudspeakershuffle"/>
+           <section>
+             <title>Loudspeaker shuffler for listening tests</title>
+
+
+             <section>
+               <title>Subject</title>
+               <p>
+In addition to physical measurements, subjective listening tests take an
+important place in the evaluation of loudspeaker systems. Such listening tests
+must be carried out in controlled conditions, with the systems hidden from the
+listener’s view (blind tests). One of the factors greatly affecting the sound
+performance is the placement of the loudspeakers in the room. In comparative
+tests, however, two or more systems must be present at the same time in the
+room. For critical listening, placing the loudspeakers side by side is not a
+satisfactory solution.
+              </p>
+              <p>
+A more sophisticated solution is the use of a mechanical loudspeaker shuffler
+(e.g. a turntable) which would allow each of the loudspeakers to be moved to a
+reference position in a short time (ideally less than 2 seconds).
+               </p>
+             </section>
+
+             <section>
+               <title>Tasks</title>
+               <p>
+The project will consist in a feasibility study investigating the trade-offs
+between the different requirement (speed, maximum load, position accuracy)
+and the design of one or more prototypes to demonstrate the chosen
+solution(s).
+               </p>
+             </section>
+
+             <section>
+               <title>Profile of the student</title>
+<ul>
+<li>Electromechanical and/or control systems engineering</li>
+<li>Ability to work independently and take initiative</li>
+<li>An interest in loudspeakers is a plus</li>
+</ul>
+
+             </section>
+
+             <section>
+               <title>Work environment</title>
+
+               <p>
+This project will be carried out in our innovation site in Leuven. You will
+interact mostly with our sound and acoustics group, working on the
+development of new sound technologies. It is an international and stimulating
+environment.
+              </p>
+
+
+             </section>
+
+             <section>
+               <title>Your contact person</title>
+               <p>
+Sylvain Choisel (sylvain.choisel@philips.com)
+              </p>
+             </section>
+         </section>
+             
+             
+             
+             
+             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           <anchor id="autotestspecgen"/>
+           <section>
+             <title>Automation of test specification generation</title>
+
+
+             <section>
+               <title>Subject</title>
+
+               <p>
+In a product life-cycle, the development of test cases and test vectors can
+consume a lot of efforts. The goal of the thesis is to investigate and implement
+the automated generation of test cases and test environment. Starting from a
+product specification, a formal model (e.g. SysML, ULM 2.1 … ) of the product
+will be built and provided as an input to an automated test generation tool (e.g.
+Rational Tau …).
+              </p>
+              <p>
+Efficiency of the automated approach will be evaluated based on some
+measurements e.g. test coverage, effort …
+The student will implement the automated approach on a real product
+developed by NXP Business Unit Identification and compare the output of the
+tool chain with the existing test specification.
+              </p>
+             </section>
+
+             <section>
+               <title>Tasks</title>
+<ul>
+<li>Investigation of automated test generation tools</li>
+<li>Formal modeling of a NXP BU Identification product (Still to be chosen)</li>
+<li>Generate test cases</li>
+<li>Benchmark the automated test generation tool with methods currently used in NXP</li>
+</ul>
+
+             </section>
+
+             <section>
+               <title>Profile of the student</title>
+
+
+<ul>
+<li>engineering, software-oriented</li>
+<li>good programming skills</li>
+<li>good formal modeling skills</li>
+</ul>
+
+             </section>
+
+             <section>
+               <title>Work environment</title>
+<ul>
+<li>PC, 4 weeks full-time at NXP during summer holiday</li>
+</ul>
+             </section>
+
+             <section>
+               <title>Your contact person</title>
+               <p>
+Thierry Gouraud (thierry.gouraud@nxp.com)
+              </p>
+              </section>
+            </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           <anchor id="qualityrepro"/>
+           <section>
+             <title>Reproduction Quality on Mobile Devices</title>
+
+            
+
+             <section>
+               <title>Subject</title>
+
+               <p>
+NXP has a number of software products whose performance depends on the
+quality of the speaker audio output. Improvements in the management of the
+speaker output could lead to an improvement in these products. The aim of this
+thesis is to develop a method of measuring the audio quality and then develop
+algorithms to improve the quality.
+              </p>
+
+             </section>
+
+             <section>
+               <title>Tasks</title>
+<ol>
+               <li>Develop a method to evaluate the quality and volume of a mobile phone
+speaker output.</li>
+<li>Evaluate the performance of a mobile device.</li>
+<li>Implement/develop algorithms in Matlab to improve and manage the
+performance of the audio output.</li>
+</ol>
+
+             </section>
+
+             <section>
+               <title>Profile of the student</title>
+
+               <ul>
+<li>Knowledge of DSP is required.</li>
+<li>Knowledge of Matlab is required.</li>
+<li>Knowledge of C is required.</li>
+</ul>
+             </section>
+
+             <section>
+               <title>Work environment</title>
+               <p>
+Development: under Microsoft Windows
+              </p>
+              <p>
+Target device: Matlab
+              </p>
+
+             </section>
+
+             <section>
+               <title>Your contact person</title>
+               <p>
+Mike Hopwood (Mike.Hopwood@nxp.com)
+              </p>
+              </section>
+           </section>
+             
+
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           <anchor id="voicemorphing"/>
+           <section>
+             <title>Voice Morphing and Imitation</title>
+
+
+             <section>
+               <title>Subject</title>
+               <p>
+Voice morphing is freely available over the internet for PC based voice calls.
+On mobile devices there are more difficult constraints to meet. The aim of
+this thesis is to explore and evaluate algorithms that could be used on phone
+calls from mobile devices.
+              </p>
+
+             </section>
+
+             <section>
+               <title>Tasks</title>
+               <ol>
+<li>Study the constraints for voice processing on a mobile device.</li>
+<li>Implement algorithms in Matlab for extracting the voice
+characteristics, modifying them and reconstruct the output.</li>
+<li>Evaluate the results and quality.</li>
+<li>Implement the algorithms in C and develop a simple windows application
+to evaluate the results in real-time.</li>
+</ol>
+
+             </section>
+
+             <section>
+               <title>Profile of the student</title>
+               <ul>
+<li>Knowledge of DSP is required.</li>
+<li>Knowledge of Matlab is required.</li>
+<li>Knowledge of C is required.</li>
+<li>Knowledge of voice coding is an advantage.</li>
+<li>Knowledge of Windows programming is an advantage.</li>
+</ul>
+
+
+
+
+
+
+
+             </section>
+
+             <section>
+               <title>Work environment</title>
+               <p>
+Development: under Microsoft Windows
+              </p>
+              <p>
+Target: Windows/Matlab
+              </p>
+
+
+             </section>
+
+             <section>
+               <title>Your contact person</title>
+               <p>
+Mike Hopwood (Mike.Hopwood@nxp.com)
+              </p>
+              </section>
+          </section>
+
+
+
+
+
+
+           <anchor id="networksim"/>
+           <section>
+             <title>Network and Device Simulator</title>
+
+
+             <section>
+               <title>Subject</title>
+               <p>
+Many of NXP’s software products must work under the varying conditions of
+the telephone network and the differing characteristics of the mobile device
+input and output. The aim of this thesis is to make a simple simulator that
+recreates these effects under controlled conditions and links with our in-house
+test frame-work.
+              </p>
+
+             </section>
+
+             <section>
+               <title>Tasks</title>
+               <ol>
+<li>Identify the varying parameters in the telephone network</li>
+<li>Identify the varying parameters in device input and output.</li>
+<li>Write a Matlab script that recreates these effects within the in-house
+test frame-work.</li>
+</ol>
+
+             </section>
+
+             <section>
+               <title>Profile of the student</title>
+<ul>
+               <li>Knowledge of DSP is required.</li>
+<li>Knowledge of Matlab is required.</li>
+<li>Knowledge of C is required.</li>
+<li>Knowledge of network behavior is an advantage.</li>
+</ul>
+             </section>
+
+             <section>
+               <title>Work environment</title>
+               <p>
+Development: under Microsoft Windows
+              </p>
+              <p>
+Target: Matlab
+              </p>
+
+             </section>
+
+             <section>
+               <title>Your contact person</title>
+               <p>
+Mike Hopwood (Mike.Hopwood@nxp.com)
+              </p>
+             </section>
+          </section>
+
+
+
+
+
+
+
+
+           <anchor id="bulkdelay"/>
+           <section>
+             <title>Bulk Delay Tracker</title>
+
+
+             <section>
+               <title>Subject</title>
+               <p>
+In some echo cancellers it is necessary to measure the bulk delay in the echo
+path. This delay can vary over time. The aim of this thesis is to develop an
+algorithm to measure and track the bulk delay of the system.
+              </p>
+
+             </section>
+
+             <section>
+               <title>Tasks</title>
+               <ol>
+<li>Develop an algorithm in Matlab to measure and track the bulk delay in
+the system.</li>
+<li>Implement in C and integrate in to a real device.</li>
+<li>Develop of series of tests to verify the robustness of the algorithm.</li>
+</ol>
+
+             </section>
+
+             <section>
+               <title>Profile of the student</title>
+               <ul>
+<li>Knowledge of DSP is required.</li>
+<li>Knowledge of Matlab is required.</li>
+<li>Knowledge of C is requried.</li>
+<li>Knowledge of Echo Cancellation is an advantage.</li>
+               </ul>
+
+
+
+
+             </section>
+
+             <section>
+               <title>Work environment</title>
+               <p>
+Development: under Microsoft Windows
+              </p>
+              <p>
+Target device: ARM9E embedded system
+              </p>
+
+             </section>
+
+             <section>
+               <title>Your contact person</title>
+               <p>
+Mike Hopwood (Mike.Hopwood@nxp.com)
+              </p>
+           </section>
+         </section>
+
+
+
+
+
+
+           <anchor id="usb3sim"/>
+           <section>
+             <title>USB3 System Simulator</title>
+
+
+             <section>
+               <title>Subject</title>
+               <p>
+Modelling using Matlab / Simulink environment
+              </p>
+
+             </section>
+
+             <section>
+               <title>Tasks</title>
+               <p>
+USB3 is the next generation high speed serial interface that will support a
+data rate of 5Gbps. The purpose of this thesis is to set up a simulation
+environment to model the physical and link layer of a USB3 system. One should
+be able to use this environment to estimate system performance and
+requirements for the various functional blocks under different channel
+conditions.
+              </p>
+
+
+             </section>
+
+             <section>
+               <title>Profile of the student</title>
+
+<ul>
+<li>Electrical Engineering background, should have done courses in communication and signal processing</li>
+<li>Interest in modeling</li>
+<li>Knowledge in using Matlab/simulink tools</li>
+</ul>
+             </section>
+
+             <section>
+               <title>Work environment</title>
+
+
+<ul>
+<li>Worktable with PC</li>
+<li>No hardware to be build</li>
+</ul>
+
+             </section>
+
+             <section>
+               <title>Your contact person</title>
+               <p>
+Antony Joseph (Antony.joseph@nxp.com)
+              </p>
+             </section>
+        </section>
+
+        
+        
+        
+        
+        
+        
+        
+        
+			<anchor id="parallel"/>
+			<section>
+				<title>Evaluatie en ontwikkeling van parallelle implementatieplatformen voor cryptanalytische aanvallen.</title>
+					<p>
+De theoretische veiligheid van cryptografische algoritmen hangt af van de tijd die nodig is om de gebruikte geheime sleutel te achterhalen. Een cryptanalytische aanval bestaat uit een aantal wiskundige bewerkingen die meestal op een PC worden uitgevoerd. Het is echter efficiënter om dit soort aanvallen uit te voeren op een speciaal daarvoor ontwikkeld hardware platform. Zowel voor toepassingen binnen de cryptanalyse als voor andere toepassingen die nood hebben aan parallel computing, bestaan er een aantal parallelle FPGA-platformen.
+					</p>
+					<section>
+					<title>Inhoud</title>
+					<p>
+De volgende stappen zullen doorlopen worden:
+               </p>
+<ul>
+							<li>zich inwerken in een aantal cryptanalytische aanvallen,</li>
+							<li>een aantal bestaande parallelle hardware platformen evalueren naar geschiktheid voor de implementatie van deze aanvallen,</li>
+							<li>eventuele voorstellen voor verbetering formuleren en implementeren,</li>
+							<li>een uitgebreide vergelijking van de bestaande en zelf ontwikkelde platformen maken.</li>
+						</ul>
+
+				   <p>
+Deze masterproef loopt in samenwerking met de onderzoeksgroep COSIC (COmputer Security and Industrial Cryptography) aan het departement Elektrotechniek-ESAT van de Katholieke Universiteit Leuven. De studenten kunnen aan hun masterproef werken aan de KHLim en worden enkele keren verwacht bij COSIC om de voortgang te bespreken. 
+					</p>
+				</section>
+				<section>
+					<title>Aard van het werk</title>
+					<p>
+						Deze masterproef is geschikt voor 1 of 2 eindwerkstudenten.
+					</p>
+					
+						<ul>
+							<li>literatuurstudie: 30%</li>
+							<li>ontwikkeling en implementatie: 70%</li>
+						</ul>
+					
+				</section>
+				<section>
+					<title>Promotoren</title>
+					
+						<ul>
+							<li>Nele Mentens (KHLim)</li>
+							<li>Jo Vliegen (KHLim)</li>
+						</ul>
+					
+				</section>
+			</section>
+        
+        -->
+        
+        
+        
+        
+        
+        
+			<anchor id="gps"/>
+			<section>
+				<title>Implementatie van een GPS-klok op FPGA</title>
+				<section>
+				  <title>Inhoud</title>
+           <p>
+Sinds enkele jaren is navigatie met gebruik van GPS niet meer weg te denken uit de dagelijkse realiteit. Maar naast plaatsbepaling, laat GPS ook tijdsbepaling toe. Het idee is om in deze thesis een simpele, goedkope, energiezuinige en kleine (in aantal gates) klok te maken die ons op een tiende van een seconde weet te vertellen hoe laat het is.</p>
+<p>
+Concreet zal hiervoor het GPS signaal moeten ontvangen worden. Normaal hebben we signalen van meerdere satellieten nodig die dan gecombineerd moeten worden en waaruit tijd en plaats kan worden bepaald. Maar als we een fout van een tiende van een seconde toelaten, kunnen we kort door de bocht simpelweg het signaal van een enkele satelliet nemen.</p>
+<p>
+De GPS klok zal dus een ontvanger zijn op geregelde tijdstippen het signaal van een enkele satelliet moet ontvangen en de tijdsinformatie hieruit moet gebruiken om zijn tijd bij te stellen.</p>
+<p>
+We zullen deze ontvanger implementeren op een FPGA omdat dit toelaat volop te experimenteren met parameters en systeemkeuzes. De studenten werken aan hun masterproef aan de KHLim en worden op geregelde tijdstippen bij de opdrachtgever verwacht, d.i. de Koninklijke Sterrenwacht van België in Ukkel</p>
+<p>
+   <!--   <img alt="figuur" src="SGK_prentje.jpg"/> -->
+</p>
+<p>
+Leap second op een cesium atoomklok
+</p>
+
+				</section>
+				<section>
+					<title>Aard van het werk</title>
+					<p>
+						Deze masterproef is geschikt voor 1 of 2 eindwerkstudenten.
+					</p>
+					
+						<ul>
+							<li>literatuurstudie: 20%</li>
+							<li>ontwikkeling en implementatie: 80%</li>
+						</ul>
+					
+				</section>
+				<section>
+					<title>Promotoren</title>
+				
+						<ul>
+							<li>Wim Aerts (Koninklijke Sterrenwacht van België)</li>
+							<li>Nele Mentens (KHLim)</li>
+						</ul>
+					
+				</section>
+			</section>
+        
+        
+        
+        
+
+<!-- Niet gekozen			
+			
+			
+			<anchor id="dpa"/>
+			<section>
+				<title>Implementatie van geavanceerde vermogenaanvallen op cryptografische implementaties</title>
+				<section>
+					<title>Achtergrond</title>
+					<p>
+Om veiligheid toe te voegen aan embedded systemen, moeten cryptografische algoritmen toegevoegd worden aan bestaande implementaties. Deze cryptografische algoritmen moeten ten eerste verondersteld worden theoretisch veilig te zijn. Een bijkomende eis aan de cryptografische bouwblokken is dat ze bestand zijn tegen zogenaamde nevenkanaal aanvallen. Dit zijn aanvallen die via een meting van het vermogenverbruik of de uitvoeringstijd van bepaalde bewerkingen geheime informatie proberen te achterhalen. In dit eindwerk zal er via een opeenvolging van vermogenmetingen en tegenmaatregelen (dit zijn verbeteringen van de implementatie) getracht worden om cryptosystemen zo veilig mogelijk te maken.
+					</p>
+			    </section>
+			    <section>
+					<title>Inhoud</title>
+					<p>
+De volgende stappen zullen doorlopen worden:
+               </p>
+<ul>
+							<li>gebruiken van een bestaande opstelling of ontwikkelen van een nieuwe opstelling voor vermogenmetingen op FPGA's, smart cards enz.,</li>
+							<li>analyseren van bestaande of nieuwe implementaties van een cryptosystemen, </li>
+							<li>herhaalde implementatie van tegenmaatregelen en meer geavanceerde vermogenaanvallen, </li>
+							<li>vergelijking van de veiligheid, de oppervlakte en de snelheid van de verschillende implementaties. </li>
+						</ul>
+
+				   <p>
+Deze masterproef loopt in samenwerking met de onderzoeksgroep COSIC (COmputer Security and Industrial Cryptography) aan het departement Elektrotechniek-ESAT van de Katholieke Universiteit Leuven. De studenten kunnen aan hun masterproef werken aan de KHLim en worden enkele keren verwacht bij COSIC om de voortgang te bespreken. 
+					</p>
+				</section>
+				<section>
+					<title>Aard van het werk</title>
+					<p>
+						Deze masterproef is geschikt voor 1 of 2 eindwerkstudenten.
+					</p>
+					
+						<ul>
+							<li>literatuurstudie: 30%</li>
+							<li>ontwikkeling en implementatie: 70%</li>
+						</ul>
+				
+				</section>
+				<section>
+					<title>Promotoren</title>
+					
+						<ul>
+							<li>Nele Mentens (KHLim)</li>
+							<li>Jo Vliegen (KHLim)</li>
+						</ul>
+					
+				</section>
+			</section>
+			
+
+			
+			
+			
+			
+			
+			
+			
+			<anchor id="h2"/>			
+         <section>
+           <title>Hydrogen generation from solar light – Experimental setup</title>
+           
+
+           <section>
+             <title>Description</title> 
+
+             <p>
+Hydrogen (H2) is interesting as fuel for transportation and as storage of solar energy. There exist many methods to produce hydrogen. An environmental friendly way is the use of solar energy, which can be a source of hydrogen with quasi infinite lifetime. 
+             </p>
+             <p>
+The aim of this thesis is to develop a setup which demonstrates the generation of hydrogen by solar energy and the use of hydrogen for the production of electricity. For this aim a demonstration setup has to be developed, consisting of a solar panel, an electrolyzer, a water tank, hydrogen storage, a fuel cell, sensors, read out electronics and software. The solar panel converts solar light into electricity, which is consequently used by the electrolyzer to produce hydrogen (H2) and oxygen (O2) from water (H2O). The generated hydrogen is stored in a tank and reused in the fuel cell to generate electricity again. 
+             </p>
+             <p>
+In this master thesis we will focus on the developing of a new type of electrolyzer which will allow to integrate InGaN solar cells for direct photo electrolyse. In this setup, the solar cells will be immersed in an aqueous solution to allow for the direct conversion of solar light into H2 and O2.
+             </p>
+             <p>
+Degree: Master in Industrial Sciences
+             </p>
+             <p>
+
+Student majoring in: 
+             </p>
+             <p>
+
+Contact person(s): Ruben Lieten (Ruben.Lieten@imec.be)			
+             </p>
+           </section>
+         </section>
+			-->
+			
+			<anchor id="gpsrec"/>
+			<section>
+				<title>Een GPS ontvanger op FPGA</title>
+				<section>
+				  <title>Inhoud</title>
+
+              <p>
+Sinds enkele jaren is navigatie met gebruik van GPS
+niet meer weg te denken uit de dagelijkse realiteit.
+Vroeger hadden GPS ontvangers steeds hun parallelle
+digitale ontvangstkanalen in een ASIC geimplementeerd.
+Dit was nodig omdat het locken op een satellietsignaal
+zeer rekenintensief is. Maar met de grote vooruitgang
+wat betreft snelheid en rekenkracht van de FPGAs
+van de voorbije jaren, wordt het stilaan mogelijk
+om de ASIC te vervangen door een FPGA. Dit biedt
+bovendien ongekende mogelijkheden om de ontvanger
+flexibel te kunnen herconfigureren.
+              </p>
+              <p>
+Concreet zal in dit project een meerkanaals GPS ontvanger
+met positieberekeningsmodule worden geimplementeerd
+op FPGA. Tijdens het werk zal getracht worden om
+de implementatie zo efficient mogelijk uit te voeren,
+om zodoende te trachten de grenzen op te zoeken van
+wat technisch haalbaar is. Concreet zal dus getracht
+worden om het aantal satellieten dat gelijktijdig
+kan ontvangen worden zo groot mogelijk te maken,
+om zo een idee te krijgen wat betreft de maximale
+nauwkeurigheid van positiebepaling die kan gehaald
+worden met een FPGA.
+            </p>
+
+				</section>
+				<section>
+					<title>Aard van het werk</title>
+					<p>
+						Deze masterproef is geschikt voor 1 of 2 eindwerkstudenten.
+					</p>
+					
+						<ul>
+							<li>literatuurstudie: 20%</li>
+							<li>ontwikkeling en implementatie: 80%</li>
+						</ul>
+					
+				</section>
+				<section>
+					<title>Promotoren</title>
+				
+						<ul>
+							<li>Wim Aerts (Koninklijke Sterrenwacht van België)</li>
+							<li>Nele Mentens (KHLim)</li>
+						</ul>
+					
+				</section>
+			</section>
+        
+
+			
+			
+			
+			<anchor id="rmoni"/>
+			<section>
+				<title>Onderzoek naar inter-operabiliteit van zigbee devices volgens de zigbee profiles</title>
+              <p>
+Rmoni, een bedrijf dat actief is op het gebied van wireless monitoring, wil onderzoeken of 
+de wireless zigbee-devices uit hun productengamma ook kunnen samenwerken met zigbee devices van andere fabrikanten (bv.goedkopere devices uit China). 
+Om verschillende zigbee devices met elkaar te laten samenwerken werd er bovenop de Zigbee software-laag een standaard gedefinieerd,
+namelijk de zigbee profiles (bv. Home Automation Profile, Zigbee Smart Energy, ...). 
+</p>
+<p>
+De opdracht bestaat erin om te onderzoeken wat deze profielen betekenen, 
+welke profielen er bestaan en/of in de maak zijn, hoe de Rmoni-devices moeten worden aangepast om hieraan te voldoen en 
+hoe Rmoni hier commercieel en technisch voordeel kan uit halen.
+Na een grondige technische literatuurstudie volgt een meer praktische opdracht waarbij gevraagd wordt 
+om de nodige software (en hardware) ontwikkelingen te doen om de bestaande producten compliant te maken volgens een bepaald (eventueel meerdere) Zigbee profiel. 
+Het gebruikte zigbee profiel zal gekozen worden op basis van de studie en de mogelijke commerciele opportuniteiten die het bedrijf hiervan verwacht. 
+Als valorisatie moet ten slotte worden onderzocht of de gedane implementatie ook daadwerkelijk samenwerkt met producten van andere fabrikanten.
+              </p>
+           </section>
+			
+        
+        
+
+           <!--
+  Onderwerp is geheim
+           
+           
+			<anchor id="rotero"/>
+			<section>
+				<title>Ontwerp en realisatie van een Iphone applicatie als hulpmiddel bij post-operatieve revalidatie van gewrichten</title>
+				<section>
+				  <title>Achtergrond</title>
+				  <p>
+Methodes om de gezondheidszorg betaalbaar te houden zijn meer dan ooit het onderwerp van de
+dag. Een van de elementen waar winst te halen is, is snellere revalidatiemethodes na operationele
+ingrepen. Een belangrijk aspect bij revalidatie na gewrichtsoperaties (knie, heup, elleboog, enz.) is
+dat de spieren en weefsel zo snel mogelijk terug soepel zijn. De laatste jaren zijn er verschillende
+toestellen op de markt gekomen die de beweging gradueel opbouwen (zogenaamde CPM toestellen,
+continuous passive motion) die het belang van het veelvuldig bewegen hebben aangetoond. Door nu
+een communicatie te realiseren tussen de hoeksensor die op dergelijke toestellen kan geplaatst
+worden en een Iphone (Ipod of Ipad) kan de patiënt beter opgevolgd worden (een teller kan
+aangeven hoeveel er daadwerkelijk geoefend is) en kan mogelijk de patiënt aangezet worden tot
+meer oefenen door er een spelelement aan te verbinden. Deze oplossing kan ook zijn nut bewijzen in
+de volgende fase van de revalidatie of voor andere behandelingsmethodes waar de patiënt op eigen
+kracht de beweging moet proberen af te maken.
+              </p>
+            </section>
+            <section>
+              <title>Inhoud</title>
+              <p>
+De studenten dienen de meest aangewezen communicatiemethode te onderzoeken tussen de
+hoeksensor en de Iphone. Daarnaast moet gevalideerd worden op welke manier informatie van de
+sensor op de Iphone weergegeven moet worden zodat dit voor een zo breed mogelijke doelgroep
+bruikbaar en aantrekkelijk is. Hiervoor zal een testopstelling met Iphone en hoeksensor gebouwd
+moeten worden. Beide toestellen worden ter beschikking gesteld door ROTERO.
+
+
+              </p>
+            </section>
+            <section>
+              <title>Ondersteuning</title>
+              <p>
+De ondersteuning zal op velerlei vlakken gebeuren. Voor de orthopedische informatie zal de
+student(en) beroep kunnen doen op de informatie van een van de meest vooraanstaande
+orthopedische bedrijven in België. De informatie van de electronica (hoeksensor) is beschikbaar
+vanuit de firma die dit ontworpen heeft en produceert (gelegen in Soest, NL). ROTERO zal als eerste
+aanspreekpunt en coördinator naast de promotor binnen KHLim fungeren.
+              </p>
+            </section>
+            <section>
+              <title>Bedrijf</title>
+              <p>
+ROTERO Belgium bvba
+              </p>
+              <p>
+Wayenborgstraat 10
+              </p>
+              <p>
+2800 Mechelen
+              </p>
+              <p>
+                <link href="http://www.rotero.be">www.rotero.be</link>
+              </p>
+            </section>
+          </section>
+    -->       
+           
+           
+
+      </section>
+ 
+  </body>
+</document>
+

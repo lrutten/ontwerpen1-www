@@ -1,0 +1,2464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V1.2//EN" "/export/usr/local/forrest/main/webapp/resources/schema/dtd/document-v12.dtd">
+<document> 
+  <header> 
+    <title>Masterproeven 2009-2010</title> 
+  </header> 
+  <body> 
+      <p>Laatste wijziging: $Date: 2010-06-06 19:59:04 +0200 (Sun, 06 Jun 2010) $</p>
+        <p>
+          Dit is het overzicht van de masterproeven 2009-2010 van MA-ELO, terug te vinden in de onderstaande tabel.
+        </p>
+
+<!--
+        <p>
+          Dit jaar is er ook een externe lijst met voorstellen bij <link href="http://www.cera-award.be">Cera Award</link>.
+        </p>
+  -->
+      <section>
+      <title>Overzicht</title>
+
+<table>
+<caption>
+Masterproef 2009-2010
+</caption>
+
+<tr>
+ <th>code</th>
+ <th>student(en)</th>
+
+ <th>titel</th>
+ <th>bedrijf</th>
+ <th>promotors</th>
+</tr>
+
+<!-- voorstellen eindwerken -->
+
+<!-- 
+ Voorbeeld
+<tr>
+ <td></td>
+ <td></td>
+ <td>Titel (<link href="#verder">meer uitleg</link>)
+ </td>
+ <td>bedr</td>
+ <td>Prom</td>
+</tr>
+-->
+
+
+
+<tr>
+ <td>E10/ELO/01</td>
+ <td>Robben Aerts, Brecht Sluismans</td>
+ <td>Efficiënte implementatie van cryptosystemen gebaseerd op elliptische krommen (<link href="#cryptoelliptic">meer uitleg</link>)
+ </td>
+ <td>KHLim, Erasmushogeschool Brussel</td>
+ <td>Jo Vliegen, Nele Mentens, An Braeken, Abdellah Touhafi</td>
+</tr>
+
+<tr>
+ <td>E10/ELO/02</td>
+ <td>Pieter Claes, Michiel Theunis</td>
+ <td>Hydrogen generation from solar light – Experimental setup (<link href="#hydrogen">meer uitleg</link>)
+ </td>
+ <td>IMEC</td>
+ <td>Stefan Degroote, Jan Genoe</td>
+</tr>
+
+<tr>
+ <td>E10/ELO/03</td>
+ <td>Wouter Pijpops, Brecht Creemers</td>
+ <td>Link naar native C/C++ en/of Java-applicaties voorzien voor Firefox-extensies (<link href="#firefoxext">meer uitleg</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Kris Aerts, Leo Rutten</td>
+</tr>
+
+<tr>
+ <td>E0/ELO/04</td>
+ <td>Joren Grondelaers, Robbie Vandeweert</td>
+ <td>Veilige FPGA-configuratie vanop een afstand (<link href="#secfpgaconf">meer uitleg</link>)
+ </td>
+ <td>KHLim, Erasmushogeschool Brussel</td>
+ <td>Jo Vliegen, Nele Mentens, An Braeken, Abdellah Touhafi</td>
+</tr>
+
+<tr>
+ <td>E10/ELO/05</td>
+ <td>Dimitri Van Dyck, Tom Jonckers</td>
+
+ <td>Ontwerp van een Gaussische puls generator voor toepassingen bij hoge temperatuur (<link href="#gausspuls">meer uitleg</link>)
+ </td>
+ <td>SCK</td>
+ <td>Wouter De Kock</td>
+</tr>
+
+<tr>
+ <td>E10/ELO/06</td>
+ <td>Kristof Konings</td>
+
+ <td>Real-time Java
+ </td>
+ <td>Erasmus</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td>E10/ELO/07</td>
+ <td>Kris Lemkens, Rob Mesotten</td>
+ <td>iPhone Remote Control
+ </td>
+ <td>Philips, Heverlee</td>
+ <td>Rogier Thissen, Kris Aerts</td>
+</tr>
+
+<tr>
+ <td>E10/ELO/08</td>
+ <td>Jordi Tielens, Jorn Leyssens</td>
+ <td>Simulatie van de planning van decentrale energievoorziening (<link href="#simenergie">meer uitleg</link>)
+ </td>
+ <td>PMA, K.U.Leuven</td>
+ <td>Paul Valckenaers, Leo Rutten</td>
+</tr>
+
+<tr>
+ <td>E10/ELO/09</td>
+ <td>Yves Maex</td>
+ <td>Profilering en optimalisatie van de Open Garments community (<link href="#opengarments">meer uitleg</link>)
+ </td>
+ <td>KHLim (IWT + MDA)</td>
+ <td>Niels Hendriks, Kris Aerts</td>
+</tr>
+
+<tr>
+ <td>E10/ELO/10</td>
+ <td>Joren Moelans, Steven Swinnen</td>
+ <td>Implementatie van nieuwe vermogenaanvallen en tegenmaatregelen op FPGA (<link href="#powerfpga">meer uitleg</link>)
+ </td>
+ <td>KHLimCOSIC</td>
+ <td>Jo Vliegen, Nele Mentens, Lejla Batina</td>
+</tr>
+
+<tr>
+ <td>E10/ELO/11</td>
+ <td>Wim Ramakers, Hans Narinx</td>
+ <td>Evaluatie van nieuwe hashfunctiekandidaten op FPGA (<link href="#hashfpga">meer uitleg</link>)
+ </td>
+ <td>KHLim, COSIC</td>
+ <td>Jo Vliegen, Nele Mentens, Sebastiaan Indesteege</td>
+</tr>
+
+<tr>
+ <td>E10/ELO/12</td>
+ <td>Erwin Vanderoey</td>
+ <td>Realtime beeldverwerking (<link href="#painvision">meer uitleg</link>)
+ </td>
+ <td>Mobilab</td>
+ <td>Bart Vanrumste</td>
+</tr>
+
+<tr>
+ <td>E10/ELO/13</td>
+ <td>Mustafa Yayla</td>
+ <td>Development of a MEMS design kit for the MEMSIO technology
+ </td>
+ <td>IMEC</td>
+ <td>Jan Bienstman, Jan Genoe</td>
+</tr>
+
+
+
+
+
+
+
+
+
+
+
+<!--
+
+  Niet gekozen
+ -->
+<tr>
+ <td></td>
+ <td></td>
+ <td>Ontwerp en karakterisatie van een robuuste optische ontvangerchip voor een stralingshard LIDAR systeem (<link href="#lidar1">meer uitleg</link>)
+ </td>
+ <td>Mobilab</td>
+ <td></td>
+</tr>
+
+<!--
+  niet gekozen
+  -->
+<tr>
+ <td></td>
+ <td></td>
+ <td>Ontwerp en karakterisatie van een 10ps tijd-digitaalomzetter voor toepassing in een stralingsharde LIDAR ontvanger (<link href="#lidar2">meer uitleg</link>)
+ </td>
+ <td>Mobilab</td>
+ <td></td>
+</tr>
+
+
+<!--
+  Niet gekozen
+  -->
+<tr>
+ <td></td>
+ <td></td>
+ <td>Prototype-ontwerp van bewegingsdetector bij epileptische patiënten (<link href="#videodetectie">meer uitleg</link>)
+ </td>
+ <td>Mobilab</td>
+ <td>Bart Vanrumste</td>
+</tr>
+
+<!--
+    niet gekozen
+  -->
+<tr>
+ <td></td>
+ <td></td>
+ <td>Groepspecifieke detectie van epileptische aanvallen (<link href="#specdetectie">meer uitleg</link>)
+ </td>
+ <td>Mobilab</td>
+ <td>Bart Vanrumste</td>
+</tr>
+
+
+
+<!--
+Is reeds in Geel gekozen
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Valdetectie aan de hand van MPEG stream interpretatie (<link href="#mpegvaldetectie">meer uitleg</link>)
+ </td>
+ <td>Mobilab</td>
+ <td>Bart Vanrumste, Toon Goedemé</td>
+</tr>
+-->
+
+<!--
+is niet gekozen
+  -->
+<tr>
+ <td></td>
+ <td></td>
+ <td>Valdetectie aan de hand van infrarood beelden (<link href="#infrarooddetectie">meer uitleg</link>)
+ </td>
+ <td>Mobilab</td>
+ <td>Bart Vanrumste, Toon Goedemé</td>
+</tr>
+
+<!--
+  niet gekozen
+  -->
+<tr>
+ <td></td>
+ <td></td>
+ <td>Design of an all-digital PLL for frequency synthesis (<link href="#digpll">meer uitleg</link>)
+ </td>
+ <td>Mobilab</td>
+ <td></td>
+</tr>
+
+
+<!-- NXP -->
+
+<!--
+  Zijn niet gekozen
+  
+<tr>
+ <td></td>
+ <td></td>
+ <td>Human - Matlab/Simulink interface
+ </td>
+ <td>NXP, Heverlee</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>A new OS (WinCE) for a HD TV application
+ </td>
+ <td>NXP, Heverlee</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>A new OS (QNX Neutrino) for a HD TV application
+ </td>
+ <td>NXP, Heverlee</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Connect an ATOP to a NEVIS
+ </td>
+ <td>NXP, Heverlee</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Investigate and implement BBC-iPlayer on NEVIS
+ </td>
+ <td>NXP, Heverlee</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>High-definition video streaming over IP networks
+ </td>
+ <td>NXP, Heverlee</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Integrating a music code for improving the sound quality for a wireless hearing device
+ </td>
+ <td>NXP, Heverlee</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Implementation of network protocol for a wireless sensor network
+ </td>
+ <td>NXP, Heverlee</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Optimal implementation for advanced audio bit-rate compression on the Coolflux DSP for future use in digital hearing devices
+ </td>
+ <td>NXP, Heverlee</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Evaluation an application of open-source fuzzers
+ </td>
+ <td>NXP, Heverlee</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>RFID All-In-One Reader Application
+ </td>
+ <td>NXP, Heverlee</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Universal RFID receiver/emulator 
+ </td>
+ <td>NXP, Heverlee</td>
+ <td></td>
+</tr>
+
+-->
+
+
+<!--
+Niet gekozen
+  -->
+<tr>
+ <td></td>
+ <td></td>
+ <td>Development of ASIC design kits for Tanner environment (<link href="#tanner">meer uitleg</link>)
+ </td>
+ <td>IMEC, Leuven</td>
+ <td></td>
+</tr>
+
+<!--
+  niet gekozen
+  -->
+<tr>
+ <td></td>
+ <td></td>
+ <td>Ontwerp van bouwblokken binnen IMEC's DARE libraries voor radiatietolerante chips in commerciële technologieën (<link href="#dare">meer uitleg</link>)
+ </td>
+ <td>IMEC, Leuven</td>
+ <td></td>
+</tr>
+
+<!--
+  niet gekozen
+  -->
+<tr>
+ <td></td>
+ <td></td>
+ <td>Ontwerp van een MEMS device als test case voor een flexibele MEMS design omgeving (<link href="#mems">meer uitleg</link>)
+ </td>
+ <td>IMEC, Leuven</td>
+ <td></td>
+</tr>
+
+
+<!--
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Simulatieclustering met Terracotta (<link href="#terracotta">meer uitleg</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Leo Rutten</td>
+</tr>
+
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Ajax Visualisatie van een simulatie van energiedistributie(<link href="#visenergie">meer uitleg</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Leo Rutten</td>
+</tr>
+-->
+
+
+
+
+
+
+<!--
+
+Voorlopig weg
+
+<tr>
+ <td></td>
+ <td></td>
+ <td> (<link href="#">meer uitleg</link>)
+ </td>
+ <td>KHLim</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Dynamische, partieel herconfigureerbare implementaties van cryptografische bouwblokken op FPGA (<link href="#herconffpga">meer uitleg</link>)
+ </td>
+ <td>COSIC, K.U.Leuven</td>
+ <td>Nele Mentens</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Evaluatie van nieuwe hashfunctie kandidaten op FPGA (<link href="#hashfpga">meer uitleg</link>)
+ </td>
+ <td>COSIC, K.U.Leuven</td>
+ <td>Nele Mentens</td>
+</tr>
+
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Controle logica voor de display driver ICs van een oprolbaar actieve matrix oLED display (<link href="#oled">meer uitleg</link>)
+ </td>
+ <td>IMEC</td>
+ <td>Kris Myny, Jan Genoe
+</td>
+</tr>
+
+
+
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Grafische voorstelling van een sensor netwerk (<link href="#sensornet">meer uitleg</link>)
+ </td>
+ <td>OneAccess</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+
+ <td>Opbouw van een PROFIBUS Remote IO eiland (<link href="#profibus">meer uitleg</link>)
+ </td>
+ <td>ACRO</td>
+ <td></td>
+</tr>
+-->
+
+
+
+
+<!-- einde tabel voorstellen eindwerken -->
+
+</table>
+
+
+
+
+
+
+
+
+
+    </section>
+
+    <section>
+      <title>Masterproefbeschrijvingen</title>
+
+      <!--
+
+      <anchor id="afkorting"/>      
+      <section>
+        <title>titel, bedrijf</title>
+          <p>
+            para
+          </p>
+          <p>
+            Links:
+          </p>
+            <ul>
+              <li>
+                <link href="http://www.hibernate.org">www.hibernate.org</link>
+              </li>
+              <li>
+                <link href="http://www.aspectj.org">www.aspectj.org</link>
+              </li>
+            </ul>
+      </section>
+      -->
+
+      
+   <!--   
+      <section>
+        <title>Mobilab</title>
+     -->   
+
+
+     <!--
+        gekozen
+      -->
+     
+                <anchor id="gausspuls"/>      
+      <section>
+        <title>Ontwerp van een Gaussische puls generator voor toepassingen bij hoge temperatuur</title>
+
+        <p>
+Deze stage, uitgevoerd binnen de expertisegroep Geavanceerde Reactor Instrumentatie op het Studie Centrum voor Kernenergie (SCK·CEN) in Mol, beoogt het ontwerp, de karakterisatie en optimalisatie van een Gaussische puls generator. De puls generator zal o.a. gebruikt worden voor toepassingen in de MYRRHA reactor (4de generatie) die ontwikkeld wordt op het SCK·CEN. Hierbij wordt de generator blootgesteld aan extreem hoge temperaturen (>250oC).
+        </p>
+        <p>
+De puls generator maakt deel uit van een ultrasone camera gebruikt voor visuele inspectie van de positie van de splijtstofelementen in de reactorkern. Hierbij wordt de camera noodgedwongen ondergedompeld in vloeibaar metaal (PbBi). 
+Om werking bij hoge temperaturen te verzekeren zal gewerkt worden met SiC transistoren. Deze technologie blijft functioneel tot ±500°C, wat ruimschoots volstaat voor deze toepassing.
+Bijkomstig zal de puls generator blootgesteld worden aan radioactieve straling tijdens een dergelijke inspectie. Een typische verwachte stralingsdosis is van de orde van 1 MGy (Mega-Gray). Commerciële schakelingen sneuvelen meestal al bij kGy dosissen of zelfs (veel) vroeger.
+        </p>
+        <p>
+Tijdens deze master proef wordt de focus gelegd op het ontwerp en realisatie van de puls generator enerzijds en op de ontwikkeling van een experimentele opstelling die moet toelaten om de werking en de belangrijkste specificaties (zoals snelheid, puls vorm…) van de puls generator te evalueren. Dit laatste omvat de ontwikkeling van de nodige hardware (pcb, sturingslogica, switchconfiguratie…) als een beschrijving van de nodige software om de meettoestellen en hardware aan te sturen. De ontwikkeling van de software zelf behoort niet tot deze master proef.
+De metingen zullen worden uitgevoerd onder thermische belasting en tijdens gamma bestraling in de nucleaire faciliteiten waarbij de totale dosis kan oplopen tot verschillende MGy.
+        </p>
+        <p>
+De kandidaat moet een degelijke basiskennis hebben van elektronica en bijhorende simulatieprogramma's en zelfstandig kunnen werken in een vakkundige werkomgeving.
+        </p>
+     </section>
+     
+     <!--
+        niet gekozen
+       -->
+                <anchor id="lidar1"/>      
+      <section>
+        <title>Ontwerp en karakterisatie van een robuuste optische ontvangerchip voor een stralingshard LIDAR systeem</title>
+<p>
+Deze stage, uitgevoerd binnen de expertisegroep Advanced Reactor Instrumentation op
+het Studie Centrum voor Kernenergie (SCK·CEN) in Mol, beoogt het ontwerp, de
+karakterisatie en optimalisatie van robuuste schakelingen voor een stralingsbestendige
+monolithische LIDAR ontvanger. LIDAR (LIght Detection And Ranging) is de optische
+tegenhanger van de RADAR en gebruikt dus licht i.p.v. microgolven. Het
+hoogperformante LIDAR systeem wordt o.a. ontworpen voor toepassing in de MYRRHA
+reactor (4de generatie) die ontwikkeld wordt op het SCK·CEN.
+</p>
+
+<p>
+Het doel van de LIDAR is de niveaumeting van een vloeibaar metaal (Pb-Bi) dat continu
+in beweging is. Dit niveau moet bepaald worden tot een nauwkeurigheid van enkele mm
+en dit met een regelmaat van de orde van ms. De benodigde cm-nauwkeurigheid
+betekent concreet dat de ontvanger de timing van de lichtpulsen tot op enkele tientallen
+ps moet kunnen bepalen. Aangezien deze ontvanger tijdens de werking van de reactor
+zal blootgesteld zijn aan straling is het belangrijk om op voorhand de stralingshardheid
+van de ontworpen schakelingen te testen. Een typische verwachte stralingsdosis is hier
+van de orde van 1 MGy (Mega-Gray). Commerciële schakelingen sneuvelen meestal al bij
+kGy dosissen of zelfs (veel) vroeger.
+</p>
+
+<p>
+Verschillende ontvanger bouwblokken werden reeds ontworpen en gerealiseerd in een
+commerciële 0.35 µm SiGe BiCMOS technologie. Tijdens deze master proef kan de focus
+gelegd worden op de ontwikkeling van experimenten die moeten toelaten om de werking
+en de belangrijkste specificaties (zoals versterking, gevoeligheid, snelheid en lineariteit)
+van de chip te evalueren. Deze metingen zullen dan worden uitgevoerd onder thermische
+belasting en tijdens gamma bestraling in de nucleaire faciliteiten waarbij de totale dosis
+kan oplopen tot verschillende MGy.
+</p>
+
+<p>
+De focus kan alternatief gelegd worden op het realiseren van nieuwe
+ontvangerschakelingen met gebruik van actieve terugkoppeling en replica technieken om
+de    werking    van    de    chip    te   garanderen    onder    de   verwachte     zware
+omgevingsomstandigheden.
+</p>
+
+<p>
+De kandidaat moet een degelijke basiskennis hebben van elektronica en bijhorende
+simulatieprogramma's en zelfstandig kunnen werken in een vakkundige werkomgeving.
+</p>
+
+<p>
+Contact: paul.leroux@khk.be (of paul.leroux@esat.kuleuven.be)
+</p>
+
+<p>
+      <img alt="figuur" src="maproef/2009-2010/voorstellen/lidar-000.jpg"/>
+</p>
+<p>
+Fig.1: (a) Schematische doorsnede van de MYRRHA reactor
+</p>
+
+<p>
+      <img alt="figuur" width="217" height="163" src="maproef/2009-2010/voorstellen/lidar-001.jpg"/>
+      <img alt="figuur" src="maproef/2009-2010/voorstellen/lidar-002.jpg"/>
+</p>
+<p>
+fig.2: (b) PCB + IC(voor bestraling)
+</p>
+
+      </section>
+
+<!--
+   niet gekozen
+  -->
+      <anchor id="lidar2"/>      
+      <section>
+        <title>Ontwerp en karakterisatie van een 10ps tijd-digitaalomzetter voor toepassing in een stralingsharde LIDAR ontvanger</title>
+
+<p>
+Deze stage, uitgevoerd binnen de expertisegroep Advanced Reactor Instrumentation op
+het Studie Centrum voor Kernenergie (SCK·CEN) in Mol, beoogt het ontwerp, de
+karakterisatie en optimalisatie van robuuste schakelingen voor een stralingsbestendige
+monolithische LIDAR ontvanger. LIDAR (LIght Detection And Ranging) is de optische
+tegenhanger van de RADAR en gebruikt dus licht i.p.v. microgolven. Het
+hoogperformante LIDAR systeem wordt o.a. ontworpen voor toepassing in de MYRRHA
+reactor (4de generatie) die ontwikkeld wordt op het SCK·CEN. Specifiek zal hier gekeken
+worden naar de tijd-digitaalomzetter (TDC).
+</p>
+
+<p>
+Het doel van de LIDAR is de niveaumeting van een vloeibaar metaal (Pb-Bi) dat continu
+in beweging is. Dit niveau moet bepaald worden tot een nauwkeurigheid van enkele mm
+en dit met een regelmaat van de orde van ms. De benodigde cm-nauwkeurigheid
+betekent concreet dat de ontvanger de timing van de lichtpulsen tot op enkele tientallen
+ps moet kunnen bepalen. Aangezien deze ontvanger tijdens de werking van de reactor
+zal blootgesteld zijn aan straling is het belangrijk om op voorhand de stralingshardheid
+van de ontworpen schakelingen te testen. Een typische verwachte stralingsdosis is hier
+van de orde van 1 MGy (Mega-Gray). Commerciële schakelingen sneuvelen meestal al bij
+kGy dosissen of zelfs (veel) vroeger.
+</p>
+
+<p>
+Verschillende TDC architecturen werden reeds bestudeerd en een eerste chip zal in het
+voorjaar van 2009 ontworpen worden. De focus van deze masterproef wordt ofwel gelegd
+op de ontwikkeling van experimenten die moeten toelaten om de werking en de
+belangrijkste specificaties (zoals resolutie, nauwkeurigheid, ruis en lineariteit) van de
+chip te evalueren. Deze metingen zullen dan worden uitgevoerd onder thermische
+belasting en tijdens gamma bestraling in de nucleaire faciliteiten waarbij de totale dosis
+kan oplopen tot verschillende MGy.
+</p>
+
+<p>
+De focus kan alternatief gelegd worden op het realiseren van nieuwe verbeterdeTDC-
+schakelingen of op een vernieuwend systeem-ontwerp op het architecturale niveau.
+</p>
+
+<p>
+De kandidaat moet een degelijke basiskennis hebben van elektronica en bijhorende
+simulatieprogramma's (SPICE, MATLAB en evt. VHDL en/of VHDL-AMS) en zelfstandig
+kunnen werken in een vakkundige werkomgeving.
+</p>
+
+<p>
+Contact: paul.leroux@khk.be (of paul.leroux@esat.kuleuven.be)
+</p>
+
+<p>
+      <img alt="figuur" src="maproef/2009-2010/voorstellen/lidar-000.jpg"/>
+</p>
+<p>
+Fig.1: (a) Schematische doorsnede van de MYRRHA reactor
+</p>
+
+<p>
+      <img alt="figuur" width="217" height="163" src="maproef/2009-2010/voorstellen/lidar-001.jpg"/>
+      <img alt="figuur" src="maproef/2009-2010/voorstellen/lidar-002.jpg"/>
+</p>
+<p>
+fig.2: (b) PCB + IC(voor bestraling)
+</p>
+      </section>
+
+      
+      <!--
+         gekozen
+        -->
+
+      <anchor id="painvision"/>      
+      <section>
+        <title>Realtime beeldverwerking</title>
+
+<p>
+Door de steeds krachtiger wordende cpu’s en de dalende prijzen voor hoog kwalitatieve
+camera’s is er een groeimarkt ontstaan waarin men vrij eenvoudige computers gaat
+inzetten voor rekenintensieve beeldanalyse en beeldverwerking. Hierdoor geeft men aan
+een modale computer een nieuwe dimensie, men geeft hem namelijk de kracht om te
+“zien”! En dit nog wel voor een betaalbare prijs. Dit biedt vele nieuwe mogelijkheden
+waardoor de interactie tussen mens en machine vergroot. Zo zal een computer zelfs in
+staat kunnen zijn om menselijke gezichtsexpressies te gaan herkennen (vb.
+vermoeidheid, pijn, … ) en hierop te anticiperen (vb. een vermoeide wagenbestuurder
+verwittigen dat deze eventjes moet rusten of een verpleegster alarmeren dat een patiënt
+ongemakkelijk ligt).
+</p>
+
+<p>
+De dag van vandaag is het een koud kunstje om een computer beelden te laten verwerken. Denk
+maar aan de goedkope webcam’s. U plugt ze in de usb-poort en u kan zo een teleconferentie
+starten waarin naast spraak, ook beelden van de deelnemers te voorschijn komen. De grote
+uitdaging, de “state-of the-art” zoals men dit ook wel eens noemt, is echter om de computer de
+aangeleverde     beelden    correct   te   laten   interpreteren.    Binnen   MOBILAB       (Centraal
+onderzoekslaboratorium voor Biomedische- en Revalidatietechnologie: <link href="http://www.mobilab-khk.be">www.mobilab-khk.be</link>) en
+i.s.m. de KULeuven gaan we ons specifiek richten op de gezichtsexpressies. We gaan de computer
+aanleren hoe deze de beelden van het menselijk gelaat moet interpreteren zodat de computer
+zelfstandig kan beslissen, op basis van de gezichtexpressies, of een persoon al dan niet pijn heeft.
+</p>
+
+<p>
+<img alt="figuur" src="maproef/2009-2010/voorstellen/vision-f1.jpg"/>
+</p>
+<p>
+Voorbeeld van een pijnschaal op basis van aangezichten (Scherder en van Manen, 2005).
+</p>
+
+<p>
+Omdat we geen enkele, hoe klein ook, verandering in het gezicht willen missen nemen we
+videobeelden op aan een snelheid van 30 beelden per seconde. Daarenboven hebben we
+kleurbeelden met een resolutie van de 1027 x 768 pixels wat ons toe laat een gezicht vrij
+nauwkeurig te analyseren. Dit heeft wel tot gevolg dat we een grote hoeveelheid aan data dienen
+te verwerken in een korte tijdspanne!
+</p>
+
+<p>
+Het pijnherkenningsalgoritme wordt aan de KULeuven ontwikkeld in MATLAB. Hiermee kunnen we
+slechts een luttele 3 beelden per uur verwerken. Dus ver van de beoogde 30 beelden per seconde.
+Daarom hebben we gezocht naar een manier om dit te versnellen. Een eerste mogelijkheid hebben
+we gevonden door gebruik te maken van een C++ implementatie waarbij we gebruik maken van
+specifiek voor beeldverwerking geoptimaliseerde bibliotheken. Daarmee halen we toch al een
+aanzienlijke snelheidswinst. Met de C++ implementatie kunnen we tot een paar beelden per
+seconde verwerken. Maar dit is steeds nog ontoereikend. Daarom hebben we besloten om over te
+schakelen op een semihardware oplossing. Meerbepaald maken we gebruik van een FPGA als een
+“coprocessor”. Dit wil zeggen dat de FPGA geprogrammeerd zal worden om de rekenintensieve
+bewerkingen/algoritme uit te voeren. Hierdoor zal het mogelijk worden om tot 30 beelden per
+seconde te kunnen verwerken. Zo bekomen we een pijnherkenningssysteem dat in real-time een
+resultaat kan uitrekenen.
+</p>
+
+<p>
+In het academiejaar 2008-2009 is reeds een eerste stap in deze richting gezet. De opdracht van
+deze masterthesis was om een “affine transformatie” algoritme in de FPGA te implementeren. De
+input hiervoor was de MATLAB en C++ code van het affine transformatie algoritme. Dit werd
+vertaald naar een Simulink model vanwaar verder de VHDL code semiautomtische gegenereerd
+werd. Deze hardware code is dan op de FPGA geïmplementeerd. De FPGA die we hiervoor
+gebruiken is de FPGA die zich op het Virtex 2 Pro ontwikkel bord van Xilinx bevindt.
+</p>
+
+<p>
+De bedoeling van deze master thesis is het implementeren van een 2de belangrijke bottleneck in
+het pijndetectie algoritme op een gelijkaardige manier.
+</p>
+
+<p>
+  <img alt="figuur" src="maproef/2009-2010/voorstellen/painvision-1.jpg"/>
+</p>
+
+<p>
+Voorbeeld van een “affine transformatie”. Hiermee worden de originele beelden gedraaid en
+geschaald zodat we steeds een frontaal aangezicht met dezelfde afmetingen bekomen:
+</p>
+
+<p>
+  <img alt="figuur" src="maproef/2009-2010/voorstellen/painvision-1742.jpg"/>
+</p>
+
+<p>
+Taken:
+</p>
+<ul>
+  <li>20% Literatuur studie en het schrijven van een paper</li>
+  <li>60% programmeren MATLAB/SIMULINK/VHDL</li>
+  <li>20% Testen</li>
+</ul>
+
+
+<p>
+Dagelijkse begeleiding: Bert Bonroy                    bert.bonroy@khk.be
+</p>
+
+<p>
+Promotor:                    Bart Vanrumste (IBW)            bart.vanrumste@khk.be
+</p>
+
+<p>
+Kennis:
+</p>
+<ul>
+       <li>1 of 2 master studenten elektronica (optie ontwerp technieken of ict) gedurende 1 jaar</li>
+       <li>Kennis beeldverwerking is een pluspunt.</li>
+       <li>Kennis MATLAB/Simulink en VHDL is aanbevolen.</li>
+</ul>
+
+
+      </section>
+
+<!--
+  niet gekozen
+  -->
+      <anchor id="videodetectie"/>      
+      <section>
+        <title>Prototype-ontwerp van bewegingsdetector bij epileptische patiënten</title>
+
+<p>
+De diagnose en classificatie van epilepsie wordt typisch uitgevoerd door middel van video-
+elektro-encefalogram (EEG) monitoring. Deze methode geldt als de Gouden Standaard voor
+de detectie van epileptische aanvallen. Maar deze onderzoeksmethode is oncomfortabel voor
+de patiënt omdat de elektroden aan de scalp bevestigd moeten worden. Bovendien is het
+bevestigen van de elektrodes arbeidsintensief omdat de verpleegsters een uur werk nodig
+hebben om de patiënt klaar te maken voor het onderzoek. Door deze nadelen kunnen patiënten
+niet dagelijks gemonitord worden.
+</p>
+
+<p>
+Het doel van dit eindwerk is om een eerste stap in een automatisch videomonitoringsysteem
+uit te werken in een prototype. Een videodetectiesysteem is immers comfortabeler voor de
+patiënt wat een langdurige thuismonitoring toelaat. In een voorgaand onderzoek werd al een
+eerste stap ontworpen, een datareductiestap, die toelaat onderscheid te maken tussen
+nachtelijke beweging en niet-beweging bij epileptische patiënten. Dit algoritme zal omgezet
+moeten worden van Matlabcode naar een hardware-implementatie op een FPGA, dat leidt tot
+een autonoom systeem, dat in de ziekenhuiskamer geplaatst wordt en beelden analyseert van
+de camera in het ziekenhuis. Dit is nuttig voor het verplegend personeel in het ziekenhuis
+omdat het aangeeft wanneer er zich mogelijk een aanval voordoet.
+</p>
+
+<p>
+Het uiteindelijke doel is om een videomonitoringsysteem te ontwikkelen dat videobeelden
+analyseert die ’s nachts van de epilepsiepatiënten worden opgenomen. Het systeem houdt het
+aantal aanvallen van een patiënt bij, en genereert een alarm indien een aanval te hevig is. Dit
+leidt dan tot een autonoom detectiesysteem kan geplaatst worden op de kamer. Dit
+detectiesysteem bepaalt, enkel door middel van videobeelden, wanneer een epileptische
+aanval optreedt. Dit zorgt voor een comfortverhoging van de patiënt omdat het aanbrengen
+van de EEG-elektrodes niet nodig is, en dit zorgt ook voor een beter opvolging van de ziekte.
+Door deze betere opvolging kan de behandeling aangepast worden wat leidt tot een verhoogde
+levensstandaard van de patiënt.
+</p>
+
+<p>
+Aantal eindwerkstudenten: 1 of 2
+</p>
+
+<p>
+Dagelijkse begeleiding:
+</p>
+<ul>
+  <li>Bert Bonroy                   bert.bonroy@khk.be</li>
+  <li>Kris Cuppens                  kris.cuppens@khk.be</li>
+</ul>
+<p>
+Promotors:                    Bart Vanrumste (IBW)          bart.vanrumste@khk.be
+</p>
+
+<p>
+Opdrachten:
+</p>
+<ul>
+     <li>literatuurstudie:                    20%</li>
+     <li>implementatie (Matlab, VHDL):        30%</li>
+     <li>prototype-ontwerp:                   30%</li>
+     <li>experimenten:                        20%</li>
+</ul>
+
+<p>
+<img alt="figuur" src="maproef/2009-2010/voorstellen/video-000.jpg"/>
+<img alt="figuur" src="maproef/2009-2010/voorstellen/video-001.jpg"/>
+<img alt="figuur" src="maproef/2009-2010/voorstellen/video-002.jpg"/>
+</p>
+
+      </section>
+
+      <!--
+        niet gekozen
+        -->
+
+      <anchor id="specdetectie"/>      
+      <section>
+        <title>Groepspecifieke detectie van epileptische aanvallen</title>
+
+<p>
+De diagnose en classificatie van epilepsie wordt typisch uitgevoerd door middel van video-
+elektro-encefalogram (EEG) monitoring. Deze methode geldt als de Gouden Standaard voor
+de detectie van epileptische aanvallen. Maar deze onderzoeksmethode is oncomfortabel voor
+de patiënt omdat de elektroden aan de scalp bevestigd moeten worden. Bovendien is het
+bevestigen van de elektrodes arbeidsintensief omdat de verpleegsters een uur werk nodig
+hebben om de patiënt klaar te maken voor het onderzoek. Door deze nadelen kunnen patiënten
+niet dagelijks gemonitord worden.
+</p>
+
+<p>
+Als alternatief voor de detectie van epileptische aanvallen via EEG-signalen willen we
+aanvallen detecteren met accelerometers. De Katholieke Hogeschool Kempen werkt samen
+met revalidatiecentrum Pulderbos voor de acquisitie van de accelerometersignalen. Deze
+signalen zijn afkomstig van accelerometers bevestigd aan de polsen en enkels van die patiënt.
+De accelerometers registreren de versnelling van de lichaamsdelen, dus indien de patiënt
+beweegt.
+</p>
+
+<p>
+In voorgaande eindwerken werd er al een bedraad acquisitiesysteem ontwikkeld en er werd
+ook al een eerste detectiealgoritme geïmplementeerd. Dit algoritme werkt aan de hand van
+parameters die per patiënt ingesteld moeten worden. Bovendien is het algoritme getest op een
+beperkt aantal types van aanvallen. Verder onderzoek is dus nog nodig naar de detectie van
+andere types aanvallen, en eventueel de ontwikkeling van een algoritme dat bepaalde types
+van aanvallen kan detecteren voor een groep van patiënten met gelijkaardige aanvallen.
+</p>
+
+<p>
+De detectiealgoritmes kunnen leiden tot een systeem dat bij de patiënt op de kamer geplaatst
+kan worden dat het aantal nachtelijk aanvallen automatisch logt en een alarm geeft wanneer
+de aanval te hevig is. De database met het aantal nachtelijke aanvallen kan gebruikt worden
+door de neuroloog om de evolutie van de ziekte beter te kunnen opvolgen, de invloed van de
+medicijnen te bepalen en dus de behandeling te verbeteren.
+Aantal eindwerkstudenten: 1 of 2
+</p>
+
+<p>
+Dagelijkse begeleiding:        Kris Cuppens                 kris.cuppens@khk.be
+</p>
+<p>
+Promotors:                     Bart Vanrumste (IBW)         bart.vanrumste@khk.be
+</p>
+
+<p>
+Opdrachten:
+</p>
+<ul>
+    <li>literatuurstudie:                     20%</li>
+    <li>implementatie (Matlab):               50%</li>
+    <li>experimenten (validatie algoritme): 30%</li>
+</ul>
+
+<p>
+<img alt="figuur" src="maproef/2009-2010/voorstellen/accelero-2.jpg"/>
+</p>
+      </section>
+
+
+<!--
+  Is reeds in Geel gekozen
+  
+      <anchor id="mpegvaldetectie"/>      
+      <section>
+        <title>Valdetectie aan de hand van MPEG stream interpretatie</title>
+
+<p>
+Veel ouderen vallen en kunnen daarna niet meer opstaan. Onderzoek heeft uitgewezen dat 30 tot
+45% van de ouderen die thuis leven en meer dan de helft van de bewoners van een bejaardenhuis
+minstens 1 keer per jaar vallen. 1 op 3 tot zelfs de helft valt meermaals per jaar. 10 tot 15% van
+deze valincidenten hebben ernstige gevolgen. Het is dus erg belangrijk om snel hulp te kunnen
+bieden. Rekening houdend met de vergrijzing van onze samenleving, wordt een degelijk detectie
+systeem erg belangrijk.
+</p>
+
+<p>
+In een samenwerking tussen De Nayer, de KHK, het UZ Leuven en de KU Leuven wordt een
+valdetectie systeem gebaseerd op cameras ontwikkeld. Om de persoon te herkennen op het beeld
+worden geavanceerde beeldverwerkingsalgortimes gebruikt. Achtereenvolgens wordt de
+achtergrond gedetecteerd, de schaduw verwijderd, validatie van de persoon en classificatie van de
+houding van de persoon.
+</p>
+
+<p>
+De beeldenstroom die van de camera komt is gecomprimeerd via MPEG4. Voor de valdetectie-
+algoritmes is een niet-gecomprimeerd beeld nodig, dus moet de beeldenstroom eerst
+gedecomprimeerd worden. Dit is wel een computationeel intensieve stap. Omdat de compressie
+gebaseerd is op basis van beeldvariatie in de tijd, zit de informatie die wij nodig hebben al
+rechtstreeks in de video-stream verweven. De bedoeling van deze thesis is onderzoeken, aan de
+hand van een literatuurstudie, op welke manier deze gegevens uit de stream kunnen gehaald
+worden, zonder eerst de decomprimeren. Daarna zal deze informatie verwerkt moeten worden in
+een bestaand valdetectie algoritme. Nadien kan er worden gekeken of er winst is op gebied van
+snelheid of accuraatheid van dit systeem.
+</p>
+
+<p>
+Aantal eindwerkstudenten: 1
+</p>
+
+<p>
+Dagelijkse begeleiding:
+</p>
+<ul>
+  <li>Glen Debard             glen.debard@khk.be</li>
+  <li>Jonas Van den Bergh     jonas.vandenbergh@denayer.wenk.be</li>
+</ul>
+
+<p>
+Promotor:
+</p>
+<ul>
+  <li>Bart Vanrumste          bart.vanrumste@khk.be</li>
+  <li>Toon Goedemé            toon.goedeme@denayer.wenk.be</li>
+</ul>
+
+
+<p>
+Opdrachten:
+</p>
+<ul>
+  <li>literatuurstudie:                         20%</li>
+  <li>implementatie (Matlab):                   60%</li>
+  <li>experimenten (validatie algoritme):       20%</li>
+</ul>
+
+
+<p>
+
+<img width="280" height="150" alt="figuur" src="maproef/2009-2010/voorstellen/valdetectie2-000.jpg"/>
+</p>
+      </section>
+-->
+
+
+<!--
+  niet gekozen
+  -->
+      <anchor id="infrarootvaldetectie"/>      
+      <section>
+        <title>Valdetectie aan de hand van infrarood beelden</title>
+
+<p>
+Veel ouderen vallen en kunnen daarna niet meer opstaan. Onderzoek heeft uitgewezen dat 30 tot
+45% van de ouderen die thuis leven en meer dan de helft van de bewoners van een bejaardenhuis
+minstens 1 keer per jaar vallen. 1 op 3 tot zelfs de helft valt meermaals per jaar. 10 tot 15% van
+deze valincidenten hebben ernstige gevolgen. Het is dus erg belangrijk om snel hulp te kunnen
+bieden. Rekening houdend met de vergrijzing van onze samenleving, wordt een degelijk detectie
+systeem erg belangrijk.
+</p>
+
+<p>
+In een samenwerking tussen De Nayer, de KHK, het UZ Leuven en de KU Leuven wordt een
+valdetectie systeem gebaseerd op gewone cameras ontwikkeld. Om de persoon te herkennen op het
+beeld worden geavanceerde beeldverwerkingsalgortimes gebruikt. Achtereenvolgens wordt de
+achtergrond gedetecteerd, de schaduw verwijderd, validatie van de persoon en classificatie van de
+houding van de persoon. Grote problemen hierbij zijn hindernissen in het beeld, verplaatsing van
+grote voorwerpen en dergelijke. De algoritmes maken gebruik van beweging, dus als de persoon
+niet meer beweegt gedurende een lange tijd, wordt deze niet meer gedetecteerd.
+</p>
+
+<p>
+Een mogelijke oplossing voor sommige problemen is het gebruik van een infrarood camera. Elke
+bron van warmte zend infrarood straling uit. Door hier gebruik van te maken, kunnen sommige van
+onze problemen opgelost worden. Maar er worden andere problemen geintroduceerd, zoals
+bijvoorbeeld interferentie van andere warmtebronnen zoals een radiator.
+</p>
+
+<p>
+In een voorgaand eindwerk is er een basis valdetectie algoritme in Matlab geschreven. Dit algoritme
+werkt aan de hand van gewone camera beelden. Deze algoritmes moeten herschreven worden om
+gebruik te maken van het IR spectrum. In een literatuurstudie wordt eerst de verschillende
+problemen en oplossingen bij het gebruik van IR cameras onderzocht. Hierna moet de bestaande
+code hiervoor aangepast worden in Matlab. Om de wijzigingen te valideren, moeten gesimuleerde
+vallen opgenomen worden.
+</p>
+
+<p>
+Aantal eindwerkstudenten: 1
+</p>
+<p>
+Dagelijkse begeleiding:
+</p>
+<ul>
+  <li>Glen Debard             glen.debard@khk.be</li>
+  <li>Jonas Van den Bergh     jonas.vandenbergh@denayer.wenk.be</li>
+</ul>
+
+
+<p>
+Promotor:
+</p>
+<ul>
+  <li>Bart Vanrumste          bart.vanrumste@khk.be</li>
+  <li>Toon Goedemé            toon.goedeme@denayer.wenk.be</li>
+</ul>
+
+
+<p>
+Opdrachten:
+</p>
+<ul>
+  <li>literatuurstudie:                         20%</li>
+  <li>implementatie (Matlab):                   50%</li>
+  <li>experimenten (validatie algoritme):       30%</li>
+</ul>
+
+
+<p>
+  <img alt="figuur" width="280" height="150" src="maproef/2009-2010/voorstellen/valdetectie1-000.jpg"/>
+</p>
+<p>
+IR camerabeeld van persoon 
+</p>
+<p>
+<img alt="figuur" width="201" height="132" src="maproef/2009-2010/voorstellen/valdetectie1-001.jpg"/>
+</p>
+<p>
+Mogelijke bron van interferentie  
+</p>
+
+      </section>
+
+<!--
+  niet gekozen
+  -->
+      <anchor id="digpll"/>      
+      <section>
+        <title>Design of an all-digital PLL for frequency synthesis</title>
+
+        <section>
+          <title>Description</title>
+
+<p>
+The PLL is widely used for frequency synthesis and timing recovery applications. Traditionally, most
+PLLs are in analog form, for keeping good output jitter performance. Unfortunately, due to high
+integration of many VLSI systems, the PLL often operates in a very noisy environment. Analog
+circuits are quite sensitive to these disturbances coupled through power supply and substrate. So many
+analog approaches are choosing a narrow bandwidth to improve the jitter performance. However, this
+method often results in a long lock-in time, which is not endurable for portable or mobile applications.
+On the contrary, an All-Digital-PLL (ADPLL) not only has higher noise immunity but also a number
+of other attractive features, including better testability, programmability, stability, fast locking-in and
+ease of integration into digital systems. Moreover, the ADPLL has remarkable benefits in saving both
+chip area and power compared to traditional analog approaches.
+A typical architecture of an ADPLL is shown below.
+</p>
+
+<p>
+<img alt="figuur" src="maproef/2009-2010/voorstellen/digpll-1.jpg"/>
+</p>
+
+        </section>
+        <section>
+          <title>Application</title>
+
+<p>
+This ADPLL will be served as a key component of a clock and data recovery circuitry in an optical
+receiver.
+</p>
+        </section>
+        <section>
+          <title>Targets</title>
+
+<p>
+   180 nm technology;
+   Operation frequency &gt; 2 GHz;
+   Tuning range > 1 GHz
+   Output jitter (rms) &lt; 20 ps;
+   Transistor level implementation;
+   Simulation and physical layout.
+</p>
+
+<p>
+<img alt="figuur" src="maproef/2009-2010/voorstellen/digpll-068.jpg"/>
+</p>
+
+        </section>
+        <section>
+          <title>State-of-the-art</title>
+<table>
+  <tr>
+  <td></td><td>[1]</td><td>[2]</td><td>              [3]</td><td>           [4]</td>
+  </tr>
+  <tr>
+    <td>Process</td><td>130 nm CMOS</td><td>180 nm CMOS</td><td>65 nm CMOS SOI</td><td>130 nm CMOS</td>
+  </tr>
+  <tr>
+    <td>Output Frequency</td><td>5 GHz</td><td>0.5 ~ 2.5 GHz</td><td>0.5 ~ 8 GHz</td><td>3.6 GHz</td>
+  </tr>
+  <tr>
+    <td>Output Jitter</td><td>&lt; 50 ps (pk-pk)</td><td>2.36 ps (rms)</td><td>3.2 ps (rms)</td><td>0.3 ps (rms)</td>
+  </tr>
+</table>
+
+        </section>
+        <section>
+          <title>Design Methods</title>
+          <p>
+System level simulation: Matlab, modelsim…;
+</p>
+<p>
+Transistor level simulation: spectre, eldo, hspice…;
+</p>
+<p>
+Layout: virtuoso;
+</p>
+<p>
+Digital synthesis and implementation: Cadence Encounter, Synopsys platform.
+          </p>
+        </section>
+        <section>
+          <title>References</title>
+          <p>
+[1] J. L. Sonntag, J. Stonick, “A Digital Clock and Data Recovery Architecture for Multi-Gigabit/s
+Binary Links,” IEEE J. of Solid-State Circuits, vol.41, no. 8, pp.1867-1875, Aug. 2006.
+</p>
+<p>
+[2] M. Brownlee, P. K. Hanumolu, et al, “A 0.5-GHz to 2.5-GHz PLL With Fully Differential Supply
+Regulated Tuning,” IEEE J. of Solid-State Circuits, vol. 41, no. 12, pp. 2720-2728, Dec. 2006.
+</p>
+<p>
+[3] A. V. Rylyakov, J. A. Tierno, et al, “A Wide Power-Supply Range (0.5V-to-1.3V) Wide Tuning
+Range (500MHz-to-8GHz) All-Static CMOS AD PLL in 65nm SOI,” Proceeding of ISSCC, pp. 172-
+173, 2007.
+</p>
+<p>
+[4] C. Hsu, M. Z. Straayer, et al, “A Low-Noise, Wide-BW 3.6GHz Digital ΔΣ Fractional-N
+Frequency Synthesizer with a Noise-Shaping Time-to-Digital Converter and Quantization Noise
+Cancellation,” Proceeding of ISSCC, pp. 340-342, 2008.
+Useful Link: <link href="http://ieeexplore.ieee.org/search/advsearch.jsp">ieeexplore.ieee.org/search/advsearch.jsp</link>
+</p>
+
+        </section>
+        <section>
+          <title>Contact</title>
+<p>          
+        paul.leroux@khk.be (or paul.leroux@esat.kuleuven.be)
+        ying.cao@esat.kuleuven.be
+</p>
+        </section>
+     </section>
+        
+        <!-- NXP -->
+        
+        
+<!--
+  niet gekozen
+  -->
+
+        <anchor id="tanner"/>
+        <section>
+          <title>Development of ASIC design kits for Tanner environment</title>
+          
+          
+          
+<section>
+<title>The task</title>
+
+<p>
+We are looking for enthusiastic students willing to create an PC based Tanner software ASIC development design kit for technologies from leading foundries. This includes converting the models, setting up the front-end simulations environment and testing the environment and comparing the results with the existing Cadence based design kit. In a second phase a back-end environment shall be set up involving creating libraries for place and route, setting up P-cells, DRC and LVS. The resulting design kit will be used by universities around the globe, so accuracy is a key factor. Also to support the customers, a manual must be made with examples and test results. All design kits need to have the same uniform setup allowing our customers to easily switch technologies if needed. At the start of the project, the students will have to brainstorm as a team as to what this structure will look like.
+</p>
+</section>
+
+<section>
+<title>The offer</title>
+
+<p>
+The students get the opportunity to receive an internal training on the Tanner design software. IMEC designers will introduce them in the ASIC design flow. If time permits the students can develop their own small design using the developed design kit.
+</p>
+
+
+</section>
+
+<section>
+<title>What exsists</title>
+<p>
+Starting point is a design kit that was developed within IMEC several years ago. The software and licenses will be provided by IMEC.
+</p>
+
+</section>
+
+<section>
+<title>Domain</title>
+<p>
+VLSI Electronics - ASIC design
+</p>
+
+</section>
+
+<section>
+<title>Knowledge</title>
+<p>
+VLSI Electronics
+</p>
+
+</section>
+
+<section>
+<title>Number of students</title>
+<p>
+Each design kit will be developed in teams of 2 students
+</p>
+
+
+</section>
+
+<section>
+<title>Coach, Supervisor</title>
+<p>
+Nico Beylemans
+</p>
+
+
+</section>
+
+<section>
+<title>Promotor</title>
+<p>
+Teacher at University or Institute
+</p>
+
+</section>
+
+<section>
+<title>Contact</title>
+<p>
+Nico Beylemans ASIC Design Support Engineer IMEC - Division INVOMEC Phone: +32 16 28 11 35 Fax: +32 16 28 15 84 E-mail: Nico.Beylemans@imec.be Steven Redant Manager ASIC Design IMEC - Division INVOMEC Phone: +32 16 28 19 28 Fax: +32 16 28 15 84 E-mail: Steven.Redant@imec.be
+</p>
+
+
+</section>
+
+<section>
+<title>Location</title>
+<p>
+IMEC- Division INVOMEC Kapeldreef 75, 3001 Heverlee. Student can get the possibility to work at home or home institute in function of the availability of design tools.
+</p>
+</section>         
+        </section>
+        
+        
+
+<!--
+  niet gekozen
+  -->
+        <anchor id="dare"/>
+        <section>
+          <title>Ontwerp van bouwblokken binnen IMEC's DARE libraries voor radiatietolerante chips in commerciële technologieën</title>
+          
+          
+<section>
+<title>Achtergrond</title>
+<p>
+IMEC ontwikkelt in opdracht van het Europees Ruimteagentschap ESA standaardcelbibliotheken die toelaten radiatietolerante chips te ontwerpen in commerciële technologieën. Zonder zulke libraries moet er steeds gekozen worden voor dure radiatie-harde processen met beperkte functionele flexibiliteit. Door het toepassen van ontwerptruuks kan echter met een bibliotheek voor commerciële technologie ook al een grote radiatie-tolerantie gehaald worden.
+</p>
+</section>
+
+
+<section>
+<title>Inhoud</title>
+<p>
+Momenteel ondersteunt IMEC zo een .18 micron bibliotheek en zijn de eerste stappen gezet naar de ontwikkeling van een 90 nm bibliotheek. We noemen die bibliotheken DARE bibliotheken. DARE is een acroniem voor Design Against Radiation Effects. De huidige bibliotheken zijn ontwikkeld voor UMC technologieën en voor bepaalde spanningsniveaus. Een port naar TSMC is interessant; of een .18 bibliotheek die ook een intern spanningsniveau heeft van 3.3V. Door het wegvallen van een van de radiatie-harde technologieën van een Europese foundry wordt mogelijk het maken van een DARE bibiliotheek in een 5V commericiële technologie interessant.
+</p>
+</section>
+
+<section>
+<title>Doel</title>
+<p>
+De taak van de student(en) bestaat erin stralingstolerante bibliotheekcellen te ontwerpen en alle bibliotheekinformatie aan te maken die nodig is om de cellen in een volledige digitale ASIC ontwerpflow te kunnen gebruiken, zoals daar zijn:
+</p>
+<ul>
+  <li>schema</li>
+  <li>layout</li>
+  <li>LEF file</li>
+  <li>Verilog model</li>
+  <li>VITAL model</li>
+  <li>.lib file</li>
+  <li>IBIS modellen voor I/O cellen</li>
+</ul>
+
+<p>
+Dit eindwerk vereist toegang tot Cadence ontwerptools en regelmatige aanwezigheid in IMEC voor ontwerpondersteuning en het gebruik van de specifieke software tools.
+</p>
+<p>
+Software tools (state-of-the-art) en - omgeving:
+</p>
+<ul>
+  <li>Cadence (Virtuoso, Composer, Analog Environment, Ocean, Spectre simulator, Encounter library Characterizer)</li> 
+  <li>Calibre (DRC, LVS, LPE)</li> 
+  <li>Linux/UNIX</li>
+</ul>
+
+
+
+</section>
+
+
+<section>
+<title>Onderwerp - domein</title>
+<p>
+VLSI Elektronica, design ASIC library
+</p>
+
+
+</section>
+
+<section>
+<title>Voorkennis</title>
+<p>
+VLSI Elektronica
+</p>
+</section>
+
+<section>
+<title>Aantal studenten</title>
+<p>
+2 (of 1)
+</p>
+
+
+</section>
+
+<section>
+<title>Begeleiding</title>
+<p>
+Steven Redant
+</p>
+
+
+</section>
+
+<section>
+<title>Promotor</title>
+<p>
+Docent Univ of hogeschool
+</p>
+</section>
+
+<section>
+<title>Contact</title>
+<p>
+Steven Redant Manager ASIC Design IMEC - Division INVOMEC Phone: +32 16 28 19 28 Fax: +32 16 28 15 84 E-mail: Steven.Redant@imec.be
+</p>
+</section>
+
+<section>
+<title>Locatie</title>
+<p>
+IMEC- Division INVOMEC Kapeldreef 75, 3001 Heverlee. Studenten krijgen de mogelijkheid gedeeltelijk thuis (of in het eigen instituut) te werken afhankelijk van de beschikbaarheid van design tools.
+</p>
+</section>
+        </section>
+        
+        <anchor id="mems"/>
+        <section>
+          <title>Ontwerp van een MEMS device als test case voor een flexibele MEMS design omgeving</title>
+<section>
+<title>Achtergrond</title>
+<p>
+Micro-mechanische sensoren: In het kielzog van de steeds kleiner en krachtiger wordende micro-elektronica, worden uit silicium, met vergelijkbare technieken, kleine mechanische componenten gemaakt die de zintuigen zijn van moderne apparaten. Onopvallend hebben ze zich al een vaste plaats veroverd in tal van toepassingen. Zo zitten er druksensoren in bloeddrukmeters, maar ook als hoogtemeter in polshorloges, in stofzuigers en in de cilinderkamer van dieselmotors. Micropompjes doseren de medicijntoevoer in medische implantaten, maar ook in inkjet printers. Accelerometers activeren je airbag bij een crash en een gyroscoop stabiliseert je wagen bij een slip of het beeld in je handycam. Het onderzoeksdomein waarin deze sensoren worden ontwikkeld wordt aangeduid met MST (Micro, Systemen &amp; Technologie) of MEMS (Micro Elektro-Mechanische Sensoren).
+</p>
+</section>
+
+<section>
+<title>Inhoud</title>
+<p>
+Wat houdt MEMS design in? In tegenstelling to de microelektronica - waar men enkel met het elektrische domein in contact komt - behelst MEMS design een ruime waaier van verschillende fysische interacties die gemodelleerd dienen te worden om toe te laten het gedrag van een systeem, bvb een sensor, juist te kunnen voorspellen. Daarvoor bestaan er verschillende tools: 2D layout- en 3D ontwerppakketten, multifysische simulatoren, design rule checkersâ¦ In de divisie INVOMEC van IMEC worden enerzijds nieuwe micromechanische systemen ontworpen of bestaande realisaties ge-redesigned, anderzijds zijn wij steeds bezig onze ontwikkelingsmethodes te verbeteren.
+</p>
+</section>
+
+<section>
+<title>Doel</title>
+<p>
+Na een opleiding in MEMS en het gebruik van de belangrijkste design tools, gaan de kandidaten zelf aan de slag. Onder het motto, "De beste stuurlui doen het zelf" wordt zelf een MEMS device ontworpen waarna dit gefabriceerd wordt. Tijdens het ontwerp worden de verschillende stappen goed gedocumenteerd en eventueel geautomatiseerd. Hierbij kunnen de kandidaten zich ofwel horizontaal verbreden of vertikaal verdiepen, met de bedoeling voorstellen te doen aangaande het gebruik van en de koppeling tussen verschillende pakketten. Het doel is de efficiëntie te verhogen (meer, snellere en juistere simulaties) en de kans op fouten verminderen (cross checking, automation). Finaal worden de simulaties vergeleken met meetresultaten op de gefabriceerde devices.
+</p>
+</section>
+
+<section>
+<title>Onderwerp - domein</title>
+<p>
+Elektronica Elektromechanica - MEMS
+</p>
+</section>
+
+<section>
+<title>Voorkennis</title>
+<p>
+gezond verstand fysische kennis handigheid met teken- en/of simulatiepakketten eventueel programmeerervaring
+</p>
+</section>
+
+<section>
+<title>Aantal studenten</title>
+<p>
+2 (of 1)
+</p>
+</section>
+
+<section>
+<title>Begeleiding</title>
+<p>
+Jan Bienstman
+</p>
+</section>
+
+<section>
+<title>Promotor</title>
+<p>
+Docent Univ of hogeschool
+</p>
+</section>
+
+<section>
+<title>Contact</title>
+<p>
+Jan Bienstman MEMS Design Support Engineer IMEC - Division INVOMEC Phone: +32 16 28 77 81 Fax: +32 16 28 15 84 E-mail: Jan.Bienstman@imec.be Steven Redant Manager ASIC Design IMEC - Division INVOMEC Phone: +32 16 28 19 28 Fax: +32 16 28 15 84 E-mail: Steven.Redant@imec.be
+</p>
+</section>
+
+<section>
+<title>Locatie</title>
+<p>
+IMEC- Division INVOMEC Kapeldreef 75, 3001 Heverlee. Studenten krijgen de mogelijkheid gedeeltelijk thuis (of in het eigen instituut) te werken afhankelijk van de beschikbaarheid van design tools.
+</p>
+</section>
+        </section>
+
+
+
+<!--
+   gekozen
+  -->
+        <anchor id="hydrogen"/>
+        <section>
+          <title>Hydrogen generation from solar light – Experimental setup</title>
+
+          <section>
+            <title>Description</title>
+
+            <p>
+Hydrogen (H_2 ) is interesting as fuel for transportation and as storage of solar energy. There exist many methods to produce hydrogen. An environmental friendly way is the use of solar energy, which can be a source of hydrogen with quasi infinite lifetime.
+</p>
+<p>
+The aim of this thesis is to develop a setup which demonstrates the generation of hydrogen by solar energy and the use of hydrogen for the production of electricity. For this aim a demonstration setup has to be developed, consisting of a solar panel, an electrolyzer, a water tank, hydrogen storage, a fuel cell, sensors, read out electronics and software. The solar panel converts solar light into electricity, which is consequently used by the electrolyzer to produce hydrogen (H_2 ) and oxygen (O_2 ) from water (H_2 O). The generated hydrogen needs to be stored. The fuel cell uses the stored hydrogen to generate electricity again. Sensors measure the power generated by the solar panel and the fuel cell, the hydrogen production rate, etc. This information is shown in an attractive way on a computer.
+</p>
+<p>
+The thesis consists of developing the setup, selecting the different components and putting them together. Software has to be written to control the setup, read out the sensors and to give a nice overview of the setup.
+</p>
+
+          </section>
+          <section>
+            <title>Contact person(s)</title>
+            <p>Stefan.Degroote@imec.be or jan.genoe@iwt.khlim.be</p>
+          </section>
+
+        </section>
+
+        
+        <anchor id="simenergie"/>
+        <section>
+          <title>Simulatie van de planning van decentrale energievoorziening</title>
+
+<p>
+            Aan het departement PMA (Productin engineering, 
+Manufacturing and Automation) van de K.U.Leuven wordt er o.a. 
+onderzoek verricht over het gebruik van agent technologie  voor 
+het opstellen van korte termijnvoorspellingen voor 
+productieomgevingen.
+</p>
+
+<p>
+Door gebruik te maken van parallelle algoritmes (die gebaseerd 
+zijn op het gedrag van mierenkolonies) is het mogelijk om 
+flexibele planningen op te stellen. Deze planningen zijn niet 
+alleen geoptimaliseerd maar kunnen ook flexibel aangepast worden 
+tijdens het uitvoeren van deze planning. Dit betekent 
+bijvoorbeeld dat bij uitval van een machine een order verschuift 
+naar een andere machine; de lopende planning hoeft hiervoor niet
+volledig opnieuw opgesteld te worden. De planning wordt in een continue proces
+enkel minimaal bijgesteld.
+</p>
+
+<p>
+In het kader van een eindwerk gedurende academiejaar 2008-2009 is voor het eerst 
+een simulator voor de planning van elektricteitsproductie ontworpen.
+Deze simulator is in Java geschreven en 
+zorgt voor de optimale koppeling tussen de gebruikers en producenten 
+in een elektriciteitsdistributienetwerk. Het algoritme is zodanig dat 
+de gebruikers mieren uitzenden over het netwerk en 
+hierdoor de producenten ontdekken. 
+Deze mieren zijn in staat om een gedeelte van de energie 
+geproduceerd door een producent op voorhand te reserveren. Deze reservatie
+heeft evenwel een tijdelijke geldigheid. Dit zorgt ervoor dat bepaalde reservaties automatisch vrijgegeven worden indien de gebruiker om een of andere reden deze energie niet meer nodig heeft.
+</p>
+
+<p>
+
+Het is de bedoeling om in het academiejaar dit eindwerk verder te zetten en er een aantal verbeteringen in aan te brengen.
+</p>
+<ul>
+  <li>
+ Bij de koppeling van gebruikers en producenten is het noodzakelijk om rekening te houden met een aantal beperkingen die inherent zijn aan een elektriciteitsdistributienetwerk. Dit zijn een aantal voorbeelden:
+  <ul>
+    <li>
+   Er moet rekening gehouden worden met de omzetting van 3 faze naar 2 faze. 
+   De 3 fazen moeten hierbij gelijk belast worden.
+    </li>
+    <li>
+   Er zijn transfo's opgenomen in het netwerk.
+    </li>
+    <li>
+   
+   De stroom kan slechts in één richting vloeien. 
+    </li>
+    <li>
+   De transmissiekabels hebben een beperkte capaciteit.
+    </li>
+  </ul>
+</li>
+<li>
+Verbetering van de visualisatie.
+</li>
+<li>
+Het parallel uitvoeren van de simulatie met behulp van Terracotta.
+</li>
+</ul>
+
+<p>
+Een aantal van deze componenten in de elektriciteitsdistributie zullen in Java gemodelleerd worden en opgenomen worden in de simulatie. 
+Ook is het de bedoeling om de visualisatie van de simulatie te verbeteren. 
+Dit laatste is trouwens ook noodzakelijk om de correcte werking van het mierenalgoritme te kunnen verifiëren
+en laat tenslotte toe om de simulatie te gebruiken als een demo.
+</p>
+<p>
+Sleutelwoorden: Java, multithreading, threadsynchronisatie, 
+modelleren van componenten uit het probleemdomein, simulaties in Java,
+Java ontwikkeltools: Eclipse, Spring, ant, versiebeheer, Terracotta.
+</p>
+
+<p>
+Aantal studenten: 2
+</p>
+<p>
+Promotoren: Paul Valckenaers, Leo Rutten
+</p>
+        </section>
+
+
+<!--
+
+      <anchor id="terracotta"/>
+      <section>
+        <title>Simulatieclustering met Terracotta</title>
+        
+        <p>
+          De meest voorkomende programmeertechniek in Java is het creëren van dynamische objecten. Deze objecten komen tot leven in de heap
+          binnen de JVM en zijn niet rechtstreeks toegankelijk van buiten de JVM (tenzij er RMI gebruikt wordt). In een aantal gevallen wil
+          men de heaps van verschillende JVM's groeperen. De redenen hiervoor kunnen velerlei zijn: de grootte van één enkele heap is te klein of
+          men ontwerpt een gedistribueerde applicatie die uit meerdere JVM's bestaat.
+        </p>
+        <p>
+          Met behulp van Terracotta (<link href="http://www.terracotta.org">www.terracotta.org</link>) is het mogelijk om de heaps van verschillende
+          JVM's te groeperen tot een soort superheap. Dit betekent dat alle objecten die tot leven komen in deze superheap toegankelijk zijn vanuit
+          alle meewerkende JVM's. Hierdoor is het eenvoudig om de threads in de verschillende JVM's met elkaar te synchronizeren. Terracotta neemt dit voor zijn rekening
+          zonder dat er een nieuwe API aan te pas komt. Voor elke JVM lijkt het alsof de superheap-objecten lokaal opgeslagen zijn. Elke JVM draait op een aparte PC.
+        </p>
+        <p>
+          Het enige wat niet door Terracotta gedaan wordt, is de load balancing tussen de verschillende JVM's. Het is daarom de bedoeling om een oplossing te ontwerpen 
+          die load balancing mogelijk maakt in een applicatie. Als type applicatie wordt er opteerd voor het 
+          simuleren van een agent gebaseerde cluster. Aan de KHLIM is er de vorige jaren ervaring opgebouwd met multi-agent toepassingen die gebaseerd zijn op het gedrag van mieren in mierenkolonies. 
+          Met deze technologie is het mogelijk om korte termijnvoorspellingen te berekenen (zie <link href="#simenergie">eindwerk</link>). Elke mier wordt gesimuleerd en bij
+          een groot aantal mieren is er heel wat processortijd nodig om aanvaardbare rekentijden te halen. Door de simulatie met Terracotta te spreiden ovder meerdere PC's
+          kan deze doelstelling gehaald worden.
+-->          
+        <!--  
+          Oude onderwerp:
+          uitrekenen van de posities van de knooppunten van een
+          grafe (<link href="http://www.ics.uci.edu/~ses/papers/grafdraw.pdf">graphdraw.pdf</link> en <link href="http://en.wikipedia.org/wiki/Graph_drawing">Graph_drawing</link>). 
+          Door deze berekening te spreiden over meerdere JVM's kunnen hogere schermrefreshtijden gehaald worden.
+          -->
+          <!--
+        </p>
+        <p>
+          Aantal studenten: 2
+        </p>
+        <p>
+          Bedrijf: KHLim
+        </p>
+        <p>
+          Promotor: Leo Rutten
+        </p>
+      </section>
+
+      
+      <anchor id="visenergie"/>
+      <section>
+        <title>Ajax Visualisatie van een simulatie van energiedistributie</title>
+        
+        <p>
+          Ten behoeve van de simulatie van decentrale energievoorziening moet een visualisatie ontworpen. Om platform- en softwareonafhankelijk te kunnen blijven
+          wordt de visualisatie ontworpen als een webapplicatie. Hiervoor wordt de applicatieserver Tomcat gebruikt. Door Ajax technieken toe te passen
+          kan de applicatie zowel interactief werken als continu de voortgang van de simulatie weergeven. Dit laatste is niet zo eenvoudig: het scherm van de browser
+          krijgt alleen maar een nieuwe inhoud als de gebruiker ingrijpt; vanuit de server de inhoud van het browservenster wijzigen is niet evident. Op welke 
+          wijze dit probleem opgelost kan worden, moet onderzocht worden.
+         
+          Voor de grafische weergave worden de mogelijkheden van Cocoon gebruikt.
+        </p>
+        <p>
+          In een eerste faze van het eindwerk wordt door het studententeam zelf een kleine simulatie ontworpen. In een latere faze wordt door middel van Terracotta
+          een connectie gemaakt met de simulatoren van de gerelateerde eindwerken.
+        </p>
+        <p>
+          Gebruikte technologie: Linux, Tomcat, Cocoon 2.2, SVG XSL, Dojo, Java, Terracotta.
+        </p>
+        <p>
+          Aantal studenten: 2
+        </p>
+        <p>
+          Bedrijf: KHLim
+        </p>
+        <p>
+          Promotor: Leo Rutten
+        </p>
+      </section>
+      
+-->
+
+
+
+<!--
+    niet gekozen
+  -->    
+        <anchor id="opengarments"/>
+        <section>
+          <title>Profilering en optimalisatie van de Open Garments community</title>
+
+          <section>
+            <title>Achtergrond</title>
+
+<p>
+Binnen het departement MDA en de opleiding communicatie- en multimediadesign van de KHLim
+hebben we een Europees project Open Garments rond mass customization waarin we ontwerpers, makers en kopers
+van persoonlijke kledij via een internet community willen samenbrengen, en waarin we nieuwe
+en/of aangepaste productie- en verkoopstechnieken willen toepassen.
+De KHLim bouwt hiervoor de community site en is op momenteel bezig met de keuze
+voor het specifieke platform (php, ruby on rails, jsp, .net, ...).
+</p>
+          </section>
+          <section>
+            <title>Inhoud</title>
+
+<p>
+Alhoewel de community site initieel slechts door een beperkt aantal gebruikers
+belast zal worden, is het wel de bedoeling om grote aantallen bezoekers te kunnen verwerken
+wanneer het hele systeem volledig in productie gaat.
+In deze masterproef onderzoeken de studenten  hoe ze het beste de performantie
+van de webapplicatie kunnen meten en optimaliseren. Het gaat hierbij niet alleen over de snelheid
+en de reactietijd voor de eindgebruiker, maar ook over de koppeling met andere delen van het systeem
+die in verschillende technologieen gebouwd kunnen zijn en waarvoor een gepaste communicatiestructuur
+en API voorzien wordt.
+</p>
+<p>
+Om de gewenste performantieverhoging te bekomen krijgen de studenten de kans om de ontwikkelaars
+van de applicatie direct aan te sturen en eventueel mee te werken aan de bouw ervan.
+</p>
+          </section>
+          <section>
+            <title>Doel</title>
+<ol>
+<li>
+selectie (en eventueel fijntuning of ontwikkeling) van de gepaste tools om de performantie na te gaan
+</li>
+<li>
+verbetertrajecten definieren, evalueren en implementeren
+</li>
+</ol>
+
+          </section>
+          <section>
+            <title>Onderwerp / domein</title>
+<p>
+web technologie, community sites, performantie
+</p>
+          </section>
+          <section>
+            <title>Aard van het werk</title>
+
+<ul>
+  <li>
+    literatuurstudie: 20%
+  </li>
+  <li>
+    analyse: 20%
+  </li>
+  <li>
+    ontwikkeling en implementatie: 45%
+  </li>
+  <li>
+    evaluatie: 15%
+  </li>
+</ul>
+
+          </section>
+          <section>
+            <title>Voorkennis</title>
+<p>
+affiniteit met web applicaties (minstens php),
+programmeervaardigheden
+</p>
+          </section>
+          <section>
+            <title>Aantal studenten</title>
+<p>
+2 (of desnoods 1)
+</p>
+          </section>
+          <section>
+            <title>Promotor</title>
+<p>
+Kris Aerts
+</p>
+        </section>
+        </section>
+
+<!--
+   gekozen
+  -->
+        <anchor id="firefoxext"/>
+        <section>
+          <title>Link naar native C/C++ en/of Java-applicaties voorzien voor Firefox-extensies</title>
+
+          <section>
+            <title>Achtergrond</title>
+<p>
+Firefox is een open source web browser die veel beter de <link href="http://www.w3c.org">www.w3c.org</link> standaarden
+opvolgt dan de marktleider Internet Explorer en die (terecht) heel wat aanhang heeft
+bij onafhankelijke gebruikers en in academische kringen.
+</p>
+<p>
+Leuk aan Firefox is het feit dat je gemakkelijk extensies kan ontwikkelen
+(<link href="https://addons.mozilla.org/nl/firefox/browse/type:1">https://addons.mozilla.org/nl/firefox/browse/type:1</link>). "Extensies zijn kleine add-ons die
+nieuwe functionaliteit toevoegen aan Firefox, van een eenvoudige werkbalkknop tot
+een volledig nieuwe mogelijkheid. Ze stellen u in staat om Firefox aan uw eigen
+behoefte en voorkeuren aan te passen, terwijl wij Firefox zelf licht en efficiënt kunnen houden."
+</p>
+<p>
+Vorig academiejaar heeft een student voor het eerst geexperimenteerd met het zelf
+schrijven van zo'n extensie. Het komende jaar gaan we op dit elan een stapje verder.
+</p>
+          </section>
+          <section>
+            <title>Inhoud</title>
+<p>
+Vanuit technisch oogpunt heb je voor een Firefox-extensie vooral XML en Javascript nodig, naast
+de kennis van CSS en xHTML (wat vanzelfsprekend is voor werken in een webbrowser).
+Vanuit inhoudelijk oogpunt zien we dat de meeste extensies voornamelijk inspelen op de manier van surfen: webpagina's kunnen
+anders bekeken, bewerkt en/of aangestuurd worden, wat ook het dichtste aansluit bij wat je kan met
+Javascript en DHTML.
+</p>
+<p>
+In deze masterproef willen we buiten dit 'traditionele' kader stappen en proberen om
+samen te werken met andere soorten programma's die geschreven zijn in andere
+programmeertalen, bv. C, C++ en Java. Zo zouden we bijvoorbeeld vanuit onze
+browser specifieke hardware kunnen aansturen via C++-programma's.
+</p>
+<p>
+Normaal kan je vanuit Javascript niet zomaar naar externe programma's linken,
+maar ongetwijfeld bestaan er verschillende oplossingen. Zo zou je bijvoorbeeld via Ajax
+kunnen connecteren met een webserver die je inbouwt in je C++-applicatie.
+Deze mogelijkheid moet echter nog onderzocht worden.
+</p>
+          </section>
+          <section>
+            <title>Doel</title>
+<ol>
+<li>Oplossingen vinden om buiten de Javascript-beperkingen te kunnen stappen.
+</li>
+<li>
+Deze oplossingen evalueren en toepassen voor een beperkte test-applicatie.
+</li>
+<li>
+Deze oplossingstrategie generaliseren, en indien mogelijk, een aangepaste tool ontwikkelen
+die anderen toelaat om deze strategie met minimale inspanningen toe te passen.
+</li>
+</ol>
+          </section>
+          <section>
+            <title>Onderwerp / domein</title>
+<p>
+webtechnologie, Firefox, Javascript, XML
+</p>
+          </section>
+          <section>
+            <title>Aard van het werk</title>
+<ul>
+<li>
+    literatuurstudie: 20%
+</li>
+<li>
+    analyse: 20%
+</li>
+<li>
+    ontwikkeling en implementatie: 45%
+</li>
+<li>
+    evaluatie: 15%
+</li>
+</ul>
+
+          </section>
+          <section>
+            <title>Voorkennis</title>
+<ul>
+  <li>
+    kennis van Firefox
+  </li>
+  <li>
+    vaardig in XML en Javascript
+  </li>
+  <li>
+    sterk in C++ en/of Java
+  </li>
+</ul>
+          </section>
+          <section>
+            <title>Aantal studenten</title>
+<p>            
+2 (of desnoods 1)
+</p>
+          </section>
+          <section>
+            <title>Promotor</title>
+<p>
+Kris Aerts
+</p>
+          </section>
+      </section>
+      
+      
+
+
+
+
+
+        <anchor id="secfpgaconf"/>
+        <section>
+          <title>Veilige FPGA-configuratie vanop een afstand</title>
+<p>
+FPGA's worden niet enkel meer gebruikt voor prototypes, maar ook meer en meer als eindproduct. De herconfigureerbaarheid van FPGA's brengt in dit geval een extra voordeel met zich mee: de implementatie kan bij problemen of bij het verschijnen van een nieuwe versie aangepast worden. In een traditionele opstelling moet de FPGA dan ter plaatste volledig geherconfigureerd worden. In een meer praktische opstelling kan de FPGA vanop een afstand geconfigureerd worden. Een probleem dat hierbij optreedt, is dat de configuratiegegevens beveiligd moeten worden om te voorkomen dat ze onderschept of gewijzigd worden. De doelstellingen van dit eindwerk zijn om een systeem te ontwerpen dat via een beveiligd configuratiebestand de FPGA herconfigureert via een ethernetverbinding. Daartoe wordt de FPGA opgedeeld in een statische zone en een herconfigureerbare zone. In de herconfigureerbare zone komt de applicatie terecht die wordt beschreven in het configuratiebestand. In de statische zone worden de cryptografische modules geïmplementeerd die het beveiligd configuratiebestand verwerken alsook de configuratie van de beoogde applicatie verzorgen.
+</p>
+<p>
+Deze masterproef bestaat uit de volgende stappen:
+</p>
+<ul>
+  <li>
+evaluatie van een bestaand systeem dat via een seriële verbinding de configuratiegegevens verstuurt,
+  </li>
+  <li>
+uitbreiding van het systeem a.d.h.v. een ethernetverbinding die via een softcore PicoBlaze processor wordt aangestuurd,
+  </li>
+  <li>
+uitbreiding van het systeem door toevoeging van meerdere cryptografische componenten,
+  </li>
+  <li>
+evaluatie van het resulterend systeem.
+  </li>
+ </ul>
+
+<p>
+Deze masterproef loopt in samenwerking met EhB (Erasmushogeschool Brussel). De studenten kunnen aan hun masterproef werken aan de KHLim en worden enkele keren verwacht bij EhB om de voortgang te bespreken. 
+</p>
+<p>
+Aard van het werk:
+</p>
+<p>
+20% literatuurstudie
+</p>
+<p>
+80% implementatie
+</p>
+
+<p>
+Interne promotoren KHLim: Jo Vliegen (jo.vliegen@iwt.khlim.be), Nele Mentens (nele.mentens@iwt.khlim.be)
+</p>
+<p>
+Externe promotoren Erasmushogeschool Brussel: An Braeken (an.braeken@docent.ehb.be), Abdellah Touhafi (abdellah.touhafi@docent.ehb.be)
+</p>
+<p>
+Studenten: Joren Grondelaers, Robbie Vandeweert
+</p>
+       </section>
+
+
+        <anchor id="cryptoelliptic"/>
+        <section>
+          <title>Efficiënte implementatie van cryptosystemen gebaseerd op elliptische krommen</title>
+
+<p>
+Om op een efficiënte manier o.a. digitale handtekeningen te kunnen genereren en verifiëren, worden cryptosystemen gebruikt die gebaseerd zijn op elliptische krommen. Hoewel deze systemen wiskundig relatief complex zijn, vertonen ze goede eigenschappen inzake chipoppervlakte en snelheid. De opdracht van deze masterproef bestaat erin om verschillende varianten van cryptosystemen gebaseerd op elliptische krommen te implementeren en te vergelijken op FPGA. Hiertoe zullen standaardkrommen en -parameters aangewend worden die wereldwijd als veilig aanzien worden.
+</p>
+<p>
+
+Deze masterproef loopt in samenwerking met EhB (Erasmushogeschool Brussel). De studenten kunnen aan hun masterproef werken aan de KHLim en worden enkele keren verwacht bij EhB om de voortgang te bespreken. 
+</p>
+<p>
+
+Aard van het werk:
+</p>
+<p>
+
+20% literatuurstudie
+</p>
+<p>
+80% implementatie
+</p>
+<p>
+
+Interne promotoren KHLim: Jo Vliegen (jo.vliegen@iwt.khlim.be), Nele Mentens (nele.mentens@iwt.khlim.be)
+</p>
+<p>
+Externe promotoren Erasmushogeschool Brussel: An Braeken (an.braeken@docent.ehb.be), Abdellah Touhafi (abdellah.touhafi@docent.ehb.be)
+</p>
+<p>
+
+Studenten: Robben Aerts, Brecht Sluismans
+</p>
+        </section>
+
+
+        <anchor id="hashfpga"/>
+        <section>
+          <title>Evaluatie van nieuwe hashfunctiekandidaten op FPGA</title>
+
+<p>
+Een hashfunctie is een bewerking die een (variabel) aantal bits afbeeldt op een bitstring met een vaste (kortere) lengte. In de cryptografie zijn hashfuncties vooral belangrijk voor het controleren van de integriteit van een boodschap: wanneer een boodschap samen met de bijhorende hashwaarde wordt verstuurd, kan er nagegaan worden of de boodschap gemanipuleerd werd door de hashwaarde van de boodschap opnieuw te berekenen en te vergelijken met de doorgestuurde hashwaarde. Op een gelijkaardige manier worden hashfuncties gebruikt bij het genereren en verifiëren van digitale handtekeningen. 
+
+</p>
+<p>
+Omdat de bestaande standaarden voor hashfuncties niet meer voldoen aan de veiligheidseisen van toekomstige applicaties, is er in het najaar van 2008 een competitie gestart voor het vinden van een nieuwe hashfunctiestandaard (zie csrc.nist.gov/groups/ST/hash/index.html). Nadat de specificaties van de kandidaat-hashfuncties gepubliceerd werden, bevindt de competitie zich nu in een evaluatiefase waarin niet enkel de veiligheid, maar ook de implementatie-eigenschappen (zowel in software als hardware) wereldwijd geëvalueerd worden. 
+
+</p>
+<p>
+Deze masterproef levert een bijdrage aan de evaluatie van nieuwe hashfunctiekandidaten aan de hand van volgende stappen: 
+</p>
+
+  <ul>
+  <li>
+implementatie van meerdere nieuwe hashfunctiekandidaten op FPGA, 
+  </li>
+  <li>
+implementatie van een test setup, 
+  </li>
+  <li>
+uitgebreide rapportering en vergelijking van de snelheid en de oppervlakte van de kandidaten en de referentie-implementatie. 
+  </li>
+  </ul>
+
+<p>
+Deze masterproef loopt in samenwerking met de onderzoeksgroep COSIC (COmputer Security and Industrial Cryptography) aan het departement Elektrotechniek-ESAT van de Katholieke Universiteit Leuven. De studenten kunnen aan hun masterproef werken aan de KHLim en worden enkele keren verwacht bij COSIC om de voortgang te bespreken.
+</p>
+<p>
+
+Aard van het werk: 
+</p>
+<p>
+20% literatuurstudie 
+</p>
+<p>
+80% implementatie
+</p>
+<p>
+Interne promotoren KHLim: Jo Vliegen (jo.vliegen@iwt.khlim.be), Nele Mentens (nele.mentens@iwt.khlim.be)
+</p>
+<p>
+Externe promotor K.U.Leuven, ESAT, COSIC: Sebastiaan Indesteege (sebastiaan.indesteege@esat.kuleuven.be)
+</p>
+<p>
+Studenten: Wim Ramakers, Hans Narinx
+</p>
+        </section>
+
+
+        <anchor id="powerfpga"/>
+        <section>
+          <title>Implementatie van nieuwe vermogenaanvallen en tegenmaatregelen op FPGA</title>
+
+<p>
+Om veiligheid toe te voegen aan embedded systemen die gebruik maken van FPGAs, moeten cryptografische algoritmen toegevoegd worden aan bestaande FPGA implementaties. Deze cryptografische algoritmen moeten ten eerste verondersteld worden theoretisch veilig te zijn. Een bijkomende eis aan de cryptografische bouwblokken is dat ze bestand zijn tegen zogenaamde nevenkanaal aanvallen. Dit zijn aanvallen die via een meting van het vermogenverbruik of de uitvoeringstijd van bepaalde bewerkingen geheime informatie proberen te achterhalen. In dit eindwerk zal er via een opeenvolging van vermogenmetingen en tegenmaatregelen (dit zijn verbeteringen van de implementatie) getracht worden om een cryptosysteem gebaseerd op elliptische krommen zo veilig mogelijk te maken. Daartoe zullen de volgende stappen doorlopen worden:
+</p>
+
+  <ul>
+  <li>
+opstellen van een setup voor vermogenmetingen aan de hand van een FPGA-bordje, een oscilloscoop en een PC,
+  </li>
+  <li>
+analyseren van een bestaande implementatie van een cryptosysteem gebaseerd op elliptische krommen,
+  </li>
+  <li>
+herhaalde implementatie van tegenmaatregelen en meer geavanceerde vermogenaanvallen,
+  </li>
+  <li>
+vergelijking van de veiligheid, de oppervlakte en de snelheid van de verschillende implementaties.
+  </li>
+  </ul>
+
+<p>
+Deze masterproef loopt in samenwerking met de onderzoeksgroep COSIC (COmputer Security and Industrial Cryptography) aan het departement Elektrotechniek-ESAT van de Katholieke Universiteit Leuven. De studenten kunnen aan hun masterproef werken aan de KHLim en worden enkele keren verwacht bij COSIC om de voortgang te bespreken.
+</p>
+<p>
+Aard van het werk:
+</p>
+<p>
+20% literatuurstudie 
+</p>
+<p>
+80% implementatie
+</p>
+<p>
+Interne promotoren KHLim: Jo Vliegen (jo.vliegen@iwt.khlim.be), Nele Mentens (nele.mentens@iwt.khlim.be)
+</p>
+<p>
+Externe promotor K.U.Leuven, ESAT, COSIC: Lejla Batina (lejla.batina@esat.kuleuven.be)
+</p>
+<p>
+Studenten: Joren Moelans, Steven Swinnen
+</p>
+         </section>
+
+
+      
+      
+<!--      
+      
+      <anchor id="gencrypto"/>
+      <section>
+        <title>Automatische generatie van efficiënte crypto-coprocessoren</title>
+
+<p>        
+In een wereld waar alles meer en meer digitaal wordt, is het belangrijk om de digitale gegevens te beveiligen. Onder beveiliging verstaan we o.a. het vertrouwelijk maken van de gegevens alsook het garanderen van de integriteit van de gegevens en de identificatie van de partijen die de gegevens verzenden en ontvangen. Om deze doelstellingen te bekomen, worden technieken gebruikt die we onder de noemer "cryptografie" kunnen verzamelen. Deze cryptografische technieken kunnen, afhankelijk van de toepassing, op verschillende platformen geïmplementeerd worden, zoals microprocessoren, FPGAs, ASICs,... Voor zowel FPGAs als ASICs is VHDL de aangewezen beschrijvingstaal voor het ontwerpen van digitale schakelingen.
+</p>
+<p>
+Op dit moment worden de meeste hardware crypto-coprocessoren ad-hoc gemaakt voor een bepaalde toepassing, waarbij er weinig sprake is van het automatiseren van het implementatie-proces. Omdat we de verschillende crypto-coprocessoren kunnen opdelen in families met gelijkaardige eigenschappen, moet het mogelijk zijn om 
+(op zijn minst delen van) de design-flow te automatiseren. 
+</p>
+<p>
+Hierbij denken we zowel aan het automatisch genereren van VHDL op basis van de eigenschappen van de gewenste crypto-coprocessor, als aan het optimaal benutten van de gebruikte componenten. Er is immers dikwijls een trade-off tussen minimale oppervlakte en maximale snelheid. Wanneer oppervlakte belangrijker is dan snelheid, kan je bepaalde delen van het crypto-algoritme ook in de assemblertaal van de zelf gemaakte coprocessor uitwerken en in het beschikbare geheugen berekenen ipv in hardware in te bouwen. Meestal is er immers sowieso al geheugen aanwezig in de gebruikte standaard componenten en kan je dit dus zonder extra kostprijs gebruiken.  Een voorbeeld hiervan is een modulaire machtsverheffing in RAM.
+</p>
+<p>
+In deze masterproef onderzoeken de studenten hoe je in de design-flow aanwijzigingen kan geven
+om bepaalde delen van het algoritme en/of de crypto-coprocessor te automatiseren, zij het direct in VHDL, via compilatie naar assembler of via een andere hardware beschrijvingstaal zoals SystemC, Lava of Wired.
+</p>
+<p>
+In deze masterproef kan je je dus vervolmaken in zowel hardware design (in VHDL), compilerontwikkeling (eventueel via Lex en Yacc) en/of het leren van nieuwe programmeertalen (zoals Lava of Wired).
+Een gezonde portie leergierigheid in deze onderwerpen komt dan ook goed van pas.
+Naast de concrete uitwerking is het ook belangrijk dat je de verschillende mogelijkheden aanschouwt, evalueert en reflecteert over de voor- en nadelen van de verschillende systemen.
+</p>
+<p>
+Aantal personen : (minstens) 2 (zowel ICT als ONT-studenten passen binnen het profiel)
+</p>
+<p>
+Contactpersonen: Kris Aerts, Nele Mentens, Jo Vliegen      
+</p>
+        </section>
+      
+      <anchor id="herconffpga"/>
+      <section>
+        <title>Dynamische, partieel herconfigureerbare implementaties van cryptografische bouwblokken op FPGA</title>
+
+       
+
+        <p>
+De meest recente Xilinx FPGAs laten toe om een gedeelte van de FPGA te herconfigureren terwijl de rest van de FPGA onveranderd blijft en de normale werking verderzet. Dit noemen we partiële herconfiguratie. Daarnaast is het mogelijk om het onveranderd gedeelte van de FPGA te laten beslissen over de herconfiguratie van het herconfigureerbaar gedeelte. Dit noemen we dynamische, partiële herconfiguratie.
+        </p>
+
+        <p>
+Het doel van deze masterproef is het toevoegen van dynamische, partiële herconfigureerbaarheid aan cryptografische systemen. Dit zal verschillende voordelen bieden waaronder besparing van oppervlakte en verhoging van de uitvoeringssnelheid, maar ook verbetering van de veiligheid van het systeem.
+        </p>
+
+        <p>
+De masterproef bestaat uit de volgende stappen:
+        </p>
+
+        <ol>
+        <li>
+studie van de te implementeren cryptografische bouwblokken,
+        </li>
+        <li>
+implementatie van de dynamische, partieel herconfigureerbare systemen op FPGA
+        </li>
+        <li>
+implementatie van een test setup,
+        </li>
+        <li>
+uitgebreide rapportering van de snelheid, de oppervlakte en de veiligheid van de cryptografische bouwblokken.
+        </li>
+        </ol>
+       
+
+        <p>
+Deze masterproef loopt in samenwerking met de onderzoeksgroep COSIC (COmputer Security and Industrial Cryptography) aan het departement Elektrotechniek-ESAT van de Katholieke Universiteit Leuven. De studenten kunnen aan hun masterproef werken aan de KHLim en worden enkele keren verwacht bij COSIC om de voortgang te bespreken.
+        </p>
+
+        <p>
+Aard van het werk:
+        </p>
+
+        <ul>
+        <li>
+20% literatuurstudie
+        </li>
+        <li>
+80% implementatie
+        </li>
+        </ul>
+
+        <p>
+Contactpersoon: Nele Mentens (nele.mentens@iwt.khlim.be)
+        </p>
+
+        </section>
+
+      
+      <anchor id="hashfpga"/>
+      <section>
+        <title>Evaluatie van nieuwe hashfunctie kandidaten op FPGA</title>
+
+        <p>
+Een hashfunctie is een bewerking die een (variabel) aantal bits afbeeldt op een bitstring met een vaste (kortere) lengte. In de cryptografie zijn hashfuncties vooral belangrijk voor het controleren van de integriteit van een boodschap: wanneer een boodschap samen met de bijhorende hashwaarde wordt verstuurd, kan er nagegaan worden of de boodschap gemanipuleerd werd door de hashwaarde van de boodschap opnieuw te berekenen en te vergelijken met de doorgestuurde hashwaarde. Op een gelijkaardige manier worden hashfuncties gebruikt bij het genereren en verifiëren van digitale handtekeningen. 
+        </p>
+        <p>
+Omdat de bestaande standaarden voor hashfuncties niet meer voldoen aan de veiligheidseisen van toekomstige applicaties, is er in het najaar van 2008 een competitie gestart voor het vinden van een nieuwe hashfunctie standaard 
+(zie <link href="http://csrc.nist.gov/groups/ST/hash/index.html">csrc.nist.gov/groups/ST/hash/index.html</link>). Nadat de specificaties van de kandidaat-hashfuncties gepubliceerd werden, bevindt de competitie zich nu in een evaluatiefase waarin niet enkel de veiligheid, maar ook de implementatie-eigenschappen (zowel in software als hardware) wereldwijd geëvalueerd worden.
+        </p>
+        <p>
+Deze masterproef levert een bijdrage aan de evaluatie van nieuwe hashfunctie kandidaten aan de hand van volgende stappen: 
+        </p>
+        
+        <ol>
+          <li>
+implementatie van meerdere nieuwe hashfunctie kandidaten op FPGA,
+          </li>
+          <li>
+implementatie van een test setup,
+          </li>
+          <li>
+uitgebreide rapportering en vergelijking van de snelheid en de oppervlakte van de kandidaten en de referentie-implementatie. 
+          </li>
+        </ol>
+        
+        <p>
+Deze masterproef loopt in samenwerking met de onderzoeksgroep COSIC (COmputer Security and Industrial Cryptography) aan het departement Elektrotechniek-ESAT van de Katholieke Universiteit Leuven. De studenten kunnen aan hun masterproef werken aan de KHLim en worden enkele keren verwacht bij COSIC om de voortgang te bespreken. 
+        </p>
+        <p>
+Aard van het werk: 
+</p>
+<ul>
+  <li>
+20% literatuurstudie
+  </li>
+  <li>
+80% implementatie
+  </li>
+</ul>
+
+<p>
+Contactpersoon: Nele Mentens (nele.mentens@iwt.khlim.be)
+</p>
+</section>
+      
+
+
+      <anchor id="oled"/>
+      <section>
+        <title>Controle logica voor de display driver ICs van een oprolbaar actieve matrix oLED display</title>
+        <p>
+Vorig academiejaar werd door KHLim studenten een display driver gemaakt die toelaat 32 kolommen van een oprolbaar OLED display aan te sturen.
+Met 10 van deze ICs kan een QVGA oprolbaar OLED display aangestuurd worden en de stroom van elk van de OLED in het display
+kan hiermee gemeten worden. Dit is de eerste stap naar een QVGA oprolbaar OLED display. Deze 10 kolom driver ICs dienen echter ook
+aangestuurd te worden en bovendien dient de stroom van elk van de pixels gekalibreerd te worden.
+        </p>
+        <p>
+De opdracht van deze masterproef bestaat erin binnenkomende beelddata aan te passen aan de kalibratie gegevens van het display en vervolgens aan
+hoge snelheid naar de verschillende driver ICs van het display te sturen. Het gehele algoritme hiervoor dient geïmplementeerd te worden in een FPGA.
+        </p>
+        <p>
+          Contactpersoon: Jan Genoe (jan.genoe@iwt.khlim.be)
+        </p>
+       </section>
+
+
+
+
+
+
+      <anchor id="sensornet"/>
+      <section>
+        <title>Grafische voorstelling van een sensor netwerk</title>
+        
+        <section>
+          <title>Het Kader</title>
+          <p>
+OneAccess is een ICT bedrijf dat producten ontwikkelt voor de toegang tot telecommunicatie netwerken. We mikken hierbij vooral op de professionele markt. De productenreeks beslaat de ganse gamma van access producten gaande van analoge modemtechnologie tot glasvezeltoepassingen, van sensornetwerken tot 3G toepassingen.
+          </p>
+          <p>
+De DSP groep binnen OneAccess heeft een aantal onderzoeksprojecten lopen in het domein van de sensornetwerken. Hiervoor ontwikkelen we de sensoren en de gateway naar een ICT netwerk. Deze technologische kennis wordt verfijnd door de deelname aan het IBBT-Deus project. In dit project wordt onderzoek gedaan naar het optimaal routeringprotocol en worden een aantal use cases uitgetekend. De deelname aan deze use cases zijn uitermate belangrijk voor het bepalen van het gedrag van deze netwerken in realistische gebruikersomgevingen. Verder waren we mede oprichter van het iLab.t extensive Wireless Lab waar een sensor netwerk op grote schaal uitgerold werd voor het uittesten van routeringscenario’s.
+          </p>
+        </section>
+        <section>
+          <title>De Context</title>
+          <p>
+Belangrijk voor ons is dat een sensor netwerk kan beheerd worden. Het is immers noodzakelijk dat op elk ogenblik de integriteit van het netwerk kan gecontroleerd worden en een falen door alarmen gesignaleerd wordt aan de operator. Sommige sensornetwerken kunnen bedrijfskritisch zijn en het is belangrijk om weten of een falen, veroorzaakt wordt door een reëel alarm of door het uitvallen van een sensor of verbinding.
+          </p>
+          <p>
+Daarom werd er binnen OneAccess een modellering raamwerk uitgedacht waarmee al onze producten kunnen beschreven en beheerd worden. Deze modellering en het bijhorende protocol laten toe om de verschillende elementen van een toestel op te vragen, te configureren, de status en de evolutie in de tijd van een aantal parameters op te vragen. Alarmen kunnen ingesteld worden en de bijhorende triggers ingesteld. 
+          </p>
+          <p>
+Dit concept maakt het mogelijk om via een aantal tools een toestel te ondervragen. Een voorbeeld vindt men in de volgende figuur:
+          </p>
+
+
+<p>
+      <img alt="figuur" src="maproef/2009-2010/voorstellen/oneaccess-1.jpg"/>
+</p>
+
+
+
+          <p>
+Voor een netwerkbeheerder is het belangrijk om een overzicht te hebben van het ganse netwerk en de apparaten die onder zijn beheer staat. Daarom is het mogelijk om via specifieke tools de toestand van de netwerkelementen en de mogelijke alarmen op te vragen. Een voorbeeld is te vinden in de volgende figuur:
+          </p>
+
+
+          <p>
+      <img alt="figuur" src="maproef/2009-2010/voorstellen/oneaccess-2.png"/>
+          </p>
+        </section>
+
+
+
+
+
+        <section>
+          <title>De Opdracht</title>
+<p>
+Voor sensornetwerken is deze informatie dikwijls niet voldoende. Sensoren geven dikwijls informatie weer die plaatsgebonden is zoals de temperatuur in bepaalde ruimtes, de plaats van een bepaald uitrustingsstuk, een alarm op een bepaalde deur.
+</p>
+<p>
+Daarom willen we de informatie die uit de management gegevens halen ook grafisch weergeven. We willen de plaats van sensoren weergeven of een grafische representatie van de ruimte waarin ze staan. De plannen van deze ruimte kunnen via eenvoudige tools aangemaakt worden of ingelezen vanuit externe bronnen. Binnen het Deus project TeleAtlas verantwoordelijk voor het aanmaken van de kaarten voor de use cases. Het zou handig zijn om dit type kaarten te gebruiken voor het positioneren van de sensoren. Een ander aspect dat kan onderzocht worden zijn de verschillende mogelijke formaten van technische tekeningen die gebruikt worden.
+</p>
+<p>
+Op deze kaarten kunnen de locaties van de sensoren grafisch weergegeven worden. In een eerste fase is deze plaats een constante, maar in een verdere evolutie kunnen deze sensoren ook verbonden zijn met personen, toestellen en zal de locatie een parameter zij die de sensor doorstuurt. Sommige status veranderingen van de sensoren, zoals alarmen, kunnen grafisch weergegeven worden, routeringtabellen kunnen visueel getoond worden. Een voorbeeld van een dergelijke representatie vind je in onderstaande figuur. Deze figuur komt uit een proeftuinproject met KHLim waarbij fictieve gegevens in een database opgeslagen werden. In dit projectvoorstel willen we de gegevens in real time ophalen uit de sensoren door gebruik te maken van de management tools die voorhanden zijn.
+</p>
+
+
+<p>
+      <img alt="figuur" src="maproef/2009-2010/voorstellen/oneaccess-3.jpg"/>
+</p>
+        </section>
+
+
+
+
+        <section>
+          <title>Uitdagingen</title>
+          <p>
+We menen dat dit voorstel een brede waaier van technologieën aanbiedt waarmee kennis moet gemaakt worden: het tekenen en importeren van plannen, kennis over sensor netwerken, kennis over het monitoren van netwerken. Daarbij loopt de ontwikkeling parallel met de eindfase van het Deus project waarbij de verschillende use cases opgebouwd en gedemonstreerd worden. Deze use cases willen een zo realistisch mogelijke implementatie van een  research project toetsen aan de realiteit. Een beschrijving van dit project kan je vinden op de IBBT website ( <link href="https://projects.ibbt.be/deus/">https://projects.ibbt.be/deus/</link> ).
+          </p>
+          <p>
+De demonstratoren worden opgebouwd in RVT De Vijvers in Ledegem, de Vooruit in Gent, het Erfgoedcentrum in Mechelen. Deze toepassing gaat gebruikt worden voor het monitoren van de opgestelde netwerken. Het eindwerk kan op die manier direct getoetst worden aan een reële implementatie.
+          </p>
+
+        <section>
+          <title>Contact</title>
+          <p>
+Guido Impens, Erik Hulsmans, OneAccess, Haasrode
+          </p>
+        </section>
+      </section>
+
+    </section>
+
+
+      <anchor id="profibus"/>
+      <section>
+        <title>Opbouw van een PROFIBUS Remote IO eiland</title>
+        
+        <section>
+          <title>Probleemstelling</title>
+          <p>
+ACRO is sinds 2003 als enige in België internationaal geaccrediteerd als PROFIBUS Competence Center.  Dit betekent dat ACRO voor gans België instaat voor de technische ondersteuning omtrent alle aspecten van PROFIBUS.  Deze technische ondersteuning omvat telefonisch en on-site advies, consultancy, on-site troubleshooting en doelgerichte opleidingen.
+Om een PROFIBUS toestel op de markt te brengen dienen fabrikanten echter een hele procedure te doorlopen, van ontwikkeling over testen tot en met certificatie en identificatie-aanvraag.  Ook deze volledige procedure vereist uiteraard een nauwgezette technische ondersteuning.
+Op dit vlak heeft ACRO een technische lacune.  ACRO is geen producent van PROFIBUS componenten en daardoor werd deze procedure nooit doorlopen.
+          </p>
+          <p>
+Om in de toekomst ontwikkelaars van PROFIBUS componenten te kunnen ondersteunen bij ontwikkeling van nieuwe toestellen, wil ACRO deze procedure volledig doorlopen en een afgewerkte PROFIBUS DP slave bouwen (op basis van een Remote IO eiland).
+          </p>
+        </section>
+        <section>
+          <title>Opdracht</title>
+          <p>
+Er dient vanaf 0 een volledig nieuw toestel te worden gebouwd.  In eerste instantie omhelst dit de keuze van de juiste hardware-componenten, zoals de microcontroller en de communicatie-ASIC.  Vervolgens dient in de juiste programmeertaal, afhakelijk van de gekozen microcontroller de volledige softwarematige implementatie van de slave te worden uitgewerkt.  Tegelijkertijd dient tevens een GSD-file te worden opgemaakt, welke het mogelijk maakt de slave te testen, gebruik makend van verschillende DP-masters.          </p>
+        </section>
+        <section>
+          <title>Ondersteuning</title>
+          <p>
+ACRO bezit als geen ander in België de uitgebreide kennis en ervaring rond PROFIBUS.  Binnen ACRO zijn verschillende PROFIBUS specialisten, allen bereid om bij te springen en bij te sturen waar dit nodig is.
+Ook de nodige materialen, zoals microcontrollers, ASIC’s, PC en DP-masters zullen door ACRO ter beschikking worden gesteld.
+           </p>
+           <p>
+Voor het uitvoeren van het eindwerk zal tevens een ruimte gereserveerd worden binnen het Technologiecentrum.
+          </p>
+          <p>          
+Promotor: Stijn Delen, ACRO, 011/300.473
+          </p>
+          <p>
+Docent: Leen Geert
+          </p>
+        </section>
+      </section>
+    -->
+
+
+
+
+      </section>
+ 
+  </body>
+</document>

@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V1.2//EN" "/export/usr/local/forrest/main/webapp/resources/schema/dtd/document-v12.dtd">
+<document> 
+  <header> 
+    <title>Eindwerken 2004-2005</title> 
+  </header> 
+  <body> 
+  
+       <p>Dit is het overzicht van de eindwerken 2004-2005 van 4II-ELO.</p>
+      <p>Laatste wijziging: 2005/07/03 16:07:44</p>
+
+      <section>
+      <title>Overzicht</title>
+
+<table>
+<caption>
+Eindwerken 2004-2005
+</caption>
+
+<tr>
+ <th>code</th>
+ <th>student(en)</th>
+ <th>titel</th>
+ <th>bedrijf</th>
+ <th>promotors</th>
+</tr>
+
+<!-- toegekende eindwerken -->
+
+
+<tr>
+ <td>1</td>
+ <td>Koen Vanhees<br/>Davy Aerts</td>
+ <td>Betrouwbaarheidsmetingen van transistorcircuits en geheugens op basis van organische materialen (<link href="#pentacene2">abstract</link>)</td>
+ <td>IMEC, Leuven</td>
+ <td>Kris Myny<br/>Jan Genoe</td>
+</tr>
+
+<tr>
+ <td>2</td>
+ <td>Soner Akpinar</td>
+ <td>C-code voor de aansturing van een Organisch Vapor Phase Deposition toestel (<link href="#vapor">abstract</link>)</td>
+ <td>IMEC, Leuven</td>
+ <td>Kris Myny<br/>Jan Genoe</td>
+</tr>
+
+<tr>
+ <td>3</td>
+ <td>Jochen Vandorpe<br/>Wim Beckers</td>
+ <td>Ontwikkeling van een controle-interface voor industriële robots (<link href="#ibmrobot">abstract</link>)</td>
+ <td>PMA, KULeuven</td>
+ <td>Johan Baeten<br/>Herman Bruyninckx</td>
+</tr>
+
+<tr>
+ <td>4</td>
+ <td>Jo Vliegen<br/>Koenraad Becks</td>
+ <td>Ontwikkeling van een autonoom voertuig  (<link href="#autonoom">abstract</link>)</td>
+ <td></td>
+ <td>Jef Gijbels<br/>Tony Vandeborn</td>
+</tr>
+
+<tr>
+ <td>5</td>
+ <td>Robby Brouns<br/>Yves Neven</td>
+ <td>Ontwikkeling van een web-gebaseerde gebruikersinterface voor multi-agent coördinatie- en besturingssystemen (<link href="#pma">abstract</link>)</td>
+ <td>KULeuven</td>
+ <td>Paul Valckenaers</td>
+</tr>
+
+<tr>
+ <td>6</td>
+ <td>Bart Clymans<br/>Bert Willems</td>
+ <td>Ontwerp van logische cellen voor een RFID-tag, gebaseerd op organische halfgeleiders (<link href="#pentacene1">abstract</link>)</td>
+ <td>IMEC, Leuven</td>
+ <td>Kris Myny<br/>Jan Genoe</td>
+</tr>
+
+<!-- 
+  Uitgeschakeld
+<tr>
+ <td>7</td>
+ <td>Stijn Coomans</td>
+ <td></td>
+ <td>KHLim</td>
+ <td>Leo Rutten<br/>Jos Broekx</td>
+</tr>
+-->
+
+<tr>
+ <td>8</td>
+ <td>Bert Deferme</td>
+ <td>Ontwikkeling van een Compact Flash software-interface voor de pnx0102 (<link href="#pnx0102">abstract</link>)</td>
+ <td>Philips Leuven</td>
+ <td>Han Vanholder<br/>Paul Valckenaers</td>
+</tr>
+
+<tr>
+ <td>9</td>
+ <td>Pieter Engelen</td>
+ <td>Uitbreiden van de grafische ontwikkelomgeving voor toepassingen op de Trimedia-processor (<link href="#tssa">abstract</link>)</td>
+ <td>Philips Leuven</td>
+ <td>Leo Rutten</td>
+</tr>
+
+<tr>
+ <td>10</td>
+ <td>Chris Geebelen<br/>Pieter Wuytens</td>
+ <td>Implementatie van SELinux op een universele Linux server (<link href="#selinux">abstract</link>)</td>
+ <td>KHLim</td>
+ <td>Leo Rutten</td>
+</tr>
+
+<tr>
+ <td>11</td>
+ <td>Danny Krawinckel</td>
+ <td>Onderzoek naar clustering filesystems voor Linux (<link href="#clusterfs">abstract</link>)</td>
+ <td>KHLim</td>
+ <td>Leo Rutten</td>
+</tr>
+
+<tr>
+ <td>12</td>
+ <td>Ruben Leyssens</td>
+ <td>Precisie-frequentiemeting op basis van een 1 Hz GPS signaal (<link href="#gps">abstract</link>)</td>
+ <td>Brno</td>
+ <td>Leo Rutten</td>
+</tr>
+
+
+<tr>
+ <td>13</td>
+ <td>Kristof Mommen<br/>
+     Tom Ver Poorten</td>
+ <td>Uitbreiding op een bloeddoorstromingsmeter (<link href="#bloeddoorstroming">abstract</link>)</td>
+ <td></td>
+ <td>Dr. Vandeput<br/>Jan Genoe, Jos Broekx</td>
+</tr>
+
+<tr>
+ <td>14</td>
+ <td>Peter Piccard<br/>
+     Ronny Socquet</td>
+ <td>IBM SCARA 7335 robotopstelling (<link href="#scara">abstract</link>)</td>
+ <td>KHLim</td>
+ <td>Johan Baeten<br/>, Jos Broekx</td>
+</tr>
+
+<tr>
+ <td>15</td>
+ <td>Tim Vanlaer<br/>Bart Reynders</td>
+ <td>Ontwikkeling van een autonoom voertuig (<link href="#voertuig">abstract</link>)</td>
+ <td></td>
+ <td>Jef Gijbels<br/>Tony Vandeborn</td>
+</tr>
+
+
+<tr>
+ <td>16</td>
+ <td>Bart Schepers</td>
+ <td>Ontwerp van een snelle, 8-bit analoog-naar-digitaal omvormer in de AMIS 0.35 micron CMOS-technologie met Cadence software. Deel 1 : Design  (<link href="#adconverter">abstract</link>)</td>
+ <td>IMEC, Leuven</td>
+ <td>Jan Wouters<br/>Jan Genoe</td>
+</tr>
+
+
+<!-- niet-toegekende eindwerken -->
+
+<!--
+  zijn nu uitgeschakeld
+  rl 28/ 9/2004
+  
+<tr>
+ <td></td>
+ <td></td>
+ <td>Ontwerp en implementatie van een driver voor een meldkamer (<link href="#fks">abstract</link>)</td>
+ <td>FKS Hasselt</td>
+ <td>Eric Smets<br/>Leo Rutten</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Java voorbeeldapplicatie ontwerpen met Hibernate (O/R mapper) en aspect georienteerd programmeren (<link href="#hibernate">abstract</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Leo Rutten</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Java simulator voor discrete gebeurtenissen (<link href="#simulator">abstract</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Leo Rutten</td>
+</tr>
+
+
+
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Eindwerkvoorstellen IMEC (<link href="http://www.imec.be/wwwinter/student/en/thesis/2004/topics.shtml">abstract</link>)</td>
+ <td>IMEC, Leuven</td>
+ <td></td>
+</tr>
+
+-->
+
+<!-- 
+
+
+MELEXIS:   Koenraad Becks - Jo Vliegen
+MELEXIS:   Tim Vanlaer - Bart Reynders
+
+IMEC:   Jan Vanoppen - Bart Schepers
+ Design of a High Speed 8-bit Analog-to-Digital Converter in a 0.35 ? CMOS
+Technology, using Cadence IC Design Software
+ Contact person:  Jan Wouters  
+
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>(<link href="http://www.imec.be/wwwinter/student/en/thesis/2004/topic_.shtml">abstract</link>)</td>
+ <td>IMEC, Leuven</td>
+ <td></td>
+</tr>
+
+-->
+
+</table>
+
+
+
+
+
+<p>
+De volgende student is reeds als ingenieur afgestudeerd aan de universiteit van Brno, Tsjechië 
+en heeft aan een onderzoeksproject in de KHLim gewerkt tijdens het eerste semester
+van 2004-2005.
+</p>
+
+
+
+
+<table>
+<caption>
+Post-Master Projecten 2004-2005
+</caption>
+
+<tr>
+ <th>code</th>
+ <th>student(en)</th>
+ <th>titel</th>
+ <th>instituut van herkomst</th>
+ <th>promotor</th>
+</tr>
+
+
+<tr>
+ <td>1</td>
+ <td>Petr Berka</td>
+ <td>Automatic network-base Linux installation</td>
+ <td>University of Brno</td>
+ <td>Leo Rutten</td>
+</tr>
+
+
+</table>
+
+
+
+
+
+
+
+    </section>
+
+    <section>
+      <title>Eindwerkbeschrijvingen</title>
+  
+<!--
+  Niet gekozen
+  zijn nu uitgeschakeld
+  rl 28/ 9/2004
+  
+      <anchor id="fks"/>      
+      <section>
+        <title>Ontwerp en implementatie van een driver voor een meldkamer, FKS Hasselt</title>
+          <p>
+            Aan het huidige framework wordt een extra driver bijgevoegd,
+            deze driver dient tevens ter validatie van het huidige framework.
+            Bij de ontwikkeling van deze driver is het belangrijk dat er een
+            model gemaakt wordt van deze driver (server component), dat hiervoor
+            GUI bedieningspaneel gemaakt wordt om hiermee te interageren.
+            En dat deze integreert met de GUI component van de interface.
+            Welke driver het just wordt is nog niet bepaald maar wordt in de eerste
+            faze van het project gedefinieerd.<br/>
+            Naast een alarm driver is er eveneens een driver voorzien waarvoor
+            continu gegevens binnen komen (bv gps ontvanger).
+            
+          </p>
+      </section>
+
+
+      <anchor id="hibernate"/>      
+      <section>
+        <title>Java voorbeeldapplicatie ontwerpen met Hibernate (O/R mapper) en aspect georienteerd programmeren, KHLim</title>
+          <p>
+            Het doel van dit eindwerk is het ontwerpen van een Java applicatie op basis van Hibernate.
+            Hibernate is een zogenaamde object-relationele mapper; in andere woorden, Hibernate zorgt voor de toegang tot
+            een klassieke relationele database. Deze datebase wordt aangesproken via JDBC. De uit de database gelezen gegevens worden
+            door Hibernate aan de applicatie gepresenteerd als Java objecten. Het is mogelijk om via deze source code generering de
+            Java broncode voor deze klassen te genereren. Deze gegenereerde broncode mag niet rechtstreeks gewijzigd worden.
+            Deze wijzigingen gebeuren met aspect georienteerde programmeertechnieken. Dit is een aanvulling op object georienteerd
+            programmeren.
+          </p>
+          <p>
+            Links:
+          </p>
+            <ul>
+              <li>
+                <link href="http://www.hibernate.org">www.hibernate.org</link>
+              </li>
+              <li>
+                <link href="http://www.aspectj.org">www.aspectj.org</link>
+              </li>
+            </ul>
+      </section>
+      
+      <anchor id="simulator"/>      
+      <section>
+        <title>Java simulator voor discrete gebeurtenissen, KHLim </title>
+          <p>
+            Een simulator voor discrete gebeurtenissen wordt gebruikt om complexe systemen zoals
+            netwerken, verkeerssituaties, digitale schelingen en dergelijke te simuleren.
+          </p>
+          <p>
+            In het <em>Routing simulator</em> onderzoeksproject wordt een simulatie-engine gebruikt
+            die geen open source is. De simulator API is wel toegankelijk en beschreven. Het doel
+            van dit eindwerk is een eigen simulatie-engine te ontwerpen die wel open source wordt.
+            Deze moet gebaseerd zijn op de API van de huidig gebruikte simulatie-engine. Hierdoor
+            kan het routing onderzoeksproject gebruik maken van deze nieuwe open source simulatie-engine.
+            Het onderzoeksproject kan dan de volledige broncode in open source publiceren.
+          </p>
+          <p>
+             In het (eventuele) tweede deel van het eindwerk wordt een grafische frontend in Swing ontworpen.
+          </p>
+          <p>
+            Links:
+          </p>
+            <ul>
+              <li>
+                <link href="http://www.ssfnet.org">www.ssfnet.org</link>
+              </li>
+            </ul>
+      </section>
+      
+-->      
+      
+
+      <!-- 1 -->
+      <anchor id="pentacene2"/>      
+      <section>
+        <title>Betrouwbaarheidsmetingen van transistorcircuits en geheugens op basis van organische materialen</title>
+<p>IMEC onderzoekt het potentieel van organische halfgeleiders en geheugencellen in gevorderde applicaties. Enerzijds kunnen organische transistors leiden tot elektronische circuits waar geen erg hoge eisen aan de prestaties gesteld worden, maar waar wel een lage kostprijs vereist is. Anderzijds worden organische geheugencellen gebruikt om een antwoord te bieden aan de nakende maximale capaciteit van de huidige flash-technologie. Dit is nodig om te voldoen aan de evolutie van de elektronica, dit is een jaarlijkse verdubbeling van de capaciteit.</p>
+<p>De opdracht voor ons eindwerk bestond erin zowel de schakelingen op basis van transistors als de geheugencellen uitgebreid op hun werking en hun karakteristieken te testen. </p>
+<p>Om het testen van de transistors voor een groot stuk te automatiseren, hebben we een meetsysteem ontworpen dat op het reeds aanwezige meettoestel kan worden gebruikt. De bijbehorende software hebben we zo geprogrammeerd dat we de verschillende transistorcircuits op hun werking konden testen.</p>
+<p>Om de transistor op zijn betrouwbaarheid te testen, hebben we enerzijds nagegaan welk effect de tijd heeft op de kwaliteit van de transistors. Anderzijds hebben we gemeten hoe de transistors zich gedragen onder stress, dit is het lange tijd moeten functioneren onder een te hoge spanning aan de gate. Ook de temperatuursbestendigheid en de herbeschrijfbaarheid van geheugencellen werden getest.</p>
+<p>Onze metingen dragen bij tot de kennis van de elektronische karakteristieken van de organische materialen.</p>
+      </section>
+
+
+
+
+
+
+
+
+      <!-- 2 -->
+      <anchor id="vapor"/>      
+      <section>
+        <title>C-code voor de aansturing van een Organisch Vapor Phase Deposition toestel</title>
+<p>Het onderzoekscentrum IMEC werkt ondermeer aan de ontwikkeling van organische transistors. Daarvoor werd er een “Organic Vapor Phase Deposition” toestel ontworpen en gebouwd. Aan dit toestel zijn er verscheidene controle- en meeteenheden verbonden. Voorbeelden zijn drukmeters, temperatuurregelaars, kleppen en een groeimonitor. Met een software moeten de meetwaarden van deze appten realtime aangestuurd en uitgelezen kunnen worden.</p>
+<p>Het grootste gedeelte van dit eindwerk bestond uit programmeren van stuurappten in de programmeertaal C++ met Windows 2000 als besturingssysteem. Het tweede doel was het installeren van één server in de cleanroom en één in de supergeleidingskamer met bijbehorende instellingen. Alle verbonden meettoestellen kunnen via het netwerk volledig aangestuurd en uitgelezen worden.</p>
+<p>Bij IMEC worden reeds toestellen gebruikt zoals bijvoorbeeld het MBE-systeem om III-V halfgeleiders zoals GaAs te groeien. Sinds 1988 hebben IMEC-programmeurs drie versies van MBE-software uitgeschreven. Omdat de werking en de configuratie van de OVPD niet veel verschilt van die al bestaande systemen, vertrok ik van deze bestaande software. </p>
+<p>Met de bestaande source code van de MBE-software werden de nodige aanpassingen aan de depositiemethodes gerealiseerd.</p>
+      </section>
+ 
+
+ 
+ 
+      <!-- 3 -->
+      <anchor id="ibmrobot"/>      
+      <section>
+        <title>Ontwikkeling van een controle-interface voor industriële robots</title>
+<p>De KUKA robot uit het PMA lab van de KULeuven, afdeling mechanica, is door zijn verouderde sturing niet bruikbaar voor visie- en sensorgebaseerde toepassingen. Hierdoor ontstond de vraag naar de ontwikkeling van een interface tussen deze robot en het ‘open source’ robotbesturingsprogramma OROCOS. Via deze interface kan de robot bestuurd worden met een PC waarop OROCOS geïnstalleerd is. Bovendien moet de interface toepasbaar zijn voor elke industriële robot met een verouderde sturing, ongeacht het aantal vrijheidsgraden.</p>
+<p>Het universele karakter van de interface vereist een modulaire opbouw. Deze modulaire opbouw is gerealiseerd door middel van een FPGA en microcontrollers. De werking ervan is als volgt: de PC communiceert via de pllelle poort met de FPGA. De PC schrijft in het geheugen van de FPGA stuurgegevens (snelheden, statusgegevens, …) voor elke motor van de robot en vraagt de toestand (posities, einddetectorsignalen, …) van de motoren op. De connectie tussen de FPGA en de motoren gebeurt via een zelf ontworpen kaart/module. Deze module bevat een microcontroller per motor, voor de verwerking van de motorsignalen en de stuurgegevens van de toegewezen motor. Naargelang het type motor en het type positie-opnemer kan de microcontroller anders geprogrammeerd worden. De communicatie van de microcontroller met de FPGA blijft echter behouden, evenals het communicatiegedeelte tussen de PC en de FPGA.</p>
+<p>Deze modulaire aanpak laat toe tal van industriële robotten met verouderde sturingen op te waarderen.</p>
+      </section>
+ 
+
+      <!-- 4 -->
+      <anchor id="autonoom"/>      
+      <section>
+        <title>Ontwikkeling van een autonoom voertuig</title>
+<p>Voor ons afstudeerwerk nemen wij deel aan de Melexis Safety Trophy. Dit is een wedstrijd, georganiseerd door Melexis Tessenderlo, fabrikant van elektronica voor de automobielsector. De deelnemers moeten een autonoom voertuig ontwikkelen én bouwen. </p>
+<p>Dit voertuig moet, volledig autonoom, een opgestelde verkeerssituatie doorrijden. De route doorheen dit parcours is op voorhand onbekend voor de deelnemers en wordt bepaald door opgestelde verkeersborden en -lichten.</p>
+<p>De aanpak om ons voertuig te verwezenlijken, bestaat uit twee delen. </p>
+<p>Op de eerste plaats moet een voertuig worden ontworpen dat in staat is om rond te rijden, manoeuvres uit te voeren en obstakels te detecteren. Hiervoor doen we beroep op microcontrollers die sensoren en twee motoren beheren. </p>
+<p>Op de tweede plaats moet het voertuig beschikken over beeldverwerking. Om dit te implementeren maken we gebruik van een camera en van een speciaal pc - moederbord. Hierop draait software, geschreven in C, die met behulp van bestaande, veel gebruikte beeldverwerkingalgoritmes de borden probeert te herkennen. Op het moederbord draait ook software die deze twee delen samenvoegt.</p>
+<p>Dit centrale programma zal alle beslissingen nemen die het voertuig zullen gaan sturen, op basis van de input van de beeldherkenning en van de sensoren. 
+</p>
+<p>Het volledige voertuig zal worden getest op de testdagen, ingericht door Melexis.</p>
+<p>Als hier problemen aan het licht komen, kunnen we die nog oplossen. </p>
+<p>Daarna kunnen we nog testen en optimaliseren, zodat het voertuig klaar is voor </p>
+<p>het einde van het jaar.</p>
+      </section>
+ 
+
+      <!-- 5 -->
+      <anchor id="pma"/>      
+      <section>
+        <title>Ontwikkeling van een webgebaseerde gebruikersinterface voor multi-agent coördinatie- en besturingssystemen.</title>
+
+<p>Dit afstudeerwerk, in opdracht van de afdeling PMA van de KU Leuven, omvat drie taken. Een eerste taak bestaat erin een bestaande applicatie, ontwikkeld in Java, verder uit te breiden. Deze applicatie is een ‘stand alone’ fabrieksbesturingssysteem dat verbonden wordt aan een emulatie van een onderliggende fabriek. Zo’n fabriek kan uit verschillende machines bestaan zoals een tram, een werkstation, een opslagplaats,… De fabriek wordt visueel voorgesteld en kan met behulp van een soort ‘DVD speler’ in de tijd doorlopen worden. Met deze uitbreiding is het mogelijk om statistieken te genereren van de verschillende machines. Hierbij maken we gebruik van de bibliotheek JfreeChart. Met behulp van deze toepassing kan men de fabriek op zijn tekortkomingen analyseren.</p>
+<p>Een tweede taak bestaat erin deze applicatie via het internet beschikbaar te stellen. Hiervoor hebben we Java Web Start aangewend. Via deze technologie is het mogelijk om de applicatie te gebruiken op elke computer die over Java Runtime Environment beschikt. De applicatie wordt op het internet gepubliceerd zodat de gebruiker deze via Java Web Start kan downloaden en op zijn eigen computer starten.</p>
+<p>Een derde taak bestaat erin een moderne website te realiseren waarop papers gepubliceerd en opgezocht kunnen worden en waarin bepaalde gebruikers met behulp van een login uitgebreider toegangsrecht kunnen krijgen. Deze website wordt verwezenlijkt met behulp van “model-view-control”. Hierbij wordt het visuele gedeelte, de data en de verwerking ervan van elkaar gescheiden. Hiervoor maken we gebruik van de technologie Struts.</p>
+     </section>
+      
+
+     <!-- 6 -->
+      <anchor id="pentacene1"/>      
+      <section>
+        <title>Ontwerp van logische cellen voor een RFID-tag, gebaseerd op organische halfgeleiders</title>
+
+<p>IMEC is een onderzoeksinstelling die nieuwe technologieën voor de volgende generatie geïntegreerde schakelingen ontwikkelt. De afdeling MCP/PME doet vooral onderzoek naar de integreerbaarheid van organisch materiaal in verschillende toepassingen. Silicium is het meest gebruikte geleidend materiaal in elektronicaontwikkelingen. Maar voor goedkopere toepassingen waarbij zeer hoge snelheid niet vereist is, is organisch materiaal een goed alternatief.</p>
+<p>Onze opdracht bestond uit het ontwerpen van een RFID-tag. Het grote verschil met reeds bestaande “Radio Frequency IDentification tags” is dat de technologie gebaseerd moest zijn op het organisch halfgeleidermateriaal pentaceen. Een toepassing hiervan kan de hedendaagse streepjescode vervangen door een elektronische versie.</p>
+<p>We hebben de schakeling ontworpen en gesimuleerd met behulp van beschikbare softwareprogramma’s. Bij het ontwerp werden er transistoren gebruikt op basis van pMOS-technologie. De belangrijkste aandachtspunten waren de gate-lengte en de drempelspanning van de transistoren en de mobiliteit van het pentaceen.</p>
+<p>Tenslotte werden zowel de afzonderlijke schakelingen als het ontwerpgeheel op een masker geplaatst zodat de praktische waarden konden getoetst worden aan de theoretische resultaten.</p>
+      </section>
+ 
+      <!-- 8 -->
+      <anchor id="pnx0102"/>      
+      <section>
+        <title>Ontwikkeling van een Compact Flash software-interface voor de pnx0102</title>      
+      
+<p>Deze afstudeeropdracht bestaat erin om voor de afdeling Portable Audio van Philips Innovative Solutions NV een Compact Flash software-interface te ontwikkelen voor de pnx0102, een door Philips ontwikkelde chip gebaseerd op een ARM7TDMI microcontroller. Deze chip wordt gebruikt in embedded systemen zoals de MP3-spelers die Philips produceert in samenwerking met Nike. Uit dit eindwerk wenst men te kunnen afleiden of het de moeite waard is om de solid state players van Philips die gebaseerd zijn op deze pnx0102 uit te rusten met de nodige aansluitingen en software ter ondersteuning van Compact Flash.</p>
+<p>Eerst moest een reeds bestaande driver voor de ondersteuning van Compact Flash worden aangepast. Daarna werd een testapplicatie ontwikkeld waarmee de stabiliteit en de snelheid van de bereikte oplossing kan worden nagegaan. Ter vergelijking van de bekomen resultaten werden de snelheden van schrijven en lezen naar SDRAM getest. Met deze testresultaten kan het systeem worden geoptimaliseerd. Verder werden ze na verwerking gebruikt om Compact Flash met andere opslagmedia te vergelijken.</p>
+<p>Mijn opdracht werd nog met twee taken uitgebreid. Een eerste uitbreiding bestond erin de CF software-interface te integreren in een demoapplicatie waarmee men kan aantonen dat MP3-bestanden kunnen worden afgespeeld vanop een Compact Flash kaart die op een testsysteem aangesloten is.</p>
+<p>De tweede uitbreiding bestond erin de in C ontwikkelde driver voor Compact Flash te herschrijven in C++, zodat de performantie en de typische kenmerken van deze twee programmeertalen kunnen vergeleken worden voor gebruik in "embedded" systemen.</p>
+      </section>
+      
+
+      <!-- 9 -->
+      <anchor id="tssa"/>      
+      <section>
+        <title>Uitbreiden van de grafische ontwikkelomgeving voor toepassingen op de Trimedia-processor</title>
+<p>Rond de Trimedia-processors (TM1300 PNX1500, Viper) van Philips is een software framework gebouwd nl. de Trimedia Streaming Software Architecture (TSSA). 
+Trimedia wordt voor multimediatoepassingen gebruikt, onder andere door Philips Applied Technologies in Leuven.
+</p>
+
+<p>Streaming kan gezien worden als een stroom datapakketjes die door een netwerk van componenten lopen. Elk van deze componenten kan de data bewerken.</p>
+<p>Applicaties maken voor de Trimedia-processor kan op een grafische wijze met de TSSA builder tool. De TSSA builder tool werkt onder Unix en genereert C-code, op basis van XML-bestanden (XML = Extensible Markup Language). Dit is veel sneller dan de C-code zelf te schrijven.</p>
+<p>Op de TM1300 processor wordt gewerkt met de Integrated Application Development Kit (IADK).
+Er zijn nieuwere processors (zoals de PNX 1500) die hetzelfde framework gebruiken maar een nieuwere toolkit nl. 
+de Media Processing Tool Kit (MPTK). De software componenten in deze toolkit hebben een vernieuwde interface in vergelijking met deze in IADK. 
+Oorspronkelijk werkte de TSSA builder tool alleen met de IADK toolkit.
+</p>
+
+
+<p>De opdracht voor dit eindwerk bestond erin om de TSSA builder tool onder Windows te laten werken en het mogelijk te maken dat deze tool code genereert voor componenten van de nieuwere toolkit (MPTK).
+</p>
+<p>Om de TSSA builder tool te laten werken onder Windows werd een Linux-omgeving voor Windows gebruikt namelijk cygwin/X. </p>
+<p>Er werden nieuwe XML-bestanden voor de tool gemaakt, zodat hij met MPTK kan werken. Ook werd een handleiding voor de tool geschreven.</p>
+      </section>
+
+
+      <!-- 10 -->
+      <anchor id="selinux"/>      
+      <section>
+        <title>Implementatie van SELinux op een universele Linux server</title>
+          
+<p>De opdracht voor ons eindwerk bestond erin een studie te maken van SELinux op Linux servers. SELinux is een uitbreiding op de standaard Linux beveiliging, ontwikkeld door de NSA (National Security Agency). </p>
+<p>Deze uitbreiding, die nu nog in een onderzoeksfase zit, is een zeer complexe en strikte manier van beveiligen, maar het ziet ernaar uit dat SELinux in de toekomst de traditionele beveiliging van Linux zal vervangen. </p>
+<p>Eerst hebben we SELinux geïnstalleerd op Slackware, waarop we al onze testen hebben kunnen uitvoeren. Hierna hebben we zelf geprobeerd om bepaalde programma’s te beveiligen.</p>
+<p>Het schrijven van beveiligingsregels blijkt een zeer complexe zaak. Voor sommige programma’s hebben we deze regels kunnen schrijven, voor andere programma’s was dit veel te complex. Met beveiligingsregels kunnen restricties worden ingevoerd op wat men de programma’s toelaat om uit te voeren, zoals het lezen van een directory of file.</p>
+<p>Onderzoek naar beveiliging is een actueel thema dat in de toekomst zeker nog aan belang zal winnen. Onze conclusies uit dit eindwerk zijn :</p>
+<ul>
+<li>
+<p>dat SELinux de standaardbeveiliging op Linux servers zal worden;</p>
+</li>
+<li>
+<p>dat SELinux zeer goed werkt : wat niet mag volgens de regels is ook echt niet mogelijk;</p>
+</li>
+<li>
+<p>dat SELinux vooralsnog zeer complex is en zeker nog gebruiksvriendelijker</p>
+</li>
+</ul>
+<p>zal moeten worden.</p>
+          
+          
+          <p>
+            Verslag:
+          </p>
+            <ul>
+              <li>
+                <link href="maproef/2004-2005/selinux.pdf">selinux.pdf</link>
+              </li>
+            </ul>
+
+          <p>
+            Links:
+          </p>
+            <ul>
+              <li>
+                <link href="http://www.nsa.gov/selinux/">www.nsa.gov/selinux/</link>
+              </li>
+            </ul>
+            <ul>
+              <li>
+                <link href="http://www.lids.org">www.lids.org</link>
+              </li>
+            </ul>
+            <ul>
+              <li>
+                <link href="http://dc.qut.edu.au/adios/">dc.qut.edu.au/adios/</link>
+              </li>
+            </ul>
+            <ul>
+              <li>
+                <link href="http://www.gentoo.org">www.gentoo.org</link>
+              </li>
+            </ul>
+      </section>
+
+
+       <!-- 11 abstract ok -->
+      <anchor id="clusterfs"/>      
+      <section>
+        <title>Onderzoek naar clustering filesystems voor Linux</title>
+        
+          <p>Dit afstudeerwerk, in opdracht van het departement IWT van de KHLim, omvat een onderzoek naar clustering filesystems binnen het besturingssysteem Linux. </p>
+          <p>Een clustering filesystem of gekoppeld bestandssysteem is een systeem om datavolumes over verschillende harde schijven binnen een netwerk te verspreiden, zonder dat de gebruiker hier iets van merkt. </p>
+          <p>Dit zijn zeer betrouwbare systemen aangezien zij de nodige redundantie bieden om dataverlies bij schijfcrashes en slechte netwerkverbindingen te voorkomen.</p>
+          <p>Het voornaamste doel van dit eindwerk bestond erin de gekozen systemen, nl. CODA en OpenAFS, te installeren, tot een goed werkend geheel te configureren, en op de betrouwbaarheid te testen. Hiertoe werd onder andere een netwerkonderbreking gesimuleerd.</p>
+          <p>Door dit eindwerk is er nu een goed gestructureerde handleiding beschikbaar, waardoor de gebruiker met minimale moeite beide systemen kan configureren en installeren. Deze handleiding omvat eveneens de nodige theoretische informatie over de werking van beide systemen.</p>
+        
+        
+          <p>
+            Verslag:
+          </p>
+            <ul>
+              <li>
+                <link href="maproef/2004-2005/clusterfs.pdf">clusterfs.pdf</link>
+              </li>
+              <li>
+                <link href="maproef/2004-2005/clusterfs_pr.pdf">clusterfs_pr.pdf</link>
+              </li>
+            </ul>
+
+          <p>
+            Links:
+          </p>
+            <ul>
+              <li>
+                <link href="http://www.coda.cs.cmu.edu">www.coda.cs.cmu.edu</link>
+              </li>
+              <li>
+                <link href="http://www.openafs.org">www.openafs.org</link>
+              </li>
+              <li>
+                <link href="http://www.lustre.org">www.lustre.org</link>
+              </li>
+            </ul>
+      </section>
+      
+      <!-- 12 -->
+      <anchor id="gps"/>      
+      <section>
+        <title>Precisie-frequentiemeting op basis van een 1 Hz GPS signaal</title>
+<p>Het doel van dit eindwerk is het ontwerpen van een meetappat voor de precieze frequentiemeting van signalen tot 30 MHz. Het meetappat meet gedurende 1 sec. het aantal pulsen van het binnenkomende signaal. De periode van 1 sec. wordt afgeleid van een 1 Hz referentieschaal, afkomstig van een GPS ontvanger. Deze ontvanger wordt als een aparte module in het meetappat toegevoegd.</p>
+<p>Met digitale tellers wordt het aantal pulsen in de meetperiode bijgehouden. Het resultaat van de meting kan via USB gelezen worden door een PC.</p>
+<p>Het eindwerk omvat de bouw van het complete appat, bestaande uit een printplaat, bestukt met elektronische componenten, en het ontwerp van testsoft-ware voor de PC. Hiermee is het mogelijk de werking van het meetappat te evalueren.</p>
+      </section>
+      
+      <!-- 13 -->
+      <anchor id="bloeddoorstroming"/>
+      <section>
+        <title>Uitbreiding op een bloeddoorstromingsmeter</title>
+<p>Dokter Jacques Vandeput, een plastisch chirurg die door zijn uitvinding van de "mesh graft"-techniek in de behandeling van brandwonden, internationale erkenning heeft verworven in de medische sector, is al enige tijd bezig met het registreren van het signaal van perifere doorbloeding. Bij brandwonden en ook andere huidletsels moet het weefsel op overleving getest worden. Hiertoe wordt het getest op doorbloeding, waaruit dan bepaald kan worden of er al dan niet een ingreep wordt vereist. </p>
+<p>Voor de doorbloedingsmeting wordt momenteel het dopplereffect gebruikt, maar helaas leidt dit tot een foutieve interpretatie omdat de snelheid van het bloed wordt gemeten. Daarom was er een onderzoek nodig naar een nieuwe, makkelijker hanteerbare toepassing die de doorbloeding kan meten.</p>
+<p>In eerste instantie hebben we een eerder ontwikkeld toestel voor photoplethys-mografie zowel op hardware- als op softwareniveau geoptimaliseerd. Zo hebben we een nieuwe sensor ontwikkeld, werden tussenschakelingen zoals filters, versterkers en automatische spanningsregeling geoptimaliseerd en tot slot werd de uitvoeringscode van de microcontroller volledig opnieuw geschreven. De gewenste gegevens, zoals het opgenomen signaal, afgeleide en karakteristieke gegevens met ondermeer de hartslagfrequentie en flow worden bovendien op een LCD display weergegeven. Het reeds ontwikkelde toestel is ook voorzien van dieptemeting, waarmee op verschillende lagen van het weefsel op overleving gecontroleerd kan worden.</p>
+<p>Door deze toepassing wordt in de toekomst een snellere diagnose mogelijk, waardoor de patiënt sneller kan worden behandeld.</p>
+      </section>
+      
+      <!-- 14 -->
+      <anchor id="scara"/>
+      <section>
+        <title>IBM SCARA 7335 robotopstelling</title>
+<p>De IBM SCARA robotopstelling in het lab N11 van het departement IWT van de KHLim is verouderd en moeilijk te bedienen. De bedoeling van dit eindwerk is dan ook een opwaardering van de robotopstelling conform de huidige stand van de technologie, zodat deze voor didactische toepassingen gebruikt kan worden tijdens labozittingen in het vakgebied regeltechniek. In de twee voorgaande jaren zijn er oplossingen voorgesteld die gebruik maken van een FPGA-bord in combinatie met een moderne PC. Het FPGA-bord vormde de schakel tussen de sofwarematige controle en de hardwarematige aansturing van de robot.</p>
+<p>Omdat het resultaat van de vorige jaren niet helemaal bevredigend was, werd ons gevraagd om dezelfde denkoefening te hernemen, maar dan gebruikmakend van microcontrollers. Deze microcontrollers nemen de taak van het FPGA-bord over. We maken gebruik van een vijftal microcontrollers, één voor elk van de drie motoren, één microcontroller voor de aansturing van de drie voorgaande en dan nog één microcontroller voor de verwerking van signalen die van de motoren komen. </p>
+<p>De microcontrollers werden van de nodige programmatuur voorzien en de communicatie tussen de PC en de microcontrollers of tussen de microcontrollers onderling werd verwezenlijkt. Ook werd een nieuwe handbediening ontwikkeld ter vervanging van de huidige handbediening die niet meer voldeed.</p>
+<p>Na uitvoering van het project is het mogelijk om de robotarm op eenvoudige wijze door middel van een PC aan te sturen.</p>
+      </section>
+      
+      <!-- 15 -->
+      <anchor id="voertuig"/>
+      <section>
+        <title>Ontwikkeling van een autonoom voertuig</title>
+<p>De opdracht van ons afstudeerwerk bestaat erin een autonoom voertuig te ontwikkelen voor deelname aan de Safety Trophy 2006. Behalve grotere naam-bekendheid beoogt Melexis met de ontwikkelde technologie de verkeers-veiligheid in de toekomst te vergroten.</p>
+<p>De robot moet zelfstandig en zonder manuele interventie een parcours afleggen dat de vorm heeft van een rotonde. De richting waarin de robot moet rijden wordt aangegeven met verkeersborden en verkeerslichten. Ook moet de robot andere stationaire voertuigen, zonder te botsen, kunnen inhalen en zich terug op het oorspronkelijke baanvak begeven. </p>
+<p>Om aan al deze vereisten te kunnen voldoen, hebben we een CCD camera voorzien die de verschillende verkeersborden en verkeerslichten alsook de positie op de baan detecteert. Een sonar zorgt voor de detectie van stationaire voertuigen en via een magneetring en hallelementen houden we de positie van de robot bij.</p>
+<p>De robot wordt van een voeding voorzien door een batterij. Om een constante spanning te verkrijgen voor de sensoren, microcontrollers en motoren worden twee aparte voedingskringen van 5V en 12V gemaakt met behulp van spanningsstabilisatoren.</p>
+<p>Alle sensoren worden geïnterfacet met een microcontroller die dan op basis van verkregen informatie de actuatoren van de robot via een vermogentrap aanstuurt.</p>
+      </section>
+      
+      <!-- 16-->
+      <anchor id="adconverter"/>      
+      <section>
+        <title>Ontwerp van een snelle, 8-bit analoog-naar-digitaal omvormer in de AMIS 0.35 micron CMOS-technologie met Cadence software. Deel 1 : Design</title>
+<p>INVOMEC, een afdeling van IMEC, houdt zich onder andere bezig met het aanleren van nieuwe ontwerptechnieken en technologieën aan elektronica-ontwerpers.</p>
+<p>In het kader van de toenemende verkleining in de elektronica, is er nood aan een snelle, accurate 8-bit ADC in de AMIS 0.35 micron CMOS-technologie.</p>
+<p>De snelst mogelijke conversiemethode is de flashmethode, waarbij in een klokpuls een volledige conversie van analoog ingangssignaal naar digitaal uitgangssignaal wordt uitgevoerd. De oppervlakte die een flashconvertor op een IC inneemt is echter enorm groot, en daarom maken wij gebruik van een tweestaps flashstructuur. Om het volledige ingangsbereik (0 tot 3.3 V) te kunnen converteren, werd gebruik gemaakt van comptoren met een nMOS- en van comptoren met een pMOS-ingangspaar.</p>
+<p>Het in VHDL beschreven en geteste digitale gedeelte verzorgt de decodering van de thermometercode en de samenstelling van het 8-bit getal. Tevens verzorgt deze logica de keuze van de fijnladders, met n- of pMOS-ingangspaar.</p>
+<p>De maskers van het analoge gedeelte werden na ontwerp, simulatie en matching handmatig getekend. Ook het digitale gedeelte van de ADC werd handmatig gelayout en ingevoegd in het design.</p>
+<p>Na simulatie en fijntuning van alle componenten is de ADC klaar voor gebruik in grotere ontwerpen of als losse component in een package.</p>
+      </section>
+      
+      
+<!--
+
+topic 62
+FPGA implementation of a 3D rendering pipeline
+topic 61
+Memory-centric performance analysis/optimization of highly scalable video coding for Terminal QoS.
+topic 60
+Dynamic workload modeling of multimedia coding systems
+topic 58
+Creating Parallel Performance Analysis for Java
+topic 57
+MPEG-21 framework for MPEG-4 view-dependent texture transmission in 3D graphics
+topic 20
+Parallel mapping and measurement of a video application on a multi-processor with network-on-chip
+topic 19
+Optimized mapping and measurement of a video application on an instruction set proce
+
+Microsystems, Components and Packaging
+topic 70
+Master Thesis on Interconnect Technology
+topic 69
+Master Thesis on Quantum Well Infrared detectors Detectors (QWIPs)
+topic 68
+Master Thesis on Visible-SWIR Sensor
+topic 65
+High frequency behaviour of GaN based HEMT devices for power amplifiers
+topic 47
+Plastic solar cells: screen printing as a novel deposition technique
+      
+-->
+<!-- 
+      <anchor id=""/>      
+      <section>
+        <title></title>
+          <p>
+          </p>
+      </section>
+ -->
+      
+      
+    </section>    
+  </body>
+</document>

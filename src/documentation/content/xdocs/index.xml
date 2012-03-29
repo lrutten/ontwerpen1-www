@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V1.2//EN" "/usr/local/forrest/context/resources/schema/dtd/document-v12.dtd">
+<document> 
+  <header> 
+    <title>Welkom bij Ontwerpen1</title> 
+  </header> 
+  <body>
+      <section>
+        <title>
+	  Ontwerpen1
+	</title>
+          <p>Dit is de website van de opleiding Industri&euml;el Ingenieur Elektronica aan de KHLim. Binnen deze opleiding bestaan de opties
+	  Ontwerpen en ICT.
+	  </p>
+	</section>
+
+<!--	
+ ont8 tab compleet uitgeschakeld 22/9/2004
+      <section>
+        <title>
+	  Het vak ONT9
+	</title>
+      <p>Deze site bevat ook de verslagen van het vak ONT8 van 3II-ELO.</p>
+      <ul>
+        <li><link href="ext:groepa">Groep A</link></li>
+        <li><link href="ext:groepb">Groep B</link></li>
+        <li><link href="ext:groepc">Groep C</link></li>
+        <li><link href="ext:groepd">Groep D</link></li>
+      </ul>
+      </section>
+ ont8 tab compleet uitgeschakeld 22/9/2004
+  -->    
+      <section>
+      	<title>
+	  Webpagina's van de docenten
+	</title>
+      <ul>
+        <li><link href="ext:jbaeten">Johan Baeten</link></li>
+        <li><link href="ext:jgenoe">Jan Genoe</link></li>
+        <!--
+          1/10/2009 is met pensioen
+        <li><link href="ext:whoubrec">Willy Houbrechts</link></li>
+          -->
+        <li><link href="ext:nmentens">Nele Mentens</link></li>
+        <li><link href="ext:lrutten">Leo Rutten</link></li>
+        <li><link href="ext:dsmets">Dirk Smets</link></li>
+        <li><link href="ext:pvalcken">Paul Valckenaers</link></li>
+      </ul>
+      </section>
+  </body>
+</document>

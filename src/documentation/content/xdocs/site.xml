@@ -1,0 +1,250 @@
+<?xml version="1.0"?>
+
+<!--
+Forrest site.xml
+
+This file contains an outline of the site's information content.  It is used to:
+- Generate the website menus (though these can be overridden - see docs)
+- Provide semantic, location-independent aliases for internal 'site:' URIs, eg
+<link href="site:changes"> links to changes.html (or ../changes.html if in
+  subdir).
+- Provide aliases for external URLs in the external-refs section.  Eg, <link
+  href="ext:cocoon"> links to http://xml.apache.org/cocoon/ 
+
+See http://xml.apache.org/forrest/linking.html for more info
+-->
+
+<site label="Ontwerpen1" href="" xmlns="http://apache.org/forrest/linkmap/1.0" tab="Start">
+
+  <over label="Over">
+    <index label="Index" href="index.html" description="Welkom bij Ontwerpen1"/>
+  </over>
+
+
+  <eindwerken label="Masterproef" description="">
+    <index label="2012-2013" href="maproef-2012-2013.html"/>
+    <index label="2011-2012" href="maproef-2011-2012.html"/>
+    <index label="2010-2011" href="maproef-2010-2011.html"/>
+    <index label="2009-2010" href="maproef-2009-2010.html"/>
+    <index label="2008-2009" href="maproef-2008-2009.html"/>
+    <index label="2007-2008" href="maproef-2007-2008.html"/>
+    <index label="2006-2007" href="maproef-2006-2007.html"/>
+    <index label="2005-2006" href="maproef-2005-2006.html"/>
+    <index label="2004-2005" href="maproef-2004-2005.html"/>
+    <index label="2003-2004" href="maproef-2003-2004.html"/>
+  </eindwerken>
+
+  <eindwerken label="Bachelorproef" description="">
+    <index label="2008-2009" href="baproef-2008-2009.html"/>
+    <index label="2007-2008" href="baproef-2007-2008.html"/>
+    <index label="2006-2007" href="baproef-2006-2007.html"/>
+  <!--
+    broncode bestaat niet?
+    <index href="project-site.html"/>
+    -->
+  </eindwerken>
+
+
+
+  <rooster label="Uurrooster" description="">
+    <index label="Roosters" href="uurrooster.html"/>
+  </rooster>
+
+<!--
+  18/ 3/2005 uitgeschakeld, teveel spammers
+
+  <forum label="Forum" description="">
+    <index label="Wiki" href="ext:wiki"/>
+  </forum>
+  -->
+
+<!--  
+  <ditjaar label="ONT8 2003-2004" description="">
+    <index label="Groep A" href="ext:groepa"/>
+    <index label="Groep B" href="ext:groepb"/>
+    <index label="Groep C" href="ext:groepc"/>
+    <index label="Groep D" href="ext:groepd"/>
+  </ditjaar>
+
+  <vorigjaar label="ONT8 2002-2003" description="">
+    <index label="Groep A" href="ext:ac2002-2003-groepa"/>
+    <index label="Groep B" href="ext:ac2002-2003-groepb"/>
+  </vorigjaar>
+
+-->
+
+
+<!--
+ ont8 tab complet uitgeschakeld 22/9/2004
+
+  <ont8 label="ONT8" href="ont8/" tab="ONT8">
+    <index label="Welkom" href="index.html"/>
+    <ac2002-2003 label="2002-2003" href="2002-2003/">
+      <index label="Groep A" href="groepa/">
+        <welkom label="Welkom" href="index.html"/>
+ ont8 tab complet uitgeschakeld 22/9/2004
+ -->	
+   
+<!-- 
+   Studenten Groep A
+	
+        <index label="A. Calcagnile" href="acalagn/index.html"/>
+        <index label="R. Daniels" href="rdaniels/index.html"/>
+        <index href="rdaniels/methode1.html"/>
+        <index href="rdaniels/methode2.html"/>
+
+        <index label="R. Dehuysser" href="rdehuyss/">
+          <index label="Home" href="index.html"/>
+          <index label="Doelstellingen" href="doelstellingen.html"/>
+          <index label="Nieuws" href="news.html"/>
+          <index label="Datasheets" href="datasheets.html"/>
+          <index label="Code" href="code.html"/>
+	</index>
+	
+        <index label="J. Schevernels" href="jschevern/">
+          <index label="Home" href="jeroen.html"/>
+          <index label="Info" href="info.html"/>
+          <index label="Screens" href="screens.html"/>
+	</index>
+
+        <index label="B. Soors" href="bsoors/index.html"/>
+        <index label="T. Mercken" href="tmercken/index.html"/>
+	
+        <index label="R. Leyssen" href="rleyssen/">
+          <index label="Home" href="index.html"/>
+          <index label="Grofmeting" href="grofmeting.html"/>
+          <index label="Voeding" href="voeding.html"/>
+          <index label="Terrarium" href="terrarium.html"/>
+        </index>	
+
+        <index label="R. Slechten" href="rslechte/">
+          <index label="Home" href="index.html"/>
+          <index label="Agenda" href="agenda.html"/>
+          <index label="Datasheets" href="datasheets.html"/>
+          <index label="Mijn bijdrage" href="mijn_bijdrage.html"/>
+          <index label="Schets IR ontvanger" href="schets_IR_ontvanger.html"/>
+          <index label="Schets motorsturing" href="schets_motorsturing.html"/>
+          <index label="Fotogalerij" href="fotoalbum.html"/>
+          <index label="Links" href="links.html"/>
+        </index>	
+-->	
+
+<!--
+ ont8 tab complet uitgeschakeld 22/9/2004
+
+	</index>
+      <index label="Groep B" href="groepb/">
+        <index label="Welkom" href="Main.html"/>
+ ont8 tab complet uitgeschakeld 22/9/2004
+-->	
+
+
+<!--
+        <index label="B. Cleven" href="bcleven/">
+          <index label="Welkom" href="index.html"/>
+	</index>
+	
+        <index label="B. Kenis" href="bkenis/">
+          <index label="Welkom" href="index.html"/>
+          <index label="Blok1" href="Blok1.html"/>
+          <index label="Blok2" href="Blok2.html"/>
+          <index label="Blok3" href="Blok3.html"/>
+          <index label="Hardware" href="Hardware.html"/>
+          <index label="Vhdl" href="Vhdl.html"/>
+          <index label="Website" href="Website.html"/>
+	</index>
+	
+        <index label="E. Frans" href="efrans/">
+          <index label="index" href="index.html"/>
+	</index>
+	
+        <index label="M. Simons" href="msimons/">
+          <index label="index" href="index.html"/>
+          <index label="mypart" href="mypart.html"/>
+          <index label="pics" href="pics.html"/>
+          <index label="vhdl" href="vhdl.html"/>
+        </index>
+	
+        <index label="P. Gaens" href="pgaens/">
+          <index label="index" href="index.html"/>
+        </index>
+	
+        <index label="P. Thomassen" href="pthomass/">
+          <index label="index" href="index.html"/>
+          <index label="code" href="code.html"/>
+          <index label="fpga" href="fpga.html"/>
+          <index label="infra" href="infra.html"/>
+          <index label="mijnwerk" href="mijnwerk.html"/>
+          <index label="onswerk" href="onswerk.html"/>
+          <index label="presentatie" href="presentatie.html"/>
+          <index label="links" href="links.html"/>
+        </index>
+	
+        <index label="S. Heselmans" href="sheselma/">
+          <index label="index" href="index.html"/>
+          <index label="Blok1" href="Blok1.html"/>
+          <index label="Blok2" href="Blok2.html"/>
+          <index label="Blok3" href="Blok3.html"/>
+          <index label="Hardware" href="Hardware.html"/>
+          <index label="Inhoud" href="Inhoud.html"/>
+          <index label="ParPoort" href="ParPoort.html"/>
+          <index label="Vhdl" href="Vhdl.html"/>
+        </index>	
+   -->
+
+   <!--
+   ont8 tab complet uitgeschakeld 22/9/2004
+      </index>
+        
+    </ac2002-2003>
+    
+  <vorjaren label="Vorige jaren" description="">
+    <index label="1999-2000" href="ext:ac1999-2000"/>
+    <index label="2000-2001" href="ext:ac2000-2001"/>
+    <index label="2001-2002" href="ext:ac2001-2002"/>
+  </vorjaren>
+    
+  </ont8>
+ ont8 tab complet uitgeschakeld 22/9/2004
+-->
+
+  <projecten label="Projecten" href="projects/" tab="Projecten">
+    <index label="Overzicht" href="index.html"/>
+    <netsim label="Netsim" href="netsim/">
+        <welkom label="Overview" href="index.html"/>
+    </netsim>
+  </projecten>
+  
+  
+  <external-refs>
+    <ontwerpen1.khlim.be href="http://ontwerpen1.khlim.be/">
+<!--      
+      <groepa href="~groepa"/>
+      <groepb href="~groepb"/>
+      <groepc href="~groepc"/>
+      <groepd href="~groepd"/>
+
+      <ac2002-2003-groepa href="ont8/2002-2003/groepa"/>
+      <ac2002-2003-groepb href="ont8/2002-2003/groepb"/>
+  -->
+      <ac1999-2000 href="ont8/1999-2000"/>
+      <ac2000-2001 href="ont8/2000-2001"/>
+      <ac2001-2002 href="ont8/2001-2002"/>
+      <wiki href="wiki"/>
+   </ontwerpen1.khlim.be>
+   <www.khlim.be href="http://www.khlim.be/">
+      <jbaeten href="~jbaeten"/>
+      <jgenoe href="~jgenoe"/>
+      <whoubrec href="~whoubrec"/>
+      <nmentens href="~nmentens"/>
+      <lrutten href="~lrutten"/>
+      <dsmets href="~dsmets"/>
+      <pvalcken href="~pvalcken"/>
+   </www.khlim.be>
+
+   <cosic.be href="http://www.cosic.be">
+     <cosic href=""/>
+   </cosic.be>
+  </external-refs>
+
+</site>

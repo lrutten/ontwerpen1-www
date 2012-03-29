@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V1.2//EN" "/export/usr/local/forrest/context/resources/schema/dtd/document-v12.dtd">
+<document> 
+  <header> 
+    <title>Bachelorproef 2007-2008</title> 
+  </header> 
+  <body> 
+      <p>Laatste wijziging: $Date: 2009-08-02 22:59:43 +0200 (Sun, 02 Aug 2009) $</p>
+  
+      <section>
+        <title>Inleiding</title>      
+        <p>
+          Dit is het overzicht van de bachelorproef onderwerpen 2007-2008 voor 3ABA-ELO.
+        </p>
+      </section>
+
+      <section>
+        <title>Handleiding Forrest</title>
+      
+        <p>
+          Maak de volgende shellscript:
+        </p>
+        
+<source><![CDATA[
+cvs -d :ext:login@ontwerpen1.khlim.be:/home/baproef/cvsroot $*
+]]></source>
+
+        <p>
+          In de bovenstaande script moet je login vervangen door je eigen loginnaam en
+          baproef door de loginnaam van het project.
+        </p>
+        <p>
+          Ga zo te werk op je lokale harde schijf:
+        </p>
+        
+<source><![CDATA[
+cd
+mkdir baproef
+cd baproef
+mkdir cvswerk
+cd cvswerk
+pico -w doe-cvs.sh
+chmod a+x doe-cvs.sh
+./doe-cvs.sh checkout website
+cd website
+# pas het logo aan
+pico -w skinconf.xml
+# pas de inhoud aan
+pico -w content/xdocs/index.xml                                     
+
+# doe de commit
+../doe-cvs.sh commit
+]]></source>
+        
+      </section>
+      
+      <section>
+         <title>Bachelorproefinstructies</title>
+         
+         <p>
+           Alle richtlijnen die beschrijven hoe een bachelorproef loopt, zijn vastgelegd in het volgende document.
+         </p>
+         <ul>
+           <li>
+             <link href="baproef/2007-2008/instructies-bachelorproef-elo-0708.pdf">instructies-bachelorproef-elo-0708.pdf</link>
+           </li>
+         </ul>
+
+         <p>
+           Op aanvraag kan voor elk project een eigen website verkregen worden.
+           <!--
+           De uitleg hoe je die kan aanpassen staat <link href="project-site.html">hier</link>.
+             -->
+         </p>
+      </section>
+
+      <section>
+      <title>Overzicht</title>
+
+<table>
+<caption>
+Bachelorproeven 2007-2008
+</caption>
+
+<tr>
+ <th>Groep</th>
+ <th>Student(en)</th>
+ <th>Titel</th>
+ <th>Bedrijf</th>
+ <th>Begeleider</th>
+</tr>
+
+
+<!--
+<tr>
+ <td>SchakelELO x</td>
+ <td>studenten</td>
+ <td>Ontwikkeling van een  (<link href="#xxx">meer uitleg</link>, <link href="http://ontwerpen1.khlim.be/graan/">site</link>)
+ </td>
+ <td>bedrijf</td>
+ <td>begeleider</td>
+</tr>
+
+
+ -->
+
+
+
+<tr>
+ <td>3ABAELO 1</td>
+ <td>Erwin Vanderoey, Dirk Rykx, Joris Thielen</td>
+ <td>Ontwerp van embedded software voor de br380 printplaat (<link href="#br380">meer uitleg</link>, <link href="http://ontwerpen1.khlim.be/sboom2/">site</link>)
+ </td>
+ <td>Bormet</td>
+ <td>Leo Rutten</td>
+</tr>
+
+<tr>
+ <td>3ABAELO 2</td>
+ <td>Christian Peeters, Kevin Bertrand, Niels Cornelissen</td>
+ <td>Ontwikkelen van test suites voor Digitale Televisie ontvangers (<link href="#pmtc">meer uitleg</link>, <link href="http://ontwerpen1.khlim.be/dvbtest1/">site</link>)
+ </td>
+ <td>PMTC</td>
+ <td>Nele Mentens</td>
+</tr>
+
+<tr>
+ <td>3ABAELO 3</td>
+ <td>Wim Sybers, Tom Geelen, Steven Vanhoenshoven, Dieter Sauvillers</td>
+ <td>
+   Positiebepaling in een sensornetwerk (<link href="#sensornetwerk">meer uitleg</link>,  <link href="http://ontwerpen1.khlim.be/sensnet/">site</link>)
+ </td>
+ <td>OneAccess</td>
+ <td>Jan Genoe</td>
+</tr>
+
+<tr>
+ <td>3ABAELO 4</td>
+ <td>Wouter Rutten, Jeroen Dreessen, Dimitri Bervoets</td>
+ <td>
+   Pulsmeting met een TS7260 single board computer (<link href="#pulsmeting">meer uitleg</link>,  <link href="http://ontwerpen1.khlim.be/puls/">site</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Leo Rutten</td>
+</tr>
+
+
+
+<tr>
+ <td>SchakelELO 1</td>
+ <td>Lander Carrein, Emmanuel Janssen, Wesley Van Nuffel</td>
+ <td>U3 Implementatie (<link href="#u3impl">meer uitleg</link>, <link href="http://ontwerpen1.khlim.be/u3/">site</link>)
+ </td>
+ <td>TCT-group</td>
+ <td>Luc Coenegracht</td>
+</tr>
+
+<tr>
+ <td>SchakelELO 2</td>
+ <td>Robin Brouns, Bart Evens, Bart Salmon, Roy Sevit</td>
+ <td>RFID-framework (<link href="#rfid">meer uitleg</link>, <link href="http://ontwerpen1.khlim.be/rfid/">site</link>)
+ </td>
+ <td>TCT-group</td>
+ <td>Luc Coenegracht</td>
+</tr>
+
+<tr>
+ <td>SchakelELO 3</td>
+ <td>Thomas Erhart, Ruben Fabbro, Jorn Leyssens, Yves Maex</td>
+ <td>Geluidsonderschepper voor PC (<link href="#geluid">meer uitleg</link>, <link href="http://ontwerpen1.khlim.be/geluid/">site</link>)
+ </td>
+ <td>KIDS</td>
+ <td>Jos Broekx</td>
+</tr>
+
+<tr>
+ <td>SchakelELO 4</td>
+ <td>Gökhan Kaya, Jimmy Loyens, Mustafa Yayla</td>
+ <td>Uitbreiding van een smartcard lezer voor vermogenanalyse (<link href="#smartcard">meer uitleg</link>, <link href="http://ontwerpen1.khlim.be/scard/">site</link>)
+ </td>
+ <td>Cosic, KULeuven</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td>SchakelELO 5</td>
+ <td>Joren Grondelaers, Vincent Put, Rob Stoffels, Robbie Vandeweert</td>
+ <td>Ontwikkelen van test suites voor Digitale Televisie ontvangers (<link href="#pmtc">meer uitleg</link>, <link href="http://ontwerpen1.khlim.be/dvbtest2/">site</link>)
+ </td>
+ <td>PMTC</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td>SchakelELO 6</td>
+ <td>Gert Bammens, Hans Fourrier, Joël Peulen, Yannick Vanbekbergen</td>
+ <td>Ontwerp van een elektronisch afsprakenbord (<link href="http://ontwerpen1.khlim.be/abord/">site</link>)
+ </td>
+ <td>Dokter Corstjens</td>
+ <td>Nele Mentens</td>
+</tr>
+
+<tr>
+ <td>SchakelELO 7</td>
+ <td>Karel Briers, Sanne Gedopt, Roals Goossens, Steven Marcoen</td>
+ <td>Meettoestel voor optische spectroscopie (<link href="#spectroscopie">meer uitleg</link>, <link href="http://ontwerpen1.khlim.be/spectro/">site</link>)
+ </td>
+ <td>Dokter Vandeput</td>
+ <td>Dirk Smets</td>
+</tr>
+
+
+
+</table>
+
+    </section>
+
+    <section>
+      <title>Bachelorproefbeschrijvingen</title>
+
+      <!--
+
+      <anchor id="afkorting"/>      
+      <section>
+        <title>titel, bedrijf</title>
+          <p>
+            para
+          </p>
+          <p>
+            Links:
+          </p>
+            <ul>
+              <li>
+                <link href="http://www.hibernate.org">www.hibernate.org</link>
+              </li>
+              <li>
+                <link href="http://www.aspectj.org">www.aspectj.org</link>
+              </li>
+            </ul>
+      </section>
+      -->
+      
+      
+  
+ 
+ 
+
+
+      <anchor id="br380"/>
+      <section>
+        <title>Ontwerp van embedded software voor de br380 printplaat</title>
+
+ 
+        <p>
+          Bormet b.v.b.a. is een KMO die gespecialiseerd is in slagbomen, toegangscontrole en automatisatie van toegangspoorten.
+          Het huismerk van Bormet is BAM (Belgian Access Management) en wordt ontwikkeld en geproduceerd in de vestiging te Kozen.
+        </p>
+        
+        <p>
+          De br380 printplaat is het hart van de automatische slagbomen en de poort- en hekopeners.
+          Deze printplaat staat in voor zowel het aansturen als het beveiligen van elke beweging. De
+          betrouwbaarheid van dit product is dus zeer belangrijk in alle omstandigheden.
+        </p>
+        
+        <p>
+        De Fujitsu MB90F574A-processor stuurt de br380 aan. Deze processor van de MB90570 serie controleert de 16 ingangen, stuurt de 10 uitgangen, geeft info
+        weer op de display, controleert 4 jumpers, ... Al deze functies dient de processor in real-time te doorlopen, zodat een veilig functioneren gegarandeerd is.
+        </p>
+        
+        <p>
+          Er dienen twee verschillende software versies ontwikkeld te worden. De eerste voor het gebruik bij aandrijvingen voorzien van twee motoren
+          en de tweede voor het gebruik bij aandrijvingen voorzien van één motor. Enkele parameters zoals de motortijd, pauzetijd,
+          sluitvertraging, slottijd, verlichtingstijd, ... dienen instelbaar te zijn voor het flashen van de printplaat.
+        </p>
+        
+        <p>
+          Het aansturen van de motoren gebeurt d. m. v. triacs. Het is dus mogelijk om de snelheid van de motor te beïnvloeden. De mogelijkheid om de 
+          snelheid te wijzigen in functie van de stand van een ingang dient voorzien te worden in beide versies.
+        </p>
+        <p>
+          Alle functies kunnen uitgetest worden op een verplaatsbare testapplicatie die door Bormet bvba geleverd wordt bij de aanvang van het project.
+        </p>
+        
+        <p>
+          Bormat bvba
+        </p>
+        <p>
+          Zwarteinde 11
+        </p>
+        <p>
+          3850 Kozen
+        </p>
+        <p>
+          tel: 011/31 26 56
+        </p>
+        <p>
+          e-mail: info@bormet.be
+        </p>
+        <p>
+          url: <link href="http://www.bormet.be">www.bormet.be</link>
+        </p>
+        
+      </section>
+
+      
+      <anchor id="pmtc"/>
+      <section>
+        <title>Ontwikkelen van test suites voor Digitale Televisie ontvangers</title>
+
+
+        <p>
+Deze bachelorproef omvat 3 hoofdmodules:
+        </p>
+        <ul>
+          <li>
+Module 1: Studie en analyse van de basisspecificatie
+          </li>
+          <li>
+Module 2: Schrijven / ontwerpen van een testspecificatie
+          </li>
+          <li>
+Module 3: Ontwikkelen / configureren van test opstellingen (op een Digitale TV kopstation)
+          </li>
+        </ul>
+        <p>
+Gedurende deze proef zullen de studenten de standaarden achter digitale televisie beter leren begrijpen. Meer specifiek zullen ze zich moeten toeleggen op één klein deelaspect dat onderwerp zal zijn van validatie. De studenten brengen hun zelf ontworpen test specificatie in de praktijk door zelf een kopstation voor digitale televisie te bedienen en te configureren. Zelf meetexperimenten uitvoeren op digitale televisie ontvangers is dus ook onderdeel van deze bachelorproef.
+        </p>
+        
+        <p>
+PMTC nv, Afdeling Hardware Testing
+        </p>
+        <p>
+Wetenschapspark 7
+        </p>
+        <p>
+3590 Diepenbeek
+        </p>
+        <p>
+tel: 011/30 36 00 
+        </p>
+        
+      </section>
+
+
+
+      <anchor id="afsprakenbord"/>
+      <section>
+        <title>Ontwerp van een elektronisch afsprakenbord</title>
+
+ 
+        <p>
+De opdracht bestaat erin een elektronisch reservatiesysteem te ontwerpen voor een huisartsenpraktijk. Het maken van een afspraak kan via het internet, via een touchpanel in de wachtzaal of via de PC's van de huisartsen. De huisartsen hebben meer mogelijkheden dan de patiënten. Zo kunnen de huisartsen bijvoorbeeld afspraken wissen, terwijl patiënten geen afspraken van andere patiënten kunnen wissen. Een bijkomende opdracht bestaat erin om het mogelijk te maken een afspraak in te voeren in het systeem via sms.
+        </p>
+        <p>
+Dr. Corstjens 
+        </p>
+        <p>
+
+Maastrichtersteenweg 64
+        </p>
+        <p>
+
+3680 Maaseik
+        </p>
+        <p>
+tel: 089/ 56 85 41
+        </p>
+        
+      </section>
+
+
+
+      <anchor id="smartcard"/>
+      <section>
+        <title>Uitbreiding van een smartcard lezer voor vermogenanalyse</title>
+
+
+        <p>
+Deze opdracht kadert in het analyseren van de veiligheid van smartcards, zoals bv. bankkaarten. Door het meten van het ogenblikkelijk vermogenverbruik van een smartcard in een kaartlezer kan soms geheime informatie achterhaald worden. Aan de hand van deze metingen kunnen dan methodes worden uitgedacht om de smartcards veiliger te maken.
+        </p>
+        <p>
+Omdat traditionele kaartlezers geen mogelijkheid voorzien om het ogenblikkelijk vermogenverbruik te meten, bestaat deze opdracht erin een bestaande kaartlezer uit te breiden met deze functionaliteit. Omdat het ogenblikkelijk vermogen evenredig is met de ogenblikkelijke stroom die uit de voedingsspanning wordt getrokken, zal een meetcircuit voor deze stroom worden toegevoegd aan de kaartlezer. Een bijkomende opdracht bestaan erin een interface te voorzien die de meetgegevens naar een PC stuurt.
+        </p>
+        <p>
+K.U.Leuven, ESAT/SCD, COSIC
+        </p>
+        <p>
+Kasteelpark Arenberg 10, bus 2446
+        </p>
+        <p>
+3001 Leuven-Heverlee
+        </p>
+        <p>
+tel: 016/32 10 50 
+        </p>
+        
+      </section>
+      
+
+      
+      
+      <anchor id="sensornetwerk"/>
+      <section>
+        <title>Positiebepaling in een sensornetwerk</title>
+        
+        <p>
+        OneAccess bouwt draadloze sensornetwerken (en ontwerpt ook software voor
+allerlei modems). De draadloze sensornetwerken bestaan uit een aantal
+sensoren die via een radio-netwerk communiceren met een centrale PC. Op
+deze PC draait een applicatie voor het management van dit sensornetwerk.  
+De opdracht voor deze bachelorproef is: het ontwikkelen van een
+PC-programma met grafische user interface. Dit programma moet het
+draadloze netwerk visualiseren op het PC-scherm en een reeks parameters
+grafisch
+weergeven, zoals de signaalsterkte tussen de radio-nodes, data-volume
+tussen de nodes enz.
+        </p>
+      </section>
+      
+      
+      
+      <anchor id="pulsmeting"/>
+      <section>
+        <title>Pulsmeting met een TS7260 single board computer</title>
+
+
+        <p>
+          Het doel van deze opdracht is ontwerpen van een apparaat waarmee pulsen van servomotoren kunnen gemeten worden.
+          Er wordt gebruik gemaakt van een grafisch display van 24x128 voor het weergeven van de golfvormen. Dit display wordt
+          gekoppeld met een TS7260 die in Linux draait. Dit bordje bevat de nodige hardware om pulsbreedtes te meten.
+        </p>
+        <p>
+          De verschillende delen in het project zijn:
+        </p>
+        <ul>
+          <li>
+            Koppeling van het display met de parallelle IO van de SBC. Het display maakt gebruik van een 8 bit databus en enkele controlelijnen.
+          </li>
+          <li>
+            Softwarelaag voor het aansturen van het display.
+          </li>
+          <li>
+            Gebruikersinterface met bediening. Dit deel van de software is verantwoordelijk voor het starten en stoppen van de meting en voor de weergave
+            van de gemeten blokgolf.
+          </li>
+          <li>
+            Softwarelaag voor de besturing van de XDIO hardware. Dit is hardware die vast geprogrammeerd is in een Altera CPLD. Hiermee is het mogelijk
+            om pulsen met pulsbreedtemodulatie te genereren. Er moet nagegaan worden of het mogelijk is om met XDIO ook pulsen te meten.
+          </li>
+        </ul>
+        
+        <p>
+          Links:
+        </p>
+        
+        <ul>
+          <li>
+            <link href="http://ontwerpen1.khlim.be/arm/EP9301_User_Guide.pdf">EP9301 datasheet</link>
+          </li>
+          <li>
+            <link href="http://ontwerpen1.khlim.be/arm/GDM240128B.pdf">Display datasheet</link>
+          </li>
+          <li>
+            <link href="http://ontwerpen1.khlim.be/arm/glcd240x128a.pdf">Display datasheet</link>
+          </li>
+          <li>
+            <link href="http://ontwerpen1.khlim.be/arm/linuxarm-guide-rev2.2.pdf">Linux op ARM handleiding</link>
+          </li>
+          <li>
+            <link href="http://ontwerpen1.khlim.be/arm/rtaiguide.pdf">RTAI handleiding</link>
+          </li>
+          <li>
+            <link href="http://ontwerpen1.khlim.be/arm/ts-7260-datasheet.pdf">TS7260 datasheet</link>
+          </li>
+          <li>
+            <link href="http://ontwerpen1.khlim.be/arm/ts-7260-manual-rev1.2.pdf">TS7260 handleiding</link>
+          </li>
+        </ul>
+      </section>
+      
+
+      
+      
+      
+      
+      
+      <anchor id="u3impl"/>
+      <section>
+        <title>U3 Implementatie</title>
+
+        <p>
+Opdrachtgever: TCT-group <link href="http://www.tct-group.com">www.tct-group.com</link>
+        </p>
+
+        <p>
+TCT-group is een overkoepelende organisatie waar onder andere Recon-Data toe behoort. Recon-Data is een distributiefirma van allerhande computeronderdelen zoals processoren, geheugen, USB-sticks, …
+        </p>
+        <p>
+Opdracht: Onderzoeken of de U3-standaard te implementeren is op  USB-sticks en eventueel externe harde schijven, die verdeeld worden door Recon-data. 
+        </p>
+        <p>
+U3 is een “standaard” die het mogelijk maakt een applicatie en de bijhorende data op een stick of externe harde schijf te zetten, en met dit toestel naar om het even welke Windows-PC te stappen en gebruik te kunnen maken van de software en de bijhorende data.
+        </p>
+        <p>
+Éen van de programma’s die U3 enabled zijn is outlook. Het is dus mogelijk outlook te installeren op een U3-enabled stick en op om het even welke Windows-PC je mails te bekijken, en dit zowel voor de reeds opgehaalde mail als voor de nieuwe mail. 
+        </p>
+        <p>
+Bij U3 is het dus de bedoeling de applicatie draagbaar te maken, i.p.v. de computer draagbaar te maken.
+        </p>
+        <p>
+Indien het mogelijk is om U3 te installeren op om het even welke stick (mits de juiste indeling) dan zou er een gemakkelijke procedure moeten gemaakt worden om de applicaties te downloaden en op de stick bij te plaatsen.
+        </p>
+      </section>
+
+
+
+      <anchor id="rfid"/>
+      <section>
+        <title>RFID-framework</title>
+
+        <p>
+Opdrachtgever: TCT-group <link href="http://www.tct-group.com">www.tct-group.com</link> en KHLim
+        </p>
+
+        <p>
+Waarschijnlijk hebt u reeds meerdere malen gebruik gemaakt van uw studentenkaart als betaalmiddel voor kopieren, printen of de maaltijden in het restaurant. Dit is in principe een RFID-kaart, die gegevens bevat die herschreven kunnen worden. Deze kaart is ingedeeld in een aantal sectoren, waarvan de inhoud beschreven staat in een soort directory. Dit houdt in dat er verschillende applicaties naast elkaar op deze kaart geschreven kunnen worden.
+        </p>
+        <p>
+Daarnaast bestaan er ook eenvoudiger systemen, die niet herschrijfbaar zijn, maar slechts een unieke tag bevatten. Men spreekt dan over RFID-tags. Deze tags kunnen zowel aktief als passief zijn, met de bedoeling de afstand waarop de tag gelezen kan worden te vergroten.
+        </p>
+        <p>
+Deze tags worden momenteel veel gebruikt in de logistieke sector als vervanger voor de gekende bar-codes. Bij de oude bar-codes moet een lezer relatief nauwkeurig gepositioneerd worden voor het label om te kunnen lezen. Bij RFID-tags is dit echter niet nodig en kan men bijvoorbeeld met een gans pallet producten door een RFID-sluis rijden, en alle producten worden “gelijktijdig” herkend en geteld. In theorie zou dit pallet tussen de 400 en 500 tags kunnen bevatten, maar in de praktijk blijkt 100 momenteel de technologische limiet te zijn. 
+        </p>
+
+        <p>
+Het is nu de bedoeling een framework te ontwikkelen dat op basis van deze RFID-tags of –kaarten meerdere applicaties kan ondersteunen. Dat zou bijvoorbeeld toegangscontrole kunnen zijn tot specifieke lokalen in gebouwen, of zelfs het volledige gebouw.
+        </p>
+
+        <p>
+Voor de KHLim zou dat in concreto betekenen dat de studentenkaart gebruikt zou kunnen worden als toegangscode tot de mediatheken, en eventueel toegang kan verlenen in specifieke lokalen zoals projectlokalen e.d.
+        </p>
+      </section>
+
+
+
+
+
+
+      <anchor id="geluid"/>
+      <section>
+        <title>Geluidsonderschepper voor PC</title>
+
+        <p>
+Opdrachtgever: KIDS
+        </p>
+
+        <p>
+De KIDS (Koninklijk Instituut voor Doven en Spraakgestoorden) is een instelling waar mensen met hoor- en spraakgebreken opgeleid en begeleid worden.
+        </p>
+        <p>
+Voor deze mensen is de PC een belangrijk communicatiemiddel in de stap naar het begeleid alleen wonen, maar er zijn een aantal dingen die wij vanzelfsprekend vinden die voor deze mensen niet zo vanzelfsprekend zijn. Zo produceert de PC een geluid op het ogenblik dat een mail binnenkomt, die voor ons een signaal is om even te kijken, maar de mensen die in de KIDS opgeleid worden horen deze geluiden meestal niet.
+        </p>
+        <p>
+Deze opdracht is vorig jaar ook reeds uitgevoerd, maar toen is men ervan uitgegaan dat de applicaties die een geluid produceren ook een ander event genereren, dat gebruikt kan worden om een ander signaal te genereren dat voor hen wel opvalt (lichtflits). Dit blijkt echter voor een aantal applicaties niet het geval te zijn, of niet naar behoren te werken. 
+        </p>
+        <p>
+Van daar is het idee ontstaan van een stukje code te schrijven dat zich tussen de applicatie en het OS nestelt om er zo voor te zorgen dat elke toegang tot een geluidssignaal onderschept kan worden ongeacht de applicatie.
+        </p>
+      </section>
+
+
+
+
+
+      <anchor id="spectroscopie"/>
+      <section>
+        <title>Meettoestel voor optische spectroscopie</title> 
+
+        <p>
+Opdrachtgever: Dr. Vandeput
+        </p>
+        <p>
+Photoplethysmographie laat toe op niet-invasieve wijze oppervlakkige bloedcirculatie en zuurstofsaturatie te meten. Bij vorige eindwerken zijn we gekomen tot een klinisch bruikbaar toestel met visueel signaal en digitaal berekende parameters, waarvan verdere uitwerking, verfijning en digitalisering zich opdringt. 
+        </p>
+        <ul>
+          <li>
+De zuurstofsaturatie wordt gemeten door vergelijking van de meting met rood licht tegenover de referentiewaarde bekomen met infrarood licht. Voor een optimale reflectiemeting zou een ringvormige pindiode moeten gebruikt worden. Wij willen dit benaderen door 4 individuele pindiodes rond 1 led te plaatsen. We dienen dus eerst een nieuw sensorprincipe uit te testen en bij bevredigend resultaat in een praktisch bruikbare meetsensor uit te voeren.
+          </li>
+          <li>
+De uitlezing van de flow is op dit ogenblik beperkt tot één digit, waardoor dit cijfer vaak wisselt. We willen tot een aanduiding komen die nauwkeuriger is en vooral minder ‘rolt’. De aanduiding zou meer het ‘gevoel’ van een analoog metertje moeten hebben.
+          </li>
+          <li>
+Nu komen we aan digitale technieken. De bekomen signalen van rood licht en van IR licht moeten leiden tot een uitlezing van zuurstofsaturatie. De theorie is lang gekend doch elke commerciële firma bewaart het geheim van zijn realisatie. Praktisch beogen we de procentuele deling van de logarithmen van de amplituden van de respectieve signalen. Tot ijking beschikken we over een klinisch toestel. Op dit ogenblik worden deze bewerkingen gerealiseerd met analoge componenten. We willen onderzoeken of dit alles niet beter kan gebeuren met behulp van een computerprogramma zoals LabView. 
+          </li>
+          <li>
+Voor dit meer complex toestel kan dan ook ineens het scherm van de laptop gebruikt worden als alfanumeriek en grafisch display. 
+          </li>
+        </ul>
+        
+
+        <p>
+Dr. J. Vandeput
+        </p>
+
+        <p>
+Leopoldplaats 50
+        </p>
+
+        <p>
+3500 Hasselt
+        </p>
+
+        <p>
+0478/45.45.87
+        </p>
+
+      </section>
+ </section>     
+
+ 
+  </body>
+</document>

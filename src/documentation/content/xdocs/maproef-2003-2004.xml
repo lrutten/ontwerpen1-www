@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V1.2//EN" "/usr/local/forrest/main/webapp/resources/schema/dtd/document-v12.dtd">
+<document> 
+  <header> 
+    <title>Eindwerken 2003-2004</title> 
+  </header> 
+  <body> 
+      <p>Dit is een overzicht van de eindwerken 2003-2004 van 4II-ELO.</p>
+      <p>Laatste wijziging: 12/ 1/2004</p>
+
+<table>
+<caption>
+Eindwerken 2003-2004
+</caption>
+
+<tr>
+ <th>code</th>
+ <th>student(en)</th>
+ <th>titel</th>
+ <th>bedrijf</th>
+ <th>promotors</th>
+</tr>
+
+<tr><td>E04/ELO/01</td>
+ <td>Maarten Lousbergh<br/>Ken Bamps
+        </td>
+ <td>onderwerp?</td>
+ <td>Bits&amp;Bytes</td>
+<td>William Knoors<br/>Dirk Smets
+    </td></tr>
+
+<tr><td>E04/ELO/02</td>
+ <td>Antonio Calcagnile<br/>
+     Rafa&euml;l Slechten</td>
+ <td>Automatisatie van de IBM-robot</td>
+ <td>KHLim</td>
+<td>Johan Baeten<br/>Jos Broekx
+    </td></tr>
+
+<tr><td>E04/ELO/03</td>
+ <td>Bart Cleven<br/>
+     Ronald Dehuysser  </td>
+ <td>Java front-end voor een nieuwe generatie meldkamer</td>
+ <td>FKS</td>
+<td>Eric Smets<br/>Leo Rutten
+    </td></tr>
+
+<tr><td>E04/ELO/04</td>
+ <td>Stijn Coomans</td>
+ <td>Videoregistratie van kayakwedstrijden</td>
+ <td>KHLim</td>
+  <td>Jos Broekx<br/>
+    Leo Rutten</td>
+</tr>
+
+<tr><td>E04/ELO/05</td>
+ <td>Tim Mercken<br/>
+     Roel Dani&euml;ls</td>
+ <td>Implementatie van Fire-Wire in RealTime Linux voor visietoepassingen met Robots</td>
+ <td>KHLim</td>
+<td>Johan Baeten<br/>
+    Leo Rutten</td></tr>
+
+<tr><td>E04/ELO/06</td>
+ <td>Peter Gaens<br/>
+     Frans Ewout</td>
+ <td>Ontwikkeling van een autonoom voertuig</td>
+ <td>Melexis</td>
+<td>Jef Gijbels<br/>Tony Vandenborn
+    </td></tr>
+
+<tr><td>E04/ELO/07</td>
+ <td>Stein Heselmans<br/>
+  Micha&euml;l Simons</td>
+ <td>Registratie en controle van de geluidskanalen van de DVD-checker</td>
+ <td>PIMC</td>
+<td>Walter De Coster<br/>Jan Genoe
+    </td></tr>
+
+<tr><td>E04/ELO/08</td>
+ <td>Peter Thomassen<br/>
+     Bjorn Kennis</td>
+ <td>ontwikkeling van een autonoom voertuig</td>
+ <td>Melexis</td>
+<td>Jef Gijbels<br/>Tony Vandenborn
+    </td></tr>
+
+<tr><td>E04/ELO/09</td>
+ <td>Jeroen Schevernels<br/>
+     Bert Soors     </td>
+ <td>onderwerp?</td>
+ <td>Universiteit van Brno, Tsjechi&euml;</td>
+<td>Zbynek Raida<br/>Paul Valckenaers
+    </td></tr>
+
+<tr><td>E04/ELO/10</td>
+ <td>Yves Willemaers</td>
+ <td>Robotic system for elderly assistant</td>
+ <td>University of Alcala, Spanje</td>
+<td>Luis Miguel Bergasa<br/>Paul Valckenaers
+    </td></tr>
+
+
+<tr><td>E04/ELO/</td>
+ <td>Maria Dolores<br/>Ruiz Caro</td>
+ <td>Automatic thresholding algorithms, based on image histograms, for the image improvement of readable text</td>
+ <td>Koba-vision</td>
+<td>Kristof Thewissen<br/>Paul Valckenaers
+    </td></tr>
+
+<tr><td>E04/ELO/</td>
+ <td>Felipe Medina Sanchez</td>
+ <td>Automatic thresholding algorithms, based on image histograms, for the image improvement of readable text</td>
+ <td>Koba-vision</td>
+<td>Kristof Thewissen<br/>Paul Valckenaers
+    </td></tr>
+
+
+
+</table>
+      
+<p>
+De volgende studenten zijn reeds als ingenieur afgestudeerd aan de universiteit van Brno, Tsjechië en werken aan een onderzoeksproject in de KHLim tijdens het tweede semester
+van 2003-2004.
+</p>
+
+
+
+
+<table>
+<caption>
+Post-Master Projecten 2003-2004
+</caption>
+
+<tr>
+ <th>code</th>
+ <th>student(en)</th>
+ <th>titel</th>
+ <th>instituut van herkomst</th>
+ <th>promotor</th>
+</tr>
+
+
+<tr>
+ <td>1</td>
+ <td>Marek Huczala</td>
+ <td>Visualisation of simulated network protocols</td>
+ <td>University of Brno</td>
+ <td>Leo Rutten</td>
+</tr>
+</table>
+
+      
+  </body>
+</document>

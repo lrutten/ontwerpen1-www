@@ -1,0 +1,2091 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V1.2//EN" "/export/usr/local/forrest/main/webapp/resources/schema/dtd/document-v12.dtd">
+<document> 
+  <header> 
+    <title>Masterproeven 2011-2012</title> 
+  </header> 
+  <body> 
+      <p>Laatste wijziging: $Date: 2010-09-29 20:35:33 +0200 (Wed, 29 Sep 2010) $</p>
+        <p>
+          Dit is het overzicht van de masterproeven 2011-2012 van MA-ELOICT, terug te vinden in de onderstaande tabel.
+        </p>
+
+      <section>
+      <title>Overzicht</title>
+
+<table>
+<caption>
+Masterproeven 2011-2012
+</caption>
+
+<tr>
+ <th>code</th>
+ <th>student(en)</th>
+
+ <th>titel</th>
+ <th>bedrijf</th>
+ <th>promotors</th>
+</tr>
+
+<!-- voorstellen eindwerken -->
+
+<!-- voorstel1 --> 
+<tr>
+ <td>1</td>
+ <td></td>
+ <td>Het ontwerpen van een demo voor de planning van decentrale energievoorziening (<link href="#simenergiedemo">meer uitleg</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Paul Valckenaers, Leo Rutten</td>
+</tr>
+
+<!-- voorstel2 --> 
+<!--
+<tr>
+ <td>2</td>
+ <td></td>
+ <td>Software tool voor validatie van data en resultaten (<link href="#mobival">meer uitleg</link>)
+ </td>
+ <td>MOBI, UHasselt</td>
+ <td>Luk Knapen</td>
+</tr>
+  -->
+<!-- voorstel3 --> 
+
+<!--
+<tr>
+ <td>3</td>
+ <td></td>
+ <td>Opstellen van scheduler op basis van OVG data (<link href="#mobischedovg">meer uitleg</link>)
+ </td>
+ <td>MOBI, UHasselt</td>
+ <td>Luk Knapen</td>
+</tr>
+ -->
+<!-- voorstel4 ok --> 
+<tr>
+ <td>2</td>
+ <td></td>
+ <td>Negotiatie bij het opstellen van schedules (<link href="#mobischedneg">meer uitleg</link>)
+ </td>
+ <td>MOBI, UHasselt</td>
+ <td>Luk Knapen</td>
+</tr>
+
+<!-- voorstel5 ok --> 
+<tr>
+ <td>3</td>
+ <td></td>
+ <td>Voorspelling van vraag naar energie in SmartGrid (<link href="#mobienergie">meer uitleg</link>)
+ </td>
+ <td>MOBI, UHasselt</td>
+ <td>Luk Knapen</td>
+</tr>
+
+<!-- voorstel6 -->
+<!--
+<tr>
+ <td>voorstel 6</td>
+ <td></td>
+ <td>Tools voor beheer van netwerken van openbaar vervoer in Feathers2 (<link href="#mobiov">meer uitleg</link>)
+ </td>
+ <td>MOBI, UHasselt</td>
+ <td>Luk Knapen</td>
+</tr>
+-->
+<!-- voorstel7 -->
+<!--
+<tr>
+ <td>voorstel 7</td>
+ <td></td>
+ <td>Opzetten van workﬂow systeem voor integratie van berekeningen (<link href="#mobiworkflow">meer uitleg</link>)
+ </td>
+ <td>MOBI, UHasselt</td>
+ <td>Luk Knapen</td>
+</tr>
+-->
+<!-- voorstel8 --> 
+<tr>
+ <td>4</td>
+ <td></td>
+ <td>Ontwerp en implementatie van een 8051 afgeleide microcontroller met ICE supervisor module in een FPGA soft core (<link href="#ramabox1">meer uitleg</link>)
+ </td>
+ <td>Ramabox</td>
+ <td>Pascal Felique</td>
+</tr>
+
+<!-- voorstel9 --> 
+<tr>
+ <td>5</td>
+ <td></td>
+ <td>Studie  en  evaluatie  van  ontwikkeltools  voor  het  Blu-Ray  BD-J platform op basis van de Java ME standaard (<link href="#ramabox2">meer uitleg</link>)
+ </td>
+ <td>Ramabox</td>
+ <td>Pascal Felique</td>
+</tr>
+
+<!-- voorstel10 --> 
+<tr>
+ <td>6</td>
+ <td></td>
+ <td>Micro-inverters: a new era for solar energy conversion (<link href="#microinverters">meer uitleg</link>)
+ </td>
+ <td>IMEC/ESAT, KULeuven</td>
+ <td>Jan Genoe</td>
+</tr>
+
+<!-- voorstel11 --> 
+<tr>
+ <td>7</td>
+ <td></td>
+ <td>Automatic Equalizer for 360Sound loudspeaker system (<link href="#autoeq">meer uitleg</link>)
+ </td>
+ <td>Philips Technology Campus Leuven</td>
+ <td></td>
+</tr>
+
+<!-- voorstel12 --> 
+<tr>
+ <td>8</td>
+ <td></td>
+ <td>Evaluatie van HW/SW codesigns van een netwerkgestuurde RSA encoder/decoder (<link href="#hwswrsa">meer uitleg</link>)
+ </td>
+ <td>Acro KHLim</td>
+ <td>Jo Vliegen, Nele Mentens</td>
+</tr>
+
+<!-- voorstel 9--> 
+<tr>
+ <td>9</td>
+ <td></td>
+ <td>Lichaamssegmentatie via microsoft kinect camera toegepast op revalidatie casus (<link href="#mobilabkinect">meer uitleg</link>)
+ </td>
+ <td>KHKempen/Mobilab</td>
+ <td>Glen Debard</td>
+</tr>
+
+<!-- voorstel 10--> 
+<tr>
+ <td>10</td>
+ <td></td>
+ <td>Optimaliseren van detectie van  fysiologische parameters aan de hand van een camerasysteem (<link href="#mobilabcamera">meer uitleg</link>)
+ </td>
+ <td>KHKempen/Mobilab</td>
+ <td>Kris Cuppens, Bart Vanrumste</td>
+</tr>
+
+<!-- voorstel 11--> 
+<tr>
+ <td>11</td>
+ <td></td>
+ <td>Cameragebaseerde activiteitsmonitoring bij ouderen (<link href="#mobilabactiviteit">meer uitleg</link>)
+ </td>
+ <td>KHKempen/Mobilab</td>
+ <td>Debard Glen, Bart Vanrumste</td>
+</tr>
+
+<!-- voorstel 12--> 
+<tr>
+ <td>12</td>
+ <td></td>
+ <td>Monitoren van activiteitsgraad van bijen ahv camerabeelden (<link href="#mobilabbijen">meer uitleg</link>)
+ </td>
+ <td>KHKempen/Mobilab</td>
+ <td>Glen Debard, Bart Vanrumste</td>
+</tr>
+
+<!-- voorstel 13--> 
+<tr>
+ <td>13</td>
+ <td>Dimitri Marechal, Kenny Vanrusselt</td>
+ <td>Van Java FX naar HTML5 (<link href="#javafxhtml5">meer uitleg</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Kris Aerts</td>
+</tr>
+
+<!-- voorstel 14 --> 
+<tr>
+ <td>14</td>
+ <td></td>
+ <td>Ontwikkeling van een hardwarebeschrijvingstaal op basis van F# (<link href="#hardwarebeschrijvinginFsharp">meer uitleg</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Kris Aerts</td>
+</tr>
+
+<!-- voorstel 15--> 
+<tr>
+ <td>15</td>
+ <td></td>
+ <td>BlueJ-extensie voor de zelf-evaluatie van een klasse (<link href="#bluej">meer uitleg</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Kris Aerts</td>
+</tr>
+
+<!-- voorstel 16--> 
+<tr>
+ <td>16</td>
+ <td></td>
+ <td>Invloed van ASIC downscaling op de veiligheid van een cryptografische chip (<link href="#asicdown">meer uitleg</link>)
+ </td>
+ <td>ACRO ES &amp; S</td>
+ <td></td>
+</tr>
+
+<!-- voorstel 17--> 
+<tr>
+ <td>17</td>
+ <td>Bart Dewallef, Lars Jacobs</td>
+ <td>Ontwerp van een WIFI-to WSN (wireless sensor network) bridge (<link href="#wifi2wsn">meer uitleg</link>)
+ </td>
+ <td>ACRO ES &amp; S</td>
+ <td></td>
+</tr>
+
+<!-- voorstel 18--> 
+<tr>
+ <td>18</td>
+ <td></td>
+ <td>Detectie van epileptische aanvallen via audioclassificatie (<link href="#epilepsieaudio">meer uitleg</link>)
+ </td>
+ <td>KHKempen/MOBILAB</td>
+ <td></td>
+</tr>
+
+<!-- voorstel 19--> 
+<tr>
+ <td>19</td>
+ <td>Albert-Jan Knevels, Stijn Nouwen</td>
+ <td>Opbouw van een PROFINET Remote IO eiland (<link href="#profinetremote">meer uitleg</link>)
+ </td>
+ <td>ACRO</td>
+ <td></td>
+</tr>
+
+<!-- voorstel 20--> 
+<tr>
+ <td>20</td>
+ <td></td>
+ <td>Lightweight cryptografisch primitief op lowcost microcontroller (<link href="#lightcrypto">meer uitleg</link>)
+ </td>
+ <td>ES &amp; S</td>
+ <td>Jo Vliegen, Davy Wolfs</td>
+</tr>
+
+<!-- voorstel 21--> 
+<tr>
+ <td>21</td>
+ <td>Ruben Smeets, Joris Volders</td>
+ <td>Een flexibele GNSS-ontvanger op FPGA (<link href="#gnns">meer uitleg</link>)
+ </td>
+ <td>ES &amp; S</td>
+ <td>Wim Aerts, Nele Mentens</td>
+</tr>
+
+<!-- voorstel 22--> 
+<tr>
+ <td>22</td>
+ <td></td>
+ <td>Ontwerp en implementatie van een SATA Device Emulator voor
+het emuleren van een optisch loopwerk in een Blu-ray speler (<link href="#sata">meer uitleg</link>)
+ </td>
+ <td>Ramabox</td>
+ <td>Pascal Felique</td>
+</tr>
+
+<!-- voorstel 23--> 
+<tr>
+ <td>23</td>
+ <td></td>
+ <td>Microblaze to Microblaze (<link href="#microblaze">meer uitleg</link>)
+ </td>
+ <td>Xilinx</td>
+ <td>Marc Defossez</td>
+</tr>
+
+<!-- voorstel 24--> 
+<tr>
+ <td>24</td>
+ <td>Bert Schreurs</td>
+ <td>Ontwerp van een FireWire camera-interface op FPGA (<link href="#firewire">meer uitleg</link>)
+ </td>
+ <td>Acro ES&amp;S</td>
+ <td>Davy Wolfs, Joren Moelans</td>
+</tr>
+
+
+<!-- einde tabel voorstellen eindwerken -->
+
+</table>
+
+    </section>
+
+    
+    <section>
+      <title>Masterproefbeschrijvingen</title>
+
+<!--
+        <anchor id="hydrogen"/>
+        <section>
+          <title>Hydrogen generation from solar light – Experimental setup</title>
+
+          <section>
+            <title>Description</title>
+
+            <p>
+Hydrogen (H_2 ) is interesting as fuel for transportation and as storage of solar energy. There exist many methods to produce hydrogen. An environmental friendly way is the use of solar energy, which can be a source of hydrogen with quasi infinite lifetime.
+</p>
+<p>
+The aim of this thesis is to develop a setup which demonstrates the generation of hydrogen by solar energy and the use of hydrogen for the production of electricity. For this aim a demonstration setup has to be developed, consisting of a solar panel, an electrolyzer, a water tank, hydrogen storage, a fuel cell, sensors, read out electronics and software. The solar panel converts solar light into electricity, which is consequently used by the electrolyzer to produce hydrogen (H_2 ) and oxygen (O_2 ) from water (H_2 O). The generated hydrogen needs to be stored. The fuel cell uses the stored hydrogen to generate electricity again. Sensors measure the power generated by the solar panel and the fuel cell, the hydrogen production rate, etc. This information is shown in an attractive way on a computer.
+</p>
+<p>
+The thesis consists of developing the setup, selecting the different components and putting them together. Software has to be written to control the setup, read out the sensors and to give a nice overview of the setup.
+</p>
+<p>
+      <img alt="figuur" src="eenfiguur.jpg"/>
+</p>
+<p>
+Fig.1: (a) Een figuur
+</p>
+
+
+          </section>
+          <section>
+            <title>Contact person(s)</title>
+            <p>Stefan.Degroote@imec.be or jan.genoe@iwt.khlim.be</p>
+          </section>
+
+        </section>
+
+        
+-->
+
+
+
+
+
+
+
+
+
+
+        <anchor id="simenergiedemo"/>
+        <section>
+          <title>Het ontwerpen van een demo voor de planning van decentrale energievoorziening</title>
+
+          <section>
+            <title>Situering</title>
+         
+<p>
+Aan het departement PMA (Production engineering, Manufacturing and Automation) 
+van de K.U.Leuven wordt er o.a. 
+onderzoek verricht over het gebruik van agent technologie voor 
+het opstellen van korte termijnvoorspellingen voor productieomgevingen.
+</p>
+
+<p>
+Door gebruik te maken van parallelle algoritmes (die gebaseerd 
+zijn op het gedrag van mierenkolonies) is het mogelijk om 
+flexibele planningen op te stellen. Deze planningen zijn niet 
+alleen geoptimaliseerd maar kunnen ook flexibel aangepast worden 
+tijdens het uitvoeren van deze planning. Dit betekent 
+bijvoorbeeld dat bij uitval van een machine een order verschuift 
+naar een andere machine; de lopende planning hoeft hiervoor niet
+volledig opnieuw opgesteld te worden. De planning wordt in een continue proces
+enkel minimaal bijgesteld.
+</p>
+
+<p>
+In het kader van eindwerken en onderzoek gedurende de laatste academiejaren zijn  
+er verschillende implementaties van simulatoren voor de planning van elektricteitsproductie ontworpen.
+Deze software is telkens in Java geschreven en 
+zorgt voor de optimale koppeling tussen de gebruikers en producenten 
+in een elektriciteitsdistributienetwerk. Het algoritme is zodanig dat 
+de gebruikers mieren uitzenden over het netwerk en 
+hierdoor de producenten ontdekken. 
+Deze mieren zijn in staat om een gedeelte van de energie 
+geproduceerd door een producent op voorhand te reserveren. Deze reservatie
+heeft evenwel een tijdelijke geldigheid. 
+Dit zorgt ervoor dat bepaalde reservaties automatisch vrijgegeven worden indien de gebruiker om een of andere reden deze energie niet meer nodig heeft.
+</p>
+
+                </section>
+                <section>
+                  <title>Opdracht</title>
+                  <p>
+                    Het doel van dit eindwerk is het verder verbeteren en implementeren van elektrische en/of thermische modellen
+                    van apparaten zoals kabels, diepvriezers, . Elk van deze apparaten 
+                    heeft specifieke eigenschappen (in- en uitschakeltijden, overbelasting, stijg- en daaltijden, max. capaciteit, ...)
+                    Het is bijvoorbeeld vanzelfsprekend dat een kabel wel tijdelijk een kleine graad van overbelasting aankan
+                    maar niet permanent.
+                    Het is daarom wenselijk dat bij het opstellen van een planning rekening gehouden wordt met de specifieke beperkingen
+                    en eigenschappen van elk van deze apparaten.
+                  </p>
+                  <p>
+                    Het is de bedoeling om met behulp van het EMASIM framwework in Java voor enkele van deze apparaten modellen uit te werken en te integreren in een eenvoudig
+                    opstelling. Deze demo-opstelling bestaat uit een aantal kabels en automaten waarmee diepvriezers en andere apparaten worden in- en uit worden
+                    geschakeld. De opstelling wordt bestuurd door een PLC. Deze laatste staat in contact met een server waarop de te ontwerpen Java software draait. 
+                  </p>
+                  
+                  <!--
+<p>
+Het is de bedoeling om in het academiejaar dit eindwerk verder te zetten en er een aantal verbeteringen in aan te brengen.
+</p>
+<ul>
+  <li>
+ Bij de koppeling van gebruikers en producenten is het noodzakelijk om rekening te houden met een aantal beperkingen die inherent zijn aan een elektriciteitsdistributienetwerk. Dit zijn een aantal voorbeelden:
+  <ul>
+    <li>
+   Er moet rekening gehouden worden met de omzetting van 3 faze naar 2 faze. 
+   De 3 fazen moeten hierbij gelijk belast worden.
+    </li>
+    <li>
+   Er zijn transfo's opgenomen in het netwerk.
+    </li>
+    <li>
+   
+   De stroom kan slechts in één richting vloeien. 
+    </li>
+    <li>
+   De transmissiekabels hebben een beperkte capaciteit.
+    </li>
+  </ul>
+</li>
+<li>
+Verbetering van de visualisatie.
+</li>
+<li>
+Het parallel uitvoeren van de simulatie met behulp van Terracotta.
+</li>
+</ul>
+
+<p>
+Een aantal van deze componenten in de elektriciteitsdistributie zullen in Java gemodelleerd worden en opgenomen worden in de simulatie. 
+Ook is het de bedoeling om de visualisatie van de simulatie te verbeteren. 
+Dit laatste is trouwens ook noodzakelijk om de correcte werking van het mierenalgoritme te kunnen verifiëren
+en laat tenslotte toe om de simulatie te gebruiken als een demo.
+</p>
+
+<p>
+Sleutelwoorden: Java, multithreading, threadsynchronisatie, 
+modelleren van componenten uit het probleemdomein, simulaties in Java,
+Java ontwikkeltools: Eclipse, Spring, ant, versiebeheer, Terracotta.
+</p>
+-->
+          </section>
+          <section>
+            <title>Praktische informatie</title>
+          
+<p>
+Aantal studenten: 2
+</p>
+<!--
+<ul>
+  <li>1 masterstudent ELO/ICT</li>
+  <li>1 masterstudent EM of EL</li>
+</ul>
+-->
+
+<p>
+Promotoren: Paul Valckenaers, Leo Rutten
+</p>
+<p>
+Sleutelwoorden: Java, multithreading, threadsynchronisatie, 
+modelleren van componenten uit het probleemdomein, simulaties in Java,
+Java ontwikkeltools: Eclipse, Maven, Subversion versiebeheer.
+</p>
+          </section>
+        </section>
+
+
+<!--
+        <anchor id="mobival"/>
+        <section>
+          <title>Software tool voor validatie van data en resultaten</title>
+          
+          
+          <section>
+             <title>Intro IMOB UHasselt</title> 
+               <ol>
+                 <li>
+IMOB doet onderzoek in het domein van Activity-based modeling.
+                 </li>
+                 <li>
+In het kader van dit onderzoek werken we aan een software framework (Java) bestaande uit loosely 
+coupled modules zodat verschillende onderzoekers hun speciﬁeke modules kunnen integreren. De hieronder opgesomde voorstellen hebben betrekking op dat framework (Feathers2).
+                 </li>
+               </ol>
+             <p>
+
+Woordenlijst - Vakjargon
+             </p>
+             <ol>
+               <li>
+Een scheduler is een software component die voor een set van personen een activiteitenPlan
+(agenda) voor een dag genereert: daaruit worden verplaatsingen afgeleid. 
+               </li>
+               <li>
+Bij Activity-based modeling worden op basis van statistieken menselijke activiteiten voorspeld. 
+Daaruit wordt de behoefte aan verplaatsingen afgeleid: die verplaatsingen worden dan (over transport modes verdeeld) toegewezen aan de transportNetwerken. 
+               </li>
+             </ol>
+           </section>
+          
+          <section>
+            <title>Context en doel</title> 
+
+            <p>
+Modellen voor verkeersvoorspellingen vergen zeer veel data en produceren van resultaten. 
+            </p>
+            <ol>
+            <li>
+Het is tijdrovend om data en resultaten te valideren. Anderzijds kunnen beide 
+in xml bestanden beschikbaar worden gesteld. 
+            </li>
+            <li>
+Doel is om software te bouwen waarmee datasets gevalideerd kunnen worden 
+op basis van een stel voorwaarden opgesomd door de onderzoekers: validatie van data ontvangen van derden en van resultaten van opeenvolgende runs kan dan geautomatiseerd worden.
+            </li>
+            <li>
+Voorbeelden:
+              <ul>
+                <li>
+veriﬁcatie van een download uit OpenStreetMap m.b.t. gegevens uit een 
+bepaalde layer 
+                </li>
+                <li>
+veriﬁcatie van output van Feathers2 runs
+                </li>
+              </ul>
+             </li>
+            </ol>
+           </section>
+           <section>
+             <title>Opdracht</title>
+             <p>
+Bouw van een software module in Java voor het Feathers2 framework. De module voldoet aan volgende eisen:
+             </p>
+             <ol>
+             <li>
+Een onderzoeker kan op een vrij eenvoudige manier een voorwaarde formuleren 
+waaraan de data moeten voldoen. Het gaat om eisen aan de input data en om experts opinion over de output data. Dergelijke voorwaarden zijn assertions: voorbeelden 
+              <ol>
+                <li>
+in periode [t0, t1] is het debiet op network link La kleiner dan debiet op 
+link Lb 
+                </li>
+                <li>
+het netwerk is samenhangend
+                </li>
+              </ol>
+            </li>
+            <li>
+De voorwaarden worden in een textﬁle geregistreerd. Het tool evalueert de 
+voorwaarden over de gegeven dataset en rapporteert voor elke voorwaarde PASS/FAIL. 
+            </li>
+            <li>
+De voorwaarden kunnen vrij complex zijn. Naast extractie vereisen ze tevens 
+aggregatie en transformatie van data; op die resultaten worden arbitrair complexe boolean expressies geëvalueerd (wat niet zo ingewikkeld is).
+            </li>
+            <li>
+Volgende soorten van dataset worden geviseerd:
+            
+            <ol>
+              <li>
+XML bestanden
+              </li>
+              <li>
+Relationele databases 
+              </li>
+              <li>
+qgis (QuantumGIS) 
+              </li>
+            </ol>
+          </li>
+        </ol>
+       </section>
+        <section>
+          <title>Contactpersoon</title>
+<p>
+ Luk Knapen (luk.knapen@uhasselt.be)
+</p>          
+        </section>
+      </section>
+-->
+
+<!--
+      <anchor id="mobischedovg"/>
+      <section>
+        <title>Opstellen van scheduler op basis van OVG data</title>
+        <section>
+          <title>Context en doel</title>
+          <p>
+De vraag naar transport wordt berekend door simulatie. 
+          </p>
+          <ol>
+            <li>
+OVG data zijn statistische tabellen opgesteld uit het Onderzoek VerkeersGedrag.
+            </li>
+            <li>
+Doel is om een scheduler te bouwen op basis van OVG data: die levert voor 
+elke actor in een synthetische populatie een uit te voeren agenda.
+            </li>
+          </ol>
+        </section>
+        <section>
+          <title>Opdracht</title>
+          <p>
+Bouwen en integreren van scheduler:
+          </p>
+          <ol>
+            <li>
+Transformatie van beschikbare data naar gepast formaat
+            </li>
+            <li>
+Implementatie van statistische technieken in Java, integreren van de module in 
+het Feathers2 framework (templates zijn beschikbaar). Dit kadert in onderzoek naar de mogelijkheid om schedules op te stellen d.m.v. sampling gevolgd door feasibility check en verwerping van onmogelijke maar statistisch correcte schedules. Enige interesse voor statistiek is vereist. 
+            </li>
+            <li>
+Studie van module met gelijkaardige functie in TRANSIMS (open source) 
+            </li>
+            <li>
+Functioneel testen van de software 
+            </li>
+            <li>
+Vergelijken van de gegenereerde schedules met schedules gegenereerd door andere modules (hiertoe zijn enkele tools te schrijven) 
+            </li>
+           </ol>
+         </section>
+        <section>
+          <title>Contactpersoon</title>
+<p>
+ Luk Knapen (luk.knapen@uhasselt.be)
+</p>          
+        </section>
+      </section>
+-->
+
+
+
+
+      <anchor id="mobischedneg"/>
+      <section>
+        <title>Negotiatie bij het opstellen van schedules</title>
+
+          <section>
+             <title>Intro IMOB UHasselt</title> 
+               <ol>
+                 <li>
+IMOB doet onderzoek in het domein van Activity-based modeling.
+                 </li>
+                 <li>
+In het kader van dit onderzoek werken we aan een software framework (Java) bestaande uit loosely 
+coupled modules zodat verschillende onderzoekers hun speciﬁeke modules kunnen integreren. De hieronder opgesomde voorstellen hebben betrekking op dat framework (Feathers2).
+                 </li>
+               </ol>
+             <p>
+
+Woordenlijst - Vakjargon
+             </p>
+             <ol>
+               <li>
+Een scheduler is een software component die voor een set van personen een activiteitenPlan
+(agenda) voor een dag genereert: daaruit worden verplaatsingen afgeleid. 
+               </li>
+               <li>
+Bij Activity-based modeling worden op basis van statistieken menselijke activiteiten voorspeld. 
+Daaruit wordt de behoefte aan verplaatsingen afgeleid: die verplaatsingen worden dan (over transport modes verdeeld) toegewezen aan de transportNetwerken. 
+               </li>
+             </ol>
+           </section>
+        
+        
+        <section>
+          <title>Context en doel</title>
+          <p>
+          In bestaande modellen worden interacties tussen actoren slechts in beperkte mate 
+verrekend. 
+Interacties ontstaan wanneer activiteiten en/of verplaatsingen door 
+meerdere actoren samen worden uitgevoerd.
+          </p>
+          <ol>
+            <li>
+Bij het opstellen van een schedule (agenda) is daartoe negotiatie nodig.
+            </li>
+            <li>
+Voorbeelden van interacties zijn: carPooling, kinderen naar school brengen, 
+vergaderingen, . . .
+            </li>
+            </ol>
+        </section>
+        <section>
+          <title>Opdracht</title>
+          
+          <p>
+Opzetten van een Agent Based Simulation voor negotiatie bij het vastleggen van schedules. Hiertoe wordt een bestaand framework (vermoedelijk Mason) gebruikt waarin de agents als Java objects kunnen worden geïntegreerd. De opdracht omvat:
+          </p>
+          <ol>
+            <li>
+Modelleren van omgeving van agent i.f.v. de uit te voeren activiteiten (het 
+gaat om activity-bound relationship)
+            </li>
+            <li>
+Onderzoek naar het mechanisme van negotiatie (onderlinge beïnvloeding van 
+agents) op basis van inventaris van bepalende factoren (locatie van agent, resterend af te werken agenda, tijdsdruk volgende uit actuele locatie en resterend agenda, . . . ) 
+            </li>
+            <li>
+Bouwen van agent code 
+            </li>
+            <li>
+Uitvoeren en evalueren van testruns m.b.t. geproduceerde resultaten, performance en vereiste system resources 
+            </li>
+            <li>
+Evaluatie van de schaalbaarheid voor behandeling van grote sociale netwerken 
+            </li>
+           </ol>
+        </section>
+        <section>
+          <title>Contactpersoon</title>
+<p>
+ Luk Knapen (luk.knapen@uhasselt.be)
+</p>          
+        </section>
+      </section>
+
+
+
+
+
+      <anchor id="mobienergie"/>
+      <section>
+        <title>Voorspelling van vraag naar energie in SmartGrid</title> 
+        <section>
+          <title>Context en doel</title>
+          <p>
+Voor het ontwerp en beheer van een SmartGrid is de verwachte waarde van de vraag 
+naar energie belangrijk.
+          </p>
+          <ol>
+            <li>
+Electrische voertuigen worden verwacht een beduidende fractie van de vraag 
+te genereren. Activity-based modeling kan gebruikt worden om de locatie en periode van de vraag te bepalen.
+            </li>
+            <li>
+Energietarieven hebben eﬀect op het (verplaatsings)gedrag van consumenten. 
+Tariefpolitiek kan gebruikt worden voor peak-shaving. 
+            </li>
+            <li>
+Verder kunnen de batterijen van EV als buﬀercapaciteit voor de electriciteitsleverancier gebruikt worden. 
+            </li>
+           </ol>
+
+        </section>
+        <section>
+          <title>Opdracht</title>
+          
+          <p>
+Verder uitwerken:
+          </p>
+          <ol>
+            <li>
+De concrete opdracht kan pas tegen 2011-apr-15 uitgewerkt worden omdat die 
+kadert in een onderzoeksproject in opstartFase. 
+            </li>
+          </ol>
+       </section>
+        <section>
+          <title>Contactpersoon</title>
+<p>
+ Luk Knapen (luk.knapen@uhasselt.be)
+</p>          
+        </section>
+      </section>
+
+      
+<!--      
+      <anchor id="mobiov"/>
+      <section>
+        <title>Tools voor beheer van netwerken van openbaar vervoer in Feathers2</title>
+        
+        <section>
+          <title>Context en doel</title>
+            <p>
+Voor de berekening van scenarios (eﬀecten van beleidsbeslissingen) m.b.t. openbaar 
+vervoer zijn correcte en recente gegevens over het aanbod vereist. Invoer en onderhoud van de beschrijving van de netwerken in simulatietools is duur tenzij men data eﬃci¨ent kan importeren en valideren. Het onderhoud van de gegevens is vereist omdat het aanbod evolueert met de tijd.
+            </p>
+        </section>
+        <section>
+          <title>Opdracht</title>
+          <p>
+De opdracht bestaat uit volgende onderdelen:
+          </p>
+          <ol>
+            <li>
+meewerken aan de deﬁnitie van een IMOB-OV formaat in XML voor de beschrijving van de netwerken (bus, trein, metro, lightrail, . . . ) en de bijhorende diensten (routes, uurroosters, haltes, tariefzones) 
+            </li>
+            <li>
+opstellen van software voor de validatie van de gegevens: hiertoe kan gebruik 
+gemaakt worden van het project beschreven in sectie <link href="#mobival">Software tool voor validatie van data en resultaten</link> 
+            </li>
+            <li>
+software componenten om data geleverd door externe partijen (aanbieders van 
+openbaar vervoer) te converteren naar het IMOB-OV formaat. Het gaat om import uit websites, webServices, spreadsheets, (GIS)databases 
+Het project is niet beperkt tot data-conversies tussen gekende formaten: er zijn belangrijke semantische problemen op te lossen. Interpretatie van de gegevens is vereist om ze correct te integreren in de beschrijving van de netwerken die gebruikt worden voor het voorspellen van verkeer. 
+            </li>
+          </ol>
+         </section>
+        <section>
+          <title>Contactpersoon</title>
+<p>
+ Luk Knapen (luk.knapen@uhasselt.be)
+</p>          
+        </section>
+      </section>
+
+      
+      
+      <anchor id="mobiworkflow"/>
+      <section>
+        <title>Opzetten van workﬂow systeem voor integratie van berekeningen</title>
+
+        <section>
+          <title>Context en doel</title>
+          <ol>
+            <li>
+Berekeningen in het kader van mobiliteitsOnderzoek duren typisch zeer lang en 
+werken met zeer grote datasets (bestanden, databases): het gaat om simulaties van de dagelijkse activiteiten en verplaatsingen van honderduizenden personen (actors, agents). 
+            </li>
+            <li>
+Een berekening bestaat uit verschillende stappen uitgevoerd met tools van 
+verschillende makelij en loopt in sommige gevallen op meerdere computers. 
+            </li>
+            <li>
+Het is de bedoeling om een open source workﬂow management system in ge- 
+bruik te nemen om de gehele keten te automatiseren. 
+             </li>
+            </ol>
+        </section>
+        <section>
+          <title>Opdracht</title>
+          <p>
+          De opdracht bestaat uit volgende onderdelen:
+          </p>
+            <ol>
+              <li>
+Studie van open source workﬂow management tools en van de tools waarvan 
+de werking geïntegreerd moet worden 
+            </li>
+            <li>
+Opstellen van workﬂows i.s.m. IMOB onderzoeker 
+            </li>
+            <li>
+Selectie van een OS-WFM tool i.s.m. de verantwoordelijke van IMOB 
+            </li>
+            <li>
+Oplossen van het synchronisatie probleem ingeval runs op meerdere machines 
+(parallel) lopen 
+            </li>
+            <li>
+Conﬁgureren en zo nodig uitbreiden van gekozen OS-WFM tool (java, 
+python, php) 
+            </li>
+            <li>
+Eventueel opstellen van enkele ontbrekende eenvoudige taken (verzending van 
+resultaten naar de aanvragende onderzoeker) 
+            </li>
+            <li>
+Opstellen van een web-interface voor het aanvragen en opvolgen van standaardruns (waarvoor de workﬂow is vastgelegd): deze interface is bedoeld voor onderzoekers zonder achtergrond in informatica. 
+            </li>
+            <li>
+Indienststellen en uitvoeren van enkele testruns. 
+            </li>
+          </ol>
+        </section>
+        <section>
+          <title>Contactpersoon</title>
+<p>
+ Luk Knapen (luk.knapen@uhasselt.be)
+</p>          
+        </section>
+
+        
+       </section>   
+
+-->
+
+
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       <anchor id="ramabox1"/>
+       <section>
+         <title>Ontwerp en implementatie van een 8051 afgeleide microcontroller met ICE supervisor module in een FPGA soft core</title>
+
+<p>
+De  Intel  8051  familie  van  microcontrollers  is  een  van  de  meest  populaire
+microcontroller  architecturen  geweest  in de  laatste  decennia, en  is  ook  vandaag  de 
+dag  nog  steeds  terug  te  vinden  in  veel  embedded  toepassingen.  Het  voortgezette 
+succes van de 8051 familie is voornamelijk te wijten aan 4 significante factoren:  
+</p>
+<ol>
+<li>
+1)  Het  grote  aantal  bedrijven  die  de  Intel  core  gelicensieerd  hebben  en  uitgebreid hebben met nieuwe peripherals;
+</li>
+<li>
+2)  Het  grote  aantal  tools  die  bedrijven  nog  steeds  ondersteunen,  en  het  feit  dat bedrijven zelfs nieuwe tools blijven maken; 
+</li>
+<li>
+3) Het grote aantal ingenieurs die vertrouwd zijn met de 8051 architectuur zowel op hardware als op software vlak; 
+</li>
+<li>
+4) Het grote aantal bestaande 8051 software routines die herbruikt kunnen worden; 
+</li>
+</ol>
+<p>
+De 8051 van vandaag de dag is niet dezelfde als die uit het verleden. De afgeleide varianten  zijn  sneller,  kleiner,  hebben  meer  ROM  en  RAM  (via  geheugen  banks), meer data pointers (tot 8) en vergen veel minder cycli per instructie (van 12 tot 1 of 2), plus zijn uitgebreid met tal van nieuwe peripherals. De nieuwere 8051 chips zijn ontworpen  vanuit  een ander  perspectief en  richten  zich  meer  op  de  peripherals:  de 8051 wordt gebruikt om de peripherals te monitoren en te besturen. Het kan een chip op zich zijn, of de 8051 kan geprogrammeerd worden als een soft core in een FPGA. 
+</p>
+<p>
+Binnen  deze  afstudeeropdracht  wordt  een  afgeleide  variant  van  de  8051 microcontroller ontworpen in een FPGA soft core op basis van een niet-commerciële 8051  soft  core.  Microcontroller  peripherals  worden  toevoegd/aangepast  met  zoveel mogelijkheid  behoud  van  de  voorhanden  basis  8051  soft  core.  Vervolgens  worden In-Circuit Emulation (ICE) features toegevoegd op een zo generiek mogelijke manier (retargetable  en  bruikbaar  voor  andere  8051  afgeleide  microcontrollers)  voor  non-intrusive  debugging  mogelijkheden  (breakpoints,  watchpoints,  read/modify  data memory, change PC, trace data/program memory accesses, etc.) Tenslotte wordt er een  Supervisor  soft  core  module  ontworpen  die  communiceert  met  de  ICE  module, en ICE bevelen kan uitvoeren/ICE events kan monitoren. 
+</p>
+
+<p>
+Aantal studenten: 2
+</p>
+<p>
+Bedrijf: Ramabox
+</p>
+<p>
+Contact persoon: Pascal Felique
+</p>
+<p>
+E-mail: pascal.felique@ramabox.com
+</p>
+       </section>
+
+
+       <anchor id="ramabox2"/>
+       <section>
+         <title>Studie  en  evaluatie  van  ontwikkeltools  voor  het  Blu-Ray  BD-J platform op basis van de Java ME standaard</title>
+
+
+<p>
+Blu-ray is de vervanger van DVD, en op dit moment het nieuwe opslag-formaat voor high-definition  video,  audio  en  data.  
+Elke  Blu-Ray  speler  bevat  een  Java  Virtual Machine  (JVM).  
+Een  Java  Virtual  Machine  is  een  platformonafhankelijke  omgeving voor het uitvoeren van Java-programma's. 
+Java biedt interactieve mogelijkheden aan Blu-ray  en  maakt  het mogelijk  om  video  materiaal  op  een  meer  interactieve  manier aan te bieden naar de consument toe. 
+Conceptueel is de JVM een echte computer, alleen  niet  uitgevoerd  in  hardware.  De  machine  beschikt  over  opslagcapaciteit, een eigen  geheugenmodel,  een  rekeneenheid  met  een  wel  gedefinieerd  gedrag  en  een interne machinetaal.
+BD-J verwijst naar de software omgeving die ondersteund wordt door Blu-Ray apparaten, en is gebaseerd op het Personal Basis Profile (PBP) van de Java ME standaard. 
+BD-J biedt interactieve mogelijkheden voor het bonus materiaal op de Blu-Ray disc via de extra netwerk interface op de Blu-Ray speler, de Picture-In-Picture  en  lokale  opslag  mogelijkheden.  
+Binnen  de  Blu-Ray  standaard  wordt  dit "Bonus  View"  genoemd.  De  menus  van  Blu-Ray  discs  zijn  meer  interactief  dan  die van DVDs en 
+kunnen gelijktijdig getoond worden met eender welk video fragment op de  achtergrond.  Optioneel  kunnen  Blu-Ray  spelers  ook  de  toegang  bieden  tot  het internet.
+</p>
+<p>
+
+Binnen de Blu-Ray standaard wordt dit “BD-Live” genoemd.
+Een BD-J applicatie is een Java Xlet die gestuurd wordt door de Application Manager van  de  Blu-Ray  speler.  
+De  Blu-ray  Disc  Java  Xlets  kunnen  communiceren met  een netwerk  via  de  Java  networking  APIs  (java.net.Socket)  die  beschikbaar  zijn  binnen het  Personal  Basis  Profile.  
+Naast  netwerk  toegang,  kunnen  bestanden  beheerd worden,  en  is  er  onder  meer  support  voor  vector  graphics.  
+Sommige  commerciele Blue-Ray  discs  bevatten  zelfs  interactieve  spelletjes  als  bonus  materiaal.
+</p>
+<p>
+
+Binnen deze afstudeeropdracht wordt de BD-J standaard bestudeerd in meer details en  wordt  er  gekeken  naar  de  ontwikkeltools  die  er  voorhanden  zijn  op  de  markt.
+Er wordt een Blu-Ray Xlet applicatie ontworpen voor een interactieve toepassing met multimedia features.
+</p>
+<p>
+
+Aantal studenten: 1 
+</p>
+<p>
+
+Bedrijf: Ramabox
+</p>
+<p>
+
+Contact persoon: Pascal Felique
+</p>
+<p>
+E-mail: pascal.felique@ramabox.com
+</p>
+</section>       
+       
+       
+                
+       <anchor id="microinverters"/>
+        <section>
+          <title>Micro-inverters: a new era for solar energy conversion</title>
+
+          <p>          
+The need to use more renewable energy sources to obtain a sustainable energy supply is also having a big impact on recent power electronic developments. For the conversion of solar energy for grid connection, today the solar modules are typically connected in a string approach to a single inverter. It is of course very important that energy conversion always happens at the highest possible efficiency. However, mismatches between different PV-modules, caused e.g. by shadowing or degradation, will result in significant power losses. To solve the mismatch losses, the use of distributed converters (module integrated converters) for every PV-module has been proposed. Today there are two main distributed architecture approaches. Micro-inverters convert the optimized DC (Direct Current) power output of each PV module into AC (Alternating Current) suitable for grid connection. In the other solution, DC to DC power optimizers maximize the DC power output of each and route the optimized DC to an inverter for DC to AC conversion. In both cases every PV-module has its own maximum-power point tracking (MPPT) to maximize the power output of every single module. This would be a big advantage for solar modules installed in non-ideal locations. An example is the building integration of PV-modules in urban areas, where shadow losses cannot be avoided. Today, the first examples of micro-inverters and power optimizers appear on the market, e.g. micro-inverters from Enphase, Enecsys or SolarBridge  and power optimizers from SolarMagic and Solar Edge.
+</p>
+<p>
+The aim of this thesis would be to develop a test set-up for module integrated converters (MIC). The set-up has to be able to monitor the performance of the converters under different steady-state circumstances (e.g. partial or full loads, different temperatures, ...).  As a result the efficiency and maximum power tracking performance of the MIC can be studied.  Also the total system efficiency (PV-panel + converter) will be evaluated.
+</p>
+<p>
+In second step, the main limitations of today’s MICs will be identified. The different building blocks of the MIC will be analyzed and possible solutions towards better performances will be studied. 
+          </p>
+<p>
+Master thesis subject for ‘Master in Industrial sciences – electronics (only for a student with a strong interest in power electronics) or electrical engineering’
+</p>
+<p>
+Contact: Jo Das (jdas@imec.be) / Jordi Everts (jordi.everts@esat.kuleuven.be )/Jan Genoe
+</p>
+
+        </section>
+
+
+        
+        
+        
+        
+        
+        
+        
+        
+       <anchor id="autoeq"/>
+        <section>
+          <title>Automatic Equalizer for 360Sound loudspeaker system</title>
+          
+          <section>
+            <title>Subject</title>
+
+<p>            
+Automatic equalizers are used to optimize the frequency response of a loudspeaker in a listening environment, such as a living room. They are widely used in audio  and home cinema systems. Usually these systems have satellites with direct firing loudspeaker drivers. In those cases the methodology for an automatic equalizer system is well understood and quite straight forward.
+</p>
+<p>
+In 2010, Philips introduced so called 360Sound products, such as the HTS9520. In the 360Sound satellites, the loudspeaker boxes are composed of a direct firing driver and a dipole loudspeaker pair ( 2 loudspeakers in anti-phase).
+For this novel type of loudspeaker boxes, a methodology for an automatic equalizer is not yet available.
+The subject of the thesis is to develop a methodology to equalize a 360Sound loudspeaker and to develop an automatic equalizer based on this methodology. For this purpose, existing automatic  equalizer algorithms that are used for direct firing loudspeaker boxes may be used.
+</p>
+          </section>
+          <section>
+            <title>Tasks</title>
+            <ol>
+              <li>
+Study and understand how an automatic equalizer in general works.
+              </li>
+              <li>
+Study and understand how the combination of the direct firing driver and the dipole of a 360Sound loudspeaker works.
+              </li>
+              <li>
+Propose a method for auto equalization of a 360Sound satellite.
+              </li>
+              <li>
+Build an algorithm in Matlab/Simulink for this automatic equalizer. For this purpose, an existing algorithm for direct firing speakers can be used
+              </li>
+              <li>
+Test and optimize both the methodology and the algorithm in different listening rooms.
+              </li>
+
+            </ol>
+            </section>
+          <section>
+            <title>Profile of the student</title>
+            
+             <ul>
+               <li>
+Electronic engineering
+               </li>
+               <li>
+Experience with MatLab/Simulink
+               </li>
+               <li>
+An interest in sound and loudspeakers
+               </li>
+               <li>
+Ability to work independently and take initiative
+               </li>
+              </ul>
+           </section>
+          <section>
+            <title>Work environment</title>
+<p>            
+This project will be carried out in our innovation site in Leuven. You will
+interact mostly with our sound and acoustics group, working on the
+development of new sound technologies. It is an international and stimulating environment.
+</p>
+          </section>
+          <section>
+            <title>Your contact person</title>
+            <p>
+Gerrit De Poortere (Gerrit.de.poortere@philips.com)        
+        </p>
+       </section>
+       </section>
+        
+        
+       <anchor id="hwswrsa"/>
+       <section>
+         <title>Evaluatie van HW/SW codesigns van een netwerkgestuurde RSA encoder/decoder</title>
+         
+<p>
+Wanneer we HW/SW codesign maken van een RSA encoder/decoder maken, is er een grens
+waar de hardware en software elkaar raken. Voor een RSA encoder/decoder te maken, die
+over een netwerk aan te spreken is, zijn verschillende bouwblokken nodig (mathematische
+coprocessor, ethernet client, ...). Deze moeten door een controller aaneen geschakeld
+worden.
+</p>
+<p>
+De bedoeling van deze masterproef is om deze grens in kaart te brengen. Hiervoor zijn
+er verschillende implementaties nodig voor de controller (met een softcore (MicroBlaze,
+PicoBlaze, ...)). Deze verschillende implementaties kunnen de grenzen bekijken die er
+mogelijk zijn voor implementaties in gelimiteerde devices (snelheid, oppervlakte, throughput, ...).
+</p>
+<p>
+De nadruk van deze masterproef ligt op het opstellen en vergelijken van verschillende
+HW/SW-codesigns.
+</p>
+
+<p>
+Contact: Jo Vliegen Acro, KHLim, jo.vliegen@khlim.be
+</p>
+       </section>
+
+       
+       
+       
+       <anchor id="mobilabkinect"/>
+       <section>
+         <title>Lichaamssegmentatie via microsoft kinect camera toegepast op revalidatie casus</title>
+
+         
+         <p>
+In een revalidatieproces wordt aan personen typisch gevraagd om specifieke oefeningen te doen. Economisch gezien kan dit slechts af en toe onder begeleiding van een kinesist. Interessanter zou zijn dat de revaliderende persoon de oefeningen zelf kan met een automatische computer begeleiding. We denken aan een virtuele trainer die oefeningen demonstreert dewelke dan moeten nagedaan worden door de revaliderende persoon. Het microsoft kinect systeem geeft de mogelijkheid om de beweging van afzonderlijke lichaamsdelen te volgen.  Mogelijk kunnen hieruit parameters gehaald worden die objectiveren of een oefening goed of slecht gedaan is zonder dat de revaliderende persoon ook maar 1 sensor op het lichaam heeft moeten dragen. Meer info over de interfacing naar het kinect systeem vind je via http://www.openni.org/”
+         </p>
+
+
+         <p>
+Onderzoeksvraag: Kunnen objectieve parameters, bekomen met kinect data, ons iets leren over de accuraatheid van een uitgevoerde oefening?
+         </p>
+         <p>
+finaal resultaat van de masterproef: Een werkende (offline) demo met kinect data                                                                                                                    
+         </p>
+         <p>
+Bedrijf: KHKempen/MOBILAB
+         </p>
+         <p>
+Website: http://www.mobilab-khk.be/
+         </p>
+         <p>
+Contact: Glen Debard
+         </p>
+         <p>
+E-mail:Glen.Debard@khk.be
+         </p>
+      </section>
+
+
+
+       
+     <anchor id="mobilabcamera"/>
+     <section>
+       <title>Optimaliseren van detectie van  fysiologische parameters aan de hand van een camerasysteem</title>
+
+       <p>
+Het monitoren van patiënten in hun slaap gebeurt typisch door middel van verschillende signalen die met sensoren die aan het lichaam bevestigd worden zoals bijvoorbeeld EEG (meten van hersenactiviteit), EMG (meten van spieractiviteit), ECG (hartslagmetingen), monitoring van ademhaling en geluid (om bijvoorbeeld snurken te detecteren). Om het opnemen van deze signalen comfortabeler te maken voor de patiënt zouden deze contactloos opgenomen kunnen worden met behulp van een camerasysteem.
+       </p>
+       <p>
+In de literatuur zijn al enkele aanzetten te vinden waarbij men bijvoorbeeld ademhaling gaat detecteren uit videobeelden. Hoe goed zou een dergelijk systeem kunnen werken in een thuissituatie en welk type camera is hiervoor nodig (en moeten er bijvoorbeeld visuele markers aangebracht worden)? Is het mogelijk om ook andere fysiologische parameters uit de beelden te halen, eventueel met toevoeging van andere signalen zoals geluid? In een eerste studie is er al onderzocht of de detectie van ademhaling mogelijk is in bepaalde situaties. De eerste resultaten zijn hier veelbelovend. Het is nu echter de vraag of het ook mogelijk is om ademhaling te detecteren wanneer er andere beweging voorkomt. Hoe kan deze detectie geoptimaliseerd worden of zijn er beperkingen aan het systeem? Dit zal in deze masterproef onderzocht worden.
+       </p>
+       <p>       
+
+De onderzoeksvraag:
+Wat zijn de randvoorwaarden om detectie van nachtelijke ademhaling op basis van videobeelden op te nemen?
+Hoe kan de detectie geoptimaliseerd worden indien er gewone nachtelijke beweging voorkomt?
+Op welke manier kunnen afwijkende ademhalingspatronen gedetecteerd worden?
+       </p>
+       <p>
+Finaal resultaat van de masterproef?
+Een systeem waarbij minstens ademhaling tijdens de nacht kan opgemeten worden, waarbij de voorwaarden waaronder een robuuste detectie kan uitgevoerd worden bekend zijn.                                                                                                               
+       </p>
+
+       <p>
+Naam bedrijf:Mobilab
+       </p>
+       <p>
+Website: www.mobilab-khk.be
+       </p>
+       <p>
+Contact:Kris Cuppens, Bart Vanrumste
+       </p>
+       <p>
+Telefoon: 014 56 23 10 (intern: 483)
+       </p>
+       <p>
+E-mail: kris.cuppens@khk.be; bart.vanrumste@khk.be
+       </p>
+       </section>
+       
+
+
+
+
+
+
+     <anchor id="mobilabactiviteit"/>
+     <section>
+       <title>Cameragebaseerde activiteitsmonitoring bij ouderen</title>
+
+       <p>
+Onze samenleving is sterk aan het vergrijzen. Om ouderen langer zelfstandig te kunnen laten wonen, is het belangrijk om hun activiteiten te monitoren. Door het waarnemen van afwijkingen op hun normale activiteiten is het mogelijk om bijvoorbeeld acute afwijkingen (vallen, ziekte, etc.) alsook graduele veranderingen (zoals bv. dementie) te detecteren.
+Het onderzoek start met een literatuurstudie om te bepalen op welke manier dit kan gebeuren. Naderhand wordt met behulp van matlab en opencv een geselecteerd algoritme geimplementeerd, hetwelke kan getest worden op simulatie of real life data. 
+       </p>
+       <p>
+De onderzoeksvraag: Op welke wijze kunnen de activiteiten van ouderen gemonitord worden via een camerasysteem. 
+       </p>
+       <p>
+
+Finaal resultaat van de masterproef?
+Een prototype om de activiteit van ouderen te monitoren.                                                                                                
+       </p>
+       <p>
+Naam bedrijf: K.H.Kempen Mobilab
+       </p>
+       <p>
+Website: http://www.mobilab-khk.be/
+       </p>
+       <p>
+Contact: Debard Glen, Bart Vanrumste
+       </p>
+       <p>
+E-mail: glen.debard@khk.be
+       </p>
+      </section>
+
+
+
+     <anchor id="mobilabbijen"/>
+     <section>
+       <title>Monitoren van activiteitsgraad van bijen ahv camerabeelden</title>
+
+        <p>
+Bijen zijn kritsch binnen onze omgeving. Om de activiteitsgraad van de bijen te bepalen, is het monitoren van het in- en uitvliegen van de bijen noodzakelijk. Aan de hand van een hoge resolutie camera willen we  deze meten. Om dit mogelijk te maken, moet de beste plaatsing van de camera onderzocht worden aan de hand van een literatuurstudie. Naderhand wordt met behulp van matlab een beeldverwerkingsalgoritme geimplementeerd, hetwelke kan getest worden op de bijenkasten van de K.H.Kempen. Deze opstelling kan dan later gebruikt worden in een opvolgproject om de activiteit van de bijen te meten bij het aanpassen van de omstandigheden in de bijenkast. 
+        </p>
+
+        <p>
+De onderzoeksvraag:
+Op welke wijze kan de activiteitsgraad van bijen bepaald worden via een camerasysteem. 
+        </p>
+
+        <p>
+Finaal resultaat van de masterproef: 
+Een prototype om de activiteit van bijen te monitoren.                                                                                                
+        </p>
+
+        <p>
+Naam bedrijf: K.H.Kempen Mobilab
+        </p>
+
+        <p>
+Domein waarin uw organisatie actief is (kort): Biomedische technologie
+        </p>
+
+        <p>
+Adres: Kleinhoefstraat 4, 2440 Geel
+        </p>
+
+        <p>
+Website: http://www.mobilab-khk.be/
+        </p>
+
+        <p>
+Contact: Glen Debard, Bart Vanrumste
+        </p>
+
+        <p>
+Functie/afdeling: IBW Mobilab
+        </p>
+
+
+        <p>
+E-mail: glen.debard@khk.be
+        </p>
+
+      </section>
+
+      
+
+      
+      
+      
+      
+      
+      
+
+
+        <anchor id="javafxhtml5"/>
+        <section>
+          <title>Van Java FX naar HTML5</title>
+
+          <section>
+            <title>Achtergrond</title>
+<p>
+Java FX is een zeer leuke taal voor de ontwikkeling van dynamische, grafische toepassingen, die het beste uit Java, Haskell, PHP en Flash combineert
+met vernieuwende programmeermogelijkheden zoals de bind.
+<br/>
+Java FX, wat aan bod komt in het mastervak THINF, gaat op die manier de concurrentie aan met Flash, Flex en Silverlight.
+Met de opkomst van HTML5 is echter een te duchten concurrent. Het grote voordeel van HTM5 is immers dat je geen speciale plugins nodig hebt
+in je browser maar direct de applicatie kan uitvoeren.
+</p>
+          </section>
+
+          <section>
+            <title>Inhoud</title>
+<p>
+Om te programmeren voor HTML5 heb je Javascript nodig. Langs de ene kant is dit best wel een leuke taal, maar
+langs de andere kant zijn er ook veel mensen -- al dan niet terecht -- gekant tegen Javascript.
+<br/>
+Daarom willen we in deze masterproef onderzoeken of we concepten van Java FX, en liefst zo veel mogelijk concepten, kunnen overdragen naar Javascript.
+Dit kan bijvoorbeeld door een toepassing te ontwikkelen die een subset van Java FX vertaalt naar Javascript.
+<br/>
+Zo kan je de expressiviteit van Java FX behouden en tegelijk de kracht en toegankelijkheid van HTML5 en Javascript benutten.
+</p>
+          </section>
+
+          <section>
+            <title>Doel</title>
+<ol>
+<li>
+keuze van een subset van Java FX die vertaalbaar of toepasbaar is binnen HTML5
+</li>
+
+<li>
+ontwikkeling van een tool die er voor zorgt dat code die ontwikkeld is in de subset van Java FX, uitgevoerd kan worden in standaard browsers die HTML5 ondersteunen
+</li>
+
+</ol>
+          </section>
+
+          <section>
+            <title>Aard van het werk</title>
+<p>Deze masterproef is voor twee studenten.</p>
+<ul>
+
+<li>
+    literatuurstudie over Java FX en HTML5: 15%
+  </li>
+
+
+<li>
+    keuze van een geschikte subset van Java FX: 15%
+  </li>
+
+<li>
+    ontwikkeling en implementatie: 50%
+  </li>
+
+<li>
+    testen en reflectie: 20%
+  </li>
+</ul>
+          </section>
+
+          <section>
+            <title>Promotor</title>
+            <p>Kris Aerts</p>
+          </section>
+        </section>
+
+
+        <anchor id="hardwarebeschrijvinginFsharp"/>
+        <section>
+          <title>Ontwikkeling van een hardwarebeschrijvingstaal op basis van F#</title>
+
+          <section>
+            <title>Achtergrond</title>
+<p>
+Naast VHDL, de meest gekende hardwarebeschrijvingstaal voor FPGA's, zijn er nog heel wat andere hardwarebeschrijvingstalen,
+zoals Lava, Wired, Erlang, SystemC, ...
+In het CREA-project onder leiding van Nele Mentens en Kris Aerts rond de ontwikkeling van een grote-getallenbibliotheek voor VHDL
+maken we gebruik van zo'n alternatief taal, nL; Lava, een hardwarebeschrijvingstaal gebaseerd op Haskell, waarbij Haskell de gestandaardiseerde functionele taal is
+(http://www.haskell.org). Doordat Lava gebaseerd is op Haskell, kan je heel krachtige combinaties maken en een zeer algemeen toepasbare (polymorfe)
+code schrijven.
+</p>
+<p>
+Vrij recent is ook Microsoft op de kar van functionele talen gesprongen en in 2008 hebben zij F# uitgebracht (zie bv. de podcast
+op http://channel9.msdn.com/pdc2008/TL11/). Naast de puur functionele eigenschappen hebben zij ook niet-pure elementen toegevoegd,
+zoals variabelen met een wijzigbare toestand en een specifieke binding met I/O en grafische user interfaces. </p>
+          </section>
+
+          <section>
+            <title>Inhoud</title>
+<p>
+Alhoewel puur functionele talen grote voordelen hebben, kan de toevoeging van niet-pure dingen bepaalde aanpakken gemakkelijker maken,
+vooral wanneer die te maken hebben met het bijhouden en wijzigen van toestanden in het programma.
+Daarom zou het wel eens kunnen dat een hardwarebeschrijvingstaal gebaseerd op F# nog beter is dan Lava, omdat je de voordelen van
+de functionele aanpak combineert met de ruwe/brute kracht van toekenningen.
+</p>
+<p>
+Deze masterproef onderzoekt deze hypothese en bouwt een beperkte aanzet van zo'n hardwarebeschrijvingstaal gebaseerd op F#.
+Hierbij kan en zal natuurlijk vertrokken worden van de bestaande implementatie van Lava en eventuele andere hardwarebeschrijvingstalen.
+</p>
+          </section>
+
+          <section>
+            <title>Aard van het werk</title>
+<ul>
+
+<li>
+    literatuurstudie: 25%
+  </li>
+
+
+<li>
+    analyse: 20%
+  </li>
+
+<li>
+    ontwikkeling en implementatie: 40%
+  </li>
+
+<li>
+    evaluatie: 15%
+  </li>
+
+</ul>
+          </section>
+
+          <section>
+            <title>Promotor</title>
+            <p>Kris Aerts</p>
+          </section>
+
+        </section>
+
+
+
+        <anchor id="bluej"/>
+        <section>
+          <title>BlueJ-extensie voor de zelf-evaluatie van een klasse</title>
+
+          <section>
+            <title>Achtergrond</title>
+<p>
+BlueJ is een didactische programmeeromgeving voor Java, ontwikkeld aan Deakin University en University of Kent, en wordt gesteund door Oracle
+(www.bluej.org). Vernieuwend zijn vooral de object workbench zodat je rechtstreeks met objecten kan spelen en de visualisatie van de manier
+waarop klassen en objecten met elkaar samenwerken. Deze ontwikkelingomgeving wordt binnen de opleiding gebruikt in 1 en 2ABA.
+Deze omgeving is goed uitbreidbaar, niet zozeer omdat ze open source is, maar wel omdat er voorzieningen zijn om extensie te bouwen.
+<br/>
+De extensies die we in een masterproef in 2008-'09 extensies gebouwd hebben, zijn overbodig geworden omdat de editor bij een nieuwe uitgave
+gevoelig verbeterd is. Toch kunnen we op die resultaten verder werken om een didactische uitbreiding te maken, nl. een extensie die
+studenten helpt om de kwaliteiten van zelf geprogrammeerde klassen te evalueren zonder tussenkomst van de docent.
+</p>
+          </section>
+
+          <section>
+            <title>Inhoud</title>
+<p>
+Op redelijk wat facetten kan je vrij gemakkelijk automatisch de kwaliteit van een klasse beoordelen.
+Zo kan je nagaan of er overal correcte javadoc is gebruikt, of er voor de data members getters en setters zijn,
+of camelCase consequent afgeschermd zijn, ...
+<br/>
+In gevorderde omgevingen is het dikwijls zo dat er voorzieningen zijn om dit automatisch te laten genereren,
+maar dat is net niet de bedoeling van deze masterproef. Wanneer dingen automatisch gebeuren, denkt men niet meer na over wat
+men aan het doen is, en nadenken is net wat we de studenten w&eacute;l willen laten doen.
+<br/>
+Daarom is het doel van deze masterproef een extensie te maken die nagaat of alles in orde is, en die de gebruiker feedback geeft over de
+kwaliteit van de klasse. Deze beoordeling is niet absoluut. Zo is het bijvoorbeeld voor sommige data members niet goed om
+rechtstreekse setters en getters te voorzien, maar is het de bedoeling dat die indirect aangepast worden.
+<br/>
+Punt is wel dat de student hier bewuste keuzes over moet maken, en daarom moet de extensie signaleren wanneer hij bepaalde dingen (niet) ziet
+en aan de gebruiker de vraag stellen of dit een bewuste keuze is. Op die manier kan de student zichzelf gemakkelijk evalueren zonder dat hij moet wachten
+op de tussenkomst van de docent (bv. wanneer de student thuis aan het studeren is en wacht op een emailreactie van de student).
+Het ultieme doel is dankzij deze extensie een betere leerervaring te bekomen.
+</p>
+          </section>
+
+
+          <section>
+            <title>Doel</title>
+<ol>
+
+<li>
+ontwikkeling van een BlueJ extensie die helpt bij de zelf-evaluatie van een klasse
+</li>
+
+<li>
+keuze van de dingen waarover gefeedbacked kan worden en keuze van de mate waarin de (kwaliteits)controles al dan niet dringend zijn
+</li>
+
+</ol>
+          </section>
+
+          <section>
+            <title>Aard van het werk</title>
+<p>Deze masterproef kan met een of twee studenten uitgevoerd worden, maar bij voorkeur door twee studenten.</p>
+<ul>
+
+<li>
+    literatuurstudie: 15%
+  </li>
+
+
+<li>
+    analyse van de aspecten waarop gecontroleerd kan worden: 15%
+  </li>
+
+<li>
+    ontwikkeling en implementatie: 60%
+  </li>
+
+<li>
+    verspreiding en promotie: 10%
+  </li>
+
+</ul>
+          </section>
+
+          <section>
+            <title>Promotor</title>
+<p>Kris Aerts</p>
+          </section>
+          
+        </section>      
+      
+      
+        <anchor id="asicdown"/>
+        <section>
+          <title>Invloed van ASIC downscaling op de veiligheid van een cryptografische chip</title>
+          <section>
+            <title>Opdrachtgever</title>
+            <p>
+Embedded Systems &amp; Security (ES &amp; S) is een subdivisie van ACRO, één van de vier onderzoeksspeerpunten van de KHLim. De onderzoekers van ES &amp; S focussen zich voornamelijk op de implementatie en evaluatie van cryptografische hardware. In hun onderzoek werken ze nauw samen met verschillende onderzoeksgroepen van andere universiteiten en hogescholen. 
+Het thema van deze masterproef past binnen het onderzoek dat ES &amp; S voert in samenwerking met de Digital Security groep van het ICIS, een onderzoeksgroep aan de Radboud Universiteit Nijmegen.
+Zowel ACRO als ICIS zullen fungeren als opdrachtgever. De dagelijkse begeleiding zal gebeuren door de onderzoekers van ACRO in het Technologiecentrum, gelegen in het Wetenschapspark achter de KHLim.
+            </p>
+          </section>
+          <section>
+            <title>Situering</title>
+            <p>
+De beveiliging van digitale data wordt in onze gedigitaliseerde wereld steeds belangrijker. De introductie van cryptografie in hardwarecomponenten, die bijvoorbeeld dataverkeer tussen twee entiteiten verzorgen, is daarom essentieel. 
+Maar algoritmes die  veilig zijn kunnen plots onveilig worden door hun implementatie in hardware. Dit komt omdat elektronische chips allerhande extra informatie kunnen lekken via nevenkanalen (temperatuursvariaties, elektromagnetische straling, vermogenverbruik,…). 
+Wetenschappers hebben in het verleden allerhande tegenmaatregelen bedacht om het lekken van geheime informatie via nevenkanalen te beperken, maar door onder andere de downscaling van de transistoren op chip moeten deze tegenmaatregelen herbekeken en eventueel aangepast worden.
+            </p>
+          </section>
+          <section>
+            <title>Opdrachtomschrijving</title>
+            
+            <p>
+Wanneer we naar het vermogenverbruik van een transistor kijken, kunnen we dit opdelen in twee grote groepen. Ten eerste het vermogenverbruik tijdens het schakelen (dynamisch vermogenverbruik) en ten tweede het vermogenverbruik in rust (statisch vermogenverbruik). 
+Tot op heden heeft men enkel tegenmaatregelen gezocht met betrekking tot het dynamische vermogenverbruik. Het statische vermogenverbruik was verwaarloosbaar, maar door downscaling wordt het statische vermogenverbruik steeds belangrijker.
+Met dit eindwerk willen we onderzoeken of het statisch vermogenverbruik invloed heeft op de veiligheid van de cryptografische implementatie en of de bestaande tegenmaatregelen nog steeds voldoen.
+Na een grondige literatuurstudie zal de student eerst een cryptografische component moeten beschrijven in een simulatiepakket en kijken of hij een verschil ziet in vermogenverbruik bij verschillende ASIC technologieën. Daarna zal de student bestaande technieken gebruiken om een vermogenanalyse uit te voeren op dit cryptografisch bouwblok. De student moet inschatten of het bouwblok omwille van downscaling van transistoren minder bestand is tegen vermogenanalyse. Als blijkt dat dit het geval is, moet de student een poging doen om een tegenmaatregel te zoeken die het cryptografisch bouwblok terug veiliger maakt. Het cryptografisch bouwblok (met de eventuele tegenmaatregel) zal ook twee keer geïmplementeerd moeten worden in hardware, gebaseerd op twee verschillende ASIC technologieën.
+Deze masterproef kan uitgevoerd worden door één of twee studenten. Een goede inleiding tot vermogenanalyse op cryptografische algoritmes is “Power Analysis Attacks – revealing the secrets of smart cards” geschreven door Stefan Mangrad, Elisabeth Oswald en Thomas Popp.
+            </p>
+            <p>
+Literatuurstudie: 30%
+            </p>
+            <p>
+Simulatie &amp; implementatie: 70%
+            </p>
+            </section>
+        </section>
+
+       
+        <anchor id="wifi2wsn"/>
+        <section>
+          <title>Ontwerp van een WIFI-to WSN (wireless sensor network) bridge</title>
+          
+          <section>
+            <title>Opdrachtgever</title>
+            <p>
+Embedded Systems &amp; Security (ES &amp; S) is een subdivisie van ACRO, één van de vier onderzoeksspeerpunten van de KHLim. Samen met een aantal Europese partners diende ACRO/ES&amp;S een projectaanvraag in om een aantal op afstand bestuurbare labopstellingen te ontwerpen voor het hoger onderwijs.
+Het onderwerp van dit eindwerk past binnen dit project. Het werk dat gedaan wordt in deze masterproef zal uiteindelijk gebruikt worden in de testopstelling, ontwikkeld door ACRO/ES&amp;S.
+De dagelijkse begeleiding van deze masterproef zal gebeuren door de onderzoekers van ACRO in het Technologiecentrum, gelegen in het Wetenschapspark achter de KHLim.
+            </p>
+          </section>
+          <section>
+            <title>Situering</title>
+            <p>
+Tijdens de labo’s digitale elektronica en embedded software werken studenten meestal met dezelfde hardwareplatformen en testopstellingen. Dit komt omdat het praktisch niet haalbaar is voor een onderwijsinstelling om verschillende geavanceerde hardwareplatformen en testopstellingen te ontwikkelen.
+Wanneer verschillende onderwijsinstellingen samen werken om een aantal op afstand bestuurbare hardwareplatformen/testopstellingen te ontwerpen, verruimt dit de blik van de student. Tijdens het ene labo werkt de student met een testopstelling in Duitsland waarin een FPGA van Xillinx gebruikt wordt, terwijl hij tijdens het volgende labo werkt aan een testopstelling in Noorwegen met een Altera FPGA. De bitstream voor zowel de Xillinx als Altera FPGA worden verstuurd via het internet vanuit het labo en de student kan via een camera zien wat de testopstelling doet. Dit soort gedistribueerde opstelling kan in principe aangestuurd worden vanop eender welke plaats met internettoegang.
+Een voorbeeld van een op afstand bestuurbare testopstelling is een rondrijdende robot. Een extra feature die kan worden toegevoegd aan de opstelling is een sensornetwerk dat detecteert waar de robot zich bevindt. Deze gegevens moeten verzameld en teruggemeld worden aan de student.
+            </p>
+          </section>
+          <section>
+            <title>Opdrachtomschrijving</title>
+            <p>
+In deze masterproef moet de student een bridge ontwerpen die de overgang van het WiFi netwerk naar het WSN mogelijk maakt. De bridge moet communicatie in twee richtingen ondersteunen. De gegevens van de sensoren in het draadloze netwerk moeten worden verzameld, bewerkt en vervolgens via WiFi doorgestuurd worden naar de student. De sensoren moeten ook geconfigureerd kunnen worden. De student stuurt de nodige gegevens door via WiFi naar de bridge. De bridge zal deze gevens verwerken en vervolgens via het draadloze sensornetwerk de individuele sensoren configureren.
+De bridge moet een dynamisch sensornetwerk ondersteunen. Men moet het aantal sensoren in het netwerk kunnen veranderen zonder dat de bridge moet worden geherprogrameerd. 
+Als bridge component kan mag men zowel een FPGA als een microcontroller gebruiken. 
+De voorgestelde masterproef kan uitgevoerd worden door één of twee studenten, en zal beginnen met een literatuurstudie over draadloze sensornetwerken, WiFi en netwerktopologieën. 
+            </p>
+            <p>
+Literatuurstudie: 30%
+            </p>
+            <p>
+Ontwerp en implementatie: 70%
+            </p>
+            <p>
+Promotoren: Davy Wolfs en Joren Moelans          
+            </p>
+           </section>
+          </section>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+                  <anchor id="epilepsieaudio"/>
+        <section>
+          <title>Detectie van epileptische aanvallen via audioclassificatie</title>
+
+          <section>
+            <title>Onderwerp</title>
+            <p>
+Epilepsie patiënten die een behandeling ondergaan in het revalidatiecentrum Pulderbos worden ’s nachts (in bed) gemonitord gebruikmakende van meerdere sensoren waaronder een microfoon. De gouden standaard wat betreft het detecteren van epilepsie is gebaseerd op ElectroEncephaloGraphy (EEG). Deze heeft als nadeel dat de sensoren hierbij oncomfortabel zijn om te dragen.  Daarom zijn ze oa. niet geschikt voor continue thuismonitoring. Epilepsiedetectie met een microfoon heeft als voordelen dat deze sensor geen contact nodig heeft met het lichaam en dat ze makkelijk te plaatsen is. In deze masterproef willen we daarom nagaan wat de mogelijkheden zijn van deze sensor. De volgende stappen dienen gevolgd te worden: eerst signaal verbetering (signaal-ruis verhouding zo hoog mogelijk), dan geluidsevent detectie, als laatste audioclassificatie. In eerste instantie focussen we op het herkennen van de volgende geluiden: gillen, bewegingen van het bed als gevolg van het schudden van een patiënt, smakken van de lippen en bronchiale secretie. Merk op dat er reeds een gelabelde (timestamps van de aanvallen) real-life data set beschikbaar is.”
+            </p>
+          </section>
+          <section>
+            <title>Onderzoeksvraag</title>
+            <p>
+Is audio een bruikbaar signaal voor het detecteren van real-life epileptische aanvallen bij kinderen?
+            </p>
+          </section>
+          <section>
+            <title>Te verwachten resultaat</title>
+            <p>
+Werkende offline epilepsie detector geschreven in MATLAB.                                                                                                                   
+            </p>
+          </section>
+   
+
+          <section>
+            <title>Praktisch</title>
+            <p>
+Bedrijf: KHKempen/MOBILAB
+</p>
+<p>
+Kleinhoefstraat 4, 2440 GEEL	
+</p>
+<p>
+http://www.mobilab-khk.be/
+</p>
+<p>
+Promotoren: Peter Karsmakers, Bart Vanrumste
+</p>
+<p>
+E-mail:Peter.Karsmakers@khk.be
+</p>
+           </section>
+
+
+
+
+            </section>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <!--
+          
+          
+          
+                  <anchor id="wifi2wsn2"/>
+        <section>
+          <title>Ontwerp van een WIFI-to-WSN (Wireless Sensor Network) bridge</title>
+          <section>
+            <title>Opdrachtgever</title>
+            <p>
+Embedded Systems &amp; Security (ES &amp; S) is een subdivisie van ACRO, één van de vier onderzoeksspeerpunten van de KHLim. Samen met een aantal Europese partners diende ACRO/ES&amp;S een projectaanvraag in om een aantal op afstand bestuurbare labopstellingen te ontwerpen voor het hoger onderwijs.
+Het onderwerp van dit eindwerk past binnen dit project. Het werk dat gedaan wordt in deze masterproef zal uiteindelijk gebruikt worden in de testopstelling, ontwikkeld door ACRO/ES&amp;S.
+De dagelijkse begeleiding van deze masterproef zal gebeuren door de onderzoekers van ACRO in het Technologiecentrum, gelegen in het Wetenschapspark achter de KHLim.
+            </p>
+          </section>
+          <section>
+            <title>Situering</title>
+            <p>
+Tijdens de labo’s digitale elektronica en embedded software werken studenten meestal met dezelfde hardwareplatformen en testopstellingen. Dit komt omdat het praktisch niet haalbaar is voor een onderwijsinstelling om verschillende geavanceerde hardwareplatformen en testopstellingen te ontwikkelen.
+Wanneer verschillende onderwijsinstellingen samen werken om een aantal op afstand bestuurbare hardwareplatformen/testopstellingen te ontwerpen, verruimt dit de blik van de student. Tijdens het ene labo werkt de student met een testopstelling in Duitsland waarin een FPGA van Xillinx gebruikt wordt, terwijl hij tijdens het volgende labo werkt aan een testopstelling in Noorwegen met een Altera FPGA. De bitstream voor zowel de Xillinx als Altera FPGA worden verstuurd via het internet vanuit het labo en de student kan via een camera zien wat de testopstelling doet. Dit soort gedistribueerde opstelling kan in principe aangestuurd worden vanop eender welke plaats met internettoegang.
+Een voorbeeld van een op afstand bestuurbare testopstelling is een rondrijdende robot. Een extra feature die kan worden toegevoegd aan de opstelling is een draadloos sensornetwerk dat detecteert waar de robot zich bevindt. Deze gegevens moeten verzameld en teruggemeld worden aan de student.
+            </p>
+          </section>
+          <section>
+            <title>Opdrachtomschrijving</title>
+            <p>
+In deze masterproef moet de student een bridge ontwerpen die de overgang van het WiFi netwerk naar het WSN mogelijk maakt. De bridge moet communicatie in twee richtingen ondersteunen. De gegevens van de sensoren in het draadloze netwerk moeten worden verzameld, bewerkt en vervolgens via WiFi doorgestuurd worden naar de student. De sensoren moeten ook geconfigureerd kunnen worden. De student stuurt de nodige gegevens door via WiFi naar de bridge. De bridge zal deze gevens verwerken en vervolgens via het draadloze sensornetwerk de individuele sensoren configureren.
+De bridge moet een dynamisch sensornetwerk ondersteunen. Men moet het aantal sensoren in het netwerk kunnen veranderen zonder dat de bridge moet worden geherprogrammeerd.
+Als bridge-component kan mag men zowel een FPGA als een microcontroller gebruiken.
+            </p>
+            <p>
+De voorgestelde masterproef kan uitgevoerd worden door één of twee studenten, en zal beginnen met een literatuurstudie over draadloze sensornetwerken, WiFi en netwerktopologieën.
+            </p>
+            <p>
+Literatuurstudie: 30%
+            </p>
+            <p>
+Ontwerp en implementatie: 70%
+            </p>
+            <p>
+Promotoren: Davy Wolfs en Joren Moelans
+            </p>
+          </section>
+
+              </section>
+
+
+        -->
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+                  <anchor id="profinetremote"/>
+        <section>
+          <title>Opbouw van een PROFINET Remote IO eiland</title> 
+
+          <section>
+            <title>Probleemstelling</title>
+            <p>
+ACRO is sinds 2003 als enige in België internationaal geaccrediteerd als PROFIBUS Competence Center.  Dit betekent dat ACRO voor heel België instaat voor de technische ondersteuning omtrent alle aspecten van PROFIBUS en PROFINET.  Deze technische ondersteuning omvat telefonisch en on-site advies, consultancy, on-site troubleshooting en doelgerichte opleidingen.
+Om een PROFINET  toestel op de markt te brengen dienen fabrikanten echter een hele procedure te doorlopen, van ontwikkeling over testen tot en met certificatie en identificatie-aanvraag.  Ook deze volledige procedure vereist uiteraard een nauwgezette technische ondersteuning.
+Op dit vlak heeft ACRO een technische lacune.  ACRO is geen producent van PROFINET componenten en daardoor werd deze procedure nooit doorlopen.
+            </p>
+            <p>
+Om in de toekomst ontwikkelaars van PROFINET componenten te kunnen ondersteunen bij ontwikkeling van nieuwe toestellen, wil ACRO deze procedure volledig doorlopen en een afgewerkte PROFINET device bouwen (op basis van een Remote IO eiland).
+            </p>
+          </section>
+          <section>
+            <title>Opdracht</title>
+            <p>
+Er dient vanaf nul een volledig nieuw toestel ontwikkeld te worden.  In eerste instantie omhelst dit de keuze van de juiste hardware-componenten, zoals de microcontroller en de communicatie-ASIC.  Vervolgens dient in de juiste programmeertaal, afhankelijk van de gekozen microcontroller de volledige softwarematige implementatie van de slave te worden uitgewerkt.  Tegelijkertijd dient tevens een GSD-file te worden opgemaakt, welke het mogelijk maakt het device te testen, gebruik makend van verschillende Controllers.
+            </p>
+          </section>
+          <section>
+            <title>Ondersteuning</title>
+            <p>
+ACRO bezit als geen ander in België de uitgebreide kennis en ervaring rond PROFINET.  Binnen ACRO zijn verschillende PROFIBUS specialisten, allen bereid om bij te springen en bij te sturen waar dit nodig is.
+Ook de nodige materialen, zoals microcontrollers, ASIC’s, PC en DP-masters zullen door ACRO ter beschikking gesteld worden.  
+Voor het uitvoeren van het eindwerk zal tevens een ruimte gereserveerd worden in het Technologiecentrum.
+            </p>
+          </section>
+          <section>
+            <title>Praktisch</title>
+            
+            <p>
+Dit onderwerp is bij voorkeur geschikt voor studenten (Kies uit)     ELO , 2 studenten          
+            </p>
+            <p>
+ACRO
+            </p>
+            <p>
+Wetenschapspark 27
+            </p>
+            <p>
+3590 Diepenbeek
+            </p>
+            <p>
+011/300.473
+            </p>
+            <p>
+          
+Promotoren: Dhr. Ronald Poosen, Ing. Geert Leen
+            </p>
+          </section>
+          
+          
+          </section>
+          
+          
+          
+                  <anchor id="lightcrypto"/>
+        <section>
+          <title>Lightweight cryptografisch primitief op lowcost microcontroller</title>
+          
+          <p>
+communicaties dienen beveiligd te worden tegen diverse indringers. Hierbij
+kan het gaan van passieve "luistervinken" tot actieve "man in the middle" aanvallen. Om
+hiertegen bescherming te bieden, dient er gebruikt gemaakt te worden van cryptografische
+primitieven. In alle pc's, servers an andere high-end devices zijn er veel implementaties
+beschikbaar. Intel processoren hebben voor sommige zelfs instructies op het laagste niveau.
+          </p>
+          <p>
+De bedoeling van deze masterproef is om een implementatie te maken van één of meerdere cryptografische
+primitieven op een lowcost microcontroller. Met beperkte resources probeert de student toch efficiënte
+implementaties te realiseren. Hierbij vertrek hij/zij van de standaard van een primitief. Deze dient
+geïmplementeerd te worden in C. Vervolgens dient er, door middel van een profiling, gezocht te worden
+naar de bottle-necks in de C implementatie. Om uiteindelijk tot een efficiënte implementatie te komen,
+dienen de bottle-necks verbeterd te worden.
+          </p>
+          <p>
+
+De nadruk van deze masterproef ligt op het zelfstandig zoeken naar optimale implemenatiemethodes.          
+          </p>
+        </section>
+          
+        <anchor id="gnns"/>
+        <section>
+          <title>Een flexibele GNSS-ontvanger op FPGA</title>
+
+          <section>
+             <title>Inhoud</title>
+             
+             <p>
+Sinds enkele jaren is navigatie met behulp van Global Navigation Satellite Systems (GNSS) niet meer weg te denken uit de dagelijkse realiteit. Vroeger had men enkel GPS en waren de ontvangers in een ASIC geimplementeerd. Dit was nodig omdat het locken op een satellietsignaal zeer rekenintensief is. Maar met de grote vooruitgang wat betreft snelheid en rekenkracht van de FPGAs van de voorbije jaren, wordt het stilaan mogelijk om de ASIC te vervangen door een FPGA. Dit biedt bovendien ongekende mogelijkheden om de ontvanger flexibel te kunnen herconfigureren. Zeker met de snelle evoluties van bestaande constellaties (GPS, Glonass) die vernieuwd worden en nieuwe constellaties (Galileo, Beidou) die uitgebouwd worden, is dat een handige eigenschap.
+             </p>
+             <p>
+Concreet zal in dit project een meerkanaals GNSS ontvanger met positieberekeningsmodule worden geimplementeerd op FPGA. Hiervoor kan verder gebouwd worden op de resultaten van een masterproef tijdens het academiejaar 2010-2011. Maar in deze masterproef zal specifiek getracht worden om de implementatie zo flexibel mogelijk te maken, om zodoende te trachten zonder of met minimale herconfiguratie over te schakelen tussen bijvoorbeeld gelijkaardige signalen van GPS en Galileo.
+             </p>
+
+             <p>
+               <img alt="figuur" src="maproef/2011-2012/RogueCircuitry_small.jpg"/>
+            </p>
+             
+             
+           </section>
+           <section>
+             <title>Aard van het werk</title>
+             
+             <p>
+Deze masterproef is geschikt voor 1 of 2 eindwerkstudenten.
+             </p>
+             <ul>
+               <li>
+                <p>
+    literatuurstudie: 30%
+                </p>
+              </li>
+               <li>
+                <p>
+              
+    ontwikkeling en implementatie: 70%
+                </p>
+              </li>
+            </ul>
+          </section>
+          <section>
+            <title>Promotoren</title>
+
+             <ul>
+               <li>
+                <p>
+    Wim Aerts (Koninklijke Sterrenwacht van België)
+                </p>
+              </li>
+               <li>
+                <p>
+    Nele Mentens (KHLim)
+                </p>
+              </li>
+            </ul>
+          </section>
+         </section>          
+          
+
+         <anchor id="sata"/>
+         <section>
+           <title>Ontwerp en implementatie van een SATA Device Emulator voor
+het emuleren van een optisch loopwerk in een Blu-ray speler</title>
+          <p>
+Serial ATA (SATA) is een high-speed seriële interface voor de overdracht van data
+tussen een moederbord en randapparatuur voor data opslag, zoals optische
+loopwerken (DVD, Blu-ray), harde schijven en solid state drives. SATA is de
+vervanger van Parallel ATA (PATA). De laatste versie van SATA ondersteunt
+snelheden tot 3GBit/s. Echter, met een 8/10 bit codering komt de eigenlijke data
+overdracht neer op 300MBps. De SATA kabel is verbonden met het moederbord op
+de computer (SATA Host Controller) en de data opslageenheid (SATA Device
+Controller).
+            </p>
+            <p>
+Binnen deze afstudeeropdracht wordt een bestaand SATA Device IP blok gebruikt in
+een FPGA om een optisch loopwerk in een Blu-ray speler te emuleren.
+Het bestaande SATA Device IP blok wordt uitgebreid met een soft core processor die
+een embedded Linux variant draait en disk management utilities toevoegt voor de
+selectie van ISO images. Een ISO image is een sector-per-sector kopie van alle
+sectoren op het optische medium waarbij er 2048 bytes per sector opgeslagen zijn.
+Alle lees- en schrijf-operaties van en naar het SATA Device worden vertaald door de
+soft core in de FPGA naar lokale lees- en schrijf-operaties op een lokale ISO file.
+In een eerste faze wordt het bestaande SATA Device IP blok getest op een Xilinx
+development board waarbij de data gelezen/geschreven wordt uit/naar een
+geheugen buffer door middel van een DMA interface. In een tweede faze wordt er
+een soft core toegevoegd op de FPGA waarop een embedded Linux variant draait.
+In een derde faze worden de SATA lees- en schrijf-operaties omgeleid naar de soft
+core die de data leest/schrijft uit/naar een geheugen buffer. In een laatste faze
+worden de lees- en schrijf-operaties uitgevoerd op een lokale ISO file.
+Door middel van deze SATA Device Emulator moeten er geen Blu-ray discs
+geschreven worden, alvorens de Blu-ray BD-J applicatie getest kan worden op een
+stand-alone consumenten Blu-ray speler. Daarenboven kan er makkelijk gewisseld
+worden tussen verschillende versies van geproduceerde Blu-ray disks.
+Deze aanpak vereenvoudigt de software ontwikkeling op een consumenten Blu-ray
+speler aanzienlijk.
+
+         </p>
+         <p>
+Aantal studenten: 2
+         </p>
+         <p>
+Bedrijf: Ramabox
+         </p>
+         <p>
+Contact persoon: Pascal Felique
+         </p>
+         <p>
+Telefoon: 0046 730 28 46 88
+         </p>
+         <p>
+E-mail: pascal.felique@ramabox.com
+         </p>
+       </section>
+         
+         
+         
+       <anchor id="microblaze"/>
+       <section>
+         <title>Microblaze to Microblaze</title>
+         
+         <section>
+           <title>Bedoeling van het project</title>
+           
+           <p>
+Een Processor (Microblaze) in een FPGA (Spartan-6, Virtex-6 of recenter) laten praten met een
+processor in een andere FPGA en dit door gebruik te maken van de transceivers die beschikaar zijn in
+de FPGAs. Dit alles moet gebeuren zonder protocol en merkbaar snelheidsverlies.
+Op een andere manier gezegd: De twee Microblaze processors praten met elkaar via een geheugen
+blok (Block-0RAM) en mailbox/doorbell logica. Het geheugen blok waar een processor in schrijft
+bevindt zich in een andere FPGA. Het geheugen waar de processor uit leest zit in dezelfde FPGA als
+de processor.
+           </p>
+           
+         </section>
+         <section>
+           <title>Gevraagd</title>
+           <ul>
+            <li>
+Bouw een basis Microblaze system als het voorbeeld in Figuur 1.
+            <ul>
+              <li>
+o Bouw het block “AXI Interprocessor Transceiver” Voorbeeld blok schema in figuur 2).
+              </li>
+            </ul>
+            </li>
+            <li>
+Laat beide processoren met elkaar praten via het geheugen ertussen (Block-RAM).
+            </li>
+            <li>
+van de status outputs van de transceiver (mailbox, IRQ logica).
+            </li>
+            <li>
+Een mooie demo van dit zou kunnen zijn:
+            <ul>
+              <li>
+Ethernet pakketjes onvangen door een processor worden doorgegeven aan de
+andere processor die ze op zijn beurt weer via Ethernet verstuurd.
+              </li>
+            </ul>
+            </li>
+          </ul>
+             <p>
+               <img alt="figuur" src="maproef/2011-2012/xilinx1.png"/>
+            </p>
+<p>          
+Figuur 1: Voorbeeld basis Microblaze processor system.
+</p>
+             <p>
+               <img alt="figuur" src="maproef/2011-2012/xilinx2.png"/>
+            </p>
+<p>
+Figuur 2: Blok schema van een transceiver communicator.
+</p>      
+       </section>
+       <section>
+         <title>Praktische info</title>
+         
+         <p>
+           Bedrijf: Xilinx 
+         </p>
+         <p>
+           Contactpersoon: Marc Defossez (marc.defossez@xilinx.com)
+         </p>
+       </section>
+      </section>   
+         
+      
+      
+      
+      <anchor id="firewire"/>
+      <section>
+        <title>Ontwerp van een FireWire camera-interface op FPGA</title>
+        
+        <section>
+          <title>Opdrachtgever</title>
+          
+          <p>
+Embedded Systems &amp; Security (ES &amp; S) is een subdivisie van ACRO, één van de vier onderzoeksspeerpunten van de KHLim. Samen met een aantal Europese partners diende ACRO/ES&amp;S een projectaanvraag in om een aantal op afstand bestuurbare labopstellingen te ontwerpen voor het hoger onderwijs.
+Het onderwerp van dit eindwerk past binnen dit project. Het werk dat gedaan wordt in deze masterproef zal uiteindelijk gebruikt worden in de testopstelling, ontwikkeld door ACRO/ES&amp;S.
+De dagelijkse begeleiding van deze masterproef zal gebeuren door de onderzoekers van ACRO in het Technologiecentrum, gelegen in het Wetenschapspark achter de KHLim.
+          </p>
+        </section>
+        <section>
+          <title>Situering</title>
+          
+          <p>
+Tijdens de labo’s digitale elektronica en embedded software werken studenten meestal met dezelfde hardwareplatformen en testopstellingen. Dit komt omdat het praktisch niet haalbaar is voor een onderwijsinstelling om verschillende geavanceerde hardwareplatformen en testopstellingen te ontwikkelen.
+Wanneer verschillende onderwijsinstellingen samen werken om een aantal op afstand bestuurbare hardwareplatformen/testopstellingen te ontwerpen, verruimt dit de blik van de student. Tijdens het ene labo werkt de student met een testopstelling in Duitsland waarin een FPGA van Xillinx gebruikt wordt, terwijl hij tijdens het volgende labo werkt aan een testopstelling in Noorwegen met een Altera FPGA. De bitstream voor zowel de Xillinx als Altera FPGA worden verstuurd via het internet vanuit het labo en de student kan via een camera zien wat de testopstelling doet. Dit soort gedistribueerde opstelling kan in principe aangestuurd worden vanop eender welke plaats met internettoegang.
+          </p>
+        </section>
+        <section>
+          <title>Opdrachtomschrijving</title>
+          <p>
+Een voorbeeld van een op afstand bestuurbare testopstelling is een rondrijdende robot. Een extra feature die kan worden toegevoegd aan de opstelling is een sensornetwerk dat detecteert waar de robot zich bevindt. Deze gegevens moeten verzameld en teruggemeld worden aan de student.
+In deze masterproef moet de student een firewire interface ontwikkelen op FPGA. Via deze interface moeten beelden van een camera in het externe geheugen van de FPGA geschreven worden. Uit deze beelden moet de positie van de robot worden berekenen. Hiervoor is een snelle beeldverwerking in hardware nodig. 
+De voorgestelde masterproef kan uitgevoerd worden door  twee studenten, en zal beginnen met een literatuurstudie over FireWire en beeldverwerking.
+          </p>
+          <p>
+
+Literatuurstudie: 30%
+          </p>
+          <p>
+Ontwerp en implementatie: 70%
+          </p>
+          <p>
+Promotoren: Davy Wolfs en Joren Moelans      
+          </p>
+        </section>
+      </section>
+      
+      
+      
+      
+      
+          
+       
+      </section>
+ 
+  </body>
+</document>
+

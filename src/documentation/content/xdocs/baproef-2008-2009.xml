@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V1.2//EN" "/export/usr/local/forrest/main/webapp/resources/schema/dtd/document-v12.dtd">
+<document> 
+  <header> 
+    <title>Bachelor- en schakelproef 2008-2009</title> 
+  </header> 
+  <body> 
+      <p>Laatste wijziging: $Date: 2009-08-02 22:59:43 +0200 (Sun, 02 Aug 2009) $</p>
+  
+      <section>
+        <title>Inleiding</title>      
+        <p>
+          Dit is het overzicht van de bachelor- en schakelproef projecten 2008-2009 voor 3ABA-ELO en SCH-ELO.
+        </p>
+      </section>
+
+<!--
+      <section>
+        <title>Handleiding Forrest</title>
+     
+        <p>
+          Maak de volgende shellscript:
+        </p>
+        
+<source><![CDATA[
+cvs -d :ext:login@ontwerpen1.khlim.be:/home/baproef/cvsroot $*
+]]></source>
+
+        <p>
+          In de bovenstaande script moet je login vervangen door je eigen loginnaam en
+          baproef door de loginnaam van het project.
+        </p>
+        <p>
+          Ga zo te werk op je lokale harde schijf:
+        </p>
+        
+<source><![CDATA[
+cd
+mkdir baproef
+cd baproef
+mkdir cvswerk
+cd cvswerk
+pico -w doe-cvs.sh
+chmod a+x doe-cvs.sh
+./doe-cvs.sh checkout website
+cd website
+# pas het logo aan
+pico -w skinconf.xml
+# pas de inhoud aan
+pico -w content/xdocs/index.xml                                     
+
+# doe de commit
+../doe-cvs.sh commit
+]]></source>
+        
+      </section>
+-->
+
+      <section>
+         <title>Bachelorproefinstructies</title>
+         
+         <p>
+           Alle richtlijnen die beschrijven hoe een bachelorproef loopt, zijn vastgelegd in het volgende document.
+         </p>
+         <ul>
+           <li>
+             <link href="baproef/2008-2009/bachelorproef.pdf">bachelorproef.pdf</link>
+           </li>
+         </ul>
+
+         <!--
+         <p>
+           Op aanvraag kan voor elk project een eigen website verkregen worden.
+         </p>
+         -->
+      </section>
+
+      <section>
+      <title>Overzicht</title>
+
+<table>
+<caption>
+Bachelor- en schakelproeven 2008-2009
+</caption>
+
+<tr>
+ <th>Groep</th>
+ <th>Student(en)</th>
+ <th>Titel</th>
+ <th>Bedrijf</th>
+ <th>Begeleider</th>
+ <th>Presentatie</th>
+ <th>Vragen</th>
+ <th>Jury</th>
+</tr>
+
+
+<!--
+<tr>
+ <td>SchakelELO x</td>
+ <td>studenten</td>
+ <td>Ontwikkeling van een  (<link href="#xxx">meer uitleg</link>, <link href="http://ontwerpen1.khlim.be/graan/">site</link>)
+ </td>
+ <td>bedrijf</td>
+ <td>begeleider</td>
+</tr>
+
+
+ -->
+
+
+
+<tr>
+ <td>3ABAELO1</td>
+ <td>Brecht Sluismans,
+Hans Narinx,
+Jordi Tielens,
+Kristof Konings
+</td>
+ <td>
+ </td>
+ <td>KIDS</td>
+ <td></td>
+ <td>13.00</td>
+ <td>13.15</td>
+ <td>13.20</td>
+ 
+</tr>
+
+<tr>
+ <td>3ABAELO2</td>
+ <td>Michiel Theunis,
+Kris Lemkens, 
+Pieter Claes, 
+Rob Mesotten 
+</td>
+ <td>
+ </td>
+ <td>RMONI</td>
+ <td></td>
+ <td>13.30</td>
+ <td>13.45</td>
+ <td>13.50</td>
+</tr>
+
+<tr>
+ <td>3ABAELO3</td>
+ <td>Brecht Creemers, 
+Wouter Pijpops, 
+Wim Ramakers, 
+Marnick Sluismans</td>
+ <td>DCC-programmeersysteem voor Brelec-decoders
+ </td>
+ <td>Brelec</td>
+ <td>Leo Rutten</td>
+ <td>14.00</td>
+ <td>14.15</td>
+ <td>14.20</td>
+</tr>
+
+<tr>
+ <td>3ABAELO4</td>
+ <td>Tony Schabregs, 
+Dimitri Van Dyck, 
+Robben Aerts, 
+Tom Jonckers
+</td>
+ <td>
+ </td>
+ <td>Dr. Vandeput</td>
+ <td></td>
+ <td>14.30</td>
+ <td>14.45</td>
+ <td>14.50</td>
+</tr>
+
+    
+    
+    
+    
+
+<tr>
+ <td>SCHELO1</td>
+ <td>Dirk Vanderhoydonks, Joren Moelans, Steven Swinnen, Ali Sümbül</td>
+ <td>Geluidsvisualisatie</td>
+ <td>KIDS</td>
+ <td></td>
+ <td>15.00</td>
+ <td>15.15</td>
+ <td>15.20</td>
+</tr>
+
+<tr>
+ <td>SCHELO2</td>
+ <td>Stijn Vandebosch, Yannick Plessers, Tim Lynen, Galid Ellifis</td>
+ <td>Extensie voor bewakingssystemen</td>
+ <td>TCT group</td>
+ <td></td>
+ <td>15.30</td>
+ <td>15.45</td>
+ <td>15.50</td>
+</tr>
+
+<tr>
+ <td>SCHELO3</td>
+ <td>Kim Sourbron, Kevin Blommen, Jochen Elsen</td>
+ <td>Meetopstelling voor vermogenaanvallen</td>
+ <td>K.U.Leuven, COSIC</td>
+ <td></td>
+ <td>16.00</td>
+ <td>16.15</td>
+ <td>16.20</td>
+</tr>
+
+<tr>
+ <td>SCHELO4</td>
+ <td>Robben Peeters, Jurgen Wuyts, Koen Vanloffelt</td>    
+ <td>Koppeling van geluidskaarten</td>
+ <td>Amptec</td>
+ <td></td>
+ <td>16.30</td>
+ <td>16.45</td>
+ <td>16.50</td>
+</tr>
+
+    
+    
+    
+</table>
+    
+    </section>
+    
+    
+    
+      <!--
+    <section>
+      <title>Bachelorproefbeschrijvingen</title>
+
+
+      <anchor id="afkorting"/>      
+      <section>
+        <title>titel, bedrijf</title>
+          <p>
+            para
+          </p>
+          <p>
+            Links:
+          </p>
+            <ul>
+              <li>
+                <link href="http://www.hibernate.org">www.hibernate.org</link>
+              </li>
+              <li>
+                <link href="http://www.aspectj.org">www.aspectj.org</link>
+              </li>
+            </ul>
+      </section>
+
+
+ </section>     
+      -->
+ 
+  </body>
+</document>

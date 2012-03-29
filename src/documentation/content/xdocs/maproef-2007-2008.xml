@@ -1,0 +1,2278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V1.2//EN" "/export/usr/local/forrest/main/webapp/resources/schema/dtd/document-v12.dtd">
+<document> 
+  <header> 
+    <title>Voorstellen Masterproef 2007-2008</title> 
+  </header> 
+  <body> 
+      <p>Laatste wijziging: $Date: 2010-06-06 19:47:00 +0200 (Sun, 06 Jun 2010) $</p>
+  
+      <section>
+        <title>Inleiding</title>      
+        <p>
+          Dit is het overzicht van de afgewerkte masterproeven 2007-2008 van MA-ELO.
+        </p>
+        
+  <!-- 
+    20/11/2006 Dit gedeelte mag nu weg
+        
+        <p>
+          Er zijn verschillende bronnen voor de eindwerken. Een aantal eindwerkvoorstellen
+          worden aan de docenten gemeld en zijn verzameld in de tabel verderop.
+          Een aantal andere eindwerkvoorstellen worden verzameld door andere organisaties
+          en bedrijven. Dit lijstje geeft een overzicht.
+        </p>
+        
+        <ul>
+          <li>
+            <p>
+             <link href="http://cera-award.livingstone.be/Project.aspx">Cera Award</link>
+            </p>
+            <p>
+              Hier kan je beschikbare projecten selecteren per regio en/of thema.
+              Je kan best elektronica, ICT, informatica als thema kiezen. Eventueel
+              kan je ook biomedische wetenschappen kiezen. Een aantal van deze
+              laatste thema's kunnen bij elektronica aanleunen.
+            </p>
+          </li>
+          <li>
+            <p>
+              IMEC (<link href="http://www.imec.be">www.imec.be</link>)
+            </p>
+            <p>
+              IMEC heeft een lijst gepubliceerd die je 
+             <link href="http://www.imec.be/wwwinter/student/en/thesis/2006/topics_is.shtml">hier</link> terugvindt.
+             Algemene informatie over deze eindwerken vind je <link href="http://www.imec.be/wwwinter/student/nl/eindwerken/eindwerkinfo.shtml">hier</link> terug.
+             Deze lijst is bedoeld voor alle ing. studenten in Vlaanderen.
+            </p>
+          </li>
+          <li>
+            <p>
+              ESAT, KULeuven (<link href="http://www.esat.kuleuven.be">www.esat.kuleuven.be</link>)
+            </p>
+            <p>
+              <link href="https://securewww.esat.kuleuven.be/thesis/onderwerp_overzicht/onderwerp_overzicht.php">Dit</link> is de pagina waar je 
+              de ESAT eindwerkvoorstellen kan opvragen.
+               Ook deze lijst is publiek toegankelijk.
+            </p>
+          </li>
+          <li>
+            <p>
+              Philips België
+            </p>
+            <p>
+              Philips België stelt voor 2006-2007 een aantal stageplaatsen voor eindwerken ter beschikking. Deze
+              stageplaatsen zijn beschreven in deze <link href="stagefolder.pdf">folder</link>.
+            </p>
+          </li>
+        </ul>
+    -->
+      </section>
+
+<!--
+  Voorlopig uitgeschakeld
+      <section>
+         <title>Masterproefinstructies</title>
+         
+         <p>
+           Alle richtlijnen die beschrijven hoe een masterproef loopt, zijn vastgelegd in een document.
+         </p>
+         <p>
+           Hier heb je het document in verschillende formaten:
+         </p>
+         <ul>
+           <li>
+             <link href="maproef/2006-2007/instructies-masterproef-elo-07.pdf">instructies-masterproef-elo-07.pdf</link>
+           </li>
+           <li>
+             <link href="maproef/2006-2007/instructies-masterproef-elo-07.odt">instructies-masterproef-elo-07.odt</link>
+           </li>
+           <li>
+             <link href="maproef/2006-2007/instructies-masterproef-elo-07.doc">instructies-masterproef-elo-07.doc</link>
+           </li>
+         </ul>
+      </section>
+-->
+      <section>
+      <title>Overzicht</title>
+
+<table>
+<caption>
+Masterproef 2007-2008
+</caption>
+
+<tr>
+ <th>code</th>
+ <th>student(en)</th>
+ <th>titel</th>
+ <th>bedrijf</th>
+ <th>promotors</th>
+</tr>
+
+<!-- voorstellen eindwerken -->
+
+<!-- 
+ Voorbeeld
+<tr>
+ <td>nr</td>
+ <td>student</td>
+ <td>Titel (<link href="#verder">meer uitleg</link>)
+ </td>
+ <td>bedr</td>
+ <td>Prom</td>
+</tr>
+-->
+
+
+
+<!-- 
+   niet gekozen 
+   in commentaar 25/9/2006
+
+ 
+ 
+<tr>
+ <td></td>
+ <td></td>
+ 
+ <td>Detectiesysteem voor epileptische insulten (<link href="#epilepsie">meer uitleg</link>)
+ </td>
+ <td>Revalidatiecentrum Pulderbos</td>
+ <td>Bart Vanrumste</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Data acquisitie met een neuroprobe in de motorische cortex van ratten (<link href="#neuroprobe">meer uitleg</link>)
+ </td>
+ <td>IMEC</td>
+ <td>Bart Vanrumste</td>
+</tr>
+-->
+
+<!-- 
+   Niet gekozen 8/10/2007
+
+<tr>
+ <td></td>
+ <td></td>
+ <td>Testbank voor defibrillatoren (<link href="#defibrillator">meer uitleg</link>)
+ </td>
+ <td>UZ Leuven</td>
+ <td>Peter Dierickx, Bart Vanrumste</td>
+</tr>
+  -->
+
+<!-- 
+   Niet gekozen 8/10/2007
+<tr>
+ <td></td>
+ <td></td>
+ <td>Infuuspompentester (<link href="#infuuspomp">meer uitleg</link>)
+ </td>
+ <td>UZ Leuven</td>
+ <td>Peter Dierickx, Bart Vanrumste</td>
+</tr>
+  -->
+
+<!-- 
+   Niet gekozen 8/10/2007
+<tr>
+ <td></td>
+ <td></td>
+ <td>Ternaire metaaloxidesystemen als high-K kandidaten: evaluatie via depositie vanuit multimetaalionprecursoren (<link href="#ternairemetaaloxide">meer uitleg</link>)
+ </td>
+ <td>Universiteit Hasselt/IMEC</td>
+ <td>Marlies Vanbael, Jan Genoe</td>
+</tr>
+  -->
+
+<!-- 
+   Niet gekozen 8/10/2007
+<tr>
+ <td></td>
+ <td></td>
+ <td>Aanmaak en materiaalkundige studie van high-K metaaloxiden voor alternatieve gate diëlektrica (<link href="#gatedielektrica">meer uitleg</link>)
+ </td>
+ <td>Universiteit Hasselt/IMEC</td>
+ <td>Marlies Vanbael, Jan Genoe</td>
+</tr>
+  -->
+  
+<tr>
+<!--
+ Michael Billen (keuze 1), Luc Van Roey (keuze 1)
+ -->
+
+ <td></td>
+ <td>Michael Billen</td>
+ <td>Lichtgewicht DC voeding voor draagbare toestellen gebaseerd op nieuwe GaN transistors (<link href="#gan">meer uitleg</link>)
+ </td>
+ <td>IMEC</td>
+ <td>Jo Das, Jan Genoe, Joff Derluyn</td>
+</tr>
+
+
+<tr>
+<!--
+Sandro Iacovella
+ -->
+ <td></td>
+ <td>Sandro Iacovella</td>
+ <td>Aansturingssysteem voor organische geheugens (<link href="#orgmem">meer uitleg</link>)
+ </td>
+ <td>IMEC</td>
+ <td>Robert Muller, Jan Genoe</td>
+</tr>
+
+<tr>
+<!--
+ Hameed Khan (keuze 1), Markian Yskout (keuze 1), Rob Smeets (keuze 1), Toon Nelissen (keuze 2)
+ -->
+ <td></td>
+ <td>Markian Yskout</td>
+ <td>Integratie van een VoIP client op een embedded systeem (<link href="#voip">meer uitleg</link>,  <link href="http://ontwerpen1.khlim.be/voip/">site</link>)
+ </td>
+ <td>Luminex</td>
+ <td>Bart Swinnen, Leo Rutten</td>
+</tr>
+
+<tr>
+<!--
+ Free Claessens (enige keuze), Peter Timmermans (keuze 1), Wim Heedfeld (keuze 2), Toon Nelissen (keuze 3)
+ -->
+ <td></td>
+ <td>Free Claessens</td>
+ <td>Aansturen van een Staubli robot d.m.v. een FPGA + powerpc (<link href="#staublirobot">meer uitleg</link>)
+ </td>
+ <td>PMA, KULeuven</td>
+ <td>Peter Slaets</td>
+</tr>
+
+<!--
+Wel gestart, maar nooit afgelegd
+
+<tr>
+ <td></td>
+ <td>Kristof Reinkens</td>
+ <td>Visie algoritmes op een FPGA (<link href="#visiefpga">meer uitleg</link>)
+ </td>
+ <td>PMA, KULeuven</td>
+ <td>Peter Slaets</td>
+</tr>
+-->
+
+<!-- 
+   Niet gekozen 8/10/2007
+  
+<tr>
+ <td></td>
+ <td></td>
+ <td>Ontwikkelen van geavanceerde 32-bit softcore processor voor dataverwerking (<link href="#softcoreprocessor">meer uitleg</link>)
+ </td>
+ <td></td>
+ <td>Wilm Decré, Peter Slaets</td>
+</tr>
+  -->
+
+<tr>
+<!--
+ Jan Poelmans (keuze 1) is niet geslaagd
+ -->
+ <td></td>
+ <td>Jan Poelmans</td>
+ <td>Ontwikkeling van monitoring software voor een Apache-PHP studentenwebserver (<link href="#servermonitoring">meer uitleg</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Kris Aerts</td>
+</tr>
+
+<tr>
+<!--
+ Wim Heedfeld (keuze 1), Peter Timmermans (keuze 2)
+ -->
+ <td></td>
+ <td>Wim Heedfeld, Peter Timmermans</td>
+ <td>Het genereren van random getallen op Virtex-5 FPGAs (<link href="#rng">meer uitleg</link>)
+ </td>
+ <td>COSIC, KULeuven</td>
+ <td>Dries Schellekens, Nele Mentens</td>
+</tr>
+
+<tr>
+<!--
+ Frederik Gommé (keuze 1), Wim Heedfeld (keuze 3)
+ -->
+ <td></td>
+ <td>Frederik Gommé</td>
+ <td>Beveiliging van cryptografische systemen door middel van dynamische herconfiguratie (<link href="#reconf">meer uitleg</link>)
+ </td>
+ <td>COSIC, KULeuven</td>
+ <td>Benedikt Gierlichs, Nele Mentens</td>
+</tr>
+
+<tr>
+<!--
+ Dries Cuypers (keuze 1) en Jens Hoffmann (keuze 1)
+ -->
+ <td></td>
+ <td>Dries Cuypers, Jens Hoffmann</td>
+ <td>Implementatie van cryptanalytische aanvallen met behulp van FPGA's
+ </td>
+ <td>COSIC, KULeuven</td>
+ <td>Sebastiaan Indesteege, Orr Dunkelman, Nele Mentens</td>
+</tr>
+
+<tr>
+ <td></td>
+ <td>Jan Jooken</td>
+ <td>Implementatie van efficiënte coprocessoren voor cryptografische toepassingen op Virtex-4 en Virtex-5 FPGAs (<link href="#dsp">meer uitleg</link>)
+ </td>
+ <td>COSIC, KULeuven</td>
+ <td>Lejla Batina, Nele Mentens</td>
+</tr>
+
+<!-- 
+   Niet gekozen 8/10/2007
+<tr>
+ <td></td>
+ <td></td>
+ <td>Visualisatie van een fabrieksbesturing (<link href="#fabriekvis">meer uitleg</link>)
+ </td>
+ <td>PMA, KULeuven</td>
+ <td>Paul Valckenaers, Leo Rutten</td>
+</tr>
+  -->
+
+<tr>
+<!--
+Luc Van Roey (keuze 2)
+  -->
+ <td></td>
+ <td>Luc Van Roey</td>
+ <td>Samenstelling van meerdere entiteiten in emulatie van een fabriek (<link href="#fabriekemul">meer uitleg</link>)
+ </td>
+ <td>PMA, KULeuven</td>
+ <td>Paul Valckenaers, Leo Rutten</td>
+</tr>
+
+
+<tr>
+<!--
+ Mitch Vanhelden (keuze 1), Wouter Rutten (keuze 1)
+ -->
+ <td></td>
+ <td>Mitch Vanhelden, Wouter Rutten</td>
+ <td>Logische behavioural simulator voor IR13 (<link href="#simulator">meer uitleg</link>)
+ </td>
+ <td>departement elektrotechniek, afdeling MICAS, KULeuven</td>
+ <td>Wim Dehaene, Leo Rutten</td>
+</tr>
+
+
+<tr>
+<!--
+ Steven Reynders (keuze 1)
+ -->
+ <td></td>
+ <td>Steven Reynders</td>
+ <td>Ontwerp van een weerstation (<link href="#weerstation">meer uitleg</link>,  <link href="http://ontwerpen1.khlim.be/weer/">site</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Leo Rutten</td>
+</tr>
+
+
+
+<tr>
+ <td></td>
+ <td>Lukasz Jaszczuk</td>
+ <td>Kleinsignaal-weergave studie bij audiotransformatoren voor ultra
+lineaire audioversterkers (<link href="#audiotransfo">meer uitleg</link>)
+ </td>
+ <td>Ir. bureau Vanderveen.</td>
+ <td>Menno van der Veen, Jan Genoe
+</td>
+</tr>
+
+
+
+
+
+<!--
+<tr>
+ <td></td>
+ <td></td>
+ <td>Aanpassing van cornfs aan een labo-omgeving (<link href="#cornfs">meer uitleg</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Leo Rutten</td>
+</tr>
+-->
+
+<!-- 
+   Niet gekozen 8/10/2007
+<tr>
+ <td></td>
+ <td></td>
+ <td>Development of analysis method for mobile phone communication voice quality (<link href="#voicequality">meer uitleg</link>)
+ </td>
+ <td>Option</td>
+ <td></td>
+</tr>
+  -->
+
+<!-- 
+   Niet gekozen 8/10/2007
+
+   Toon Nelissen (keuze 1)</td>
+
+ <td></td>
+ <td></td>
+ <td>Development of time and resource management module in test automation framework using PHP/MySQL (<link href="#resourceman">meer uitleg</link>)
+ </td>
+ <td>Option</td>
+ <td></td>
+</tr>
+  -->
+
+<!-- 
+   Niet gekozen 8/10/2007
+<tr>
+ <td></td>
+ <td></td>
+ <td>Design and prototyping of rf switching board (<link href="#rfswboard">meer uitleg</link>)
+ </td>
+ <td>Option</td>
+ <td></td>
+</tr>
+-->
+
+<!-- 
+   Niet gekozen 8/10/2007
+<tr>
+ <td></td>
+ <td></td>
+ <td>Develop test automation for website testing on embedded devices (<link href="#embeddeddevice">meer uitleg</link>)
+ </td>
+ <td>Option</td>
+ <td></td>
+</tr>
+  -->
+
+<tr>
+ <td>
+ </td>
+ <td>
+   Peter Schreurs, Kurt Ilsen
+ </td>
+ <td>Embedded Webapplicatie (<link href="#ase">meer uitleg</link>)
+ </td>
+ <td>ASE R&amp;D Europe N.V.</td>
+ <td>Frank Valkenborgh, Dirk Smets</td>
+</tr>
+
+
+<!-- 
+   Niet gekozen 8/10/2007
+<tr>
+ <td>
+ </td>
+ <td>
+ </td>
+ <td>Eindwerken aan de Universiteit Hasselt (BE), Biomedisch Onderzoeksinstituut , afdeling Celfysiologie-Microfluorimetrie (<link href="#uhasseltbiomed">meer uitleg</link>)
+ </td>
+ <td>Universiteit Hasselt</td>
+ <td>M. Ameloot</td>
+</tr>
+  -->
+
+
+<!-- 
+
+
+
+  -->
+
+<!-- einde tabel voorstellen eindwerken -->
+
+</table>
+
+
+
+
+
+
+
+
+
+    </section>
+
+    <section>
+      <title>Masterproefbeschrijvingen</title>
+
+      <!--
+
+      <anchor id="afkorting"/>      
+      <section>
+        <title>titel, bedrijf</title>
+          <p>
+            para
+          </p>
+          <p>
+            Links:
+          </p>
+            <ul>
+              <li>
+                <link href="http://www.hibernate.org">www.hibernate.org</link>
+              </li>
+              <li>
+                <link href="http://www.aspectj.org">www.aspectj.org</link>
+              </li>
+            </ul>
+      </section>
+      -->
+      
+      
+
+ 
+      
+      
+      
+        
+        
+        
+  
+  
+  
+<!-- 
+   Niet gekozen 8/10/2007
+
+
+      <anchor id="defibrillator"/>
+      <section>
+        <title>Testbank voor defibrillatoren</title>
+<p>
+Een defibrillator is een elektromedische uitrusting om de fibrillatie van de hartspier, 
+i.e. het zeer snel en ongecontroleerd samentrekken van de hartspiervezels, op te heffen d.m.v. elektrische impulsen.
+</p>
+<p>
+Het doel van deze stage bestaat erin een test, die toelaat de goede werking van de defibrillator na te gaan, 
+te ontwikkelen conform de normering en de wetgeving. Voor zowel de monofasische conventionele externe defibrillatie als voor de bifasische defibrillatietechnologie, 
+dient een software te worden ontwikkeld. De bestaande testbank (hardware) dient te worden geoptimaliseerd en te worden geïntegreerd met de veiligheidstester.
+</p>
+<p>
+De taak bestaat voornamelijk in
+</p>
+<ul>
+  <li>
+acquisitie van signalen
+  </li>
+  <li>
+signaalverwerking
+  </li>
+  <li>
+ontwikkeling van algoritmen
+  </li>
+  <li>
+analyse
+  </li>
+  <li>
+interpretatie
+  </li>
+  <li>
+gegevensopslag in een databank (Maximo)
+  </li>
+  <li>
+rapportering
+  </li>
+  <li>
+integratie veiligheidstester
+  </li>
+  <li>
+…
+  </li>
+  </ul>
+
+<p>
+Voor de software wordt gebruik gemaakt van Labview (National Instruments).
+</p>
+<p>
+De student dient voornamelijk samen te werken met de afdeling Medische Instrumentatie (Technische Diensten). Contacten met medische diensten, de dienst Informatiesystemen en firma's zijn niet uitgesloten.
+</p>
+<p>
+Bedrijfsmentor
+</p>
+<p>
+dr. ir. Peter Dierickx
+</p>
+<p>
+Afdelingshoofd Medische Instrumentatie (Biotechniek)
+</p>
+<p>
+Technische Diensten
+</p>
+<p>
+UZ Leuven
+</p>
+<p>
+Herestraat 39
+</p>
+<p>
+B-3000 Leuven
+</p>
+<p>
+Tel.: 016/34.41.99
+</p>
+<p>
+Fax.: 016/34.41.01
+</p>
+<p>
+Email: Peter.Dierickx@uz.kuleuven.ac.be
+</p>
+<p>
+Promotor: dr. ir. Bart Vanrumste
+</p>
+       </section>
+
+  -->
+
+
+
+<!-- 
+   Niet gekozen 8/10/2007
+
+      <anchor id="infuuspomp"/>
+      <section>
+        <title>Infuuspompentester</title>
+<p>
+De opdracht bestaat erin het hard- en software-gedeelte van een tester voor infuuspompen te optimaliseren. 
+De infuuspomptester werd ongeveer 10 jaar geleden gebouwd door de dienst biotechniek van het Universitair Ziekenhuis Leuven. 
+Het hardware-gedeelte zorgt ervoor dat de ader van een patiënt nagebootst wordt door een buisje op druk te brengen, 
+en vormt de link tussen de verschillende sensoren en de besturingscomputer. 
+Het is vanzelfsprekend dat deze infuuspompen aan zeer strenge criteria en veiligheidsnormen moeten voldoen.
+</p>
+<p>
+
+Het doel is het hard- en software-gedeelte te evalueren en aan te passen, gebruikmakend van nieuwe technologie (Labview). 
+Met de bedoeling de betrouwbaarheid en de bedrijfszekerheid van de tester te garanderen en indien mogelijk compacter te maken. 
+Het aspect prijs/kwaliteit verhouding dient in overweging genomen te worden.
+</p>
+<p>
+Een tweede fase van het project is het onderzoeken hoe het systeem kan worden uitgebreid zodat er met 1 besturingscomputer meerdere pompen tegelijkertijd getest kunnen worden.
+
+</p>
+<p>
+Firma: UZ Leuven
+</p>
+<p>
+afdeling Medische Instrumentatie, Technische Diensten
+</p>
+<p>
+Peter Dierickx
+</p>
+<p>
+Herestraat 49
+</p>
+<p>
+B-3000 Leuven
+</p>
+<p>
+016/34.41.99
+</p>
+<p>
+Promotor: dr. ir. Bart Vanrumste
+</p>
+       </section>
+  -->
+
+<!-- 
+   Niet gekozen 8/10/2007
+   
+      <anchor id="ternairemetaaloxide"/>
+      <section>
+        <title>Ternaire metaaloxidesystemen als high-K kandidaten: evaluatie via depositie vanuit multimetaalionprecursoren</title>
+<p>
+Al sinds de uitvinding van de computer heeft doorgedreven miniaturisatie van de transistoren in microprocessoren geleid tot een alsmaar toenemende snelheid en geheugencapaciteit. De traditioneel gebruikte materialen bereiken echter hun limieten, waardoor momenteel koortsachtig gezocht wordt naar alternatieven. Voor één component van de transistor, het poort diëlektricum, is het onderzoek gefocusseerd op de zogenaamde high-K metaaloxides (K=diëlektrische constante) ter vervanging van traditioneel SiO2. Voor het screenen van nieuwe high-K materiaalsystemen is er nood aan snelle en efficiënte bereidingsmethodes. Binnen de Metal Oxide Nanomaterials groep van de IMO-UHasselt, onderzoekt men milieuvriendelijke chemische methodes voor de aanmaak van nanogestructureerde metaaloxides. Uit het meest recente onderzoek blijkt dat de watergebaseerde oplossing-gel methode potentieel heeft om als bereidingswijze gebruikt te worden in de screening van high-K kandidaatmaterialen. Tijdens het eindwerk zal met deze watergebaseerde methode een evaluatie uitgevoerd worden van ternaire metaaloxides (d.w.z. een oxide dat twee verschillende metaalionen bevat) voor poortdiëlektricum toepassingen. Het praktische werk zal starten met de bereiding van waterige oplossingen voor de gewenste metaalionen. Hiermee zullen vervolgens multimetaalionprecursoren bereid worden voor de gewenste metaaloxidecomposities, waarmee ultradunne metaaloxidelagen afgezet worden. Het afzetten van de metaalionprecursoren wordt gevolgd door een thermische behandeling. Tijdens de thermische behandeling treedt de vorming van het ternair metaaloxide op. De functionele en materiaalkundige eigenschappen van de gevormde metaaloxides zullen tenslotte gekarakteriseerd worden in samenwerking met andere onderzoeksgroepen binnen het Instituut voor Materiaalonderzoek (IMO) en het Interuniversitair Microelektronica Centrum (IMEC). Op grond van de resultaten zullen veelbelovende alternatieve diëlektrica geselecteerd worden voor verder onderzoek en ontwikkeling binnen IMEC.
+</p>
+
+<ul>
+  <li>
+Ben je geboeid door dit onderwerp aan de frontlinie van hedendaags materiaalonderzoek?
+  </li>
+  <li>
+Heb je zin om te werken in een wetenschappelijk kader met directe link naar industriële applicatie? 
+  </li>
+  <li>
+Zie je jezelf in een jong en dynamisch team? 
+</li>
+</ul>
+<p>
+Contacteer ons dan nu!
+</p>
+<ul>
+<li>
+prof. dr. J. Mullens < ! - - : jules.mullens@uhasselt.be - - >  
+  </li>
+  <li>
+prof. dr. M.K. Van Bael: marlies.vanbael@uhasselt.be 
+  </li>
+  <li>
+dr. H. Van den Rul < ! - - : heidi.vandenrul@uhasselt.be - - > 
+  </li>
+  <li>
+dr. A. Hardy < ! - - : an.hardy@uhasselt.be - - > 
+  </li>
+ </ul>
+<p>
+Universiteit Hasselt | Inorganic &amp; Physical Chemistry  
+</p>
+<p>
+Institute for Materials Research | Metal Oxide Nanomaterials group 
+</p>
+<p>
+IMEC vzw division IMOMEC 
+</p>
+<p>
+Agoralaan building D 
+</p>
+<p>
+BE 3590 Diepenbeek | Belgium 
+</p>
+<p>
+ Tel: +32-11-268393 | fax +32-11-268301
+</p>
+      </section>
+  -->       
+       
+       
+       
+<!-- 
+   Niet gekozen 8/10/2007
+      <anchor id="gatedielektrica"/>
+      <section>
+        <title>Aanmaak en materiaalkundige studie van high-K metaaloxiden voor alternatieve gate diëlektrica</title>
+<p>        
+De toenemende vraag naar draagbare micro-elektronica is één van de drijvende krachten achter de miniaturisatie van transistoren in microprocessoren. Zo wordt een alsmaar hogere snelheid, geheugencapaciteit en kleinere afmeting, dus hogere performantie aan lagere kost gehaald. In de huidige "nano-elektronica" bereiken de traditioneel gebruikte materialen echter hun limieten: fenomenen die een gevolg zijn van de miniaturisatie geven aanleiding tot nadelige eigenschappen, zoals bv. verhoogde lekstromen over de transistor diëlektrica, die aanleiding geven tot een verkorting van de batterijlevensduur. Daardoor is het noodzakelijk de gebruikelijke materialen te vervangen door nieuwe, met eigenschappen die beter aangepast zijn aan de nanoomstandigheden. Deze nieuwe materialen zijn echter niet zomaar voorhanden: enerzijds kan men uit bestaande materialen een selectie doen na karakterisatie (bepaling van hun eigenschappen); anderzijds kan men nieuwe materialen synthetiseren, karakteriseren en hiermee de selectiepool en dus de kans om een ideale oplossing te vinden, vergroten. Dit laatste is precies het doel van dit eindwerk in de Metal Oxide Nanomaterials groep van de IMO-UHasselt. In de onderzoeksgroep werd een milieuvriendelijke, waterige synthesemethode ontwikkeld voor de bereiding van multimetaaloxides, die tijdens het eindwerk zal aangewend worden voor de synthese van potentiële alternatieve gate diëlektrica. Dit zijn materialen met hoge permittiviteit waarvan men verhoopt dat ze de doorgedreven miniaturisatie van de MOSFET zullen toelaten. De synthese omvat het bereiden van de materialen uitgaande van waterige multimetaalion-precursorgels. Deze worden door een geoptimaliseerde thermische behandeling omgezet tot fasezuivere, homogene multimetaaloxides. De materiaalkundige karakterisatie van deze materialen vormt het tweede luik van het eindwerk. Deze karakterisering zal uitgevoerd worden met behulp van infrarood- en/of Ramanspectroscopie. Verdere karakterisatie is mogelijk dankzij samenwerking met andere groepen binnen het Instituut voor Materiaalonderzoek (IMO) en het Interuniversitair Micro-Elektronica Centrum (IMEC). De resultaten van het eindwerk zullen bijdragen tot de ontdekking en selectie van nieuwe diëlektrische materialen voor poortdiëlektricumtoepassing in geavanceerde transistorstructuren.
+</p>
+
+<ul>
+  <li>
+Ben je geboeid door dit onderwerp aan de frontlinie van hedendaags materiaalonderzoek?
+  </li>
+  <li>
+Heb je zin om te werken in een wetenschappelijk kader met directe link naar industriële applicatie? 
+  </li>
+  <li>
+Zie je jezelf in een jong en dynamisch team? 
+</li>
+</ul>
+<p>
+Contacteer ons dan nu!
+</p>
+<ul>
+<li>
+prof. dr. J. Mullens< ! - -: jules.mullens@uhasselt.be - - >  
+  </li>
+  <li>
+prof. dr. M.K. Van Bael: marlies.vanbael@uhasselt.be 
+  </li>
+  <li>
+dr. H. Van den Rul < ! - -: heidi.vandenrul@uhasselt.be - - > 
+  </li>
+  <li>
+dr. A. Hardy < ! - -: an.hardy@uhasselt.be - - > 
+  </li>
+ </ul>
+<p>
+Universiteit Hasselt | Inorganic &amp; Physical Chemistry  
+</p>
+<p>
+Institute for Materials Research | Metal Oxide Nanomaterials group 
+</p>
+<p>
+IMEC vzw division IMOMEC 
+</p>
+<p>
+Agoralaan building D 
+</p>
+<p>
+BE 3590 Diepenbeek | Belgium 
+</p>
+<p>
+ Tel: +32-11-268393 | fax +32-11-268301
+</p>
+      </section>
+  -->
+  
+      <anchor id="gan"/>      
+      <section>
+        <title>Lichtgewicht DC voeding voor draagbare toestellen gebaseerd op nieuwe GaN transistors</title>      
+      
+        <p>
+Momenteel lopen we steeds meer rond met allerhande draagbare toestellen: GSM, MP3-player, PDA, portable computer, Digitaal fototoestel, … Al deze toestellen werken natuurlijk op batterijen en batterijen moeten worden opgeladen.
+En als je op reis gaat, merk je het wel: de lader van je GSM en zo is vaak groter en weegt vaak zwaarder dan je GSM zelf.
+De reden hiervoor ligt voor de hand: zoals in de cursus vermogenelektronica gezien werd, is hiervoor een schakelende voeding nodig en de verliezen van deze voeding worden in belangrijke mate bepaald door de vermogenverliezen van de schakelende transistor.
+Het gewicht wordt dan weer in belangrijke mate bepaald door de transformator (met “zware” magnetische kern).
+Voor beide problemen biedt de recent ontwikkelde GaN technologie een oplossing.
+De veel lagere aan-weerstand van deze transistors laat toe een veel kleinere vermogentransistor te gebruiken bij dezelfde stroom (omdat er minder koelvin nodig is) en de hogere schakelfrequentie aan dewelke deze transistors kunnen schakelen laat toe de transformator substantieel kleiner en lichter te nemen.
+Binnen IMEC worden prototypes van deze nieuwe GaN transistors ontwikkeld. Het onderwerp van dit eindwerk is deze nieuwe transistors te gebruiken in een klassiek ontwerp van een schakelende voeding en aan te tonen dat er met een kleinere transistor, aan een hogere schakelfrequentie en met een kleinere transformator kan gewerkt worden.
+En dit alles natuurlijk met een groter rendement.
+        </p>
+
+        <p>
+KHLim Promotor: dr.ir. Jan Genoe
+        </p>
+        <p>
+IMEC Promotor: dr. ir. Joff Derluyn
+        </p>
+      </section>
+
+      <anchor id="orgmem"/>      
+      <section>
+        <title>Autonoommeetsysteem voor retentietijdmetingen van organische geheugens</title>
+
+        <p>
+          Op IMEC wordt er onderzoek gedaan naar niet-vluchtige, resistief schakelende organische geheugens. De weerstand van deze geheugens is een functie van de programmatie. Voor dezelfde leesspanning hebben de geheugens een lage weerstand voor de AAN toestand, en een hoge weerstand voor de UIT toestand.
+        </p>
+
+        <p>
+          Het doel van dit eindwerk is het ontwerp, modelleren en simuleren van een systeem dat in staat is deze geheugens in de laag- of hoogresistieve toestand te schakelen. De koppeling tussen het meetsysteem en het geheugen dient contactloos te gebeuren, wat zal leiden tot een spanningsverlies ten gevolgde van de capacitieve koppeling. Daarom moet het ontworpen systeem het vereiste spanningsprofiel tussen -24V en +24V met een nauwkeurige timing kunnen aanleggen. Deze timing wordt gecontroleerd door een microcontroller die het gewenste profiel van een applicatie op pc binnenkrijgt via USB.
+        </p>
+        <p>
+          Dagelijkse begeleider: Robert Muller
+        </p>
+        <p>
+          Promotor: Jan Genoe       
+        </p>
+    </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <anchor id="voip"/>      
+      <section>
+        <title>Integratie van een VoIP client op een embedded systeem</title>
+
+<p>
+Momenteel zijn we bezig met het ontwerpen van een intercom systeem
+gebaseerd op een Open Source PBX (Asterisk).
+Het is de bedoeling dat we via dit systeem intercom functionaliteit gaan
+voorzien, gebruik makend van de netwerk infrastructuur die reeds
+gebruikt wordt voor het distribueren van licht stuur signalen. De
+bedoeling is te komen tot een netwerk systeem (backbone) waarop
+verschillende show control (licht sturing, audio, intercom, ...)
+toepassingen zullen lopen.
+</p>
+<p>
+Het afstudeer project is een aanvulling voor dit intercom master station
+(PBX). Namelijk het integreren van een client die kan communiceren met
+masterstation(s) via virtuele conference rooms.
+</p>
+<p>
+Afhankelijk van hoever we dan zullen staan met het project zal het ofwel
+VoIP integratie zijn, ofwel webcam. Spraak (VoIP) zal op de eerste
+plaats komen, maar video is de volgende stap in het intercom systeem.
+</p>
+<p>
+
+Momenteel staat het project nog echt in zijn kinderschoenen, en zal het
+afstudeerwerk dus afhankelijk zijn van wat we al zelf ontworpen hebben.
+Indien het dergelijke vooruitgang heeft gekend alvorens de student hier
+zou kunnen beginnen, zal er zeker een mogelijkheid zijn om hem een ander
+gelijkend project aan te bieden. We zijn voortdurend bezig met de
+laatste nieuwe ontwikkelingen voor show control. Al onze reeds
+gerealiseerde producten zijn gebaseerd op embedded  systemen met Linux
+als OS.
+</p>
+<p>
+Naaste deze embedded systemen  ontwikkelen we ook PC applicatie voor het
+monitoren/configureren van deze systemen. Een GUI dus die via netwerk
+communiceert met onze hardware. Deze applicatie maken intensief gebruik
+van Qt. Dit zou dus ook nog mogelijkheden kunnen bieden tot een
+afstudeer project.
+</p>
+<p>
+
+Aspecten:
+</p>
+<ul>
+<li>
+Embedded systemen (vb: gumstix)
+</li>
+<li>
+Embedded linux
+</li>
+<li>
+C/C++ programmeren
+</li>
+<li>
+I2C bus
+</li>
+<li>
+builtroot, cross-compile
+</li>
+<li>
+Qt
+</li>
+</ul>
+
+<p>
+Links:
+</p>
+<ul>
+<li>
+Mogelijk hardware platform: <link href="http://www.gumstix.com">www.gumstix.com</link>
+</li>
+<li>
+Open source PBX: <link href="http://www.asterisk.org/">www.asterisk.org</link>
+</li>
+<li>
+Qt development: <link href="http://www.trolltech.com">www.trolltech.com</link>
+</li>
+</ul>
+
+<p>
+Promotor bedrijf: Bart Swinnen
+</p>
+
+<p>
+LUMINEX
+</p>
+<p>
+Lighting Control Equipment bvba
+</p>
+<p>
+Berkenlaan 8a
+</p>
+<p>
+3940 Hechtel - Eksel
+</p>
+<p>
+Belgie
+</p>
+<p>
+tel: +32 11 812189
+</p>
+<p>
+fax: +32 11 735260
+</p>
+<p>
+gsm: +32 485 857950
+</p>
+<p>
+email: bart.swinnen@luminex.be
+</p>
+<p>
+<link href="http://www.luminex.be">www.luminex.be</link>
+</p>
+<!-- 
+promotor school: Leo Rutten
+-->
+      </section>
+
+
+
+
+      <anchor id="staublirobot"/>
+      <section>
+        <title>Aansturen van een Staubli robot d.m.v. een FPGA + powerpc</title>
+
+        <p>
+De robots uit het PMA lab (<link href="http://www.mech.kuleuven.be/robotics/acm/research.html">www.mech.kuleuven.be/robotics/acm/research.html</link>) van de KULeuven, afdeling mechanica, zijn losgekoppeld van de 
+originele (meegeleverde) controller en worden op dit moment aangestuurd door een 'normale' PC met bijhorende interfacekaarten. 
+De kostprijs van deze hardware is +-4000 euro, waarvan +-1000 euro voor de PC en +-3000 euro voor de interfacekaarten.
+Om deze kost te drukken wilt men de interfacekaarten tussen de robot 
+en het 'open source' robotbesturingsprogramma OROCOS (<link href="http://www.orocos.org">www.orocos.org</link>) 
+vervangen door de herprogrammeerbare hardware van de virtex-II pro (<link href="http://www.xilinx.com/univ/xupv2p.html">www.xilinx.com/univ/xupv2p.html</link>) Field Programmable Grid Array (FPGA). 
+Op die manier wordt het mogelijk om de verschillende dure interfacekaart te vervangen door de flexibele, goedkope herprogrammeerbare hardware van 
+een FPGA. Deze FPGA is via een System on Chip (SOC, <link href="http://en.wikipedia.org/wiki/System-on-a-chip">en.wikipedia.org/wiki/System-on-a-chip</link>) gekoppeld aan een Powerpc waarop OROCOS geinstallleerd is en die instaat voor de controle.
+</p>
+<p>
+
+De werking ervan is als volgt: 
+</p>
+<p>
+De Powerpc schrijft stuurgegevens naar de  FPGA(snelheden, statusgegevens, ...) voor elke motor van de robot en vraagt de toestand (posities, einddetectorsignalen, â¦) van de motoren op. Naargelang het type motor en het type positie-opnemer kan de FPGA anders geprogrammeerd worden, zodat  voldoende flexibileit aanwezig voor uitbreiding naar ander types van robots.
+Deze SOC aanpak laat toe van voor een lagere prijs (+- 2000 euro) en een kleiner volume een flexibele en uitbreidbare controller + interfacing te ontwerpen.  
+</p>
+
+<p>
+Opdrachten:
+</p>
+<ul>
+<li>
+literatuurstudie (FPGA, orocos, interfacing, ...) 30%
+</li>
+<li>
+implementatie (C++, VHDL) 50 %
+</li>
+<li>
+experimenten 20%
+</li>
+<li>
+begeleiders: Peter Slaets 
+</li>
+
+</ul>
+
+      </section>
+
+
+
+<!-- 
+   Niet gekozen 8/10/2007
+
+      <anchor id="realtimevisie"/>      
+      <section>
+        <title>Real-time visuele controle met behulp van een FPGA</title> 
+
+<p>
+Dit eindwerk beoogt de interfacing en verwerking van camerabeelden via een virtexII-pro FPGA (<link href="http://www.xilinx.com/univ/xupv2p.html">www.xilinx.com/univ/xupv2p.html</link>). 
+Aangezien deze FPGA beschikt over een ingebouwde powerpc is het mogelijk om aan hardware-software 
+codesign te doen. Dit codesign maakt het mogelijk om de tijdrovende beeldverwerkingsoperatie uit te 
+voeren op de FPGA terwijl het binnenlezen van de beelden via de powerpc gebeurt. 
+</p>
+<p>
+Voor dit eindwerk werd gekozen om het ISEF algoritme (<link href="http://pages.cpsc.ucalgary.ca/~parker/501/edgedetect.pdf">pages.cpsc.ucalgary.ca/~parker/501/edgedetect.pdf</link>) te combineren 
+met de Hough transformaties voor de lijndetectie. Beide algoritmes worden heel vaak gebruikt om objecten te localiseren in een omgeving. 
+De software versie van deze algoritmes zijn verkrijgbaar via de openCV bibliotheek (<link href="http://www.intel.com/technology/computing/opencv/">www.intel.com/technology/computing/opencv/</link>) en 
+moeten qua snelheid vergeleken worden met de hardware implementatie op de FPGA.
+</p>
+
+<p>
+Opdrachten:
+</p>
+
+<ul>
+<li>
+literatuurstudie (FPGA, visie, codesign, ...) 20%
+</li>
+<li>
+implementatie (C++, VHDL) 60 %
+</li>
+<li>
+experimenten 20%
+</li>
+<li>
+begeleiders: Peter Slaets 
+</li>
+</ul>
+      </section>
+  -->
+
+  
+  
+      <anchor id="visiefpga"/>      
+      <section>
+        <title>Visie algoritmes op een FPGA</title> 
+<p>
+Dit eindwerk beoogt de verwerking van camerabeelden via een virtexII-pro FPGA 
+(<link href="http://www.xilinx.com/univ/xupv2p.html">www.xilinx.com/univ/xupv2p.html</link>). 
+Aangezien deze FPGA beschikt over een ingebouwde powerpc is het mogelijk om aan hardware-software 
+codesign te doen. Dit codesign maakt het mogelijk om de tijdrovende beeldverwerkingsoperatie uit te 
+voeren op de FPGA terwijl ander operaties op de powerpc gebeuren. 
+</p>
+<p>
+Voor dit eindwerk werd gekozen om het ISEF algoritme 
+(<link href="http://pages.cpsc.ucalgary.ca/~parker/501/edgedetect.pdf">pages.cpsc.ucalgary.ca/~parker/501/edgedetect.pdf</link>) 
+te combineren met de Hough transformaties voor de lijndetectie. 
+Beide algoritmes worden heel vaak gebruikt om objecten te localiseren in een omgeving. 
+De software versie van deze algoritmes zijn verkrijgbaar via de openCV bibliotheek 
+(<link href="http://www.intel.com/technology/computing/opencv/">www.intel.com/technology/computing/opencv/</link>) 
+en moeten qua snelheid vergeleken worden met de hardware implementatie op de FPGA.
+</p>
+
+
+
+<p>
+Opdrachten:
+</p>
+
+<ul>
+<li>
+literatuurstudie (FPGA, visie, codesign, ...) 20%
+</li>
+<li>
+implementatie (C++, VHDL) 60 %
+</li>
+<li>
+experimenten 20%
+</li>
+<li>
+begeleiders: Peter Slaets 
+</li>
+</ul>
+      </section>
+  
+
+<!-- 
+   Niet gekozen 8/10/2007
+      <anchor id="softcoreprocessor"/>      
+      <section>
+        <title>Ontwikkelen van geavanceerde 32-bit softcore processor voor dataverwerking</title>
+
+<p>
+In dit eindwerk dient een student een bestaande softcore processor (<link href="http://www.opencores.org/browse.cgi/by_category">www.opencores.org/browse.cgi/by_category</link>) die geimplementeerd is in VHDL 
+uit te breiden met een extra rekeneenheid die het mogelijk maakt tegen zeer hoge snelheden eigenwaarde ontbindingen uit te voeren. 
+</p>
+<p>
+De softcore wordt ontwikkeld op een Soc platform (virtexII-pro FPGA (<link href="http://www.xilinx.com/univ/xupv2p.html">www.xilinx.com/univ/xupv2p.html</link>) waarbij er twee powerpc's, een FPGA op een IC geplaatst zijn verbonden met USB-poort, PS-2, ATA, RS232, ... 
+De geavanceerde softcore wordt getest door een USB-camera aan te sluiten en uit de beelden in real-time via een PCA-analyse (<link href="http://en.wikipedia.org/wiki/Karhunen-Loève_transform">en.wikipedia.org/wiki/Karhunen-LoÃ¨ve_transform</link>) de verschillende letter automatisch te herkennen. 
+</p>
+<p>
+
+Opdrachten:
+</p>
+<ul>
+<li>
+literatuurstudie (softcore, SVD) 20%
+</li>
+<li>
+implementatie (C++/C) 60%
+</li>
+<li>
+experimenten (USB-camera ) 20%
+</li>
+<li>
+begeleiders: Peter Slaets
+</li>
+</ul>
+ </section>
+ 
+   -->
+ 
+ 
+ 
+      <anchor id="servermonitoring"/>      
+      <section>
+        <title>Ontwikkeling van monitoring software voor een Apache-PHP studentenwebserver</title>
+        
+
+<p>
+De combinatie Apache en PHP-mysql wordt bijzonder veel gebruikt als 
+platform voor web-gebaseerde applicaties. Ook binnen onze school wordt dit 
+gebruikt, bv. bij de opleiding "communicatie- en multimediadesign" (c-md) in 
+Genk, bij INF3 voor 3ABA EM/EL, voor de stages van de professionele 
+bachelor, ...
+</p>
+<p>
+De promotor van deze masterproef is administrator van de machine 
+cmdstud.khlim.be waarop elke student van de opleiding c-md een login 
+gekregen heeft. Probleem is nu dat niet elke student even zorgvuldig 
+omspringt met zijn account en dat een enkele student illegale bestanden 
+aanbiedt. Erger is nog dat er (misdadige) spam- en andere bots misbruik 
+proberen te maken van onzorgvuldige geschreven scripts.
+</p>
+<p>
+Er bestaan natuurlijk tools en filters om die spambots het werk moeilijk te 
+maken, maar deze middelen (bv. een spamfilter) werken vooral op server-
+niveau en minder op gebruikersniveau. Het zou interessant zijn om 
+gebruikers te monitoren i.p.v. het systeem in zijn geheel en signalen te 
+geven wanneer een bepaalde gebruiker plots veel downloads krijgt, of veel 
+mails verstuurt, of veel buitenlandse bezoekers, ... 
+</p>
+<p>
+In deze masterproef moet ten eerste onderzocht worden welke 
+gebeurtenissen als verdacht beschouwd mogen worden -- eventueel met 
+verschillende prioriteiten -- , hoe alarmrapporten best verstuurd worden, en 
+welke tools hiervoor al bestaan op server- of gebruikersniveau. 
+Op basis van een analyse van deze gegevens moet dan beslist worden 
+welke tools weerhouden worden voor verder gebruik en/of welke nieuwe 
+tools ontwikkeld dienen te worden.
+De kans is groot dat er hierbij patches van de bestaande php-broncode 
+ontwikkeld moeten worden. 
+</p>
+<p>
+Indien de tijd dit toelaat, kan extra beheerssoftware voor deze tools 
+ontwikkeld worden, bv. om de alarmniveaus in te stellen.
+</p>
+<p>
+De antwoorden op de meeste van deze vragen zijn open: op die manier kan 
+de student nog volop eigen keuzes maken en een waardige masterproef 
+afleggen.
+</p>
+<p>
+Te gebruiken kennis: C, PHP, Linux, internet, eventueel Perl of bash
+</p>
+<p>
+Promotor: dr. Kris Aerts
+</p>
+<p>
+Aantal studenten: 1 of 2
+</p>
+</section>
+
+
+      <anchor id="rng"/>      
+      <section>
+        <title>Het genereren van random getallen op Virtex-5 FPGAs</title>
+
+<p>        
+Beschrijving:
+</p>
+<p>
+Het genereren van random getallen is zeer belangrijk voor toepassingen die te maken hebben met het beveiligen van vertrouwelijke gegevens.
+Wanneer een aanvaller, dit is iemand die de vertrouwelijke informatie onrechtmatig wil verkrijgen, kan voorspellen welk random getal zal gegenereerd worden, 
+gaat dit ten koste van de veiligheid van het systeem. Het is daarom zeer belangrijk dat cryptografische systemen,
+dit zijn systemen die zorgen voor de beveiliging van digitale data, in het bezit zijn van een "Random Number Generator" (RNG).
+Omdat FPGAs tegenwoordig niet meer uitsluitend gebruikt worden als prototype van een systeem, maar meer en meer als eindproduct, is het belangrijk om goede RNGs
+specifiek voor FPGAs te ontwerpen. FPGAs van de Virtex-5 familie, dit is de nieuwste Xilinx FPGA reeks, bevatten een analoge Phase Locked Loop (PLL).
+Dit is een component die gebruikt wordt om signalen te genereren op een bepaalde frequentie. Door zeer kleine variaties, die ongewild optreden in
+zowel ASICs als FPGAs, zal de frequentie en/of duty cycle van de gegenereerde signalen echter nooit perfect hetzelfde zijn.
+Op basis van deze onvoorspelbare variaties is het mogelijk om onvoorspelbare random getallen te genereren. Aangezien Virtex-5 FPGAs pas in 2006 op de markt
+zijn gebracht, zijn er nog geen resultaten bekend over RNGs op basis van de analoge PLLs op Virtex-5 FPGAs.
+</p>
+<p>
+Dit eindwerk bestaat uit de volgende stappen:
+</p>
+<ul>
+<li>
+studie van de basisconcepten van de cryptografie met speciale aandacht voor de rol van RNGs in cryptografische systemen
+</li>
+<li>
+studie van RNGs op basis van analoge PLLs
+</li>
+<li>
+aansturing van een analoge PLL in een Virtex-5 FPGA
+</li>
+<li>
+VHDL implementatie van de controle logica voor het aansturen van de analoge PLL en verwerkingslogica voor het omzetten van de onvoorspelbare variaties in random getallen.
+</li>
+<li>
+implementatie van een praktische verificatie omgeving voor het testen van de "randomness" van de getallen (hiervoor bestaan gestandaardiseerde testalgoritmen)
+</li>
+</ul>
+
+<p>
+Aard van het werk:
+</p>
+<ul>
+<li>
+20% literatuurstudie
+</li>
+<li>
+80% praktisch werk
+</li>
+</ul>
+<p>
+Aantal studenten: 1 of 2
+</p>
+      </section>
+
+      <anchor id="reconf"/>      
+      <section>
+        <title>Beveiliging van cryptografische systemen door middel van dynamische herconfiguratie</title>
+
+<p>        
+Beschrijving:
+</p>
+<p>
+Een systeem dat gedeeltelijk dynamisch herconfigureerbaar is, kan na ingebruikname meermaals gedeeltelijk opnieuw geconfigureerd
+worden. Daar waar een standaard FPGA op elk moment opnieuw geconfigureerd kan worden en een standaard ASIC helemaal niet configureerbaar is, zijn herconfigureerbare
+systemen een mengeling van de twee. Een gedeeltelijk herconfigureerbare implementatie bevat een vast gedeelte en een
+herconfigureerbaar gedeelte. Het nut van dit soort systemen ligt in het feit dat het systeem voor verschillende doelen kan geconfigureerd worden zonder
+aan snelheid of performantie te moeten inboeten. Een voorbeeld waar gedeeltelijke herconfigureerbaarheid gebruikt wordt, komt uit de beeldverwerking. Indien
+dezelfde chip gebruikt wordt voor het comprimeren van verschillende beelden, maar de kwaliteit van de gecomprimeerde beelden moet niet steeds hetzelfde zijn,
+kan een gedeelte van de chip geconfigureerd worden afhankelijk van de beoogde kwaliteit. Een ander gedeelte van de chip, dat niet verandert wanneer de
+kwaliteit van de beelden verandert, kan vast blijven en hoeft dus niet configureerbaar te zijn. Het grote voordeel van dynamische herconfigureerbaarheid in
+dit voorbeeld, is het besparen van chipoppervlakte. Zonder gedeeltelijke dynamische herconfigureerbaarheid zou de chip immers voor elke verschillende
+compressie-methode een apart verschillend bouwblok moeten bevatten. Door gebruik te maken van dynamische herconfigureerbaarheid wordt het compressie-blok
+steeds vervangen afhankelijk van de beoogde beeldkwaliteit. Moderne FPGAs kunnen gedeeltelijk opnieuw geconfigureerd worden terwijl een ander gedeelte "vast"
+is en bewerkingen uitvoert.
+</p>
+<p>
+In dit eindwerk proberen we het nut van dynamisch herconfigureerbare systemen aan te tonen voor toepassingen in de cryptografie. Met behulp van cryptografie
+kan geheime informatie uitgewisseld worden over een publiek kanaal. Daarvoor wordt de informatie voor de verzending eerst vercijferd of geëncrypteerd
+met behulp van een encryptie-algoritme, dat bijvoorbeeld op een chip is geïmplementeerd. De ontvanger van de vercijferde boodschap kan de boodschap dan
+ontcijferen of decrypteren. Een aanvaller, die onrechtmatig de geheime informatie probeert te achterhalen, kan gebruik maken van verschillende
+aanvalstechnieken. Eén van die technieken is het meten van het vermogenverbruik van de encryptie-chip terwijl die chip een encryptie aan het uitvoeren is.
+Uit dit vermogenverbruik kan dikwijls geheime informatie worden afgeleid indien de aanvaller op de hoogte is van de manier waarop het algoritme op de chip
+geïmplementeerd is. Om dit soort aanvallen te verkomen, kan de encryptie-chip dynamisch herconfigureerbaar gemaakt worden opdat de aanvaller niets meer
+zou kunnen afleiden uit het vermogenverbruik van de chip. Dit betekent dat de delen van de chip die cruciaal zijn voor de veiligheid van de encryptie steeds
+op een andere manier geïmplementeerd zullen worden na elke herconfiguratie, zodat de aanvaller geen geheime informatie uit het vermogenverbruik kan halen.
+De functie van het te herconfigureren gedeelte moet natuurlijk wel hetzelfde blijven, enkel de implementatie van de functie moet telkens veranderd worden.
+</p>
+<p>
+Het eindwerk bestaat uit de volgende stappen:
+</p>
+<ul>
+<li>
+studie van de basisconcepten van de cryptografie met speciale aandacht voor vermogenaanvallen
+</li>
+<li>
+studie van gedeeltelijke dynamische herconfiguratie op moderne FPGAs
+</li>
+<li>
+implementatie van een cryptografisch basisalgoritme op een FPGA met behulp van VHDL
+</li>
+<li>
+invoering van gedeeltelijke dynamische herconfigureerbaarheid in het algoritme
+</li>
+<li>
+realisatie van een praktische opstelling waarbij de verschillende bitstreams voor het (her)configureren van de FPGA automatisch worden gegenereerd
+</li>
+<li>
+verificatie van de veiligheid van het systeem in vergelijking met standaard systemen in samenwerking met experts op het gebied van vermogenaanvallen
+</li>
+</ul>
+
+<p>
+Aard van het werk:
+</p>
+<ul>
+<li>
+20% literatuurstudie
+</li>
+<li>
+80% praktisch werk
+</li>
+</ul>
+
+<p>
+Aantal studenten: 1 of 2
+</p>
+      </section>
+
+      <!-- 
+   
+   Dit eindwerk is van titel veranderd   
+      
+      <anchor id="hash"/>      
+      <section>
+        <title>Aanvallen van hashfuncties met behulp van FPGAs</title>
+
+<p>        
+Beschrijving:
+</p>
+<p>
+Een hashfunctie is een functie die een boodschap van een willekeurige lengte omzet in een sequentie van bits van een vaste lengte. Een hashfunctie kan
+bijvoorbeeld gebruikt worden om de hashwaarde van alle bestanden op een computer te berekenen voor men op reis gaat. Bij het terugkeren, kan opnieuw de
+hashwaarde van alle bestanden berekend worden. Indien de hashwaarden voor en na de reis overeenkomen, weet men dat niemand de bestanden heeft aangepast.
+Iemand die toch de bestanden aanpast, zal ervoor zorgen dat de hashwaarde na de reis verschillend zal zijn dan de hashwaarde voor de reis.
+Een hashfunctie is veilig wanneer het praktisch onmogelijk is om vanuit de hashwaarde de boodschap(pen) te berekenen. Het moet praktisch ook onmogelijk
+zijn om een tweede boodschap te vinden die leidt tot dezelfde hashwaarde. Aanvallen op hashfuncties proberen deze voorwaarden te omzeilen. Over de
+gestandaardiseerde hashfunctie SHA-1 ontstond de afgelopen jaren veel commotie toen Chinese onderzoekers aantoonden hoe twee boodschappen kunnen gevonden
+worden die leiden tot dezelfde SHA-1 hashwaarde. Deze aanval kan echter enkel praktisch gerealiseerd worden met behulp van duizenden parallelle computers.
+Omdat hardware implementaties veel snellere berekeningen kunnen uitvoeren dan implementaties op de processor van een computer, kan de aanval op SHA-1
+veel beter in de praktijk gebracht worden met behulp van parallelle hardware implementaties. In dit eindwerk gaan we de eigenschappen na van een SHA-1 FPGA
+implementatie gespecialiseerd voor het uitvoeren van de aanval ontwikkeld door de Chinese onderzoekers.
+</p>
+<p>
+Het eindwerk bestaat uit de volgende stappen:
+</p>
+
+<ul>
+<li>
+studie van de basisconcepten van de cryptografie met speciale aandacht voor hashfuncties
+</li>
+<li>
+studie van de aanval op SHA-1 van de Chinese onderzoekers
+</li>
+<li>
+implementatie van SHA-1 en het algoritme voor het uitvoeren van de aanval op een FPGA met behulp van VHDL
+</li>
+<li>
+rapportering van de snelheid en de oppervlakte van de implementatie op een FPGA
+</li>
+<li>
+realisatie van een praktische opstelling waarbij verschillende FPGAs in parallel meewerken aan de aanval
+</li>
+</ul>
+
+<p>
+Aard van het werk:
+</p>
+<ul>
+<li>
+20% literatuurstudie
+</li>
+<li>
+80% praktisch werk
+</li>
+</ul>
+
+<p>
+Aantal studenten: 1 of 2
+</p>
+      </section>
+-->
+      <anchor id="dsp"/>      
+      <section>
+        <title>Implementatie van efficiënte coprocessoren voor cryptografische toepassingen op Virtex-4 en Virtex-5 FPGAs</title>
+
+<p>Beschrijving</p>
+
+<p>
+Wanneer twee personen geheime informatie willen uitwisselen over een publiek kanaal, kunnen ze de informatie vercijferd of geëncrypteerd doorsturen.
+Dit houdt in dat de zender de digitale data met behulp van een encryptie-algoritme vercijfert alvorens ze te versturen. Zo'n encryptie-algoritme bestaat
+doorgaans uit wiskundige bewerkingen met als input de te vercijferen bits en een geheime, vooraf afgesproken "sleutel". In het bezit van de sleutel kan
+de ontvanger de vercijferde boodschap opnieuw ontcijferen of decrypteren. Belangrijk in deze opstelling is dat de geheime sleutel op voorhand moet worden
+afgesproken tussen beide partijen. De geheime sleutel moet koste wat kost uit de handen van een aanvaller blijven, dit is iemand die de geheime informatie
+onrechtmatig wil bekomen. Zeer vindingrijke technieken, die reeds tientallen jaren geleden zijn uitgevonden, laten toe om een geheime sleutel af te spreken
+over een publiek kanaal. Dit wil zeggen dat twee gebruikers een gemeenschappelijke geheime sleutel kunnen afspreken door enkel informatie over een publiek kanaal
+uit te wisselen. Zelfs indien een aanvaller alle uitgewisselde boodschappen kan onderscheppen, kan hij in geen geval de geheime sleutel te weten komen. De
+tak van de cryptografie die zich bezighoudt met dit soort technieken wordt "publieke sleutel cryptografie" genoemd. De veiligheid van publieke sleutel
+cryptografie is in grote mate gebaseerd op modulaire wiskunde. Publieke sleutel implementaties bestaan dan ook vooral uit modulaire optellers/aftrekkers
+en modulaire vermenigvuldigers. Modulaire optellers/aftrekkers kunnen op een kleine oppervlakte gerealiseerd worden en hebben een grote uitvoeringssnelheid.
+Modulaire vermenigvuldigers, daarentegen, nemen een grotere oppervlakte in en een modulaire vermenigvuldiging zal eveneens meer tijdrovend zijn dan een
+modulaire optelling/aftrekking. Daarom gaat er in het onderzoek naar efficiënte publieke sleutel implementaties veel aandacht naar het ontwerp van modulaire
+vermenigvuldigers. Omdat FPGAs niet enkel meer als prototype gebruikt worden, maar meer en meer als eindproduct, is het belangrijk om efficiënte modulaire
+vermenigvuldigers te onwerpen specifiek voor FPGAs. Enkele welgekende algoritmen voor modulaire vermenigvuldiging bestaan uit (niet-modulaire) gehele
+getallen vermenigvuldigingen en optellingen. Spartan-3 en Virtex-II Pro FPGAs van Xilinx bevatten speciale 18-bit gehele getallen vermenigvuldigers,
+die kunnen gebruikt worden voor het implementeren van modulaire vermenigvuldigers. Het nut van deze 18-bit vermenigvuldigers in het realiseren van
+modulaire vermenigvuldigers is reeds meermaals aangetoond. Wat echter nog nooit is nagegaan, is de efficiëntie van modulaire vermenigvuldigers op de
+nieuwste Xilinx FPGAs, namelijk Virtex-4 en Virtex-5. Er wordt verwacht dat deze FPGAs alle voorgaande implementaties kunnen overtreffen door de aanwezigheid
+van speciale DSP (Digital Signal Processing) blokken. Deze voorgedefinieerde bouwblokken kunnen niet enkel een gehele getallen vermenigvuldiging uitvoeren,
+maar ook een gehele getallen vermenigvuldiging gevolgd door een gehele getallen optelling. Ze zijn dus geoptimaliseerd voor de berekening van A*B+C, terwijl
+oudere FPGAs enkel A*B optimaal kunnen uitvoeren. Deze observatie wordt verwacht zeer nuttig te zijn in het ontwerp van nieuwe coprocessoren voor
+publieke sleutel cryptografie. Met dit eindwerk proberen we deze veronderstelling te staven aan de hand van een praktische FPGA implementatie.
+</p>
+<p>
+Het eindwerk bestaat uit de volgende stappen:
+</p>
+
+<ul>
+<li>
+studie van de basisconcepten van de cryptografie met speciale aandacht voor publieke sleutel cryptografie
+</li>
+<li>
+studie van algoritmen voor modulaire vermenigvuldiging
+</li>
+<li>
+aansturing van de speciale DSP blokken in Virtex-4 en Virtex-5 FPGAs
+</li>
+<li>
+integratie van de DSP blokken in modulaire vermenigvuldigers met behulp van VHDL
+</li>
+<li>
+verificatie van de praktische implementatie aan de hand van testvectoren
+</li>
+<li>
+rapportering over de eigenschappen van de implementatie met betrekking tot oppervlakte en snelheid
+</li>
+<li>
+vergelijking van de gerealiseerde implementatie op een Virtex-4 of Virtex-5 FPGA met reeds geïmplementeerde modulaire vermenigvuldigers op oudere FPGAs
+</li>
+</ul>
+
+<p>
+Aard van het werk:
+</p>
+<ul>
+<li>
+30% literatuurstudie
+</li>
+<li>
+70% praktisch werk
+</li>
+</ul>
+
+<p>
+Aantal studenten: 1 of 2
+</p>
+      </section>
+
+
+ 
+<!-- 
+   Niet gekozen 8/10/2007
+   
+      <anchor id="fabriekvis"/>
+      <section>
+        <title>Visualisatie van een fabrieksbesturing</title>
+
+<p>
+Het doel van dit eindwerk is het uitbreiden van een bestaande webinterface voor het simuleren van fabrieksbesturingen.
+De simulatie bestaat uit Java software en is ontworpen in het kader van onderzoeksprojecten in dynamische productiesystemen bij
+PMA, KULeuven. Dynamisch betekent hier dat het planningsschema, dat op voorhand opgesteld is, nog tijdens de productie
+gewijzigd kan worden in een optimalere vorm. De Java software kan via WebStart vanuit de browser gestart worden.
+</p>
+
+<p>
+Het eerste deel van het eindwerk omvat het bijvoegen van de Hanomag case. In deze case wordt de bestaande Hanomag fabriek in Hannover als
+voorbeeld genomen.
+Het tweede deel bestaat uit het aanpasbaar maken van bepaalde bedrijfsparameters via de webinterface.
+</p>
+<p>
+Aantal studenten: 2
+</p>
+      </section>
+-->
+      
+      <anchor id="fabriekemul"/>
+      <section>
+        <title>Samenstelling van meerdere entiteiten in emulatie van een fabriek</title>
+
+<p>
+Het simuleren van een fabriek wordt uitgevoerd met Java software en is ontworpen in het kader van onderzoeksprojecten in dynamische productiesystemen bij
+PMA, KULeuven. Dynamisch betekent hier dat het planningsschema, dat op voorhand opgesteld is, nog tijdens de productie
+gewijzigd kan worden. Deze wijzigingen zorgen ervoor dat de productie optimaler verloopt. Er worden speciale agenttechnieken gebruikt
+die ervoor zorgen dat het planningsschema geoptimaliseerd wordt. Om aan te tonen dat deze technieken werken is de Java software geschreven.
+Deze software bestaat uit twee delen: de emulatie en de controller. In de emulatie wordt een complete (of deel van een) fabriek geëmuleerd.
+De werking ervan wordt in een gesimuleerde tijd uitgevoerd. Daarnaast bestaat er ook de controller. Deze zorgt voor de planning  van de fabriek.
+De controller voert de algoritmes uit om de planning te optimaliseren en volgt de orders die in de fabriek lopen.
+</p>
+<p>
+Het doel van het eindwerk is implementeren van een oplossing voor
+het probleem dat ontstaat wanneer twee entiteiten in de fabriek (bijvoorbeeld een robot en een transportband) van elkaar afhankelijk zijn.
+Dit betekent dat de emulatie uitgebreid moet worden met de nodige datastructuren en algoritmes. De te ontwerpen software wordt in Java geschreven.
+</p>
+<p>
+Aantal studenten: 1
+</p>
+
+      </section>
+
+<!--      
+      <anchor id="cornfs"/>
+      <section>
+        <title>Aanpassing van cornfs aan een laboomgeving</title>
+
+<p>
+cornfs is een experimenteel bestandensysteem dat draait bovenop Fuse. Fuse is een bibliotheek waarmee bestandensystemen voor user
+mode kunnen ontworpen worden. Dit betekent dat de implementatie van het bestandensysteem niet als een driver in de kernel maar wel als een gewoon
+user mode proces draait. cornfs zorgt ervoor dat elk bestand dat geschreven wordt ten minste naar twee server pc's geschreven wordt. Dit betekent
+dat elk bestand zeker op twee andere pc's staat. Per bestand kan er voor telkens twee andere pc's gekozen worden. Het doel van het eindwerk is het aanpassen van de broncode van 
+cornfs zodat cornfs kan toegepast worden in een laboomgeving. In een labo worden de pc's regelmatig aan en uitgezet. Binnen het lab draait 
+de centrale server die nooit uitgaat en ook niet door studenten gebruikt wordt. Het is de centrale server die beslist op welke twee andere pc's
+in het labo bestanden geplaatst worden. De studenten komen en gaan in het labo en zijn vrij om pc's aan en uit te zetten.
+Elke student pc fungeert ook als fileserver voor cornfs. Er is per pc nog een grote partitie vrij voor de opslag van bestanden. Elk pc die start meldt zich aan bij de cenrale 
+server en bij het uitzetten meldt de pc zich af. Op deze manier weet de centrale server op elk moment welke pc's als fileserver
+toegankelijk zijn. Op basis hiervan kan de centrale server een strategie voor de opslag van de bestanden ontwikkelen.
+
+Op dit moment is cornfs niet aangepast aan de wisselende beschikbaarheid van de fileserver pc's. Deze aanpassing is het doel van het eindwerk.
+Na de aanpassing van cornsfs kan het hele labo gebruikt worden als opslag voor backup.
+</p>
+<p>
+Aantal studenten: 1
+</p>
+
+      </section>
+-->
+
+
+      <anchor id="simulator"/>
+      <section>
+        <title>Logische behavioural simulator voor IR13</title>
+
+        <p>
+De KULeuven heeft een project lopen “IR13: ingenieurs van 13 jaar”, waarbij het de bedoeling is 
+om leerlingen van ca 13 jaar (1e graad middelbaar onderwijs, vak TO) ingenieursvaardigheden aan te leren. 
+Het project wil de leerlingen leren omgaan met technische problemen zoals ingenieurs dat doen maar aangepast 
+aan hun niveau en hun ervaring. Daarvoor werd een hardware platform en 
+het nodige lesmateriaal ontworpen op basis van een lego trein. 
+De trein werd zo aangepast dat de hij gestuurd kan worden met behulp 
+van digitale logische modules: AND, OR poorten, flip flops, timers. Er zijn ook een aantal sensoren voorzien. 
+</p>
+<p>
+Het project loopt in samenwerking met de rvo-society en Lego. Het wordt gesponsord door de Vlaamse gemeenschap. 
+Voor meer info zie <link href="http://www.rvo-society.be/ned/IR13.htm">www.rvo-society.be/ned/IR13.htm</link>.
+</p>
+<p>
+Om de ontwerpmethode verder zo realistisch mogelijk te maken moet er in het project ook een simulatieplatform ontwikkeld worden. Het gaat hier om een simulator waar de IR13 modules op een eenvoudige manier kunnen in ingebracht worden (door een technicus). Eenmaal dit gebeurd kunnen de leerlingen met een grafische user interface de modules oproepen en verbinden. Daarna kan het gedrag gesimuleerd worden.
+Het eindwerk heeft als doel een eerste prototype voor deze simulator te ontwikkelen.
+</p>
+
+<p>
+Instelling: Kuleuven, departement elektrotechniek, afdeling MICAS
+</p>
+
+<p>
+Eindwerk voor 1 of 2 studenten
+</p>
+<p>
+Promotoren
+</p>
+<ul>
+  <li>
+Prof. Dr. ir. W. Dehaene (KULeuven)
+  </li>
+  <!--
+  <li>
+ir. N. Mentens (KHLim)
+  </li>
+  -->
+</ul>
+<p>
+Meer info:
+</p>
+<ul>
+<li>
+Wim.dehaene@esat.kuleuven.be
+  </li>
+  <li>
+Nele.mentens@esat.kuleuven.be
+  </li>
+  </ul>
+</section>
+
+
+
+      <anchor id="weerstation"/>
+      <section>
+        <title>Ontwerp van een weerstation</title>
+
+        <p>
+          Het doel van dit eindwerk is het ontwerpen van een weerstation dat windrichting, -snelheid, temperatuur en eventueel andere grootheden kan
+          opmeten. De verschillende sensoren worden met behulp van single board computers gegroepeerd in een Ethernet netwerk. In dit netwerk bevindt zich
+          ook een server die instaat voor de opslag van de meetwaarden in een object georienteerd database (db4o). Voor de visualisatie wordt er gebruik
+          gemaakt van allerlei apparaten zoals LCD displays, stappenmotoren, ...
+        </p>
+
+      </section>
+
+
+      
+      
+      
+<!-- 
+   Niet gekozen 8/10/2007
+      <anchor id="voicequality"/>
+      <section>
+        <title>Development of analysis method for mobile phone communication voice quality</title>
+        
+        <section>
+          <title>Option's activities</title>
+        <p>
+Option NV (www.option.com), the wireless technology company, is a leading innovator in the design, development and manufacture of 3G WCDMA (HSDPA and UMTS), EDGE, GPRS, GSM and WLAN technology products for wireless connectivity solutions. Option has built up an enviable reputation for creating exciting products that enhance the performance and functionality of wireless communications. Option's headquarters are in Leuven, Belgium. The company has Research &amp; Development in Leuven, a Software and Applications development centre in Adelsried (Germany), a Wireless Router development centre in Stockholm (Sweden), an ISO 9002 production engineering and logistics facility in Cork, Ireland and sales &amp; support offices in US, Japan and Taiwan.
+        </p>
+        </section>
+        
+        
+        <section>
+          <title>Internship description</title>
+        <p>
+Evolving from data-centric products Option has added speech calls as supported feature to its wide range of products. In order to ensure quality of developed products all products have to pass a series of standardized tests, which is highly automated within a test automation environment. Part of our tests is focusing on the quality of speech call made with the mobile phone. Different methods exist to asses the quality of the speech call connection. Starting from existing methods the student will have to build up a test methodology for this type of testing. The target of the internship will be to develop a generic system which is capable of assessing the quality of the different types of speech calls. Automation and reproducibility is important in this setup, due to the high number of developed products and the amount of regression testing that needs to be performed, both in lab and field environments. The students will go through the complete cycle from (brief) pre-study, design specification, architecture description, implementation, integration
+and testing. They will have to work independently, but with decent steering and follow-up from Option side. 
+        </p>
+        </section>
+        
+        <section>
+          <title>Skills</title>
+        <ul>
+        <li>
+Eager to learn about new technologies
+        </li>
+        <li>
+Open minded, team work, creative, innovative
+        </li>
+        </ul>
+        </section>
+        
+        <section>
+          <title>Profile</title>
+        <ul>
+        <li>
+Students Master in Electronics (2 students)
+        </li>
+        <li>
+the internship will start in July 2007
+</li>
+</ul>
+        </section>
+        <section>
+          <title>Contact</title>
+<p>
+For more information please contact: Davy Michiels T 016 317 411 d.michiels@option.com
+        </p>
+        
+        <p>
+Option nv
+        </p>
+        <p>
+Gaston Geenslaan 14
+        </p>
+        <p>
+3001 Leuven 
+        </p>
+        <p>
+T 016 317 411
+        </p>
+        <p>
+F 016 207 164
+        </p>
+        <p>
+www.option.com
+        </p>
+        <p>
+info@option.com
+        </p>
+       </section>
+      </section>
+-->
+
+
+
+
+
+
+
+<!-- 
+   Niet gekozen 8/10/2007
+      <anchor id="resourceman"/>
+      <section>
+        <title>Development of time and resource management module in test automation framework using PHP/MySQL</title>
+        <section>
+          <title>Option's activities</title>
+        <p>
+Option NV (www.option.com), the wireless technology company, is a leading innovator in the design, development and manufacture of 3G WCDMA (HSDPA and UMTS), EDGE, GPRS, GSM and WLAN technology products for wireless connectivity solutions. Option has built up an enviable reputation for creating exciting products that enhance the performance and functionality of wireless communications. Option's headquarters are in Leuven, Belgium. The company has Research &amp; Development in Leuven, a Software and Applications development centre in Adelsried (Germany), a Wireless Router development centre in Stockholm (Sweden), an ISO 9002 production engineering and logistics facility in Cork, Ireland and sales &amp; support offices in US, Japan and Taiwan.
+        </p>
+        
+        </section>
+        
+        
+        <section>
+          <title>Internship description</title>
+        <p>
+Internship description: Option focuses on delivering quality products to its customers. To reach this goal all types of developed products (hardware, device drivers, software applications, etc) need to be tested in different environments using automated test setups. In order to optimize the testing effort we want to extend our automation framework with a time and resource management module for lab equipment, test setups, etc. The module will become part of our existing automation framework which relies on a central server with a MySQL backend. Test clients connect to this server to retrieve tasks and to upload obtained test results. The central server hosts a PHP driven website as workplace for project managers, support engineers and test engineers. The target of this time and resource management module is to optimize test planning and equipment usage depending on workload and priorities.
+The student will go through the complete cycle from (brief) pre-study, design specification, architecture description, implementation, integration and testing. They will have to work independently, but with decent steering and follow-up from Option side. 
+        </p>
+        </section>
+        
+        <section>
+          <title>Skills</title>
+        <ul>
+        <li>
+Knowledge of web application programming Interest in PHP and MySQL Knowledge of IP networks 
+        </li>
+        <li>
+Eager to learn about new technologies 
+        </li>
+        <li>
+Open minded, team work, creative, innovative
+        </li>
+        </ul>
+        </section>
+        
+        <section>
+          <title>Profile</title>
+        
+        <ul>
+        <li>
+Student Master in Electronics (2 students)
+        </li>
+        <li>
+Available to start project during summer 2007
+        </li>
+        </ul>
+        </section>
+        <section>
+          <title>Contact</title>
+        <p>
+For more information please contact: Davy Michiels T 016 317 411 d.michiels@option.com
+        </p>
+        <p>
+Option nv
+        </p>
+        <p>
+Gaston Geenslaan 14
+        </p>
+        <p>
+3001 Leuven 
+        </p>
+        <p>
+T 016 317 411
+        </p>
+        <p>
+F 016 207 164
+        </p>
+        <p>
+www.option.com
+        </p>
+        <p>
+info@option.com
+        </p>
+        </section>
+      </section>
+-->
+
+
+
+
+
+
+<!-- 
+   Niet gekozen 8/10/2007
+      <anchor id="rfswboard"/>
+      <section>
+        <title>Design and prototyping of rf switching board</title>
+        <section>
+          <title>Option's activities</title>
+        <p>
+Option NV (www.option.com), the wireless technology company, is a leading innovator in the design, development and manufacture of 3G WCDMA (HSDPA and UMTS), EDGE, GPRS, GSM and WLAN technology products for wireless connectivity solutions. Option has built up an enviable reputation for creating exciting products that enhance the performance and functionality of wireless communications. Option's headquarters are in Leuven, Belgium. The company has Research &amp; Development in Leuven, a Software and Applications development centre in Adelsried (Germany), a Wireless Router development centre in Stockholm (Sweden), an ISO 9002 production engineering and logistics facility in Cork, Ireland and sales &amp; support offices in US, Japan and Taiwan.
+        </p>
+        
+        </section>
+        
+        
+        <section>
+          <title>Internship description</title>
+        <p>
+Each new firmware release of OPTION products goes through an elaborate test cycle. During the test cycle the RF input of the test unit is connected to a plethora of test equipment each simulating a specific radio environment. To improve the duration of this test cycle it is the goal of this internship to develop a `mixing table' allowing smooth handover from one signal source to another. The functionality which needs to be developed can be very much compared to a traditional DJ mixing table ... except for the signals being in the 800MHz ­ 2.6 GHz range. This assignment requires the students to have both RF and digital design skills. Adequate RF isolation, linearity and attenuation range will need to be achieved together with PC interfacing. The board should incorporate discrete components in its design. The internship will focus on the design and creation of a prototype of the radio frequency switching board. The students will go through the complete cycle from (brief) pre-study, design specification, architecture
+description, implementation, integration and testing. They will have to work independently, but with decent steering and follow-up from Option side. 
+        </p>
+        </section>
+        
+        <section>
+          <title>Skills</title>
+          
+        <ul>
+        <li>
+Interest in PCB design 
+        </li>
+        <li>
+Interest in radio frequency topics, and focusing on EMC, shielding, interference 
+        </li>
+        <li>
+Open minded, team work, creative, innovative
+        </li>
+        </ul>
+        
+        </section>
+        
+        <section>
+          <title>Profile</title>
+        <ul>
+        <li>
+Students Master in Electronics (2 students) · 
+        </li>
+        <li>
+the internship will start in July 2007
+        </li>
+        </ul>
+        </section>
+        
+        <section>
+          <title>Contact</title>
+<p>
+For more information please contact: Stefan Lodeweyckx T 016 317 411 s.lodeweyckx@option.com
+        </p>
+        
+        <p>
+Option nv
+        </p>
+        <p>
+Gaston Geenslaan 14
+        </p>
+        <p>
+3001 Leuven 
+        </p>
+        <p>
+T 016 317 411
+        </p>
+        <p>
+F 016 207 164
+        </p>
+        <p>
+www.option.com
+        </p>
+        <p>
+info@option.com
+        </p>
+
+      </section>
+       </section>
+-->
+
+       
+       
+<!-- 
+   Niet gekozen 8/10/2007
+      <anchor id="embeddeddevice"/>
+      <section>
+        <title>Develop test automation for website testing on embedded devices</title>
+        <section>
+          <title>Option's activities</title>
+        <p>
+Option NV (www.option.com), the wireless technology company, is a leading innovator in the design, development and manufacture of 3G WCDMA (HSDPA and UMTS), EDGE, GPRS, GSM and WLAN technology products for wireless connectivity solutions. Option has built up an enviable reputation for creating exciting products that enhance the performance and functionality of wireless communications. Option's headquarters are in Leuven, Belgium. The company has Research &amp; Development in Leuven, a Software and Applications development centre in Adelsried (Germany), a Wireless Router development centre in Stockholm (Sweden), an ISO 9002 production engineering and logistics facility in Cork, Ireland and sales &amp; support offices in US, Japan and Taiwan. 
+
+Option focuses on delivering quality products to its customers. To reach this goal all types of developed products (hardware, device drivers, software applications, etc) need to be tested in different environments. Some of our new products contain embedded websites to configure the product. This website is targeted to be accessible from a wide range of host systems (Windows, Linux, and MacOS). In order to cope with the increasing amount on test effort on this we would like to automate this type of testing. The test effort increases due to the number of product variants, customization features and regression testing of detected problems. There exist already a lot of web site testing tools which should be evaluated for this type of testing. Additionally this testing should be integrated in our test automation framework. An API is available in order to facilitate communication with existing components. The students will go through the complete cycle from (brief) pre-study, design specification, architecture description, implementation, integration
+</p>
+        
+        </section>
+        
+        
+        <section>
+          <title>Internship description</title>
+        <p>
+Option focuses on delivering quality products to its customers. To reach this goal all types of developed products (hardware, device drivers, software applications, etc) need to be tested in different environments. Some of our new products contain embedded websites to configure the product. This website is targeted to be accessible from a wide range of host systems (Windows, Linux, and MacOS). In order to cope with the increasing amount on test effort on this we would like to automate this type of testing. The test effort increases due to the number of product variants, customization features and regression testing of detected problems. There exist already a lot of web site testing tools which should be evaluated for this type of testing. Additionally this testing should be integrated in our test automation framework. An API is available in order to facilitate communication with existing components. The students will go through the complete cycle from (brief) pre-study, design specification, architecture description, implementation, integration
+and testing. They will have to work independently, but with decent steering and follow-up from Option side. 
+        </p>
+        </section>
+        
+        <section>
+          <title>Skills</title>
+          
+        <ul>
+        <li>
+Knowledge on IP networks 
+        </li>
+        <li>
+Interest in embedded devices 
+        </li>
+        <li>
+Interest in Linux and MacOS 
+        </li>
+        <li>
+Ability to put yourself in the role of an end-user 
+        </li>
+        <li>
+Eager to learn about new technologies 
+        </li>
+        <li>
+Open minded, team work, creative, innovative 
+        </li>
+        </ul>
+        
+        </section>
+        
+        <section>
+          <title>Profile</title>
+        <ul>
+        <li>
+Students Master in Electronics (2 students) · 
+        </li>
+        <li>
+Ability to start internship in summer 2007
+</li>
+        </ul>
+        </section>
+        
+        <section>
+          <title>Contact</title>
+<p>
+For more information please contact: Davy Michiels T 016 317 411 d.michiels@option.com
+        </p>
+        
+        <p>
+Option nv
+        </p>
+        <p>
+Gaston Geenslaan 14
+        </p>
+        <p>
+3001 Leuven 
+        </p>
+        <p>
+T 016 317 411
+        </p>
+        <p>
+F 016 207 164
+        </p>
+        <p>
+www.option.com
+        </p>
+        <p>
+info@option.com
+        </p>
+
+      </section>
+       </section>
+-->       
+
+      <anchor id="ase"/>      
+      <section>
+        <title>Embedded Webapplicatie</title>
+ 
+        <p> 
+De firma ASE R&amp;D Europe N.V. is een dochteronderneming van de Japanse international AMANO en
+produceert  tijdsregistratie- en parkeersystemen.
+        </p>
+        <p> 
+Het onderwerp kadert in een simulatie tool voor tijdsregistratie machines en access controllers.
+De applicatie wordt op een embedded controller board (nog te kiezen) geschreven. De applicatie bevat een Webinterface, een aantal ingangen en een aantal uitgangen.
+De applicatie moet real-life emulaties doen van card swipes in verschillende formaten. Bv. een proximity card swipe met een clk/data interface.
+De applicatie moet mogelijkheden hebben om fouten te genereren (bv parity errors, LRC errors, ...). 
+Verder wordt er gedacht aan aan andere formaten zoals wiegand, barcode, .... .
+De webinterface moet de mogelijkheid bieden om stand alone testen toe te laten. Bv kaarten generen met nummers van 1 tot 999999.
+        </p>
+        <p>
+Dit is een vrij globaal beeld van het eindwerk.
+De studenten doorlopen het hele ontwikkelprocess.
+        </p>
+        <ul>
+          <li>
+Opstellen van specificaties. (Welk OS? (Embedded Linux, Windows CE, ...of anderen), Welke functionaliteit? ....)
+          </li>
+          <li>
+Realisatie van het electronisch schema.
+          </li>
+          <li>
+Eventueel een PCB maken of laten maken. (of een bestaande module gebruiken)
+          </li>
+          <li>
+De embedded applicatie schrijven (modules, webserver, ....).
+          </li>
+          <li>
+Documentatie.
+          </li>
+          <li>
+Statische analyse.
+          </li>
+         </ul>
+ 
+         <p>
+           Contactpersoon:
+         </p>
+         <p>         
+Frank Valkenborgh
+         </p>
+         <p>         
+ASE R&amp;D Europe N.V.
+<!--
+frank.valkenborgh@ase-europe.net
+  -->
+         </p>
+         <p>         
+Westerring 2
+         </p>
+         <p>         
+3600 Genk
+         </p>
+         <p>         
++32 (0)89 32.39.20
+         </p>
+      </section> 
+
+      
+      
+<!-- 
+   Niet gekozen 8/10/2007
+      
+      <anchor id="uhasseltbiomed"/>      
+      <section>
+        <title>Eindwerken aan de Universiteit Hasselt (BE), Biomedisch Onderzoeksinstituut , afdeling Celfysiologie-Microfluorimetrie</title>
+
+        <section>
+          <title>Situering</title>
+
+          <p>
+Het Biomedisch Onderzoeksinstituut van de Universiteit Hasselt richt zich naar twee onderzoeksdomeinen: ziektemechanismen van auto-immune aandoeningen (voornamelijk Multiple Sclerose) en biosensoren.
+          </p>
+          
+          <p>
+De groep microfluorimetrie binnen BIOMED wil ten behoeve van celfysiologisch onderzoek op levende cellen en biosensoronderzoek een aantal recente microscopische technieken implementeren en uitbreiden. Het doel is deze technieken aan te wenden voor de studie van het diffusiegedrag van eiwitten in biologische membranen. Het plasmamembraan van een biologische cel vertoont een laterale heterogeniteit, de zogenaamde microdomeinen. Deze microdomeinen vinden hun oorsprong in lokale ontmenging van lipiden (<em>lipid rafts</em>) of in een lokale afbakening ten gevolge van membraaneiwitten verankerd aan het onderliggend cytoskelet (<em>picket-fence</em>). Het diffusiegedrag van membraaneiwitten geeft onrechtstreekse informatie omtrent de membraanorganisatie. Op analoge wijze kan clustering van bijvoorbeeld membraangebonden receptoren worden onderzocht. De eiwitten onder studie worden extrinsiek gemerkt met een fluorescerend label, ofwel worden de eiwitten door de cel zelf van een fluorescerend segment voorzien na ingrijpen in het genoom van de cel (<em>green fluorescent proteins</em>).
+          </p>
+          
+          <p>
+Het biologisch membraanonderzoek gebeurt in samenwerking met o.a. de Katholieke Universiteit van Leuven (België), Universiteit Gent (België), Kings College in London (U.K.), Universiteit van Irvine, (CA, USA), Rijksuniversiteit Groningen (Nederland) en University of Oldenburg (Duitsland)
+          </p>
+          
+          <p>
+De technologieën worden tevens ingezet bij de ontwikkeling van biosensoren in een samenwerking tussen BIOMED en het Instituut voor Materiaal Onderzoek (IMO / IMOMEC) van de Universiteit Hasselt.
+          </p>
+          
+         
+
+        </section>
+        <section>
+          <title>Technologieën</title>
+
+          <p>
+Een aantal technieken is reeds gedeeltelijk geïmplementeerd . Sommige technieken vereisen een aantal kwantitatieve uitbreidingen, zowel op programmatorisch als op modelmatig vlak. Andere technieken dienen nog te worden geïmplementeerd op aanwezige apparatuur. 
+Volgende referentie betreft een mini-review dat een eerste indruk kan geven van wat wordt beoogd:
+          </p>
+          <ul>
+            <li>
+Bates IR, Wiseman PW, Hanrahan JW.
+Investigating membrane protein dynamics in living cells.
+Biochem Cell Biol. 2006 Dec;84(6):825-31. 
+           </li>
+         </ul>
+         <p>
+De bedoelde technieken worden hierna opgesomd samen met enkele typische referenties.
+         </p>
+         <ol>
+           <li>
+Fluorescence recovery after photobleaching (FRAP):
+             <ul>
+               <li>
+Henis YI, Rotblat B, Kloog Y.
+FRAP beam-size analysis to measure -dependent membrane association dynamics and microdomain partitioning of Ras proteinspalmitoylation
+Methods. 2006 Oct;40(2):183-90
+               </li>
+               <li>
+Nicolau DV Jr, Hancock JF, Burrage K.
+Sources of anomalous diffusion on cell membranes: a monte carlo study.
+Biophys J. 2007 Mar 15;92(6):1975-87.
+               </li>
+             </ul>
+          </li>
+          <li>
+Raster image correlation spectroscopy (RICS):
+             <ul>
+               <li>
+Digman MA, Brown CM, Sengupta P, Wiseman PW, Horwitz AR, Gratton E.
+Measuring fast dynamics in solutions and cells with a laser scanning microscope.
+Biophys J. 2005 Aug;89(2):1317-27. 
+               </li>
+               <li>
+
+Digman MA, Sengupta P, Wiseman PW, Brown CM, Horwitz AR, Gratton E.
+Fluctuation correlation spectroscopy with a laser-scanning microscope: exploiting the hidden time structure.
+Biophys J. 2005 May;88(5):L33-6. 
+               </li>
+             </ul>
+          </li>
+          <li>
+Andere varianten van Image correlation spectroscopy (ICS):
+             <ul>
+               <li>
+Kolin DL, Ronis D, Wiseman PW.
+k-Space image correlation spectroscopy: a method for accurate transport measurements independent of fluorophore photophysics.
+Biophys J. 2006 Oct 15;91(8):3061-75. 
+               </li>
+               <li>
+
+Bates IR, Hebert B, Luo Y, Liao J, Bachir AI, Kolin DL, Wiseman PW, Hanrahan JW.
+Membrane lateral diffusion and capture of CFTR within transient confinement zones.
+Biophys J. 2006 Aug 1;91(3):1046-58. 
+               </li>
+               <li>
+
+Kolin DL, Costantino S, Wiseman PW.
+Sampling effects, noise, and photobleaching in temporal image correlation spectroscopy.
+Biophys J. 2006 Jan 15;90(2):628-39. 
+               </li>
+               <li>
+
+
+Hebert B, Costantino S, Wiseman PW.
+Spatiotemporal image correlation spectroscopy (STICS) theory, verification, and application to protein velocity mapping in living CHO cells.
+Biophys J. 2005 May;88(5):3601-14. 
+               </li>
+             </ul>
+          </li>
+          <li>
+Spatially resolved fluorescence correlation spectroscopy
+             <ul>
+               <li>
+Burkhardt M, Schwille P
+Electron multiplying CCD based detection for spatially resolved fluorescence correlation spectroscopy.
+Optics Express 2006 June 12, 14(12):5013-20.
+               </li>
+               <li>
+
+Kannan B, Har JY, Liu P, Maruyama I, Ding JL, Wohland T.
+Electron multiplying charge-coupled device camera based fluorescence correlation spectroscopy.
+Anal Chem. 2006 May 15;78(10):3444-51.
+               </li>
+             </ul>
+          </li>
+         </ol>
+
+       </section>
+       <section>
+         <title>Onderwerpen</title>
+
+         <p>
+Meerdere onderwerpen zijn mogelijk. Specifieke accenten kunnen in onderlinge afspraak worden vastgelegd. De opdrachten worden uitgevoerd in teamverband met fysici, fysiologen, biomedische wetenschappers, bio-ingenieurs, biologen,… en omvatten:
+         </p>
+         <ol>
+           <li>
+verdere implementatie van RICS en FRAP op de confocale microscoop in de Matlab omgeving
+           </li>
+           <li>
+implementatie van andere ICS technieken
+           </li>
+           <li>
+implementratie van camera gebaseerde correlatietechnieken
+           </li>
+           <li>
+simulaties met behulp van reeds bestaande en uit te breiden Matlab codering van de beweging van eiwitten gemerkt met fluoroforen zoals groen fluorescerend eiwit (GFP)
+           </li>
+           <li>
+metingen met geavanceerde optische confocale microscopie aan levende en gefixeerde celmembranen, cellen en weefsels
+           </li>
+           <li>
+ijking van de analysemethoden. 
+           </li>
+          </ol>
+        <p>
+Geïnteresseerden hebben een voorkennis in of belangstelling voor natuurkunde, wiskunde, mathematische (beeld)analyse, optische technieken, biologische toepassingen, Monte Carlo simulaties.
+        </p>
+        
+        </section>
+        <section>
+          <title>Informatie</title>
+          <p>
+Verdere informatie en de vermelde wetenschappelijke artikelen kunnen worden bekomen bij:
+          </p>
+          <p>
+Prof. Dr. Marcel Ameloot
+          </p>
+          <p>
+Tel.:	0032-11-268546
+          </p>
+          <p>
+E-mail: marcel.ameloot@uhasselt.be 
+          </p>
+          <p>
+
+Dr. Martin vandeVen
+          </p>
+          <p>
+Tel:	0032-11-268558
+          </p>
+          <p>
+E-mail: martin.vandeven@uhasselt.be
+          </p>
+          <p>
+Drs. Nick Smisdom
+          </p>
+          <p>
+Tel:	0032-11-268537
+          </p>
+         <p>
+E-mail: nick.smisdom@uhasselt.be 
+          </p>
+          <p>
+
+Universiteit Hasselt
+          </p>
+          <p>
+Departement MBW
+          </p>
+          <p>
+Agoralaan, Gebouw D
+          </p>
+          <p>
+BE-3590 Diepenbeek
+          </p>
+          <p>
+België      
+          </p>
+       </section>
+      
+      </section>
+-->      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+ 
+</section>
+ 
+  </body>
+</document>

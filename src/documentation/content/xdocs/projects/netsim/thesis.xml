@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V1.2//EN" "/export/usr/local/forrest/context/resources/schema/dtd/document-v12.dtd">
+<document> 
+  <header> 
+    <title>Java simulator voor discrete gebeurtenissen</title> 
+  </header> 
+  <body>
+    
+
+    <section>
+      <title>Inleiding</title>
+
+        <p>
+        In het NetSim project (gestart in 2004) wordt een grafische front-end ontworpen voor het reeds bestaande netwerksimulatie project
+        SSFNet. Met deze laatste is het mogelijk om een netwerk bestaande uit OSPF en BGP  routers te simuleren. Helaas
+        werkt deze tool alleen maar in tekst mode. De grafische front-end moet dit probleem verhelpen; de routers in simulatie
+        worden als een figuur in een venster. Tijdens de simulatie kan je de statuswijzigingen van de routers in het venster volgen of je
+        kan zelfs de simulatie stilleggen en daarna tot een zeker punt laten verderlopen.
+        </p>
+        <p>
+          SSFNet is volledig in Java geschreven en bestaat uit een aantal delen:
+        </p>
+        <ul>
+          <li>
+             DML configuratie inlezen
+          </li>
+          <li>
+             netwerkprotocols
+          </li>
+          <li>
+             simulatie-engine.
+          </li>
+        </ul>
+        <p>
+          De implementatie van de netwerkprotocols is het grootste gedeelte en is open-source. Het inlezen van de DML configuratie
+          en de simulatie-engine zijn helaas niet open-source maar wordt wel in binaire vorm (een jar bestand) meegeleverd.
+          De ontvanger heeft het recht om binnen zijn organisatie deze jar te gebruiken. Het verder verspreiden van deze jar
+          is evenwel verboden. Dit is de reden waarom dit eindwerk het herschrijven van de simulatie-engine als doel heeft.
+        </p>
+    </section>
+    
+    <section>
+      <title>Doelstelling</title>
+      
+      
+      <p>
+        Het ontwerp bestaat uit twee delen:
+      </p>
+      
+      <ul>
+        <li>
+          eigen simulatie-engine
+        </li>
+        <li>
+          grafische front-end
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Deeltaken</title>
+      
+      <p>
+        Dit zijn de verschillende deeltaken:
+      </p>
+
+      <section>
+        <title>Literatuurstudie</title>
+        <p>
+          Om meer diepgang te krijgen moeten de volgende bronnen geraadpleegd worden:
+        </p>
+        
+        <ul>
+          <li>
+            <p>
+              <link href="http://ssfnet.d-jacob.net/files/thesis.pdf">ssfnet.d-jacob.net/files/thesis.pdf</link>
+            </p>
+            <p>
+              Dit is de thesis van Dirk Jacob. De eerste 36 pagina's geven een goed overzicht van wat een simuatie-engine moet doen.
+            </p>
+          </li>
+          <li>
+            <p>
+              <link href="http://www.ssfnet.org/SSFdocs/ssfapiManual.pdf">SSF API Manual</link>
+            </p>
+            <p>
+              Dit is de beschrijving van de SSF simulatie-engine.
+            </p>
+          </li>
+          <li>
+            <p>
+              Documentatie over threading in Java.
+            </p>
+            <p>
+              Is zelf uit te zoeken. De werking begrijpen van <code>synchronized</code>, <code>wait()</code>, <code>notifyAll()</code>
+              is essentieel.
+            </p>
+          </li>
+        </ul>
+      </section>
+
+      <section>
+        <title>Eenvoudige simulatie met <code>raceway.jar</code></title>
+        <p>
+          In deze faze wordt het voorbeeld van figuur 2.3 uit de thesis van Dirk Jacobs uitgetest.
+          Plaats <code>raceway.jar</code> in het classpath. Gebruik Eclipse of werk commandolijn. 
+          Het werken met <code>ant</code> (<link href="http://ant.apache.org">ant.apache.org</link>) bij commandolijn en <code>cvs</code> 
+          is aan te bevelen.
+        </p>
+      </section>
+
+      <section>
+        <title>Ontwerp van de eigen simulatie-engine</title>
+        <p>
+          Dit zijn de specificaties voor de eigen simulatie-engine: 
+        </p>
+        
+        <ul>
+          <li>
+            Alle interfaces uit <link href="http://www.ssfnet.org/SSFdocs/ssfapiManual.pdf">SSF API Manual</link> moeten
+            geimplementeerd worden. Dit is noodzakelijk om de eigen simulatie-engine in SSFNet te kunnen gebruiken
+            als vervanger voor <code>raceway.jar</code>.
+          </li>
+          <li>
+            Meerdere timelines zijn niet mogelijk. Dit is een vereenvoudiging in het ontwerp. Deze vereenvoudiging
+            hindert SSFNet niet. Meerdere timelines betekent dat de simulatie over meerdere pc's verdeeld wordt.
+            Dit wordt in NetSim niet toepast.
+          </li>
+          <li>
+            De simulatiesnelheid moet variabel zijn. In <code>raceway.jar</code> is dit niet het geval. Dit is
+            een nieuwe eigenschap. Dit is noodzakelijk omdat de gebruiker de simulatie moet kunnen stilleggen of in
+            in werkelijke tijd laten lopen. Om deze eigenschap mogelijk te maken is een synchronisatie van alle processen
+            in simulatie noodzakelijk.
+          </li>
+        </ul>
+      </section>
+      
+      <section>
+        <title>Eenvoudige simulatie met eigen simulatie-engine</title>
+        <p>
+          Herhaal het voorbeeld van figuur 2.3 uit de thesis van Dirk Jacobs. Gebruik de eigen simulatie-engine.
+        </p>
+      </section>
+
+      <section>
+        <title>Grafische front-end</title>
+        <p>
+          Er word een Swing programma geschreven dat bijvoorbeeld de simulatie van een PetriNet of een digitale
+          schakeling weergeeft. De specificaties hiervan worden later bepaald.
+        </p>
+      </section>
+    </section>
+
+    </body>
+</document>
