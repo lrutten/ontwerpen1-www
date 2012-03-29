@@ -7,7 +7,7 @@
   <body> 
       <p>Laatste wijziging: $Date$</p>
         <p>
-          Dit is het overzicht van de masterproeven 2011-2012 van MA-ELOICT, terug te vinden in de onderstaande tabel.
+          Dit is het overzicht van de masterproefonderwerpen 2011-2012 van MA ELO-ICT, terug te vinden in de onderstaande tabel.
         </p>
 
       <section>
@@ -15,7 +15,7 @@
 
 <table>
 <caption>
-Masterproeven 2011-2012
+Masterproefonderwerpen 2011-2012
 </caption>
 
 <tr>
@@ -30,19 +30,21 @@ Masterproeven 2011-2012
 <!-- voorstellen eindwerken -->
 
 <!-- voorstel1 --> 
+<!-- niet gekozen
 <tr>
- <td>1</td>
+ <td>voorstel 1</td>
  <td></td>
  <td>Het ontwerpen van een demo voor de planning van decentrale energievoorziening (<link href="#simenergiedemo">meer uitleg</link>)
  </td>
  <td>KHLim</td>
  <td>Paul Valckenaers, Leo Rutten</td>
 </tr>
+-->
 
 <!-- voorstel2 --> 
-<!--
+<!-- niet voorgesteld
 <tr>
- <td>2</td>
+ <td>voorstel 2</td>
  <td></td>
  <td>Software tool voor validatie van data en resultaten (<link href="#mobival">meer uitleg</link>)
  </td>
@@ -52,9 +54,9 @@ Masterproeven 2011-2012
   -->
 <!-- voorstel3 --> 
 
-<!--
+<!-- niet voorgesteld
 <tr>
- <td>3</td>
+ <td>voorstel 3</td>
  <td></td>
  <td>Opstellen van scheduler op basis van OVG data (<link href="#mobischedovg">meer uitleg</link>)
  </td>
@@ -62,28 +64,35 @@ Masterproeven 2011-2012
  <td>Luk Knapen</td>
 </tr>
  -->
+
 <!-- voorstel4 ok --> 
+<!-- niet gekozen
 <tr>
- <td>2</td>
+ <td>voorstel 2</td>
  <td></td>
  <td>Negotiatie bij het opstellen van schedules (<link href="#mobischedneg">meer uitleg</link>)
  </td>
  <td>MOBI, UHasselt</td>
  <td>Luk Knapen</td>
 </tr>
+-->
+
 
 <!-- voorstel5 ok --> 
+<!-- niet gekozen
 <tr>
- <td>3</td>
+ <td>voorstel 3</td>
  <td></td>
  <td>Voorspelling van vraag naar energie in SmartGrid (<link href="#mobienergie">meer uitleg</link>)
  </td>
  <td>MOBI, UHasselt</td>
  <td>Luk Knapen</td>
 </tr>
+-->
+
 
 <!-- voorstel6 -->
-<!--
+<!-- niet voorgesteld
 <tr>
  <td>voorstel 6</td>
  <td></td>
@@ -93,8 +102,9 @@ Masterproeven 2011-2012
  <td>Luk Knapen</td>
 </tr>
 -->
+
 <!-- voorstel7 -->
-<!--
+<!-- niet voorgesteld
 <tr>
  <td>voorstel 7</td>
  <td></td>
@@ -104,99 +114,127 @@ Masterproeven 2011-2012
  <td>Luk Knapen</td>
 </tr>
 -->
+
 <!-- voorstel8 --> 
+<!-- niet gekozen
 <tr>
- <td>4</td>
+ <td>voorstel 4</td>
  <td></td>
  <td>Ontwerp en implementatie van een 8051 afgeleide microcontroller met ICE supervisor module in een FPGA soft core (<link href="#ramabox1">meer uitleg</link>)
  </td>
  <td>Ramabox</td>
  <td>Pascal Felique</td>
 </tr>
+-->
+
 
 <!-- voorstel9 --> 
+<!-- niet gekozen
 <tr>
- <td>5</td>
+ <td>voorstel 5</td>
  <td></td>
  <td>Studie  en  evaluatie  van  ontwikkeltools  voor  het  Blu-Ray  BD-J platform op basis van de Java ME standaard (<link href="#ramabox2">meer uitleg</link>)
  </td>
  <td>Ramabox</td>
  <td>Pascal Felique</td>
 </tr>
+-->
+
 
 <!-- voorstel10 --> 
+<!-- niet gekozen
 <tr>
- <td>6</td>
+ <td>voorstel 6</td>
  <td></td>
  <td>Micro-inverters: a new era for solar energy conversion (<link href="#microinverters">meer uitleg</link>)
  </td>
  <td>IMEC/ESAT, KULeuven</td>
  <td>Jan Genoe</td>
 </tr>
+-->
+
 
 <!-- voorstel11 --> 
+<!-- niet gekozen
 <tr>
- <td>7</td>
+ <td>voorstel 7</td>
  <td></td>
  <td>Automatic Equalizer for 360Sound loudspeaker system (<link href="#autoeq">meer uitleg</link>)
  </td>
  <td>Philips Technology Campus Leuven</td>
  <td></td>
 </tr>
+-->
+
 
 <!-- voorstel12 --> 
+<!-- niet gekozen
 <tr>
- <td>8</td>
+ <td>voorstel 8</td>
  <td></td>
  <td>Evaluatie van HW/SW codesigns van een netwerkgestuurde RSA encoder/decoder (<link href="#hwswrsa">meer uitleg</link>)
  </td>
  <td>Acro KHLim</td>
  <td>Jo Vliegen, Nele Mentens</td>
 </tr>
+-->
+
 
 <!-- voorstel 9--> 
+<!-- niet gekozen
 <tr>
- <td>9</td>
+ <td>voorstel 9</td>
  <td></td>
  <td>Lichaamssegmentatie via microsoft kinect camera toegepast op revalidatie casus (<link href="#mobilabkinect">meer uitleg</link>)
  </td>
  <td>KHKempen/Mobilab</td>
  <td>Glen Debard</td>
 </tr>
+-->
+
 
 <!-- voorstel 10--> 
+<!-- niet gekozen
 <tr>
- <td>10</td>
+ <td>voorstel 10</td>
  <td></td>
  <td>Optimaliseren van detectie van  fysiologische parameters aan de hand van een camerasysteem (<link href="#mobilabcamera">meer uitleg</link>)
  </td>
  <td>KHKempen/Mobilab</td>
  <td>Kris Cuppens, Bart Vanrumste</td>
 </tr>
+-->
+
 
 <!-- voorstel 11--> 
+<!-- niet gekozen
 <tr>
- <td>11</td>
+ <td>voorstel 11</td>
  <td></td>
  <td>Cameragebaseerde activiteitsmonitoring bij ouderen (<link href="#mobilabactiviteit">meer uitleg</link>)
  </td>
  <td>KHKempen/Mobilab</td>
  <td>Debard Glen, Bart Vanrumste</td>
 </tr>
+-->
+
 
 <!-- voorstel 12--> 
+<!-- niet gekozen
 <tr>
- <td>12</td>
+ <td>voorstel 12</td>
  <td></td>
  <td>Monitoren van activiteitsgraad van bijen ahv camerabeelden (<link href="#mobilabbijen">meer uitleg</link>)
  </td>
  <td>KHKempen/Mobilab</td>
  <td>Glen Debard, Bart Vanrumste</td>
 </tr>
+-->
+
 
 <!-- voorstel 13--> 
 <tr>
- <td>13</td>
+ <td>voorstel 13</td>
  <td>Dimitri Marechal, Kenny Vanrusselt</td>
  <td>Van Java FX naar HTML5 (<link href="#javafxhtml5">meer uitleg</link>)
  </td>
@@ -205,38 +243,47 @@ Masterproeven 2011-2012
 </tr>
 
 <!-- voorstel 14 --> 
+<!-- niet gekozen
 <tr>
- <td>14</td>
+ <td>voorstel 14</td>
  <td></td>
  <td>Ontwikkeling van een hardwarebeschrijvingstaal op basis van F# (<link href="#hardwarebeschrijvinginFsharp">meer uitleg</link>)
  </td>
  <td>KHLim</td>
  <td>Kris Aerts</td>
 </tr>
+-->
+
 
 <!-- voorstel 15--> 
+<!-- niet gekozen
 <tr>
- <td>15</td>
+ <td>voorstel 15</td>
  <td></td>
  <td>BlueJ-extensie voor de zelf-evaluatie van een klasse (<link href="#bluej">meer uitleg</link>)
  </td>
  <td>KHLim</td>
  <td>Kris Aerts</td>
 </tr>
+-->
+
 
 <!-- voorstel 16--> 
+<!-- niet gekozen
 <tr>
- <td>16</td>
+ <td>voorstel 16</td>
  <td></td>
  <td>Invloed van ASIC downscaling op de veiligheid van een cryptografische chip (<link href="#asicdown">meer uitleg</link>)
  </td>
  <td>ACRO ES &amp; S</td>
  <td></td>
 </tr>
+-->
+
 
 <!-- voorstel 17--> 
 <tr>
- <td>17</td>
+ <td>voorstel 17</td>
  <td>Bart Dewallef, Lars Jacobs</td>
  <td>Ontwerp van een WIFI-to WSN (wireless sensor network) bridge (<link href="#wifi2wsn">meer uitleg</link>)
  </td>
@@ -245,18 +292,21 @@ Masterproeven 2011-2012
 </tr>
 
 <!-- voorstel 18--> 
+<!-- niet gekozen
 <tr>
- <td>18</td>
+ <td>voorstel 18</td>
  <td></td>
  <td>Detectie van epileptische aanvallen via audioclassificatie (<link href="#epilepsieaudio">meer uitleg</link>)
  </td>
  <td>KHKempen/MOBILAB</td>
  <td></td>
 </tr>
+-->
+
 
 <!-- voorstel 19--> 
 <tr>
- <td>19</td>
+ <td>voorstel 19</td>
  <td>Albert-Jan Knevels, Stijn Nouwen</td>
  <td>Opbouw van een PROFINET Remote IO eiland (<link href="#profinetremote">meer uitleg</link>)
  </td>
@@ -265,18 +315,21 @@ Masterproeven 2011-2012
 </tr>
 
 <!-- voorstel 20--> 
+<!-- niet gekozen
 <tr>
- <td>20</td>
+ <td>voorstel 20</td>
  <td></td>
  <td>Lightweight cryptografisch primitief op lowcost microcontroller (<link href="#lightcrypto">meer uitleg</link>)
  </td>
  <td>ES &amp; S</td>
  <td>Jo Vliegen, Davy Wolfs</td>
 </tr>
+-->
+
 
 <!-- voorstel 21--> 
 <tr>
- <td>21</td>
+ <td>voorstel 21</td>
  <td>Ruben Smeets, Joris Volders</td>
  <td>Een flexibele GNSS-ontvanger op FPGA (<link href="#gnns">meer uitleg</link>)
  </td>
@@ -285,8 +338,9 @@ Masterproeven 2011-2012
 </tr>
 
 <!-- voorstel 22--> 
+<!-- niet gekozen
 <tr>
- <td>22</td>
+ <td>voorstel 22</td>
  <td></td>
  <td>Ontwerp en implementatie van een SATA Device Emulator voor
 het emuleren van een optisch loopwerk in een Blu-ray speler (<link href="#sata">meer uitleg</link>)
@@ -294,20 +348,25 @@ het emuleren van een optisch loopwerk in een Blu-ray speler (<link href="#sata">
  <td>Ramabox</td>
  <td>Pascal Felique</td>
 </tr>
+-->
+
 
 <!-- voorstel 23--> 
+<!-- niet gekozen
 <tr>
- <td>23</td>
+ <td>voorstel 23</td>
  <td></td>
  <td>Microblaze to Microblaze (<link href="#microblaze">meer uitleg</link>)
  </td>
  <td>Xilinx</td>
  <td>Marc Defossez</td>
 </tr>
+-->
+
 
 <!-- voorstel 24--> 
 <tr>
- <td>24</td>
+ <td>voorstel 24</td>
  <td>Bert Schreurs</td>
  <td>Ontwerp van een FireWire camera-interface op FPGA (<link href="#firewire">meer uitleg</link>)
  </td>
@@ -326,7 +385,7 @@ het emuleren van een optisch loopwerk in een Blu-ray speler (<link href="#sata">
     <section>
       <title>Masterproefbeschrijvingen</title>
 
-<!--
+<!-- niet voorgesteld
         <anchor id="hydrogen"/>
         <section>
           <title>Hydrogen generation from solar light – Experimental setup</title>
@@ -370,7 +429,7 @@ Fig.1: (a) Een figuur
 
 
 
-
+<!-- niet gekozen
         <anchor id="simenergiedemo"/>
         <section>
           <title>Het ontwerpen van een demo voor de planning van decentrale energievoorziening</title>
@@ -429,51 +488,6 @@ Dit zorgt ervoor dat bepaalde reservaties automatisch vrijgegeven worden indien 
                     geschakeld. De opstelling wordt bestuurd door een PLC. Deze laatste staat in contact met een server waarop de te ontwerpen Java software draait. 
                   </p>
                   
-                  <!--
-<p>
-Het is de bedoeling om in het academiejaar dit eindwerk verder te zetten en er een aantal verbeteringen in aan te brengen.
-</p>
-<ul>
-  <li>
- Bij de koppeling van gebruikers en producenten is het noodzakelijk om rekening te houden met een aantal beperkingen die inherent zijn aan een elektriciteitsdistributienetwerk. Dit zijn een aantal voorbeelden:
-  <ul>
-    <li>
-   Er moet rekening gehouden worden met de omzetting van 3 faze naar 2 faze. 
-   De 3 fazen moeten hierbij gelijk belast worden.
-    </li>
-    <li>
-   Er zijn transfo's opgenomen in het netwerk.
-    </li>
-    <li>
-   
-   De stroom kan slechts in één richting vloeien. 
-    </li>
-    <li>
-   De transmissiekabels hebben een beperkte capaciteit.
-    </li>
-  </ul>
-</li>
-<li>
-Verbetering van de visualisatie.
-</li>
-<li>
-Het parallel uitvoeren van de simulatie met behulp van Terracotta.
-</li>
-</ul>
-
-<p>
-Een aantal van deze componenten in de elektriciteitsdistributie zullen in Java gemodelleerd worden en opgenomen worden in de simulatie. 
-Ook is het de bedoeling om de visualisatie van de simulatie te verbeteren. 
-Dit laatste is trouwens ook noodzakelijk om de correcte werking van het mierenalgoritme te kunnen verifiëren
-en laat tenslotte toe om de simulatie te gebruiken als een demo.
-</p>
-
-<p>
-Sleutelwoorden: Java, multithreading, threadsynchronisatie, 
-modelleren van componenten uit het probleemdomein, simulaties in Java,
-Java ontwikkeltools: Eclipse, Spring, ant, versiebeheer, Terracotta.
-</p>
--->
           </section>
           <section>
             <title>Praktische informatie</title>
@@ -481,12 +495,6 @@ Java ontwikkeltools: Eclipse, Spring, ant, versiebeheer, Terracotta.
 <p>
 Aantal studenten: 2
 </p>
-<!--
-<ul>
-  <li>1 masterstudent ELO/ICT</li>
-  <li>1 masterstudent EM of EL</li>
-</ul>
--->
 
 <p>
 Promotoren: Paul Valckenaers, Leo Rutten
@@ -498,7 +506,7 @@ Java ontwikkeltools: Eclipse, Maven, Subversion versiebeheer.
 </p>
           </section>
         </section>
-
+-->
 
 <!--
         <anchor id="mobival"/>
@@ -669,7 +677,7 @@ Vergelijken van de gegenereerde schedules met schedules gegenereerd door andere 
 
 
 
-
+<!-- niet gekozen
       <anchor id="mobischedneg"/>
       <section>
         <title>Negotiatie bij het opstellen van schedules</title>
@@ -753,11 +761,11 @@ Evaluatie van de schaalbaarheid voor behandeling van grote sociale netwerken
 </p>          
         </section>
       </section>
+-->
 
 
 
-
-
+<!-- niet gekozen
       <anchor id="mobienergie"/>
       <section>
         <title>Voorspelling van vraag naar energie in SmartGrid</title> 
@@ -802,7 +810,7 @@ kadert in een onderzoeksproject in opstartFase.
 </p>          
         </section>
       </section>
-
+-->
       
 <!--      
       <anchor id="mobiov"/>
@@ -926,7 +934,7 @@ Indienststellen en uitvoeren van enkele testruns.
        
        
        
-       
+<!-- niet gekozen       
        <anchor id="ramabox1"/>
        <section>
          <title>Ontwerp en implementatie van een 8051 afgeleide microcontroller met ICE supervisor module in een FPGA soft core</title>
@@ -971,8 +979,10 @@ Contact persoon: Pascal Felique
 E-mail: pascal.felique@ramabox.com
 </p>
        </section>
+-->
 
 
+<!-- niet gekozen
        <anchor id="ramabox2"/>
        <section>
          <title>Studie  en  evaluatie  van  ontwikkeltools  voor  het  Blu-Ray  BD-J platform op basis van de Java ME standaard</title>
@@ -1018,9 +1028,9 @@ Contact persoon: Pascal Felique
 E-mail: pascal.felique@ramabox.com
 </p>
 </section>       
+-->       
        
-       
-                
+<!-- niet gekozen                
        <anchor id="microinverters"/>
         <section>
           <title>Micro-inverters: a new era for solar energy conversion</title>
@@ -1042,8 +1052,8 @@ Contact: Jo Das (jdas@imec.be) / Jordi Everts (jordi.everts@esat.kuleuven.be )/J
 </p>
 
         </section>
+-->
 
-
         
         
         
@@ -1051,7 +1061,7 @@ Contact: Jo Das (jdas@imec.be) / Jordi Everts (jordi.everts@esat.kuleuven.be )/J
         
         
         
-        
+<!-- niet gekozen        
        <anchor id="autoeq"/>
         <section>
           <title>Automatic Equalizer for 360Sound loudspeaker system</title>
@@ -1122,8 +1132,9 @@ Gerrit De Poortere (Gerrit.de.poortere@philips.com)
         </p>
        </section>
        </section>
-        
-        
+-->        
+
+<!-- niet gekozen
        <anchor id="hwswrsa"/>
        <section>
          <title>Evaluatie van HW/SW codesigns van een netwerkgestuurde RSA encoder/decoder</title>
@@ -1150,10 +1161,10 @@ HW/SW-codesigns.
 Contact: Jo Vliegen Acro, KHLim, jo.vliegen@khlim.be
 </p>
        </section>
-
+-->
        
        
-       
+<!-- niet gekozen       
        <anchor id="mobilabkinect"/>
        <section>
          <title>Lichaamssegmentatie via microsoft kinect camera toegepast op revalidatie casus</title>
@@ -1183,10 +1194,10 @@ Contact: Glen Debard
 E-mail:Glen.Debard@khk.be
          </p>
       </section>
+-->
 
 
-
-       
+<!-- niet gekozen
      <anchor id="mobilabcamera"/>
      <section>
        <title>Optimaliseren van detectie van  fysiologische parameters aan de hand van een camerasysteem</title>
@@ -1225,13 +1236,13 @@ Telefoon: 014 56 23 10 (intern: 483)
 E-mail: kris.cuppens@khk.be; bart.vanrumste@khk.be
        </p>
        </section>
-       
+-->       
 
 
 
 
 
-
+<!-- niet gekozen
      <anchor id="mobilabactiviteit"/>
      <section>
        <title>Cameragebaseerde activiteitsmonitoring bij ouderen</title>
@@ -1261,9 +1272,9 @@ Contact: Debard Glen, Bart Vanrumste
 E-mail: glen.debard@khk.be
        </p>
       </section>
+-->
 
-
-
+<!-- niet gekozen
      <anchor id="mobilabbijen"/>
      <section>
        <title>Monitoren van activiteitsgraad van bijen ahv camerabeelden</title>
@@ -1312,7 +1323,7 @@ E-mail: glen.debard@khk.be
         </p>
 
       </section>
-
+-->
       
 
       
@@ -1396,7 +1407,7 @@ ontwikkeling van een tool die er voor zorgt dat code die ontwikkeld is in de sub
           </section>
         </section>
 
-
+<!-- niet gekozen
         <anchor id="hardwarebeschrijvinginFsharp"/>
         <section>
           <title>Ontwikkeling van een hardwarebeschrijvingstaal op basis van F#</title>
@@ -1461,9 +1472,9 @@ Hierbij kan en zal natuurlijk vertrokken worden van de bestaande implementatie v
           </section>
 
         </section>
+-->
 
-
-
+<!-- niet gekozen
         <anchor id="bluej"/>
         <section>
           <title>BlueJ-extensie voor de zelf-evaluatie van een klasse</title>
@@ -1551,8 +1562,9 @@ keuze van de dingen waarover gefeedbacked kan worden en keuze van de mate waarin
           </section>
           
         </section>      
-      
-      
+-->      
+
+<!-- niet gekozen
         <anchor id="asicdown"/>
         <section>
           <title>Invloed van ASIC downscaling op de veiligheid van een cryptografische chip</title>
@@ -1590,7 +1602,7 @@ Simulatie &amp; implementatie: 70%
             </p>
             </section>
         </section>
-
+-->
        
         <anchor id="wifi2wsn"/>
         <section>
@@ -1640,7 +1652,7 @@ Promotoren: Davy Wolfs en Joren Moelans
           
           
           
-          
+<!-- niet gekozen          
                   <anchor id="epilepsieaudio"/>
         <section>
           <title>Detectie van epileptische aanvallen via audioclassificatie</title>
@@ -1683,12 +1695,8 @@ Promotoren: Peter Karsmakers, Bart Vanrumste
 E-mail:Peter.Karsmakers@khk.be
 </p>
            </section>
-
-
-
-
-            </section>
-          
+         </section>
+-->          
           
           
           
@@ -1822,7 +1830,7 @@ Promotoren: Dhr. Ronald Poosen, Ing. Geert Leen
           </section>
           
           
-          
+<!-- niet gekozen          
                   <anchor id="lightcrypto"/>
         <section>
           <title>Lightweight cryptografisch primitief op lowcost microcontroller</title>
@@ -1847,7 +1855,12 @@ dienen de bottle-necks verbeterd te worden.
 De nadruk van deze masterproef ligt op het zelfstandig zoeken naar optimale implemenatiemethodes.          
           </p>
         </section>
-          
+-->
+
+
+
+
+
         <anchor id="gnns"/>
         <section>
           <title>Een flexibele GNSS-ontvanger op FPGA</title>
@@ -1863,7 +1876,7 @@ Concreet zal in dit project een meerkanaals GNSS ontvanger met positieberekening
              </p>
 
              <p>
-               <img alt="figuur" src="maproef/2011-2012/RogueCircuitry_small.jpg"/>
+               <img alt="figuur" src="eindw/2011-2012/RogueCircuitry_small.jpg"/>
             </p>
              
              
@@ -1904,9 +1917,12 @@ Deze masterproef is geschikt voor 1 of 2 eindwerkstudenten.
               </li>
             </ul>
           </section>
-         </section>          
-          
+         </section>
 
+         
+         
+
+<!-- niet gekozen
          <anchor id="sata"/>
          <section>
            <title>Ontwerp en implementatie van een SATA Device Emulator voor
@@ -1961,9 +1977,9 @@ Telefoon: 0046 730 28 46 88
 E-mail: pascal.felique@ramabox.com
          </p>
        </section>
+-->         
          
-         
-         
+<!-- niet gekozen         
        <anchor id="microblaze"/>
        <section>
          <title>Microblaze to Microblaze</title>
@@ -2010,13 +2026,13 @@ andere processor die ze op zijn beurt weer via Ethernet verstuurd.
             </li>
           </ul>
              <p>
-               <img alt="figuur" src="maproef/2011-2012/xilinx1.png"/>
+               <img alt="figuur" src="eindw/2011-2012/xilinx1.png"/>
             </p>
 <p>          
 Figuur 1: Voorbeeld basis Microblaze processor system.
 </p>
              <p>
-               <img alt="figuur" src="maproef/2011-2012/xilinx2.png"/>
+               <img alt="figuur" src="eindw/2011-2012/xilinx2.png"/>
             </p>
 <p>
 Figuur 2: Blok schema van een transceiver communicator.
@@ -2033,7 +2049,7 @@ Figuur 2: Blok schema van een transceiver communicator.
          </p>
        </section>
       </section>   
-         
+-->         
       
       
       
