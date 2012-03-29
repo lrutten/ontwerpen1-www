@@ -429,7 +429,7 @@ Wi-Fi analysis is today cumbersome for non Wi-Fi experts.
             A software developer skilled in Wi-Fi (or DSP, telecom, ...) could develop a PC application (on Linux, Windows, MAC, android ...)
             which would essentially present a pseudo real time GUI that displays all analytical data that can be pulled out of the Wi-Fi driver.
             Depending how advanced the skills of the developer are, fully fledged trace dumps or log files can be built and saved, providing
-            excellent debug information to Technicolorâs CTS personnel. Or a console could be foreseen to alter the Wi-Fi configuration and
+            excellent debug information to Technicolor's CTS personnel. Or a console could be foreseen to alter the Wi-Fi configuration and
             then the tool could show the impact of the changes via the GUI. The tool can also apply data analysis methods in order to predict
             link quality, interference ... . The possibilities are limitless. The tool could communicate via telnet or ssh with the gateway.
            </p>
