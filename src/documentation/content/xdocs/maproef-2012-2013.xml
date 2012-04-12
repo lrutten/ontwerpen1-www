@@ -95,6 +95,33 @@ Masterproefvoorstellen 2012-2013
  <td></td>
 </tr>
 
+<tr>
+ <td>voorstel 8</td>
+ <td></td>
+ <td>Ontwikkeling en testing van een boilerplate voor webapplicaties (<link href="#webapps">meer uitleg</link>)
+ </td>
+ <td>[ED+ICT], dep. Lerarenopleiding, KHLim</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td>voorstel 9</td>
+ <td></td>
+ <td>Optimalisatie van een trusted state voor een gedistribueerd logging concept (<link href="#trustedstate">meer uitleg</link>)
+ </td>
+ <td>K42ML BVBA</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td>voorstel 10</td>
+ <td></td>
+ <td>Ontwikkeling van een dynamisch herconfigureerbare audio-effect-box (<link href="#herconfig">meer uitleg</link>)
+ </td>
+ <td>ACRO/ES&amp;S</td>
+ <td></td>
+</tr>
+
 
 <!-- einde tabel voorstellen eindwerken -->
 
@@ -473,7 +500,207 @@ to see how the commodity of Wi-Fi devices is performing vs. our gateway and how 
          </section>
 
       
-      
+         <anchor id="webapps"/>
+         <section>
+            <title>Ontwikkeling en testing van een boilerplate voor webapplicaties</title>
+            <p>
+In de onderzoeksgroep [ED+ICT] aan het departement Lerarenopleiding aan de KHLim doet men onderzoek naar e-learning, mobile learning, gamebased learning, social media.
+Er worden hier bijvoorbeeld educatieve games als webapplicaties ontworpen. 
+Webontwikkeling in applicaties zit momenteel in een stroomversnelling, computer software verhuist als maar meer naar de browser. Dit ook mede dankzij alle open-source software die beschikbaar zijn: PHP, JavaScript, HTML5, etc. Vooral JavaScript toont zich nu in zijn groeimogelijkheden.
+Het vergt een onderzoeksproces om de juiste elementen samen te brengen. Uit het standpunt van herbruikbaarheid en schaalbaarheid moeten de juiste componenten gecombineerd worden.
+Er groeit een noodzaak om een totaal systeem te ontwikkelen met een documentatie waar de bouwstenen en de configuratie al klaarstaan. Waaruit men na het uitpakken van deze boilerplate aan de slag kan gaan en ook al meteen een output heeft. 
+Dit gemaakt uit bouwstenen die stabiel en schaalbaar zijn, zodat het totaal systeem ook stabiel en schaalbaar is.
+            </p>
+            <p>
+De opdracht bestaat uit:
+            </p>
+            <ul>
+              <li>
+Oplijsting en review van bestaande framework’s in PHP, JavaScript, ORM’s, ...
+              </li>
+              <li>
+Uitgebreide testing van een selectie uit deze bestaande framework’s: snelheid, serverbelasting, schaalbaarheid
+              </li>
+              <li>
+Een boilerplate ontwikkelen met een koppeling van 1 van elk niveau van deze framework’s.
+              </li>
+              <li>
+Deze testen op snelheid, serverbelasting, stabiliteit, stress en schaalbaarheid.
+              </li>
+              <li>
+Deze boilerplate klaar maken voor release.
+              </li>
+            </ul>
+            <p>
+              Aantal studenten: 1
+            </p>
+            <p>
+              Contact: Kristof.Konings@khlim.be
+            </p>
+          </section>
+
+
+          
+          
+          
+          
+         <anchor id="trustedstate"/>
+         <section>
+            <title>Optimalisatie van een trusted state voor een gedistribueerd logging concept</title>
+
+            <p>
+Opdrachtsituering:
+            </p>
+            <p>
+In de online wereld bestaan er talloze "service providers" die aan gebruikers diensten aanbieden
+waarbij er data verwerkt of opgeslagen wordt. Bedrijven zoals Google en Facebook zijn hier
+goede en bekende voorbeelden van. Het loggen van wat deze bedrijven met (vertrouwelijke)
+informatie doen, is op zich ook al privacy-gevoelige data. K42ML heeft, in samenwerking met
+de Zweedse Karlstad University en de KU Leuven, meegeholpen aan het ontwerp van een
+gedistribueerd logging concept. Dit nieuwe, state-of-the-art loggin concept kan versterkt worden
+door een custom hardware component.
+            </p>
+            <p>
+Een prototype van deze hardwarecomponent is reeds gemaakt als proof-of-concept van het
+systeem. Deze component presteert, in
+vergelijking met een pure software
+versie, minder goed dan verwacht. Het
+doel van deze masterproef is hier
+tweeledig. In de eerste plaats dient er
+gezocht te worden naar de bottle-neck
+van de hardware-component. In de
+tweede plaats dient er een verbeterde
+versie ontworpen en geïmplementeerd
+te
+worden
+van
+deze
+hardwarecomponent.
+            </p>
+            <p>
+Het einddoel van deze masterproef is
+een
+verbeterde
+en
+werkende
+hardwarecomponent voor dit nieuwe
+gedistribueerd logging concept.
+             </p>
+             <p>
+      <img alt="figuur" src="maproef/2012-2013/k42ml.jpg"/>
+<!-- Prototype van de de trusted state -->
+             </p>
+             <p>
+Geef een korte beschrijving van
+             </p>
+             <ul>
+               <li>
+Onderzoeksgroep aan de KHLim subgroep Embedded Systems &amp; Security
+               </li>
+               <li>
+Profiling en optimalisatie van een hardware onwerp
+               </li>
+               <li>
+De masterproef wordt opgedeeld in een aantal fases. Voor elke fase zijn er één of
+meerdere deliverables.
+               </li>
+             </ul>
+
+             <p>             
+Bedrijf:<br/>
+K42ML BVBA<br/>
+Herebaan West 128<br/>
+3530 Houthalen<br/>
+Promotor: Karel Wouters
+Docent: Jo Vliegen
+             </p>
+         </section>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+         <anchor id="herconfig"/>
+         <section>
+            <title>Ontwikkeling van een dynamisch herconfigureerbare audio-effect-box</title>
+            <p>
+Opdrachtsituering:
+            </p>
+            <p>
+De onderzoeksgroep ES&amp;S werkt momenteel aan een drie-jarig Europees project: eDiViDe. In
+dit project worden er verschillende remote-labo's gemaakt. Het doel van dit project is dat
+studenten via internet hun hardware designs kunnen uploaden. Deze designs worden dan
+gesyntetiseerd en geïmplementeerd bij één van de deelnemende onderwijsinstellingen. Via
+internet kan de student(e) het resultaat van het design beoordelen via een audio- en videostream.
+Door dit project heeft de student(e) toegang tot een waaier van labo's. De KHLim richt 4
+remote-labo's in. Eén van deze labo's is om de student te leren werken met signaalverwerking op
+hardware-niveau. Het doel van deze masterproef is de ontwikkeling van dit remote-labo.
+            </p>
+            <p>
+De MP-studenten maken een setup die
+audio verwerking moet doen. De input en
+output zijn analoge audio signalen. De
+analoge input moet tot een digitale steam
+omgevormd worden. Vervolgens worden
+er 3 herconfigureerbare modules voorzien
+in deze stream. Deze modules doen een
+manipulatie van het gedigitaliseerde audio
+signaal.
+Uiteindelijk
+wordt
+de
+gemanipuleerde stream terug omgezet in
+een
+analoog
+audio
+signaal.
+De opzet van eDiViDe is dat de
+deelnemende studenten hun eigen modules
+hier voor kunnen schrijven.
+             </p>
+             <p>
+Het einddoel van deze masterproef is een
+werkende keten voor audio-stream
+manipulatie, met voorzieningen voor drie
+herconfigureerbare modules.
+                   </p>
+             <p>
+      <img alt="figuur" src="maproef/2012-2013/fpga.jpg"/>
+<!-- Prototype van de de trusted state -->
+             </p>
+                   <p>
+Geef een korte beschrijving van
+                   </p>
+                   <ul>
+                     <li>
+Onderzoeksgroep aan de KHLim, subgroep Embedded Systems &amp; Security
+                     </li>
+                     <li>
+Ontwerp en implementatie van de remote-labo setup
+                     </li>
+                     <li>
+Integratie van de herconfigureerbare modules
+                     </li>
+                   </ul>
+                   <p>
+Bedrijf:<br/>
+ACRO/ES&amp;S<br/>
+Wetenschapspark 27<br/>
+011/278 819<br/>
+Promotor Jo Vliegen<br/>
+Docent Nele Mentens<br/>
+                   </p>
+                 </section>
+          
+          
+          
           
        
       </section>
