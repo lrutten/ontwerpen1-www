@@ -122,6 +122,24 @@ Masterproefvoorstellen 2012-2013
  <td></td>
 </tr>
 
+<tr>
+ <td>voorstel 11</td>
+ <td></td>
+ <td>Generator en motor aansturing van een hybride waterfiets (<link href="#genwaterfiets">meer uitleg</link>)
+ </td>
+ <td>Jules Dock Development</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td>voorstel 12</td>
+ <td></td>
+ <td>Ontwerp een portal voor een hybride waterfiets (<link href="#portalwaterfiets">meer uitleg</link>)
+ </td>
+ <td>Jules Dock Development</td>
+ <td></td>
+</tr>
+
 
 <!-- einde tabel voorstellen eindwerken -->
 
@@ -700,7 +718,175 @@ Docent Nele Mentens<br/>
                  </section>
           
           
-          
+
+                 
+                 
+                 
+                 
+                 
+                 
+         <anchor id="genwaterfiets"/>
+         <section>
+            <title>Generator en motor aansturing van een hybride waterfiets</title>
+            <section>
+              <title>Probleemstelling</title>
+              <p>
+De firma Jules Dock is een hybride waterfiets aan het ontwikkelen. In deze waterfiets wordt
+de trapenergie van de gebruiker omgezet door een generator in elektrische energie om er
+vervolgens een elektromotor mee aan te sturen. De afgelopen twee jaar is gewerkt aan
+motor en generator aansturing. Dit systeem is echter nog niet uitontwikkeld.
+              </p>
+            </section>
+            <section>
+              <title>Opdracht</title>
+              <p>
+Maak een prototype van het elektrotechnisch systeem gebaseerd op de verbeterpunten van
+de vorige projecten en test dit systeem. Stel aan de hand van deze test verbeterpunten op
+en maak eventueel een tweede prototype. Stel vervolgens een productieplan op voor
+productie in de uiteindelijke waterfiets.
+              </p>
+              <p>
+Deliverables:
+              </p>
+              <ul>
+              <li>
+De onderzoeksresultaten van de analyse van het oude systeem;
+              </li>
+              <li>
+Verbeterpunten ten opzichte van het vorige ontwerp;
+              </li>
+              <li>
+Een productieplan voor het produceren van het door jullie ontwikelde systeem.
+              </li>
+              </ul>
+            </section>
+            <section>
+              <title>Ondersteuning</title>
+              <p>
+Voor de uitvoering van dit project zullen alle nodige componenten ter beschikking gesteld
+worden door ACRO en Jules Dock. De keuze en aankoop van componenten gebeurt in
+overleg met de projectverantwoordelijken.
+              </p>
+            </section>
+            <section>
+              <title>Periode</title>
+              <p>
+September 2012 tot en met juni 2013
+              </p>
+            </section>
+            <section>
+              <title>Bedrijf</title>
+              <p>
+Jules Dock Development<br/>
+Postbus 61018<br/>
+3002 HA Rotterdam
+              </p>
+            </section>
+            <section>
+              <title>Contactpersoon</title>
+              <p>
+Dhr. Felix Moonen<br/>
++31 624989347<br/>
+f.moonen@julesdock.nl
+              </p>
+            </section>
+            <section>
+              <title>Begeleiders</title>
+              <p>
+Dhr. Eelco Galestien ACRO kennisinstituut<br/>
+Dhr. Geert Moonen ACRO kennisinstituut<br/>
+Dhr. Felix Moonen Jules Dock Development
+              </p>
+            </section>
+          </section>
+
+
+
+
+
+
+
+
+
+         <anchor id="portalwaterfiets"/>
+         <section>
+            <title>Ontwerp een portal voor een hybride waterfiets</title>
+            <section>
+              <title>Probleemstelling</title>
+              <p>
+De firma Jules Dock is een hybride boot aan het ontwikkelen. Deze boot wordt gekoppeld
+aan een Portal met twee hoofdtaken; het volgen van de boot door het leasebedrijf en
+verhuurbedrijf en het in kaart brengen van de afgelegde weg voor de eindgebruiker. Ook
+wordt deze portal gebruikt voor administratieve en financiele taken. Het afgelopen jaar is
+een begin gemaakt aan de ontwikkeling van deze portal. Dit systeem is echter nog niet uit
+ontwikkeld.
+             </p>
+            </section>
+            <section>
+              <title>Opdracht</title>
+              <p>
+Het tot nu toe ontwikkelde systeem moet worden doorontwikkeld tot een bruikbaar
+systeem voor gebruik binnen de leasecontructie.
+              </p>
+              <p>
+Deliverables:
+              </p>
+              <ul>
+                <li>
+Verbeterpunten ten opzichte van het oude ontwerp;
+                </li>
+                <li>
+Een werkende portal voor gebruik binnen de leasecontructie.
+                </li>
+              </ul>
+            </section>
+            <section>
+              <title>Ondersteuning</title>
+              <p>
+Voor de uitvoering van dit project zullen alle nodige componenten ter beschikking gesteld
+worden door ACRO en Jules Dock. De keuze en aankoop van componenten gebeurt in
+overleg met de projectverantwoordelijken.
+              </p>
+            </section>
+            <section>
+              <title>Periode</title>
+              <p>
+September 2012 tot en met juni 2013
+              </p>
+            </section>
+            <section>
+              <title>Bedrijf</title>
+              <p>
+Jules Dock Development<br/>
+Postbus 61018<br/>
+3002 HA Rotterdam
+              </p>
+            </section>
+            <section>
+              <title>Contactpersoon</title>
+              <p>
+Dhr. Felix Moonen<br/>
++31 624989347<br/>
+f.moonen@julesdock.nl
+              </p>
+            </section>
+            <section>
+              <title>Begeleiders</title>
+              <p>
+Dhr. Eelco Galestien ACRO kennisinstituut<br/>
+Dhr. Geert Moonen ACRO kennisinstituut<br/>
+Dhr. Felix Moonen Jules Dock Development
+              </p>
+            </section>
+           </section>
+
+
+                 
+                 
+                 
+                 
+                 
+                 
           
        
       </section>

@@ -102,7 +102,7 @@ which will be used to configure the chosen Forrest skin.
   <disable-copyright-footer>false</disable-copyright-footer>
 
   <!-- @inception enable automatic generation of a date-range to current date -->
-  <year inception="true">2011</year>
+  <year inception="true">2012</year>
   <vendor>KHLim</vendor>
 
   <!-- The optional copyright-link URL will be used as a link in the
