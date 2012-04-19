@@ -140,6 +140,15 @@ Masterproefvoorstellen 2012-2013
  <td></td>
 </tr>
 
+<tr>
+ <td>voorstel 13</td>
+ <td></td>
+ <td>Ontwerp van een stralingsharde resolver read-out chip voor toepassing in de ITER fusiereactor (<link href="#stralingshardechip">meer uitleg</link>)
+ </td>
+ <td>K.H.Kempen-RELIC</td>
+ <td></td>
+</tr>
+
 
 <!-- einde tabel voorstellen eindwerken -->
 
@@ -881,8 +890,60 @@ Dhr. Felix Moonen Jules Dock Development
            </section>
 
 
-                 
-                 
+         <anchor id="stralingshardechip"/>
+         <section>
+            <title>Ontwerp van een stralingsharde resolver read-out chip voor toepassing in de ITER fusiereactor</title>
+            
+            <section>
+              <title>Beschrijving</title>
+
+              <p>
+Deze masterproef beoogt het ontwerp van een stralingsharde chip die geschikt is voor de read-out van een resolver. 
+Resolvers dienen voor de hoekuitlezing van een motor en bestaan uit een draaibaar opgestelde rotor en een vaste stator die magnetisch met elkaar gekoppeld zijn. 
+Het zijn inductieve hoeksensoren met als meetbereik een volle verdraaiing (2π). 
+Ze bestaan uit een variabele transformator met een hoekstandsafhankelijke koppeling. 
+De chip zal een stralingsharde instrumentatieversterker bevatten en zal moeten toelaten om de sensorsignalen van de resolver te digitaliseren. 
+Daarna zullen deze gemultiplexed dienen te worden met andere sensorsignalen op een enkele kabel.
+              </p>
+              <p>
+Dit eindwerk kadert binnen een samenwerking tussen de onderzoeksgroep RELIC aan de K.H.Kempen en Fusion For Energy (F4E). 
+F4E is een agentschap van de Europese Unie, betrokken bij de ontwikkeling van de ITER fusiereactor die zal gebouwd worden in Cadarache, Frankrijk. 
+Hieraan wordt meegewerkt door een internationaal consortium dat zich uitspreidt over alle continenten. 
+In tegenstelling tot huidige reactoren die energie halen uit kernsplijting zullen toekomstige reactoren hun energie halen uit kernfusie wat veel veiliger is en 
+veel minder kernafval met zich meebrengt omdat het niet meer vertrekt van zwaar radioactief Uranium maar van waterstof (deuterium en tritium). 
+Aangezien men niet fysiek in de reactor kan aanwezig zijn (te veel ioniserende straling) zal het onderhoud van deze reactor gebeuren met van op afstand bestuurbare robotica. Deze robots zullen tal van sensoren en actuatoren aan boord hebben waarvoor de nodige elektronische uitlezing en aansturing nodig is. Aangezien de stralingsdosis zeer hoog kan oplopen zijn commercieel beschikbare componenten niet in staat om in dergelijke omgeving te functioneren. Daarvoor dient specifieke stralingsharde elektronica ontwikkeld te worden.
+              </p>
+              <p>
+
+In vorig werk werden voor ITER al stralingsharde chips ontwikkeld voor ondermeer de read-out van druk- en temperatuursensoren, 
+een 17 bit analoog digitaal omzetter, een 256-kanaalsmultiplexer en een zender/ontvanger voor stralingsharde optische communicatie. 
+Deze chips werden ontworpen in een state-of-the-art 130nm CMOS IC technologie die ook in het kader van deze masterproef zal gebruikt worden. 
+Deze masterproef betreft onderzoek in een internationaal kader met hoog aanzien en 
+biedt grote kansen voor een internationale publicatie wat bijzonder aantrekkelijk is op het CV.
+              </p>
+              <p>
+Meer info op aanvraag.
+              </p>
+              <p>
+                <img alt="figuur" src="maproef/2012-2013/stralingshardechip.jpg"/>
+                <!-- Fig.1 Stralingsharde chip -->
+              </p>
+            </section>
+            <section>
+              <title>Promotor</title>
+              <p>
+Prof. dr. ir. Paul Leroux (KU Leuven ESAT-MICAS; K.H.Kempen-RELIC)
+paul.leroux@esat.kuleuven.be of paul.leroux@khk.be
+              </p>
+            </section>
+            <section>
+              <title>Dagelijkse begeleider</title>
+              <p>
+Ing. Jens Verbeeck (KU Leuven ESAT-MICAS; K.H.Kempen-RELIC)<br/>
+Prof. dr. ir. Paul Leroux (KU Leuven ESAT-MICAS; K.H.Kempen-RELIC)                 
+              </p>
+            </section>
+          </section>
                  
                  
                  
