@@ -149,6 +149,51 @@ Masterproefvoorstellen 2012-2013
  <td></td>
 </tr>
 
+<tr>
+ <td>voorstel 14</td>
+ <td></td>
+ <td>Streaming video over internet van webcam naar FPGA-bord (<link href="#streaming">meer uitleg</link>)
+ </td>
+ <td>KHLim, ES&amp;S</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td>voorstel 15</td>
+ <td></td>
+ <td>Streaming video over internet van FPGA-bord tot webpagina (<link href="#streaming2">meer uitleg</link>)
+ </td>
+ <td>KHLim, ES&amp;S</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td>voorstel 16</td>
+ <td></td>
+ <td>Analyse van de veiligheid van het stroomcijfer Pomaranch (<link href="#pomaranch">meer uitleg</link>)
+ </td>
+ <td>KHLim, ES&amp;S</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td>voorstel 17</td>
+ <td></td>
+ <td>Ontwikkeling van een hardwarebeschrijvingstaal op basis van F# (<link href="#hardwarebeschrijvinginFsharp">meer uitleg</link>)
+ </td>
+ <td>KHLim</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td>voorstel 18</td>
+ <td></td>
+ <td>BlueJ-extensie voor de zelf-evaluatie van een klasse (<link href="#bluej">meer uitleg</link>)
+ </td>
+ <td>KHLIM</td>
+ <td></td>
+</tr>
+
 
 <!-- einde tabel voorstellen eindwerken -->
 
@@ -946,8 +991,395 @@ Prof. dr. ir. Paul Leroux (KU Leuven ESAT-MICAS; K.H.Kempen-RELIC)
           </section>
                  
                  
-                 
-                 
+         <anchor id="streaming"/>
+         <section>
+            <title>Streaming video over internet van webcam naar FPGA-bord</title>
+            <p>
+Opdrachtsituering:
+            </p>
+            <p>
+De onderzoeksgroep ES&amp;S werkt momenteel aan een drie-jarig Europees project: eDiViDe. In
+dit project worden er verschillende remote-labo's gemaakt. Het doel van het project is dat
+studenten via internet hun hardware designs kunnen uploaden. Deze designs worden dan
+gesynthetiseerd en geïmplementeerd in een FPGA bij één van de deelnemende
+onderwijsinstellingen. Via internet kan de student(e) het resultaat van het design beoordelen via
+een audio- en videostream. Via dit project heeft de student(e) toegang tot een waaier van labo's.
+Als hoofdcoördinator is KHLim ook verantwoordelijk voor de interface van de student met
+eender welke labo opstelling. Eén mogelijke interface is streaming video.
+            </p>
+            <p>
+De MP-studenten implementeren de verschillende kanalen
+nodig om een streaming video input interface te realiseren.
+            </p>
+            <p>
+Beelden van een webcam moeten met behulp van een
+webpagina naar een server worden worden gestreamd.
+            </p>
+            <p>
+De server zal op zijn beurt de beelden doorsturen naar een
+FPGA. Die zal tenslotte de beelden op een monitor moeten
+tonen.
+            </p>
+            <p>
+De server zelf is ook uitgerust met een webcam, die de aan
+de FPGA gekoppelde monitor bewaakt en de beelden op
+het internet broadcast.
+            </p>
+            <p>
+Het einddoel van deze masterproef is het streamen van een live video stream van een webcam op
+de client computer, via de server naar de monitor van de FPGA.
+</p>
+<p>
+Dit onderwerp is bij voorkeur geschikt voor 2 studenten.
+</p>
+<p>
+Bedrijf ACRO/ES&amp;S<br/>
+Wetenschapspark 27<br/>
+011/278 819<br/>
+Promotor Jochen Vandorpe / Davy Wolfs<br/>
+Docent Nele Mentens
+</p>
+</section>
+
+
+
+
+
+         <anchor id="streaming2"/>
+         <section>
+            <title>Streaming video over internet van FPGA-bord tot webpagina</title>
+            <p>
+Opdrachtsituering:
+            </p>
+            <p>
+De onderzoeksgroep ES&amp;S werkt momenteel aan een drie-jarig Europees project: eDiViDe. In
+dit project worden er verschillende remote-labo's gemaakt. Het doel van het project is dat
+studenten via internet hun hardware designs kunnen uploaden. Deze designs worden dan
+gesynthetiseerd en geïmplementeerd in een FPGA bij één van de deelnemende
+onderwijsinstellingen. Via internet kan de student(e) het resultaat van het design beoordelen via
+een audio- en videostream. Via dit project heeft de student(e) toegang tot een waaier van labo's.
+Als hoofdcoördinator is KHLim ook verantwoordelijk voor de interface van de student met
+eender welke labo opstelling. Eén mogelijke interface is streaming video.
+            </p>
+            <p>
+De MP-studenten implementeren de verschillende
+kanalen nodig om een streaming video output interface
+te realiseren.
+            </p>
+            <p>
+Beelden van een firewire camera, verbonden aan een
+FPGA moeten naar een (web)server worden gestreamd.
+De (web)server zal op zijn beurt de beelden doorsturen
+naar een webpagina zodat ze op een client computer
+bekeken kunnen worden. De interface van de firewire
+camera op FPGA is reeds vorig jaar in een Masterproef
+gerealiseerd. De MP-studenten kunnen verder werken
+met die interface.
+              </p>
+              <p>
+Het einddoel van deze masterproef is het streamen van een live video stream van een firewire
+camera op de FPGA, via de server naar de client computer.
+              </p>
+              <p>
+Dit onderwerp is bij voorkeur geschikt voor 2 studenten.
+              </p>
+<p>              
+Bedrijf ACRO/ES&amp;S<br/>
+Wetenschapspark 27<br/>
+011/278 819<br/>
+Promotor Jochen Vandorpe / Davy Wolfs<br/>
+Docent Nele Mentens
+              </p>
+            </section>
+
+
+         <anchor id="pomaranch"/>
+         <section>
+            <title>Analyse van de veiligheid van het stroomcijfer Pomaranch</title>
+            <p>
+Opdrachtsituering
+            </p>
+            <p>
+Om veiligheid toe te voegen aan embedded systemen die gebruik maken van FPGA's, moeten
+cryptografische algoritmen toegevoegd worden aan bestaande FPGA implementaties. Deze
+cryptografische algoritmen moeten ten eerste verondersteld worden theoretisch veilig te zijn.
+Een bijkomende eis aan de cryptografische bouwblokken is dat ze bestand zijn tegen
+zogenaamde nevenkanaal-aanvallen. Dit zijn aanvallen die bijvoorbeeld via een meting van het
+vermogenverbruik of de uitvoeringstijd van bepaalde bewerkingen geheime informatie proberen
+te onthullen.
+            </p>
+            <p>
+In dit eindwerk zal er via een opeenvolging van vermogenmetingen en tegenmaatregelen (dit zijn
+verbeteringen van de implementatie) getracht worden om het stroomcijfer Pomaranch zo veilig
+mogelijk te maken. Daartoe zullen de volgende stappen doorlopen worden:
+            </p>
+            <ul>
+              <li>
+opstellen van een setup voor vermogenmetingen aan de hand van een FPGA-bordje of
+een PCB met een ASIC, een oscilloscoop en een PC,
+              </li>
+              <li>
+analyseren van de implementatie via vermogenmetingen,
+              </li>
+              <li>
+herhaalde implementatie van tegenmaatregelen en meer geavanceerde
+vermogenaanvallen,
+              </li>
+              <li>
+vergelijking van de veiligheid, de oppervlakte en de snelheid van de verschillende
+implementaties.
+              </li>
+            </ul>
+            <p>
+Voor de opstelling met het FPGA-bordje kunnen de studenten vertrekken van een bestaande
+setup, die gemoderniseerd moet worden.
+            </p>
+            <p>
+Dit onderwerp is bij voorkeur geschikt voor 2 studenten.
+            </p>
+
+
+            <p>
+Bedrijf ACRO/ES&amp;S<br/>
+Wetenschapspark 27<br/>
+011/278 819<br/>
+Promotor Cees Jansens (DeltaCrypto)<br/>
+Docent Nele Mentens / Jochen Vandorpe / Jo Vliegen
+            </p>
+          </section>
+
+
+
+
+          
+          
+          
+          
+          
+
+
+
+
+        <anchor id="hardwarebeschrijvinginFsharp"/>
+        <section>
+          <title>Ontwikkeling van een hardwarebeschrijvingstaal op basis van F#</title>
+
+          <section>
+            <title>Achtergrond</title>
+<p>
+Naast VHDL, de meest gekende hardwarebeschrijvingstaal voor FPGA's, zijn er nog heel wat andere hardwarebeschrijvingstalen,
+zoals Lava, Wired, Verilog, SystemC, ...
+In het CREA-project onder leiding van Nele Mentens en Kris Aerts rond de ontwikkeling van een grote-getallenbibliotheek voor VHDL
+hebben we gebruik gemaakt van zo'n alternatief taal, nl. Lava, een hardwarebeschrijvingstaal gebaseerd op Haskell, waarbij Haskell de gestandaardiseerde functionele taal is
+(http://www.haskell.org). Doordat Lava gebaseerd is op Haskell, kan je heel krachtige combinaties maken en een zeer algemeen toepasbare (polymorfe)
+code schrijven.
+</p>
+<p>
+Vrij recent is ook Microsoft op de kar van functionele talen gesprongen en in 2008 hebben zij F# uitgebracht (zie bv. de podcast
+op http://channel9.msdn.com/pdc2008/TL11/). Naast de puur functionele eigenschappen hebben zij ook niet-pure elementen toegevoegd,
+zoals variabelen met een wijzigbare toestand en een specifieke binding met I/O en grafische user interfaces. </p>
+          </section>
+
+          <section>
+            <title>Inhoud</title>
+<p>
+Alhoewel puur functionele talen grote voordelen hebben, kan de toevoeging van niet-pure dingen bepaalde aanpakken gemakkelijker maken,
+vooral wanneer die te maken hebben met het bijhouden en wijzigen van toestanden in het programma.
+Daarom zou het wel eens kunnen dat een hardwarebeschrijvingstaal gebaseerd op F# nog beter is dan Lava, omdat je de voordelen van
+de functionele aanpak combineert met de ruwe/brute kracht van toekenningen.
+</p>
+<p>
+Deze masterproef onderzoekt deze hypothese en bouwt een beperkte aanzet van zo'n hardwarebeschrijvingstaal gebaseerd op F#.
+Hierbij kan en zal natuurlijk vertrokken worden van de bestaande implementatie van Lava en eventuele andere hardwarebeschrijvingstalen.
+</p>
+          </section>
+
+          <section>
+            <title>Aard van het werk</title>
+<ul>
+
+<li>
+    literatuurstudie: 25%
+  </li>
+
+
+<li>
+    analyse: 20%
+  </li>
+
+<li>
+    ontwikkeling en implementatie: 40%
+  </li>
+
+<li>
+    evaluatie: 15%
+  </li>
+
+</ul>
+          </section>
+
+          <section>
+            <title>Promotor</title>
+            <p>Kris Aerts</p>
+          </section>
+
+        </section>
+
+
+
+        <anchor id="bluej"/>
+        <section>
+          <title>BlueJ-extensie voor de zelf-evaluatie van een klasse</title>
+
+          <section>
+            <title>Achtergrond</title>
+<p>
+BlueJ is een didactische programmeeromgeving voor Java, ontwikkeld aan Deakin University en University of Kent, en wordt gesteund door Oracle
+(www.bluej.org). Vernieuwend zijn vooral de object workbench zodat je rechtstreeks met objecten kan spelen en de visualisatie van de manier
+waarop klassen en objecten met elkaar samenwerken. Deze ontwikkelingomgeving wordt binnen de opleiding gebruikt in 1 en 2ABA.
+Deze omgeving is goed uitbreidbaar, niet zozeer omdat ze open source is, maar wel omdat er voorzieningen zijn om extensie te bouwen.
+<br/>
+De extensies die we in een masterproef in 2008-'09 extensies gebouwd hebben, zijn overbodig geworden omdat de editor bij een nieuwe uitgave
+gevoelig verbeterd is. Toch kunnen we op die resultaten verder werken om een didactische uitbreiding te maken, nl. een extensie die
+studenten helpt om de kwaliteiten van zelf geprogrammeerde klassen te evalueren zonder tussenkomst van de docent.
+</p>
+          </section>
+
+          <section>
+            <title>Inhoud</title>
+<p>
+Op redelijk wat facetten kan je vrij gemakkelijk automatisch de kwaliteit van een klasse beoordelen.
+Zo kan je nagaan of er overal correcte javadoc is gebruikt, of er voor de data members getters en setters zijn,
+of camelCase consequent afgeschermd zijn, ...
+<br/>
+In gevorderde omgevingen is het dikwijls zo dat er voorzieningen zijn om dit automatisch te laten genereren,
+maar dat is net niet de bedoeling van deze masterproef. Wanneer dingen automatisch gebeuren, denkt men niet meer na over wat
+men aan het doen is, en nadenken is net wat we de studenten w&eacute;l willen laten doen.
+<br/>
+Daarom is het doel van deze masterproef een extensie te maken die nagaat of alles in orde is, en die de gebruiker feedback geeft over de
+kwaliteit van de klasse. Deze beoordeling is niet absoluut. Zo is het bijvoorbeeld voor sommige data members niet goed om
+rechtstreekse setters en getters te voorzien, maar is het de bedoeling dat die indirect aangepast worden.
+<br/>
+Punt is wel dat de student hier bewuste keuzes over moet maken, en daarom moet de extensie signaleren wanneer hij bepaalde dingen (niet) ziet
+en aan de gebruiker de vraag stellen of dit een bewuste keuze is. Op die manier kan de student zichzelf gemakkelijk evalueren zonder dat hij moet wachten
+op de tussenkomst van de docent (bv. wanneer de student thuis aan het studeren is en wacht op een emailreactie van de student).
+Het ultieme doel is dankzij deze extensie een betere leerervaring te bekomen.
+</p>
+          </section>
+
+
+          <section>
+            <title>Doel</title>
+<ol>
+
+<li>
+ontwikkeling van een BlueJ extensie die helpt bij de zelf-evaluatie van een klasse
+</li>
+
+<li>
+keuze van de dingen waarover gefeedbacked kan worden en keuze van de mate waarin de (kwaliteits)controles al dan niet dringend zijn
+</li>
+
+</ol>
+          </section>
+
+          <section>
+            <title>Aard van het werk</title>
+<p>Deze masterproef kan met een of twee studenten uitgevoerd worden, maar bij voorkeur door twee studenten.</p>
+<ul>
+
+<li>
+    literatuurstudie: 15%
+  </li>
+
+
+<li>
+    analyse van de aspecten waarop gecontroleerd kan worden: 15%
+  </li>
+
+<li>
+    ontwikkeling en implementatie: 60%
+  </li>
+
+<li>
+    verspreiding en promotie: 10%
+  </li>
+
+</ul>
+          </section>
+
+          <section>
+            <title>Promotor</title>
+<p>Kris Aerts</p>
+          </section>
+          
+        </section>
+
+
+                <anchor id="ezorgplan"/>
+        <section>
+          <title>Een modulair systeem voor een elektronisch zorgplan</title>
+
+          <section>
+            <title>Achtergrond</title>
+<p>
+LISTEL vzw is een Limburgse koepelorganisatie rond thuiszorg, die o.a. verantwoordelijk is voor de administratieve afhandeling van multidisciplinaire overleggen met huisarts, kinesist, verpleegkundige, ... <br/>
+De problematiek is vrij complex in de zin dat er verschillende soorten overleg zijn die verschillende vergoedingen krijgen met verschillende voorwaarden om vergoedbaar te zijn. Daarbovenop zijn er nog initiatieven van de provincie Limburg, rond bv. oudermis(be)handeling, met extra subsidies.<br/>
+Om de administratie te vereenvoudigen en alle overleggen correect in te geven, is er een elektronisch zorgplan ontwikkeld dat momenteel met grote tevredenheid gebruikt wordt binnen Limburg. <br/>
+De andere provincies gebruiken momenteel een ander e-zorgplan, maar overwegen de overstap naar dat van LISTEL vzw. De huidige webapplicatie is weliswaar flexibel, maar kan een 'upgrade' gebruiken naar nog meer modulariteit, efficientere databasequeries, ...
+</p>
+          </section>
+
+          <section>
+            <title>Inhoud en doelstellingen</title>
+<p>
+De hoofddoelstelling van deze masterproef is het e-zorgplan herprogrammeren en structureren zodat het bruikbaar is in de verschillende provincies waarbij elke provincie zijn eigen regels en layout kan hebben, maar je kan verder gaan: php-template-systemen gebruiken, een ander javascript-framework, betere databasetoegang, ...
+<br/>
+Je hebt dus veel vrijheidsgraden, maar alles gebeurt natuurlijk in overleg met de ontwikkelaar van het oorspronkelijke e-zorgplan, Kris Aerts. Het academisch gehalte ligt net precies in het maken van goede keuzes, zowel wat betreft welke software gebruikt wordt als wat betreft ontwerp- en implementatiekeuzes.
+</p>
+<p>
+De ideale student heeft kennis van xHTML, PHP, Javascript, databases en van scheiding van database- en logicalaag.
+</p>
+          </section>
+
+          <section>
+            <title>Aard van het werk</title>
+<p>Deze masterproef kan met een of twee studenten uitgevoerd worden. Ze is bij uitstek geschikt voor een masterproef in een semester.</p>
+<ul>
+
+<li>
+    literatuurstudie m.i.v. de regelgeving rond multidisciplinaire overleggen: 10%
+</li>
+<li>
+  studie van de huidige code: 15%
+</li>
+
+
+
+<li>
+  keuze van de te gebruiken frameworks:  10%
+</li>
+
+<li>
+    ontwikkeling en implementatie: 55%
+  </li>
+
+<li>
+    testing en validatie met LISTEL en de andere SELs: 10%
+  </li>
+
+</ul>
+          </section>
+
+          <section>
+            <title>Promotor</title>
+<p>Kris Aerts</p>
+<p>Anick Noben, LISTEL vzw</p>
+          </section>
+
+        </section>
+          
+              
           
        
       </section>
