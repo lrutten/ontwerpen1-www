@@ -1432,23 +1432,23 @@ dat het standpunt van de camera, waarmee de foto gemaakt is, uit de foto gehaald
         <section>
             <title>Methode : gebruik van foto herkenning</title>
 
-<p>
+
 <ul>
 <li>Print patroon uit, leg in hal, neem foto van hal met patroon</li>
 <li>Uit foto wordt patroon gehaald. Uit patroon wordt camerapunt bepaald</li>
 <li>Foto wordt ingeladen in simulatiesysteem en als achtergrond gelegd, </li>
 </ul>
-</p>
+
           </section>
 
           <section>
             <title>Randopmerking</title>
-<p>
+
 <ul>
 <li>KUKA.Sim + API</li>
 <li>Visual Basic/Dot.NET</li>
 </ul>
-</p>
+
           </section>
 
 
