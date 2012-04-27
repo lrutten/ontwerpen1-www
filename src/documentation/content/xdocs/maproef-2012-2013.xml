@@ -194,6 +194,24 @@ Masterproefvoorstellen 2012-2013
  <td></td>
 </tr>
 
+<tr>
+ <td>voorstel 19</td>
+ <td></td>
+ <td>Een modulair systeem voor een elektronisch zorgplan (<link href="#ezorgplan">meer uitleg</link>)
+ </td>
+ <td>LISTEL</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td>voorstel 20</td>
+ <td></td>
+ <td>Augmented reality in robotsimulatie (<link href="#kuka">meer uitleg</link>)
+ </td>
+ <td>KUKA Houthalen</td>
+ <td></td>
+</tr>
+
 
 <!-- einde tabel voorstellen eindwerken -->
 
@@ -847,9 +865,9 @@ f.moonen@julesdock.nl
             <section>
               <title>Begeleiders</title>
               <p>
-Dhr. Eelco Galestien ACRO kennisinstituut<br/>
-Dhr. Geert Moonen ACRO kennisinstituut<br/>
-Dhr. Felix Moonen Jules Dock Development
+Dhr. Eelco Galestien, ACRO kennisinstituut, eelco.galestien@acro.be<br/>
+Dhr. Geert Moonen, ACRO kennisinstituut, geert.moonen@acro.be<br/>
+Dhr. Felix Moonen, Jules Dock Development
               </p>
             </section>
           </section>
@@ -927,9 +945,9 @@ f.moonen@julesdock.nl
             <section>
               <title>Begeleiders</title>
               <p>
-Dhr. Eelco Galestien ACRO kennisinstituut<br/>
-Dhr. Geert Moonen ACRO kennisinstituut<br/>
-Dhr. Felix Moonen Jules Dock Development
+Dhr. Eelco Galestien, ACRO kennisinstituut, eelco.galestien@acro.be<br/>
+Dhr. Geert Moonen, ACRO kennisinstituut, geert.moonen@acro.be<br/>
+Dhr. Felix Moonen, Jules Dock Development
               </p>
             </section>
            </section>
@@ -1379,7 +1397,73 @@ De ideale student heeft kennis van xHTML, PHP, Javascript, databases en van sche
 
         </section>
           
-              
+
+        
+        
+        
+        
+        
+     <anchor id="kuka"/>
+        <section>
+          <title>Augmented reality in robotsimulatie</title>
+
+          <section>
+            <title>Doelstelling</title>
+<p>
+De thesis heeft als doelstelling om de computersimulaties uit te breiden met foto's van de plaats waar de installatie uiteindelijk gebouwd wordt. 
+De foto wordt als achtergrond gezet en op de voorgrond staat de simulatie. 
+De uitdaging voor de thesis ligt er in om de 2D foto en de 3D simulatie op elkaar te leggen is nodig 
+dat het standpunt van de camera, waarmee de foto gemaakt is, uit de foto gehaald wordt en naar de 3D wereld wordt gelegd.
+</p>
+          </section>
+
+        <section>
+            <title>Methode: gebruik van landmarks</title>
+            
+<p>
+<ul>
+<li>op elkaar fitten van 2d en 3d landmarks</li>
+<li>iteratief bepalen van camerapunt en field-of-view met minLQ</li>
+<li>Foto als achtergrond inladen, en camerapunt goed leggen</li>
+</ul>
+</p>
+          </section>
+
+        <section>
+            <title>Methode : gebruik van foto herkenning</title>
+
+<p>
+<ul>
+<li>Print patroon uit, leg in hal, neem foto van hal met patroon</li>
+<li>Uit foto wordt patroon gehaald. Uit patroon wordt camerapunt bepaald</li>
+<li>Foto wordt ingeladen in simulatiesysteem en als achtergrond gelegd, </li>
+</ul>
+</p>
+          </section>
+
+          <section>
+            <title>Randopmerking</title>
+<p>
+<ul>
+<li>KUKA.Sim + API</li>
+<li>Visual Basic/Dot.NET</li>
+</ul>
+</p>
+          </section>
+
+
+
+          <section>
+            <title>Promotor</title>
+<p>Wim Persoons</p>
+<p>Wim.Persoons@kuka.be</p>
+<p>KUKA Houthalen</p>
+          </section>
+
+        </section>        
+        
+        
+        
           
        
       </section>
