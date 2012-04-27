@@ -1420,13 +1420,13 @@ dat het standpunt van de camera, waarmee de foto gemaakt is, uit de foto gehaald
         <section>
             <title>Methode: gebruik van landmarks</title>
             
-<p>
+
 <ul>
 <li>op elkaar fitten van 2d en 3d landmarks</li>
 <li>iteratief bepalen van camerapunt en field-of-view met minLQ</li>
 <li>Foto als achtergrond inladen, en camerapunt goed leggen</li>
 </ul>
-</p>
+
           </section>
 
         <section>
