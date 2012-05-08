@@ -212,6 +212,15 @@ Masterproefvoorstellen 2012-2013
  <td></td>
 </tr>
 
+<tr>
+ <td>voorstel 21</td>
+ <td></td>
+ <td>Een GPS-plaatsbepalingseenheid op FPGA (<link href="#gpsfpga">meer uitleg</link>)
+ </td>
+ <td>Koninklijke Sterrenwacht van België</td>
+ <td></td>
+</tr>
+
 
 <!-- einde tabel voorstellen eindwerken -->
 
@@ -1463,9 +1472,64 @@ dat het standpunt van de camera, waarmee de foto gemaakt is, uit de foto gehaald
         </section>        
         
         
-        
-          
-       
+     <anchor id="gpsfpga"/>
+        <section>
+          <title>Een GPS-plaatsbepalingseenheid op FPGA</title>
+          <section>
+            <title>Inhoud</title>
+            <p>
+Tegenwoordig is navigatie met gebruik van GPS
+niet meer weg te denken uit de dagelijkse realiteit.
+Maar ook voor wetenschappelijk onderzoek worden er
+GPS-ontvangers gebruikt. Die zijn bij voorkeur flexibel.
+            </p>
+            <p>
+Daarom werd vorig jaar, ook in het kader van een masterproef,
+een flexibele ontvangst-module voor een GPS-ontvanger op FPGA
+ontwikkeld. Deze ontvangt het GPS-signaal, maar doet
+echter niet de berekening voor plaatsbepaling.
+            </p>
+            <p>
+
+Dat probleem zal in dit project aangepakt worden.
+Concreet zullen hiervoor de relevante parameters uit de
+navigatieboodschappen van de satellieten moeten worden gehaald.
+Dit, gecombineerd met de instellingen van het tracking-blok,
+zal toelaten een positie-bepaling uit te voeren.
+            </p>
+            <p>
+
+Eventueel is er nog mogelijkheid tot verfijning van de oplossing
+door het toepassen van meer geavanceerde wiskundige algoritmes.
+            </p>
+          </section>
+          <section>
+            <title>Aard van het werk</title>
+<p>
+Deze masterproef is geschikt voor 1 of 2 eindwerkstudenten.
+</p>
+   <ul>
+     <li>
+      literatuurstudie: 40%
+     </li>
+     <li>
+      ontwikkeling en implementatie: 60%
+     </li>
+   </ul>
+          </section>
+          <section>
+            <title>Promotoren</title>
+
+            <ul>
+              <li>
+     Wim Aerts (Koninklijke Sterrenwacht van België)
+              </li>
+              <li>
+     Nele Mentens (KHLim)        
+              </li>
+            </ul>
+          </section>
+        </section>
       </section>
  
   </body>
