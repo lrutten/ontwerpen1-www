@@ -221,6 +221,33 @@ Masterproefvoorstellen 2012-2013
  <td></td>
 </tr>
 
+<tr>
+ <td>voorstel 22</td>
+ <td></td>
+ <td>Advanced EEG platform for wireless neurofeedback in home healthcare (<link href="#wirelesseeg">meer uitleg</link>)
+ </td>
+ <td>Philips Research Eindhoven</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td>voorstel 23</td>
+ <td></td>
+ <td>Detectie van eerste symptomen van dementia via het digitaal patience kaartspel (<link href="#digitaalpatience">meer uitleg</link>)
+ </td>
+ <td>Mobilab, KHKempen</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td>voorstel 24</td>
+ <td></td>
+ <td>Digital lightfield photography (<link href="#lightfield">meer uitleg</link>)
+ </td>
+ <td>Mobilab, KHKempen</td>
+ <td></td>
+</tr>
+
 
 <!-- einde tabel voorstellen eindwerken -->
 
@@ -1529,6 +1556,177 @@ Deze masterproef is geschikt voor 1 of 2 eindwerkstudenten.
               </li>
             </ul>
           </section>
+        </section>
+
+
+
+
+
+
+     <anchor id="wirelesseeg"/>
+        <section>
+          <title>Advanced EEG platform for wireless neurofeedback in home healthcare</title> 
+
+          <section>
+            <title>Background</title>
+            <p>
+              Biofeedback is a process that enables an individual to learn how to change physiological activity for the purposes of improving health and performance. 
+              Precise instruments measure physiological activity such as brainwaves, heart function, breathing, muscle activity, and skin temperature. 
+              These instruments rapidly and accurately “feed back” information to the user. 
+              The presentation of this information – often in conjunction with changes in thinking, emotions, and behavior – supports desired physiological
+              changes. Over time, these changes can endure without continued use of an instrument.
+              At Philips Research we are interested in biofeedback with minimal invasive technology. 
+              In this project we are testing the effectiveness of neurofeedback: biofeedback based on EEG or brain signals. 
+              For minimizing the obtrusiveness and stigmatization we have hidden the EEG electrodes in an audio headset (see figure 1). 
+              The feedback is given via the quality of personal music: higher quality means good performance.  
+            </p>
+            <p>
+                <img alt="figuur" src="maproef/2012-2013/wirelesseeg1.jpg"/>
+            </p>
+          </section>
+          <section>
+            <title>Goal and objective</title>
+            <p>
+              The aim of the thesis is to develop a small platform for acquisition of a few (2-8) brain signals, which can be integrated into a audio headset. 
+              The platform should combine standard instrumental analog for the amplification of the brain signals, 24 bits analog to digital convertor, 
+              microprocessor and a Bluetooth radio for wireless transmission of the brain signals to a smart phone.
+            </p>
+          </section>
+          <section>
+            <title>Quick starting</title>
+            <p>
+            Basic building blocks are available within Philips Research and IMEC Holst Centre Eindhoven. 
+            </p>
+            
+            <p>
+                <img alt="figuur" src="maproef/2012-2013/wirelesseeg2.jpg"/>
+            </p>
+          </section>
+
+          <section>
+            <title>Why this thesis?</title>
+            <p>
+            During the work, the student will get familiar with advanced analog and digital signal processing techniques applied to EEG signals. 
+            Philips Research needs a small platform for testing our neurofeedback concept in a home healthcare setting.
+            The algorithms will enable the development of neuro-feedback headset for the Philips home healthcare sector.
+            </p>
+          </section>
+          <section>
+            <title>Practical informations</title>
+            <p>
+            This thesis can be performed by one or two prospective students in close collaboration with Philips Research at the High Tech Campus in Eindhoven.
+            </p>
+            <p>
+Promoter Philips/ Daily Supervisions :  Ir. Ad Denissen (ad.denissen@philips.com) 
+            </p>
+            <p>
+Promoters school: prof .dr. ir. Bart Vanrumste (bart.vanrumste@esat.kuleuven.be)
+		      </p>
+		      <p>
+Location (Research unit): Philips Research Eindhoven
+            </p>
+            <p>
+Number of students: 1 or 2
+            </p>
+          </section>
+        </section>
+          
+          
+          
+     <anchor id="digitaalpatience"/>
+        <section>
+          <title>Detectie van eerste symptomen van dementia via het digitaal patience kaartspel</title>
+
+          <p>
+            Binnen   Mobilab   loopt   een   project,   Amacs,   waar   de   zelf-redzaamheid  en cognitieve status  bij  alleenwonende   ouderen   gemeten   wordt.  
+            Dit gebeurt door middel van het automatisch detecteren van activiteiten op basis van contactloze sensoren. 
+            De groep 75+ zal ook meer en meer gebruik maken van de PC om email berichten te versturen en ook om spelletjes te spelen als tijdverdrijf.
+            We hebben een digitale versie van het patience spel in MATLAB voorhanden. 
+            We hopen door het vastleggen van de acties tijdens het spel een maat te kunnen afleiden voor de detectie van milde cognitieve achteruitgang 
+            dat kan aanleiding geven tot dementie. 
+            Een vroegtijdige detectie van de verandering in het gebruikersgedrag zou het opstarten van therapie vroeger laten beginnen.  
+            Dit zal tot gevolg hebben dat ouderen langer een kwaliteitsvol leven kunnen leiden. 
+          </p>
+
+          <p>
+            De onderzoeksvraag
+          </p>
+          <p>
+            Kunnen we door middel van digitale patience spel iets zeggen over de cognitieve toestand van de gebruiker?
+          </p>
+
+          <p>
+            Finaal resultaat van de masterproef
+          </p>
+          <p>
+            Een studie waarbij we data hebben opgenomen van de doelgroep en van de controle groep en waar we een verschil hebben vastgesteld.
+          </p>
+          <p>
+           Praktisch
+          </p>
+          <p>
+           In samenwerking met prof. Tournoy van UZLeuven dep. Geriatrie. 
+          </p>
+          <p>
+            Bedrijf: KHKempen<br/>
+            Adres: Kleinhoefstraat 4, 2440 GEEL	
+            <link href="http://www.mobilab-khk.be">www.mobilab-khk.be</link><br/>
+          </p>
+          <p>
+             Promotor: Bart Vanrumste, bart.vanrumste@esat.kuleuven.be
+          </p>
+           </section>
+
+
+
+
+
+
+
+
+
+     <anchor id="lightfield"/>
+        <section>
+          <title>Digital lightfield photography</title>
+
+          <p>
+            Binnen Mobilab loopt een project, Amacs, waar de zelf-redzaamheid en gevaarlijke gebeurtenissen (zoals val) bij alleenwonende ouderen
+            gemeten wordt. Dit gebeurt door middel van het automatisch detecteren van activiteiten op basis van contactloze sensoren.  
+            Eén zo'n sensor die gebruikt wordt, is een camera systeem, waardoor, met behulp van een slim algoritme, 
+            automatisch gedetecteerd kan worden in welke toestand de persoon zich bevindt. 
+            Naast de webcams zijn er nu nieuw type camera’s op de markt die digitaal het “lichtveld” opnemen. (zie <link href="https://www.lytro.com/">www.lytro.com</link>). 
+            Gebruikmakend van deze nieuwe technologie willen we kijken wat de meerwaarde is voor toepassingen in de gezondheidszorg in het algemeen en 
+            in het AMACS verhaal in het bijzonder.
+          </p>
+
+
+          <p>
+           De onderzoeksvraag:
+         </p>
+         <p>
+           Hoe  kan men met lichtveld camera’s robuster de zelfredzaamheid en gevaarlijke situaties gedetecteerd worden bij alleenwonende bejaarden?
+         </p>
+
+         <p>
+           Het finaal resultaat van de masterproef:
+         </p>
+         <p>
+           Een werkend prototype gebruikmakend van het nieuwe visie systeem.
+         </p>
+
+         <p>
+           Praktisch
+          </p>
+          <p>
+            Bedrijf: KHKempen<br/>
+            Adres: Kleinhoefstraat 4, 2440 GEEL	
+            <link href="http://www.mobilab-khk.be">www.mobilab-khk.be</link><br/>
+          </p>
+          <p>
+             Promotor: Bart Vanrumste, bart.vanrumste@esat.kuleuven.be
+          </p>
+
+        
         </section>
       </section>
  
