@@ -248,6 +248,24 @@ Masterproefvoorstellen 2012-2013
  <td></td>
 </tr>
 
+<tr>
+ <td>voorstel 25</td>
+ <td></td>
+ <td>Ontwerp en implementatie van een grafische gebruikersinterface voor een vending machine in HTML5 (<link href="#guihtml5">meer uitleg</link>)
+ </td>
+ <td>Ramabox</td>
+ <td></td>
+</tr>
+
+<tr>
+ <td>voorstel 26</td>
+ <td></td>
+ <td>Ontwerp en implementatie van een 8051 afgeleide microcontroller met ICE supervisor module in een FPGA soft core (<link href="#fpgasoftcore">meer uitleg</link>)
+ </td>
+ <td>Ramabox</td>
+ <td></td>
+</tr>
+
 
 <!-- einde tabel voorstellen eindwerken -->
 
@@ -1725,9 +1743,142 @@ Number of students: 1 or 2
           <p>
              Promotor: Bart Vanrumste, bart.vanrumste@esat.kuleuven.be
           </p>
-
-        
+       
         </section>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+     <anchor id="guihtml5"/>
+        <section>
+          <title>Ontwerp en implementatie van een grafische gebruikersinterface voor een vending machine in HTML5</title>
+
+          <p>
+Traditionele vending machines zoals drank- en snack-automaten zijn voorzien van
+drukknoppen voor de keuze van een item. Terwijl deze traditionele vending machines
+alom tegenwoordig zijn, en nog steeds goed werken, zijn ze sterk verouderd
+wanneer men kijkt naar de opgang van multimedia zoals smartphones, YouTube,
+Spotify, Blu-ray.
+          </p>
+          <p>
+Ramabox heeft methodes en technieken ontwikkeld om bestaande vending
+machines met drukknoppen te voorzien van een grafische gebruikersinterface,
+zonder de bestaande elektronica te wijzigen binnen de machine.
+In deze afstudeeropdracht wordt een grafische gebruikersinterface ontworpen voor
+een vending machine in HTML5.
+          </p>
+          <p>
+Binnen de grafische gebruikersinterface kan de gebruiker een keuze maken voor een
+drankje of een snack, en er kan informatie opgevraagd worden over de caloriëen in
+het produkt. Wanneer het item niet meer beschikbaar is of er onvoldoende geld ter
+beschikking is wordt dit gemeld met een interactieve boodschap. Alvorens het
+drankje teruggegeven wordt kan er een reclamefilmpje getoond worden.
+          </p>
+          <p>
+De beschikbare produkten op de vending machine en de prijzen van de produkten
+kunnen geconfigureerd worden op een server, zodat het makkelijk is om nieuwe
+produkten toe te voegen of bestaande produkten te vervangen door andere
+produkten. De vending operator kan de status van de vending machine bekijken van
+op afstand, en statistieken opvragen zoals onder meer verkoopscijfers, aantal
+transacties, totale geld-inhoud in de machine, foutmeldingen, etc.
+          </p>
+          <p>
+Binnen deze afstudeeropdracht maken de studenten zich vertrouwd met
+verschillende technologiëen, zoals onder meer: HTML5, JavaScript, PHP, SQL,
+video streaming, OpenNMS, DEX/UCS, etc.
+          </p>
+          <p>
+
+Aantal studenten: 2
+          </p>
+          <p>
+Bedrijf: Ramabox<br/>
+Contact persoon: Pascal Felique<br/>
+Telefoon: 0046 730 28 46 88<br/>
+E-mail: pascal.felique@ramabox.com
+          </p>
+         </section>
+
+
+
+
+     <anchor id="fpgasoftcore"/>
+        <section>
+          <title>Ontwerp en implementatie van een 8051 afgeleide microcontroller met ICE supervisor module in een FPGA soft core</title>
+
+          <p>
+De Intel 8051 familie van microcontrollers is een van de meest populaire
+microcontroller architecturen geweest in de laatste decennia, en is ook vandaag de
+dag nog steeds terug te vinden in veel embedded toepassingen. Het voortgezette
+succes van de 8051 familie is voornamelijk te wijten aan 4 significante factoren:
+          </p>
+          <ul>
+            <li>
+Het grote aantal bedrijven die de Intel core gelicensieerd en uitgebreid hebben;
+            </li>
+            <li>
+Het grote aantal tools die bedrijven nog steeds ondersteunen;
+            </li>
+            <li>
+Het grote aantal ingenieurs die vertrouwd zijn met de 8051 architectuur;
+            </li>
+            <li>
+Het grote aantal bestaande 8051 software routines die herbruikt kunnen worden;
+            </li>
+          </ul>
+          <p>
+De 8051 van vandaag de dag is niet dezelfde als die uit het verleden. De afgeleide
+varianten zijn sneller, kleiner, hebben meer ROM en RAM (via geheugen banks),
+meer data pointers (tot 8) en vergen veel minder cycli per instructie (van 12 tot 1 of
+2), plus zijn uitgebreid met tal van nieuwe peripherals. De nieuwere 8051 chips zijn
+ontworpen vanuit een ander perspectief en richten zich meer op de peripherals: de
+8051 wordt gebruikt om de peripherals te monitoren en te besturen. Het kan een chip
+op zich zijn, of de 8051 kan geprogrammeerd worden als een soft core in een FPGA.
+          </p>
+          <p>
+Binnen deze afstudeeropdracht wordt een afgeleide variant van de 8051
+microcontroller ontworpen in een FPGA soft core op basis van een bestaande 8051
+soft core. Microcontroller peripherals worden toevoegd/aangepast met zoveel
+mogelijkheid behoud van de voorhanden basis 8051 soft core. Vervolgens worden
+In-Circuit Emulation (ICE) features toegevoegd op een zo generiek mogelijke manier
+(retargetable en bruikbaar voor andere 8051 afgeleide microcontrollers) voor non-
+intrusive debugging mogelijkheden (breakpoints, watchpoints, read/modify data
+memory, change PC, trace data/program memory accesses, etc.) Tenslotte wordt er
+een Supervisor soft core module ontworpen die communiceert met de ICE module,
+en ICE bevelen kan uitvoeren/ICE events kan monitoren.
+          </p>
+          <p>
+Het doel van de afstudeeropdracht is om op een ingenieuze manier nieuwe functies
+(grafische gebruikersinterface, interactieve reclame, alternatieve betalingsmiddelen,
+remote monitoring, intelligent energieverbruik) toe te voegen aan een bestaande
+vending machine tijdens normaal gebruik, door bewerkingen uit te voeren op
+programma geheugenlocaties en data geheugenlocaties zonder het oorspronkelijke
+programma van de vending machine te veranderen.
+          </p>
+          <p>
+Aantal studenten: 2
+          </p>
+          <p>
+Bedrijf: Ramabox<br/>
+Contact persoon: Pascal Felique<br/>
+Telefoon: 0046 730 28 46 88<br/>
+E-mail: pascal.felique@ramabox.com
+          </p>
+        </section>
+        
+        
+        
+        
+        
+        
+        
+        
+        
       </section>
  
   </body>
