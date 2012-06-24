@@ -32,7 +32,7 @@ Masterproefvoorstellen 2012-2013
 <!-- voorstel1 --> 
 <tr>
  <td>voorstel 1</td>
- <td></td>
+ <td>Adriaan Akkermans</td>
  <td>Slimme Boiler: port naar embedded ARM platform (<link href="#boiler2arm">meer uitleg</link>)
  </td>
  <td>VITO ETE</td>
@@ -97,7 +97,7 @@ Masterproefvoorstellen 2012-2013
 
 <tr>
  <td>voorstel 8</td>
- <td></td>
+ <td>Stephen Hermans</td>
  <td>Ontwikkeling en testing van een boilerplate voor webapplicaties (<link href="#webapps">meer uitleg</link>)
  </td>
  <td>[ED+ICT], dep. Lerarenopleiding, KHLim</td>
@@ -106,7 +106,7 @@ Masterproefvoorstellen 2012-2013
 
 <tr>
  <td>voorstel 9</td>
- <td></td>
+ <td>Ozer Unal, Bart Sallaerts --></td>
  <td>Optimalisatie van een trusted state voor een gedistribueerd logging concept (<link href="#trustedstate">meer uitleg</link>)
  </td>
  <td>K42ML BVBA</td>
@@ -196,7 +196,7 @@ Masterproefvoorstellen 2012-2013
 
 <tr>
  <td>voorstel 19</td>
- <td></td>
+ <td>Joris Jacobs</td>
  <td>Een modulair systeem voor een elektronisch zorgplan (<link href="#ezorgplan">meer uitleg</link>)
  </td>
  <td>LISTEL</td>
