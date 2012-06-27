@@ -30,6 +30,8 @@ Masterproefvoorstellen 2012-2013
 <!-- voorstellen eindwerken -->
 
 <!-- voorstel1 --> 
+
+<!-- niet starten 2de zit -->
 <tr>
  <td>voorstel 1</td>
  <td>Adriaan Akkermans</td>
@@ -95,6 +97,7 @@ Masterproefvoorstellen 2012-2013
  <td></td>
 </tr>
 
+<!-- eerst 2de zit -->
 <tr>
  <td>voorstel 8</td>
  <td>Stephen Hermans</td>
@@ -104,9 +107,12 @@ Masterproefvoorstellen 2012-2013
  <td></td>
 </tr>
 
+<!--
+ Ozer: 7 stp 2de zit, daarna MP in half jaar
+  -->
 <tr>
  <td>voorstel 9</td>
- <td>Ozer Unal, Bart Sallaerts --></td>
+ <td>Ozer Unal, Bart Sallaerts</td>
  <td>Optimalisatie van een trusted state voor een gedistribueerd logging concept (<link href="#trustedstate">meer uitleg</link>)
  </td>
  <td>K42ML BVBA</td>
@@ -115,7 +121,7 @@ Masterproefvoorstellen 2012-2013
 
 <tr>
  <td>voorstel 10</td>
- <td></td>
+ <td>Stijn Awouters, Bart Rekoms </td>
  <td>Ontwikkeling van een dynamisch herconfigureerbare audio-effect-box (<link href="#herconfig">meer uitleg</link>)
  </td>
  <td>ACRO/ES&amp;S</td>
@@ -149,9 +155,10 @@ Masterproefvoorstellen 2012-2013
  <td></td>
 </tr>
 
+<!-- Voorstel 14 en 15 worden samengevoegd -->
 <tr>
  <td>voorstel 14</td>
- <td></td>
+ <td>Davy Neven</td>
  <td>Streaming video over internet van webcam naar FPGA-bord (<link href="#streaming">meer uitleg</link>)
  </td>
  <td>KHLim, ES&amp;S</td>
@@ -212,9 +219,13 @@ Masterproefvoorstellen 2012-2013
  <td></td>
 </tr>
 
+<!--
+   Jimmy: mag starten
+   Jeroen: 2de zit
+  -->
 <tr>
  <td>voorstel 21</td>
- <td></td>
+ <td>Jimmy Gysens, Jeroen Hayen</td>
  <td>Een GPS-plaatsbepalingseenheid op FPGA (<link href="#gpsfpga">meer uitleg</link>)
  </td>
  <td>Koninklijke Sterrenwacht van België</td>
