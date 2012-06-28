@@ -281,7 +281,7 @@ Masterproefvoorstellen 2012-2013
  <td>voorstel 27</td>
  <td>Joris Achten</td>
  <td>
-   Koppeling tussen laag vermogen sensornetwerken en mobiele platformen.
+   Het ontwerpen en realiseren van een sensornetwerk voor geïsoleerde gebieden (<link href="#sensornet">meer uitleg</link>).
  </td>
  <td></td>
  <td></td>
@@ -1897,11 +1897,78 @@ E-mail: pascal.felique@ramabox.com
         
         
         
-        
-        
-        
+     <anchor id="sensornet"/>
+        <section>
+          <title>Het ontwerpen en realiseren van een sensornetwerk voor geïsoleerde gebieden</title>
+
+          <p>
+Het doel van dit project is om op een slimme manier data van sensoren door te zenden naar een webserver. 
+De sensormodules staan op plaatsen waar mogelijk geen vaste energie voorziening is en 
+niet constant een datalink aanwezig hoeft/kan zijn met het internet. 
+De sensormodules moeten hun meetwaardes opslaan, en op een gepast moment wanneer er voldoende energie en een datalink aanwezig is,
+hun gegevens opsturen naar een dispatchertoestel. Dit dispatchertoestel kan een mobiel of vast toestel zijn dat een vaste communicatie link heeft met internet, en een vaste energie bron.
+          </p>
+          <p>
+Als concrete realisatie van dit project plaatsen we een sensor boven op een silo, in een bos, ... 
+laten deze een hoeveelheid data verzamelen en wanneer er een dispatchertoestel in de buurt is, 
+moet de datalog van de sensormodule naar het dispatchertoestel verstuurd worden. 
+Vervolgens kan de dispatcher de data uploaden via het internet.
+          </p>
+          <p>
+Een toepassing kan bijvoorbeeld zijn dat je de variatie van het waterniveau van een beek in kaart wil brengen. 
+Wanneer de module geplaatst is blijft de module werken op een batterij die wordt bijgeladen door een zonnecel. 
+Eens om de week/maand komt iemand langsgereden met een dispatchertoestel dat draadloos de sensor uitleest en 
+zo de gegevens op het internet kan doorsturen.
+          </p>
+          <p>
+De zaken, die hiervoor ontwikkeld moeten worden, zijn:
+          </p>
+          <ul>
+            <li>          
+              Sensormodule
+              <ul>
+                <li>
+                  Laag energieverbruik
+                </li>
+                <li>
+                  Draadloze communicatielink
+                </li>
+                <li>
+                  Niet vluchtig opslaggeheugen voor datalog
+                </li>
+                <li>
+                  Programmatie
+                </li>
+              </ul>
+            </li>
+            <li>
+              Dispatcher unit
+              <ul>
+                <li>
+Communicatie met sensornetwerk
+                </li>
+                <li>
+Communicatie met internet
+                  <ul>
+                    <li>
+Uploaden log naar dataserver
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>
+              Webserver
+              <ul>
+                <li>
+Ontvangen van datalog
+                </li>
+              </ul>
+            </li>
+          </ul>
+          </section>
       </section>
- 
+     
   </body>
 </document>
 
