@@ -31,7 +31,7 @@ Masterproeven 2012-2013
 
 <!-- voorstel1 --> 
 
-<!-- niet starten 2de zit -->
+<!-- niet starten 2de zit, is ondertussen wel gestart -->
 <tr>
  <td>voorstel 1</td>
  <td>Adriaan Akkermans</td>
@@ -41,6 +41,9 @@ Masterproeven 2012-2013
  <td>Koen Vanthournout, Leo Rutten</td>
 </tr>
 
+<!--
+  Niet gekozen
+  
 <tr>
  <td>voorstel 2</td>
  <td></td>
@@ -96,8 +99,9 @@ Masterproeven 2012-2013
  <td>Technicolor</td>
  <td></td>
 </tr>
+-->
 
-<!-- eerst 2de zit -->
+<!-- eerst 2de zit, is daarna gestart -->
 <tr>
  <td>voorstel 8</td>
  <td>Stephen Hermans</td>
@@ -128,6 +132,9 @@ Masterproeven 2012-2013
  <td>Jo Vliegen, Nele Mentens</td>
 </tr>
 
+<!--
+  Niet gekozen
+  
 <tr>
  <td>voorstel 11</td>
  <td></td>
@@ -136,6 +143,7 @@ Masterproeven 2012-2013
  <td>Jules Dock Development</td>
  <td></td>
 </tr>
+  -->
 
 <tr>
  <td>voorstel 12</td>
@@ -146,6 +154,9 @@ Masterproeven 2012-2013
  <td>Felix Moonen, Leo Rutten</td>
 </tr>
 
+<!--
+  Niet gekozen
+  
 <tr>
  <td>voorstel 13</td>
  <td></td>
@@ -154,6 +165,7 @@ Masterproeven 2012-2013
  <td>K.H.Kempen-RELIC</td>
  <td></td>
 </tr>
+  -->
 
 <!-- Voorstel 14 en 15 worden samengevoegd -->
 <tr>
@@ -215,6 +227,8 @@ Verwijderd
  <td>LISTEL</td>
  <td>Anick Noben, Kris Aerts</td>
 </tr>
+        <!-- 
+          niet gekozen
 
 <tr>
  <td>voorstel 20</td>
@@ -224,6 +238,7 @@ Verwijderd
  <td>KUKA Houthalen</td>
  <td></td>
 </tr>
+-->
 
 <!--
    Jimmy: mag starten
@@ -237,6 +252,10 @@ Verwijderd
  <td>Koninklijke Sterrenwacht van België</td>
  <td>Wim Aerts, Nele Mentens</td>
 </tr>
+
+
+<!--
+  Niet gekozen
 
 <tr>
  <td>voorstel 22</td>
@@ -282,6 +301,7 @@ Verwijderd
  <td>Ramabox</td>
  <td></td>
 </tr>
+-->
 
 <tr>
  <td>voorstel 27</td>
@@ -343,7 +363,7 @@ Fig.1: (a) Een figuur
 
 
 
-
+        <!-- voorstel 1 -->
         <anchor id="boiler2arm"/>
         <section>
           <title>Slimme Boiler: port naar embedded ARM platform</title>
@@ -399,6 +419,9 @@ Geert.Jacobs@vito.be<br/>
         
         
 
+        <!-- voorstel 2 -->
+        <!-- 
+          niet gekozen
         <anchor id="conductivepath"/>
         <section>
           <title>Investigation of a conductive path at the Si interface in AlGaN/GaN HEMTs grown on Si substrate by Variable Magnetic field Hall (VMH) measurements</title>
@@ -434,14 +457,16 @@ EpiGaN was incorporated in 2010 by Marianne Germain, Stefan Degroote and Joff De
             </p>
           </section>
         </section>
+      -->
       
-      
 
 
 
 
 
-
+        <!-- voorstel 3 -->
+        <!-- 
+          niet gekozen
         <anchor id="dynresistance"/>
         <section>
           <title>Investigation of the dynamic on-state resistance of high voltage AlGaN/GaN HEMT</title>
@@ -486,6 +511,7 @@ EpiGaN was incorporated in 2010 by Marianne Germain, Stefan Degroote and Joff De
            </p>
            </section>
          </section>
+        -->
 
 
 
@@ -493,7 +519,9 @@ EpiGaN was incorporated in 2010 by Marianne Germain, Stefan Degroote and Joff De
 
 
 
-
+        <!-- voorstel 4 -->
+        <!-- 
+          niet gekozen
          <anchor id="wifiinterference"/>
          <section>
            <title>Wi-Fi interference mitigation</title>
@@ -561,8 +589,11 @@ Direct input for the Wi-Fi team on how to modify the current interference mitiga
             <link href="http://www.technicolor.com">www.technicolor.com</link>
             </p>
          </section>
+         -->
 
-
+        <!-- voorstel 5 -->
+        <!-- 
+          niet gekozen
          <anchor id="wifiradiated"/>
          <section>
            <title>Wi-Fi Radiated performance measurement strategy</title>
@@ -600,10 +631,12 @@ Prins Boudewijnlaan 47<br/>
 edgmrecruitment@technicolor.com<br/>
 <link href="http://www.technicolor.com">www.technicolor.com</link>
 </p>
-
          </section>
+         -->
 
-
+        <!-- voorstel 6 -->
+        <!-- 
+          niet gekozen
          <anchor id="wifianalysisapp"/>
          <section>
            <title>Development of Wi-Fi analysis application on a PC</title>
@@ -636,8 +669,11 @@ Wi-Fi analysis is today cumbersome for non Wi-Fi experts.
                your own proposal for a thesis or internship at Technicolor, please contact Lin Noeninckx via edgmrecruitment@technicolor.com.
             </p>
          </section>
+         -->
 
-
+        <!-- voorstel 7 -->
+        <!-- 
+          niet gekozen
          <anchor id="wifihighpowertx"/>
          <section>
             <title>Wi-Fi coverage improvement through high power TX</title>
@@ -669,8 +705,9 @@ to see how the commodity of Wi-Fi devices is performing vs. our gateway and how 
             <link href="http://www.technicolor.com">www.technicolor.com</link>
            </p>
          </section>
-
+        -->
       
+        <!-- voorstel 8 -->
          <anchor id="webapps"/>
          <section>
             <title>Ontwikkeling en testing van een boilerplate voor webapplicaties</title>
@@ -715,6 +752,7 @@ Deze boilerplate klaar maken voor release.
           
           
           
+        <!-- voorstel 9 -->
          <anchor id="trustedstate"/>
          <section>
             <title>Optimalisatie van een trusted state voor een gedistribueerd logging concept</title>
@@ -798,6 +836,7 @@ Docent: Jo Vliegen
           
           
           
+        <!-- voorstel 10 -->
          <anchor id="herconfig"/>
          <section>
             <title>Ontwikkeling van een dynamisch herconfigureerbare audio-effect-box</title>
@@ -878,6 +917,9 @@ Docent Nele Mentens<br/>
                  
                  
                  
+        <!-- voorstel 11 -->
+        <!-- 
+          niet gekozen
          <anchor id="genwaterfiets"/>
          <section>
             <title>Generator en motor aansturing van een hybride waterfiets</title>
@@ -953,6 +995,7 @@ Dhr. Felix Moonen, Jules Dock Development
             </section>
           </section>
 
+          -->
 
 
 
@@ -960,7 +1003,7 @@ Dhr. Felix Moonen, Jules Dock Development
 
 
 
-
+        <!-- voorstel 12 -->
          <anchor id="portalwaterfiets"/>
          <section>
             <title>Ontwerp een portal voor een hybride waterfiets</title>
@@ -1034,6 +1077,9 @@ Dhr. Felix Moonen, Jules Dock Development
            </section>
 
 
+        <!-- voorstel 13 -->
+        <!-- 
+          niet gekozen
          <anchor id="stralingshardechip"/>
          <section>
             <title>Ontwerp van een stralingsharde resolver read-out chip voor toepassing in de ITER fusiereactor</title>
@@ -1070,7 +1116,7 @@ Meer info op aanvraag.
               </p>
               <p>
                 <img alt="figuur" src="maproef/2012-2013/stralingshardechip.jpg"/>
-                <!-- Fig.1 Stralingsharde chip -->
+                < ! - - Fig.1 Stralingsharde chip - - >
               </p>
             </section>
             <section>
@@ -1088,8 +1134,9 @@ Prof. dr. ir. Paul Leroux (KU Leuven ESAT-MICAS; K.H.Kempen-RELIC)
               </p>
             </section>
           </section>
+               -->  
                  
-                 
+        <!-- voorstel 14 -->
          <anchor id="streaming"/>
          <section>
             <title>Streaming video over internet van webcam naar FPGA-bord</title>
@@ -1144,7 +1191,9 @@ Docent Nele Mentens
 
 
 <!--
-
+   Voorstel 15
+   uitgeschakeld
+   
          <anchor id="streaming2"/>
          <section>
             <title>Streaming video over internet van FPGA-bord tot webpagina</title>
@@ -1195,6 +1244,9 @@ Docent Nele Mentens
 
 
 <!--
+  Voorstel 16
+  verwijderd
+  
          <anchor id="pomaranch"/>
          <section>
             <title>Analyse van de veiligheid van het stroomcijfer Pomaranch</title>
@@ -1262,6 +1314,7 @@ Docent Nele Mentens / Jochen Vandorpe / Jo Vliegen
 
 
 
+        <!-- voorstel 17 -->
         <anchor id="hardwarebeschrijvinginFsharp"/>
         <section>
           <title>Ontwikkeling van een hardwarebeschrijvingstaal op basis van F#</title>
@@ -1329,6 +1382,7 @@ Hierbij kan en zal natuurlijk vertrokken worden van de bestaande implementatie v
 
 
 
+        <!-- voorstel 18 -->
         <anchor id="bluej"/>
         <section>
           <title>BlueJ-extensie voor de zelf-evaluatie van een klasse</title>
@@ -1418,7 +1472,8 @@ keuze van de dingen waarover gefeedbacked kan worden en keuze van de mate waarin
         </section>
 
 
-                <anchor id="ezorgplan"/>
+        <!-- voorstel 19 -->
+        <anchor id="ezorgplan"/>
         <section>
           <title>Een modulair systeem voor een elektronisch zorgplan</title>
 
@@ -1487,6 +1542,9 @@ De ideale student heeft kennis van xHTML, PHP, Javascript, databases en van sche
         
         
         
+        <!-- voorstel 20 -->
+        <!-- 
+          niet gekozen
      <anchor id="kuka"/>
         <section>
           <title>Augmented reality in robotsimulatie</title>
@@ -1545,8 +1603,9 @@ dat het standpunt van de camera, waarmee de foto gemaakt is, uit de foto gehaald
           </section>
 
         </section>        
+-->        
         
-        
+        <!-- voorstel 21 -->
      <anchor id="gpsfpga"/>
         <section>
           <title>Een GPS-plaatsbepalingseenheid op FPGA</title>
@@ -1611,6 +1670,9 @@ Deze masterproef is geschikt voor 1 of 2 eindwerkstudenten.
 
 
 
+        <!-- voorstel 22 -->
+        <!-- 
+          niet gekozen
      <anchor id="wirelesseeg"/>
         <section>
           <title>Advanced EEG platform for wireless neurofeedback in home healthcare</title> 
@@ -1678,9 +1740,12 @@ Number of students: 1 or 2
             </p>
           </section>
         </section>
+          -->
           
           
-          
+        <!-- voorstel 23 -->
+        <!-- 
+          niet gekozen
      <anchor id="digitaalpatience"/>
         <section>
           <title>Detectie van eerste symptomen van dementia via het digitaal patience kaartspel</title>
@@ -1724,6 +1789,7 @@ Number of students: 1 or 2
              Promotor: Bart Vanrumste, bart.vanrumste@esat.kuleuven.be
           </p>
            </section>
+         -->
 
 
 
@@ -1732,7 +1798,9 @@ Number of students: 1 or 2
 
 
 
-
+        <!-- voorstel 24 -->
+        <!-- 
+          niet gekozen
      <anchor id="lightfield"/>
         <section>
           <title>Digital lightfield photography</title>
@@ -1775,6 +1843,7 @@ Number of students: 1 or 2
           </p>
        
         </section>
+        -->
         
         
         
@@ -1783,7 +1852,9 @@ Number of students: 1 or 2
         
         
         
-        
+        <!-- voorstel 25 -->
+        <!-- 
+          niet gekozen
      <anchor id="guihtml5"/>
         <section>
           <title>Ontwerp en implementatie van een grafische gebruikersinterface voor een vending machine in HTML5</title>
@@ -1833,10 +1904,13 @@ Telefoon: 0046 730 28 46 88<br/>
 E-mail: pascal.felique@ramabox.com
           </p>
          </section>
+        -->
 
 
 
-
+        <!-- voorstel 26 -->
+        <!-- 
+          niet gekozen
      <anchor id="fpgasoftcore"/>
         <section>
           <title>Ontwerp en implementatie van een 8051 afgeleide microcontroller met ICE supervisor module in een FPGA soft core</title>
@@ -1900,12 +1974,13 @@ Telefoon: 0046 730 28 46 88<br/>
 E-mail: pascal.felique@ramabox.com
           </p>
         </section>
+        -->
         
         
         
         
         
-        
+        <!-- voorstel 27 -->
      <anchor id="sensornet"/>
         <section>
           <title>Het ontwerpen en realiseren van een sensornetwerk voor geïsoleerde gebieden</title>
