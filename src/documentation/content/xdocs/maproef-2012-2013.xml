@@ -29,17 +29,129 @@ Masterproeven 2012-2013
 
 <!-- voorstellen eindwerken -->
 
-<!-- voorstel1 --> 
+<!-- voorstel 27 --> 
+<tr>
+ <td>MP2013/ELO/01</td>
+ <td>Joris Achten, Bart Vandijck</td>
+ <td>
+   Het ontwerpen en realiseren van een sensornetwerk voor geïsoleerde gebieden (<link href="#sensornet">meer uitleg</link>).
+ </td>
+ <td>KHLim</td>
+ <td>Nele Mentens, Kris Aerts</td>
+</tr>
 
+<!-- voorstel 1 --> 
 <!-- niet starten 2de zit, is ondertussen wel gestart -->
 <tr>
- <td>voorstel 1</td>
+ <td>MP2013/ELO/02</td>
  <td>Adriaan Akkermans</td>
  <td>Slimme Boiler: port naar embedded ARM platform (<link href="#boiler2arm">meer uitleg</link>)
  </td>
  <td>VITO ETE</td>
  <td>Koen Vanthournout, Leo Rutten</td>
 </tr>
+
+<!-- voorstel 10 --> 
+<tr>
+ <td>MP2013/ELO/03</td>
+ <td>Stijn Awouters, Bram Rekoms </td>
+ <td>Ontwikkeling van een dynamisch herconfigureerbare audio-effect-box (<link href="#herconfig">meer uitleg</link>)
+ </td>
+ <td>ACRO/ES&amp;S</td>
+ <td>Jo Vliegen, Nele Mentens</td>
+</tr>
+
+<!-- voorstel 17 --> 
+<tr>
+ <td>MP2013/ELO/04</td>
+ <td>Koen Baens</td>
+ <td>Ontwikkeling van een hardwarebeschrijvingstaal op basis van F# (<link href="#hardwarebeschrijvinginFsharp">meer uitleg</link>)
+ </td>
+ <td>KHLim</td>
+ <td>Kris Aerts, Nele Mentens</td>
+</tr>
+
+<!-- voorstel 12 --> 
+<tr>
+ <td>MP2013/ELO/05</td>
+ <td>Emiel Beerten</td>
+ <td>Ontwerp een portal voor een hybride waterfiets (<link href="#portalwaterfiets">meer uitleg</link>)
+ </td>
+ <td>Jules Dock Development</td>
+ <td>Felix Moonen, Leo Rutten</td>
+</tr>
+
+<!-- voorstel 21 --> 
+<!--
+   Jimmy: mag starten
+   Jeroen: 2de zit
+  -->
+<tr>
+ <td>MP2013/ELO/06</td>
+ <td>Jimmy Gysens, Jeroen Hayen</td>
+ <td>Een GPS-plaatsbepalingseenheid op FPGA (<link href="#gpsfpga">meer uitleg</link>)
+ </td>
+ <td>Koninklijke Sterrenwacht van België</td>
+ <td>Wim Aerts, Nele Mentens</td>
+</tr>
+
+<!-- voorstel 8 --> 
+<!-- eerst 2de zit, is daarna gestart -->
+<tr>
+ <td>MP2013/ELO/07</td>
+ <td>Stephen Hermans</td>
+ <td>Ontwikkeling en testing van een boilerplate voor webapplicaties (<link href="#webapps">meer uitleg</link>)
+ </td>
+ <td>dep. IWT, KHLim</td>
+ <td>Leo Rutten, Kris Aerts</td>
+</tr>
+
+<!-- voorstel 19 --> 
+<tr>
+ <td>MP2013/ELO/08</td>
+ <td>Joris Jacobs, Robin Moors</td>
+ <td>Een modulair systeem voor een elektronisch zorgplan (<link href="#ezorgplan">meer uitleg</link>)
+ </td>
+ <td>LISTEL</td>
+ <td>Anick Noben, Kris Aerts</td>
+</tr>
+
+<!-- voorstel 18 --> 
+<tr>
+ <td>MP2013/ELO/09</td>
+ <td>Raf Marcoen, Tim Hermans</td>
+ <td>BlueJ-extensie voor de zelf-evaluatie van een klasse (<link href="#bluej">meer uitleg</link>)
+ </td>
+ <td>KHLIM</td>
+ <td>Kris Aerts</td>
+</tr>
+
+<!-- Voorstel 14 en 15 worden samengevoegd -->
+<tr>
+ <td>MP2013/ELO/10</td>
+ <td>Davy Neven</td>
+ <td>Streaming video over internet van webcam naar FPGA-bord (<link href="#streaming">meer uitleg</link>)
+ </td>
+ <td>KHLim, ES&amp;S</td>
+ <td>Jochen Vandorpe, Nele Mentens</td>
+</tr>
+
+<!-- voorstel 9 --> 
+<!--
+ Ozer: 7 stp 2de zit, daarna MP in half jaar
+  -->
+<tr>
+ <td>MP2013/ELO/11</td>
+ <td>Ozer Unal, Bart Sallaerts</td>
+ <td>Optimalisatie van een trusted state voor een gedistribueerd logging concept (<link href="#trustedstate">meer uitleg</link>)
+ </td>
+ <td>K42ML BVBA</td>
+ <td>Karel Wouters, Jo Vliegen</td>
+</tr>
+
+
+
+
 
 <!--
   Niet gekozen
@@ -101,36 +213,6 @@ Masterproeven 2012-2013
 </tr>
 -->
 
-<!-- eerst 2de zit, is daarna gestart -->
-<tr>
- <td>voorstel 8</td>
- <td>Stephen Hermans</td>
- <td>Ontwikkeling en testing van een boilerplate voor webapplicaties (<link href="#webapps">meer uitleg</link>)
- </td>
- <td>dep. IWT, KHLim</td>
- <td>Leo Rutten, Kris Aerts</td>
-</tr>
-
-<!--
- Ozer: 7 stp 2de zit, daarna MP in half jaar
-  -->
-<tr>
- <td>voorstel 9</td>
- <td>Ozer Unal, Bart Sallaerts</td>
- <td>Optimalisatie van een trusted state voor een gedistribueerd logging concept (<link href="#trustedstate">meer uitleg</link>)
- </td>
- <td>K42ML BVBA</td>
- <td>Karel Wouters, Jo Vliegen</td>
-</tr>
-
-<tr>
- <td>voorstel 10</td>
- <td>Stijn Awouters, Bram Rekoms </td>
- <td>Ontwikkeling van een dynamisch herconfigureerbare audio-effect-box (<link href="#herconfig">meer uitleg</link>)
- </td>
- <td>ACRO/ES&amp;S</td>
- <td>Jo Vliegen, Nele Mentens</td>
-</tr>
 
 <!--
   Niet gekozen
@@ -145,15 +227,6 @@ Masterproeven 2012-2013
 </tr>
   -->
 
-<tr>
- <td>voorstel 12</td>
- <td>Emiel Beerten</td>
- <td>Ontwerp een portal voor een hybride waterfiets (<link href="#portalwaterfiets">meer uitleg</link>)
- </td>
- <td>Jules Dock Development</td>
- <td>Felix Moonen, Leo Rutten</td>
-</tr>
-
 <!--
   Niet gekozen
   
@@ -166,16 +239,6 @@ Masterproeven 2012-2013
  <td></td>
 </tr>
   -->
-
-<!-- Voorstel 14 en 15 worden samengevoegd -->
-<tr>
- <td>voorstel 14</td>
- <td>Davy Neven</td>
- <td>Streaming video over internet van webcam naar FPGA-bord (<link href="#streaming">meer uitleg</link>)
- </td>
- <td>KHLim, ES&amp;S</td>
- <td>Jochen Vandorpe, Nele Mentens</td>
-</tr>
 
 <!--
 <tr>
@@ -201,32 +264,6 @@ Verwijderd
 </tr>
  -->
 
-<tr>
- <td>voorstel 17</td>
- <td>Koen Baens</td>
- <td>Ontwikkeling van een hardwarebeschrijvingstaal op basis van F# (<link href="#hardwarebeschrijvinginFsharp">meer uitleg</link>)
- </td>
- <td>KHLim</td>
- <td>Kris Aerts, Nele Mentens</td>
-</tr>
-
-<tr>
- <td>voorstel 18</td>
- <td>Raf Marcoen, Tim Hermans</td>
- <td>BlueJ-extensie voor de zelf-evaluatie van een klasse (<link href="#bluej">meer uitleg</link>)
- </td>
- <td>KHLIM</td>
- <td>Kris Aerts</td>
-</tr>
-
-<tr>
- <td>voorstel 19</td>
- <td>Joris Jacobs, Robin Moors</td>
- <td>Een modulair systeem voor een elektronisch zorgplan (<link href="#ezorgplan">meer uitleg</link>)
- </td>
- <td>LISTEL</td>
- <td>Anick Noben, Kris Aerts</td>
-</tr>
         <!-- 
           niet gekozen
 
@@ -239,19 +276,6 @@ Verwijderd
  <td></td>
 </tr>
 -->
-
-<!--
-   Jimmy: mag starten
-   Jeroen: 2de zit
-  -->
-<tr>
- <td>voorstel 21</td>
- <td>Jimmy Gysens, Jeroen Hayen</td>
- <td>Een GPS-plaatsbepalingseenheid op FPGA (<link href="#gpsfpga">meer uitleg</link>)
- </td>
- <td>Koninklijke Sterrenwacht van België</td>
- <td>Wim Aerts, Nele Mentens</td>
-</tr>
 
 
 <!--
@@ -303,15 +327,6 @@ Verwijderd
 </tr>
 -->
 
-<tr>
- <td>voorstel 27</td>
- <td>Joris Achten, Bart Vandijck</td>
- <td>
-   Het ontwerpen en realiseren van een sensornetwerk voor geïsoleerde gebieden (<link href="#sensornet">meer uitleg</link>).
- </td>
- <td>KHLim</td>
- <td>Nele Mentens, Kris Aerts</td>
-</tr>
 
 
 <!-- einde tabel voorstellen eindwerken -->
