@@ -2,11 +2,14 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V1.2//EN" "/export/usr/local/forrest/main/webapp/resources/schema/dtd/document-v12.dtd">
 <document> 
   <header> 
-    <title>Uurrooster 2011-2012</title> 
+    <title>Uurrooster 2012-2013</title> 
   </header> 
   <body> 
       <p>
+      <!--
          <link href="http://193.190.56.244/iwt/uurroosters/">Hier</link>
+        -->
+         <link href="http://uurroosters.khlim.be/iwt/uurroosters/">Hier</link>
          vind je de uurroosters.
       </p>
 <!--
